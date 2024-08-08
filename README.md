@@ -1,0 +1,1 @@
+# locale-nb-NO
