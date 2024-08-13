@@ -1077,7 +1077,7 @@ translations:
   # design_methodology
   - key: usage.design_methodology
     t: Design Methodology
-  - key: usage.design_methodology
+  - key: usage.design_methodology.question
     t: Which of these best describes how you primarily design with CSS?
   - key: options.design_methodology.implement_other_peoples_designs
     t: I implement other people's designs
@@ -1088,7 +1088,7 @@ translations:
 
   # favorite_new_feature
   - key: usage.favorite_new_features
-    t: Favorite New Feature
+    t: Favorite New Features
   - key: usage.favorite_new_features.question
     t: What are your favorite new CSS features that you started using this year?
 
