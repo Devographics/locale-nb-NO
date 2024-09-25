@@ -1,87 +1,87 @@
 locale: nb-NO
 translations:
-  - key: accounts.error_incorrect_password
-    t: Incorrect password
-  - key: accounts.error_email_required
-    t: Email required
-  - key: accounts.error_email_already_exists
-    t: Email already exists
-  - key: accounts.error_invalid_email
-    t: Invalid email
-  - key: accounts.error_minchar
-    t: Your password is too short
-  - key: accounts.error_unknown
-    t: Unknown error
-  - key: accounts.error_user_not_found
-    t: User not found
-  - key: accounts.error_username_already_exists
-    t: Username already exists
-  - key: accounts.enter_username_or_email
-    t: Enter username or email
-  - key: accounts.error_internal_server_error
-    t: Internal server error
-  - key: accounts.error_token_expired
-    t: Invalid password reset token
-  - key: accounts.username_or_email
-    t: Username or email
-  - key: accounts.enter_username
-    t: Enter username
-  - key: accounts.username
-    t: Username
-  - key: accounts.enter_email
-    t: Enter email
-  - key: accounts.email
-    t: Email
-  - key: accounts.enter_password
-    t: Enter password
-  - key: accounts.password
-    t: Password
-  - key: accounts.choose_password
-    t: Choose password
-  - key: accounts.change_password
-    t: Change password
-  - key: accounts.reset_your_password
-    t: Reset your password
-  - key: accounts.set_password
-    t: Set password
-  - key: accounts.enter_new_password
-    t: Enter new password
-  - key: accounts.new_password
-    t: New password
-  - key: accounts.forgot_password
-    t: Forgot password
-  - key: accounts.sign_up
-    t: Sign up
-  - key: accounts.sign_in
-    t: Log in
-  - key: accounts.switch_to_sign_up
-    t: Don't have an account ? Sign up
-  - key: accounts.switch_to_sign_in
-    t: Already have an account? Log in
-  - key: accounts.sign_out
-    t: Sign out
-  - key: accounts.cancel
-    t: Cancel
-  - key: accounts.info_email_sent
-    t: Email sent.
-  - key: accounts.info_password_changed
-    t: Password changed.
-  - key: accounts.please_pick_password
-    t: Please pick a new password to continue.
-  - key: accounts.please_log_in
-    t: Please log in or sign up to begin.
-  - key: accounts.logged_in_as
-    t: Logged in using your email address
-  - key: accounts.logged_in_as_guest
-    t: Logged in as Guest
-  - key: accounts.questions
-    t: >
-      If you have any questions about how we use your data, or would like
-      us to remove your data from our records,
-      please <a href="mailto:hello@stateofjs.com">get in touch</a>.
+    - key: accounts.error_incorrect_password
+      t: Feil passord
+    - key: accounts.error_email_required
+      t: E-post er påkrevd
+    - key: accounts.error_email_already_exists
+      t: E-post finnes allerede
+    - key: accounts.error_invalid_email
+      t: Ugyldig epost
+    - key: accounts.error_minchar
+      t: Passordet er for kort
+    - key: accounts.error_unknown
+      t: Ukjent feil
+    - key: accounts.error_user_not_found
+      t: Fant ikke bruker
+    - key: accounts.error_username_already_exists
+      t: Brukernavn er tatt
+    - key: accounts.enter_username_or_email
+      t: Skriv inn brukernavn eller e-post
+    - key: accounts.error_internal_server_error
+      t: Serverfeil
+    - key: accounts.error_token_expired
+      t: Ugyldig token for tilbakestilling av passord
+    - key: accounts.username_or_email
+      t: Brukernavn eller passord
+    - key: accounts.enter_username
+      t: Skriv inn brukernavn
+    - key: accounts.username
+      t: Brukernavn
+    - key: accounts.enter_email
+      t: Skriv inn e-post
+    - key: accounts.email
+      t: E-post
+    - key: accounts.enter_password
+      t: Skriv inn passord
+    - key: accounts.password
+      t: Passord
+    - key: accounts.choose_password
+      t: Velg passord
+    - key: accounts.change_password
+      t: Endre passord
+    - key: accounts.reset_your_password
+      t: Tilbakestill passord
+    - key: accounts.set_password
+      t: Sett passord
+    - key: accounts.enter_new_password
+      t: Skriv inn nytt passord
+    - key: accounts.new_password
+      t: Nytt passord
+    - key: accounts.forgot_password
+      t: Glemt passord
+    - key: accounts.sign_up
+      t: Registrer deg
+    - key: accounts.sign_in
+      t: Logg inn
+    - key: accounts.switch_to_sign_up
+      t: Har du ikke konto? Registrer deg
+    - key: accounts.switch_to_sign_in
+      t: Har du allerede en konto? Logg inn
+    - key: accounts.sign_out
+      t: Logg ut
+    - key: accounts.cancel
+      t: Avbryt
+    - key: accounts.info_email_sent
+      t: Epost sendt.
+    - key: accounts.info_password_changed
+      t: Passord endret.
+    - key: accounts.please_pick_password
+      t: Velg et nytt passord for å fortsette.
+    - key: accounts.please_log_in
+      t: Logg inn eller registrer deg for å begynne.
+    - key: accounts.logged_in_as
+      t: Logget inn med din e-postadresse
+    - key: accounts.logged_in_as_guest
+      t: Logget inn som gjest
+    - key: accounts.questions
+      t: >
+          Om du har noen spørsmål om hvordan vi bruker din data, 
+          eller om du ønsker at vi skal fjerne din data,
+          vennligst <a href="mailto:hello@stateofjs.com">ta kontakt</a>.
 
-  - key: accounts.token_verified
-    t: Token verification successful, redirecting…
+    - key: accounts.token_verified
+      t: Token verifisert, sender deg videre
 
-  - key: accounts.your_surveys
-    t: Your Surveys
+    - key: accounts.your_surveys
+      t: Dine undersøkelser
