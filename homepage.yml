@@ -1,82 +1,82 @@
 locale: nb-NO
 translations:
-  ###########################################################################
-  # Homepage
-  ###########################################################################
+    ###########################################################################
+    # Homepage
+    ###########################################################################
 
-  - key: homepage.hand_coded
-    t: Hand-coded in Japan.
-  - key: homepage.leave_issue
-    t: Leave an issue
-  - key: homepage.get_in_touch
-    t: Get in touch
+    - key: homepage.hand_coded
+      t: Håndkodet i Japan.
+    - key: homepage.leave_issue
+      t: Rapporter problem
+    - key: homepage.get_in_touch
+      t: Ta kontakt
 
-  - key: homepage.previous_years
-    t: "Previous Years:"
+    - key: homepage.previous_years
+      t: "Tidligere år:"
 
-  - key: homepage.take_survey
-    t: Take Survey
+    - key: homepage.take_survey
+      t: Ta undersøkelsen
 
-  - key: homepage.view_results
-    t: View Results
+    - key: homepage.view_results
+      t: Se resultater
 
-  - key: homepage.results_coming_soon
-    t: Results Coming Soon…
+    - key: homepage.results_coming_soon
+      t: Resultater kommer snart…
 
-  - key: share.help_spread
-    t: Help Spread the Word!
+    - key: share.help_spread
+      t: Help Spread the Word!
 
-  - key: homepage.other_surveys
-    t: "Other Surveys:"
+    - key: homepage.other_surveys
+      t: "Andre undersøkelser:"
 
-  - key: homepage.survey_open_now
-    t: Currently Open
+    - key: homepage.survey_open_now
+      t: Åpen nå
 
-  - key: homepage.survey_preview
-    t: Preview Survey
+    - key: homepage.survey_preview
+      t: Forhåndsvis undersøkelse
 
-  - key: homepage.most_recent_survey
-    t: Most Recent
+    - key: homepage.most_recent_survey
+      t: Siste
 
-  - key: homepage.current_survey
-    t: Current Survey
+    - key: homepage.current_survey
+      t: Nåværende undersøkelse
 
-  - key: homepage.past_surveys
-    t: Past Surveys
+    - key: homepage.past_surveys
+      t: Tidligere undersøkelser
 
-  - key: homepage.view_questions
-    t: View Questions
+    - key: homepage.view_questions
+      t: Vis spørsmål
 
-  - key: homepage.preview_questions
-    t: Preview Questions
+    - key: homepage.preview_questions
+      t: Forhåndsvis spørsmål
 
-  # newsletter
-  - key: newsletter.stay_tuned
-    t: Don't Miss the Next Survey
-  - key: newsletter.leave_your_email
-    t: Leave us your email and we’ll let you know when the next survey takes place.
-  - key: newsletter.email
-    t: Your Email
-  - key: newsletter.submit
-    t: Notify Me
+    # newsletter
+    - key: newsletter.stay_tuned
+      t: Ikke gå glipp av den neste undersøkelsen
+    - key: newsletter.leave_your_email
+      t: Legg igjen e-posten din, så gir vi deg beskjed når neste undersøkelse starter.
+    - key: newsletter.email
+      t: Din epost
+    - key: newsletter.submit
+      t: Gi meg besked
 
-  # languages
-  - key: languages.available_languages
-    t: "Available languages:"
-  - key: languages.help_us_translate
-    t: Help us translate the survey in your language →
+    # languages
+    - key: languages.available_languages
+      t: "Tilgjengelige språk:"
+    - key: languages.help_us_translate
+      t: Hjelp oss å oversette undersøkelsen til ditt språk →
 
-  # partners
-  - key: homepage.with_support_from
-    aliasFor: sponsors.with_support_from
+    # partners
+    - key: homepage.with_support_from
+      aliasFor: sponsors.with_support_from
 
-  # footer
-  - key: homepage.made_by_devographics
-    aliasFor: general.made_by_devographics
-  - key: homepage.netlify_link
-    aliasFor: general.netlify_link
+    # footer
+    - key: homepage.made_by_devographics
+      aliasFor: general.made_by_devographics
+    - key: homepage.netlify_link
+      aliasFor: general.netlify_link
 
-  - key: homepage.join_discord
-    aliasFor: general.join_discord
-  - key: homepage.astro_link
-    t: Powered by [Astro](https://astro.build/)
+    - key: homepage.join_discord
+      aliasFor: general.join_discord
+    - key: homepage.astro_link
+      t: Powered by [Astro](https://astro.build/)

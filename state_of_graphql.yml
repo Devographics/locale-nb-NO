@@ -1,490 +1,488 @@
 locale: nb-NO
 namespace: graphql
 translations:
-  ###########################################################################
-  # General
-  ###########################################################################
+    ###########################################################################
+    # General
+    ###########################################################################
 
-  - key: general.state_of_graphql.intro
-    t: |
-      Since being originally created at Facebook in September 2015, many developers have embraced GraphQL as a new and promising way to build APIs. 
+    - key: general.state_of_graphql.intro
+      t: |
+          Siden det ble opprinnelig opprettet hos Facebook i september 2015, har mange utviklere tatt i bruk GraphQL som en ny og lovende måte å bygge API-er på.
 
-      Yet a lot of questions still remain: when do you need GraphQL exactly? Should you hand-code your GraphQL API or generate it from your database? And will it ever replace REST?
+          Likevel gjenstår det mange spørsmål: Når trenger du egentlig GraphQL? Bør du kode GraphQL-APIet ditt for hånd eller generere det fra databasen din? Og vil det noen gang erstatte REST?
 
-      The annual State of GraphQL developer survey aims to answer these questions, and many more!
+          Den årlige undersøkelsen "State of GraphQL" for utviklere har som mål å besvare disse spørsmålene og mange flere!
 
-  - key: general.state_of_graphql.description
-    t: The annual developer survey of the GraphQL ecosystem
-  ###########################################################################
-  # Survey
-  ###########################################################################
+    - key: general.state_of_graphql.description
+      t: Den årlige undersøkelsen for GraphQL-økosystemet
+    ###########################################################################
+    # Survey
+    ###########################################################################
 
-  - key: features.graphql_features_intro
-    t: >
-      Welcome to the survey! This first part is all about figuring out 
-      which **features** of GraphQL and its ecosystem you know about. 
-      And if you know about something but haven't yet used it, that's fine too!
+    - key: features.graphql_features_intro
+      t: >
+          Velkommen til undersøkelsen! Denne første delen handler om å finne ut hvilke **funksjoner** av GraphQL og økosystemet du kjenner til. 
+          Og hvis du kjenner til noe, men ikke har brukt det ennå, er det også helt greit!
 
-  - key: tools.graphql_tools_intro
-    t: >
-      The next couple sections focus on the **libraries** and **services** that make up 
-      the GraphQL ecosystem. Let us know what you're excited about!
+    - key: tools.graphql_tools_intro
+      t: >
+          De neste seksjonene fokuserer på **biblioteker** og **tjenester** som utgjør GraphQL-økosystemet. Gi oss tilbakemelding om hva du er begeistret for!
 
-  - key: usage.bracket_intro
-    t: >
-      The next question uses a special **bracket** format! For each match-up, pick the item 
-      that you feel is most important to you (note that match-ups are randomized for every respondent).
+    - key: usage.bracket_intro
+      t: >
+          Den neste spørsmålet bruker et spesialformat med **klammer**! For hver sammenligning, velg det elementet som 
+          du mener er mest viktig for deg (merk at sammenligningene er tilfeldig ordnet for hver respondent).
 
-  ###########################################################################
-  # Sections
-  ###########################################################################
+    ###########################################################################
+    # Sections
+    ###########################################################################
 
-  - key: sections.graphql_language.title
-    t: Language
-  - key: sections.graphql_language.description
-    t: The vocabulary of GraphQL.
-  - key: sections.directives.title
-    t: Directives
-  - key: sections.directives.description
-    t: Augmenting your GraphQL fields.
-  - key: sections.security_performance.title
-    t: Security & Performance
-  - key: sections.security_performance.description
-    t: Making your API more robust.
-  - key: sections.other_features.title
-    t: Other Features
+    - key: sections.graphql_language.title
+      t: Språk
+    - key: sections.graphql_language.description
+      t: Ordforrådet til GraphQL.
+    - key: sections.directives.title
+      t: Directiver
+    - key: sections.directives.description
+      t: Utvidelse av GraphQL-feltene dine.
+    - key: sections.security_performance.title
+      t: Sikkerhet og ytelse
+    - key: sections.security_performance.description
+      t: Gjør APIet ditt mer robust.
+    - key: sections.other_features.title
+      t: Andre funksjoner
 
-  - key: sections.graphql_servers.title
-    t: GraphQL Servers
-  - key: sections.graphql_servers.description
-    t: How you power your API.
-  - key: sections.graphql_clients.title
-    t: GraphQL Clients
-  - key: sections.graphql_clients.description
-    t: Querying your API.
-  - key: sections.api_generators.title
-    t: API Generators
-  - key: sections.api_generators.description
-    t: ORMs, CMSes, and other tools that create an API for you.
-  - key: sections.web_frameworks.title
-    t: Web Frameworks
-  - key: sections.web_frameworks.description
-    t: Web frameworks that you use in conjunction with GraphQL.
-  - key: sections.graphql_code_generators.title
-    t: Code & Schema Generators
-  - key: sections.graphql_code_generators.description
-    t: Generators, schema builders, and other libraries that write part of your code for you.
-  - key: sections.schema_builders.title
-    t: Schema Builders
-  - key: sections.schema_builders.description
-    t: Libraries and utilities that help you build all or part of your GraphQL schema.
-  - key: sections.usage_graphql.title
-    t: GraphQL Usage
-  - key: sections.usage_graphql.description
-    t: How you use GraphQL.
+    - key: sections.graphql_servers.title
+      t: GraphQL servere
+    - key: sections.graphql_servers.description
+      t: Hvordan du driver APIet ditt.
+    - key: sections.graphql_clients.title
+      t: GraphQL klienter
+    - key: sections.graphql_clients.description
+      t: Spørringer mot APIet ditt
+    - key: sections.api_generators.title
+      t: API-generatorer
+    - key: sections.api_generators.description
+      t: ORMer, CMSer og andre verktøy som lager APIer for deg.
+    - key: sections.web_frameworks.title
+      t: Web-rammeverk
+    - key: sections.web_frameworks.description
+      t: Web-rammeverk du bruker sammen med GraphQL
+    - key: sections.graphql_code_generators.title
+      t: Kode- og schema-generator
+    - key: sections.graphql_code_generators.description
+      t: Generatorer, schema-byggere og andre bibliotek som skriver ldeler av koden for deg.
+    - key: sections.schema_builders.title
+      t: Schema-bygger
+    - key: sections.schema_builders.description
+      t: Biblioteker og verktøy som hjelper deg med å bygge hele eller deler av GraphQL-schemaet ditt.
+    - key: sections.usage_graphql.title
+      t: GraphQL-bruk
+    - key: sections.usage_graphql.description
+      t: Hvordan du bruker GraphQL.
 
-  - key: sections.tools_others.title
-    t: Other Tools
-  - key: sections.tools_others.description
-    t: Other GraphQL tools.
+    - key: sections.tools_others.title
+      t: Andre verktøy
+    - key: sections.tools_others.description
+      t: Andre GraphQL-verktøy
 
-  - key: sections.resources_graphql.title
-    t: Resources
-  - key: sections.resources_graphql.description
-    t: What GraphQL resources do you consult?
+    - key: sections.resources_graphql.title
+      t: Ressurser
+    - key: sections.resources_graphql.description
+      t: Hvilke GraphQL-ressurser bruker du?
 
-  ###########################################################################
-  # Features
-  ###########################################################################
+    ###########################################################################
+    # Features
+    ###########################################################################
 
-  # common features
-  - key: features.custom_directives
-    t: Custom Directives
-  - key: features.custom_scalars
-    t: Custom Scalars
-  - key: features.fragments
-    t: Fragments
-  - key: features.unions
-    t: Unions
-  - key: features.interfaces
-    t: Interfaces
+    # common features
+    - key: features.custom_directives
+      t: Egendefinert Directiver
+    - key: features.custom_scalars
+      t: Egendefinert Scalars
+    - key: features.fragments
+      t: Fragmenter
+    - key: features.unions
+      t: Unioner
+    - key: features.interfaces
+      t: Interfacer
 
-  # directives
-  - key: features.at_skip
-    t: "@skip"
-  - key: features.at_include
-    t: "@include"
-  - key: features.at_deprecated
-    t: "@deprecated"
-  - key: features.at_specified_by
-    t: "@specifiedBy"
-  - key: features.at_defer
-    t: "@defer"
-  - key: features.at_stream
-    t: "@stream"
+    # directives
+    - key: features.at_skip
+      t: "@skip"
+    - key: features.at_include
+      t: "@include"
+    - key: features.at_deprecated
+      t: "@deprecated"
+    - key: features.at_specified_by
+      t: "@specifiedBy"
+    - key: features.at_defer
+      t: "@defer"
+    - key: features.at_stream
+      t: "@stream"
 
-  # security & performance
-  - key: features.persisted_queries
-    t: Persisted Queries
-  - key: features.query_allowlisting
-    t: Query Allow-listing
-  - key: features.query_allowlisting.description
-    t: Only accept queries from a predefined list.
+    # security & performance
+    - key: features.persisted_queries
+      t: Persisted Queries
+    - key: features.query_allowlisting
+      t: Tilgangsliste for spørringer
+    - key: features.query_allowlisting.description
+      t: Godta kun spørringer fra en forhåndsdefinert liste.
 
-  - key: features.query_timeouts
-    t: Query Timeouts
-  - key: features.query_rate_limit
-    t: Query Rate Limiting
-  - key: features.query_depth_limit
-    t: Query Depth Limiting
-  - key: features.query_amount_limit
-    t: Query Amount Limiting
-  - key: features.query_amount_limiting.description
-    t: Put a ceiling on any pagination count passed as a query argument.
-  - key: features.query_cost_analysis
-    t: Query Cost Analysis
-  - key: features.query_cost_analysis.description
-    t: Analyzing a set of factors before deciding whether to allow a query.
+    - key: features.query_timeouts
+      t: Timeout på spørringer
+    - key: features.query_rate_limit
+      t: Tidsbegrensning av antall spørringer
+    - key: features.query_depth_limit
+      t: Begrensning av nestede spørringer
+    - key: features.query_amount_limit
+      t: Begrensning av antall spørringer
+    - key: features.query_amount_limiting.description
+      t: Sett en grense for antall parametre rundt telling som sendes som forespørselargument.
+    - key: features.query_cost_analysis
+      t: Analyse av kostnader for spørringer
+    - key: features.query_cost_analysis.description
+      t: Analysering av en rekke faktorer før man bestemmer seg for å tillate en forespørsel.
 
-  - key: features.disabling_introspection
-    t: Disabling Introspection
-  - key: features.disabling_introspection.description
-    t: Disabling introspection in production.
-  - key: features.ip_allowlisting
-    t: IP Allow-listing
-  - key: features.ip_allowlisting.description
-    t: Only allowing a predefined set of IP addresses to access an API.
-  - key: features.require_authentication
-    t: Requiring Authentication
-  - key: features.require_authentication.description
-    t: Require authentication before any API access.
+    - key: features.disabling_introspection
+      t: Deaktivering av introspeksjon
+    - key: features.disabling_introspection.description
+      t: Deaktivering av introspeksjon i produksjon.
+    - key: features.ip_allowlisting
+      t: Tilgangsliste for IPer
+    - key: features.ip_allowlisting.description
+      t: Kun tildele tilgang til APIet til et forhåndsdefinert sett med IP-adresser.
+    - key: features.require_authentication
+      t: Kreve autentisering
+    - key: features.require_authentication.description
+      t: Krev autentisering før enhver tilgang til API-et.
 
-  # other features
-  - key: features.graphql_subscriptions
-    t: GraphQL Subscriptions
-  - key: features.live_queries
-    t: Live Queries
-  - key: features.apollo_federation
-    t: Apollo Federation
-  - key: features.schema_stitching
-    t: Schema Stitching
+    # other features
+    - key: features.graphql_subscriptions
+      t: GraphQL Subscriptions
+    - key: features.live_queries
+      t: Live Queries
+    - key: features.apollo_federation
+      t: Apollo Federation
+    - key: features.schema_stitching
+      t: Schema Stitching
 
-  ###########################################################################
-  # Tools
-  ###########################################################################
+    ###########################################################################
+    # Tools
+    ###########################################################################
 
-  - key: tools.no_client
-    t: No Client
-  - key: tools.no_client.description
-    t: No dedicated GraphQL client (raw HTTP requests with Fetch, Axios, etc.)
+    - key: tools.no_client
+      t: Ingen klient
+    - key: tools.no_client.description
+      t: Ingen dedikert GraphQL klient (HTTP requester med Fetch, Axios osv)
 
-  ###########################################################################
-  # Other Tools
-  ###########################################################################
+    ###########################################################################
+    # Andre verktøy
+    ###########################################################################
 
-  - key: tools_others.server_languages
-    t: Server Languages
-  - key: tools_others.server_languages.description
-    t: Which language(s) do you use to write your GraphQL back-ends?
-  - key: tools_others.server_languages.others
-    t: Other Server Languages
+    - key: tools_others.server_languages
+      t: Serverspråk
+    - key: tools_others.server_languages.description
+      t: Hvilke språk bruker du for å skrive din GraphQL bankend?
+    - key: tools_others.server_languages.others
+      t: Andre serverspråk
 
-  - key: tools_others.combining_schemas
-    t: Combining Schemas
-  - key: tools_others.combining_schemas.description
-    t: Which tools do you use to combine, aggregate, or merge GraphQL schemas from different APIs?
-  - key: tools_others.combining_schemas.others
-    t: Other tools for combining schemas
+    - key: tools_others.combining_schemas
+      t: Kombinering av schemaer
+    - key: tools_others.combining_schemas.description
+      t: Hvilke verktøy bruker du for å kombinere. aggregere eller slå sammen schemaer fra forskjellige APIer?
+    - key: tools_others.combining_schemas.others
+      t: Andre verktøy for å kombinere schemaer
 
-  - key: tools_others.graphql_ides
-    t: GraphQL IDEs
-  - key: tools_others.graphql_ides.description
-    t: Apps and services that help you query your GraphQL API.
-  - key: tools_others.graphql_ides.others
-    t: Other GraphQL IDEs
+    - key: tools_others.graphql_ides
+      t: GraphQL IDEer
+    - key: tools_others.graphql_ides.description
+      t: Apper og tjenester som hjelper deg med spørringer mot GraphQL API.
+    - key: tools_others.graphql_ides.others
+      t: Andre GraphQL IDEer
 
-  - key: tools_others.web_frameworks
-    t: Web Frameworks
-  - key: tools_others.web_frameworks.description
-    t: Web frameworks that you use in conjunction with GraphQL.
-  - key: tools_others.web_frameworks.others
-    t: Other Web Frameworks
+    - key: tools_others.web_frameworks
+      t: Web-rammeverk
+    - key: tools_others.web_frameworks.description
+      t: Web-rammeverk du bruker sammen med GraphQL
+    - key: tools_others.web_frameworks.others
+      t: Andre web-rammeverk
 
-  - key: tools_others.databases
-    t: Databases
-  - key: tools_others.databases.description
-    t: Which databases do you use in conjunction with GraphQL?
-  - key: tools_others.databases.others
-    t: Other Databases
+    - key: tools_others.databases
+      t: Databaser
+    - key: tools_others.databases.description
+      t: Hvilke databaser bruker du sammen med GraphQL?
+    - key: tools_others.databases.others
+      t: Andre databaser
 
-  - key: tools_others.other_tools
-    t: Other GraphQL Tools
-  - key: tools_others.other_tools.description
-    t: Other tools, libraries, or services you use
-  - key: tools_others.other_tools.others
-    t: Other GraphQL tools not previously mentioned
+    - key: tools_others.other_tools
+      t: Andre GraphQL-verktøy
+    - key: tools_others.other_tools.description
+      t: Andre verktøy, bibliotek eller tjenester du bruker
+    - key: tools_others.other_tools.others
+      t: Andre GraphQL-verktøy som ikke er nevnt tidligere
 
-  ###########################################################################
-  # Usage
-  ###########################################################################
+    ###########################################################################
+    # Usage
+    ###########################################################################
 
-  - key: usage.graphql_experience
-    t: GraphQL Experience
-  - key: usage.graphql_experience.description
-    t: How long have you been using GraphQL for?
+    - key: usage.graphql_experience
+      t: Erfaring med GraphQL
+    - key: usage.graphql_experience.description
+      t: Hvor lenge har du brukt GraphQL?
 
-  - key: usage.api_type
-    t: API Types
-  - key: usage.api_type.description
-    t: What kind of APIs do you use GraphQL for?
-  - key: usage.api_type.others
-    t: Other kind of APIs
+    - key: usage.api_type
+      t: API-typer
+    - key: usage.api_type.description
+      t: Hvilke type API bruker du GraphQL til?
+    - key: usage.api_type.others
+      t: Andre type APIer
 
-  - key: usage.client_type
-    t: API Clients
-  - key: usage.client_type.description
-    t: What kind of clients connect to your APIs?
-  - key: usage.client_type.others
-    t: Other types of clients
+    - key: usage.client_type
+      t: Brukere av API
+    - key: usage.client_type.description
+      t: Hvilke type brukere kobler seg på dine APIer?
+    - key: usage.client_type.others
+      t: Andre type klienter
 
-  - key: usage.data_sources
-    t: Data Sources
-  - key: usage.data_sources.description
-    t: Which kind of data sources are consumed by your GraphQL APIs?
-  - key: usage.data_sources.others
-    t: Other data sources
+    - key: usage.data_sources
+      t: Datakilder
+    - key: usage.data_sources.description
+      t: Hvilke typer datakilder blir brukt av GraphQL-APIene dine?
+    - key: usage.data_sources.others
+      t: Andre datakilder
 
-  - key: usage.code_generation_type
-    t: Code Generation Type
-  - key: usage.code_generation_type.description
-    t: If you use code generation, which approaches do you tend to prefer?
-  - key: usage.code_generation_type.others
-    t: Other types of code generation
-  - key: usage.code_generation_target
-    t: Code Generation Target
-  - key: usage.code_generation_target.description
-    t: Which part(s) of your codebase do you generate programatically?
-  - key: usage.code_generation_target.others
-    t: Other code generation targets
+    - key: usage.code_generation_type
+      t: Kodegenereringstype
+    - key: usage.code_generation_type.description
+      t: Om du bruker en form for kodegenerering, hvilke tilnærming bruker du da?
+    - key: usage.code_generation_type.others
+      t: Andre typer kodegenerering
+    - key: usage.code_generation_target
+      t: Mål for kodegenerering
+    - key: usage.code_generation_target.description
+      t: Hvilke deler av kodebasen generer du programmatisk?
+    - key: usage.code_generation_target.others
+      t: Andre mål for kodegenerering
 
-  - key: usage.industry_sector_graphql
-    aliasFor: usage.industry_sector
-  - key: usage.industry_sector_graphql.description
-    t: Which industry sector(s) are you using GraphQL in?
-  - key: usage.industry_sector_graphql.others
-    aliasFor: usage.industry_sector.others
+    - key: usage.industry_sector_graphql
+      aliasFor: usage.industry_sector
+    - key: usage.industry_sector_graphql.description
+      t: Hvilken bransje(r) bruker du GraphQL i?
+    - key: usage.industry_sector_graphql.others
+      aliasFor: usage.industry_sector.others
 
-  - key: usage.graphql_strong_points
-    t: GraphQL Strong Points
-  - key: usage.graphql_strong_points.description
-    t: What are the main reasons why you enjoy using GraphQL?
-  - key: usage.graphql_strong_points.others
-    t: Other GraphQL Strong Points
+    - key: usage.graphql_strong_points
+      t: GraphQLs sterke sider
+    - key: usage.graphql_strong_points.description
+      t: Hva er hovedgrunnen til at du liker å bruke GraphQL?
+    - key: usage.graphql_strong_points.others
+      t: Andre fordeler med GraphQL
 
-  - key: usage.graphql_pain_points
-    t: GraphQL Pain Points
-  - key: usage.graphql_pain_points.description
-    t: What are your main pain points when using GraphQL?
-  - key: usage.graphql_pain_points.others
-    t: Other GraphQL Pain Points
+    - key: usage.graphql_pain_points
+      t: Utfordringer med GraphQL
+    - key: usage.graphql_pain_points.description
+      t: Hva er hovedutfordringene dine når du bruker GraphQL?
+    - key: usage.graphql_pain_points.others
+      t: Andre utfordringer med GraphQL
 
-  - key: happiness.graphql_servers
-    t: How happy are you with the overall state of GraphQL servers?
-  - key: happiness.graphql_clients
-    t: How happy are you with the overall state of GraphQL clients?
-  - key: happiness.api_generators
-    t: How happy are you with the overall state of API generators?
-  - key: happiness.schema_builders
-    t: How happy are you with the overall state of schema builders?
-  - key: happiness.state_of_graphql
-    t: How happy are you with the overall state of the GraphQL ecosystem?
+    - key: happiness.graphql_servers
+      t: Hvor fornøyd er du med den generelle tilstanden til GraphQL-servere?
+    - key: happiness.graphql_clients
+      t: Hvor fornøyd er du med den generelle tilstanden til GraphQL-klienter?
+    - key: happiness.api_generators
+      t: Hvor fornøyd er du med den generelle tilstanden til API-generatorer?
+    - key: happiness.schema_builders
+      t: Hvor fornøyd er du med den generelle tilstanden til schema-byggerne?
+    - key: happiness.state_of_graphql
+      t: Hvor fornøyd er du med den generelle tilstanden til GraphQL-økosystemet?
 
-  ###########################################################################
-  # Opinions
-  ###########################################################################
+    ###########################################################################
+    # Opinions
+    ###########################################################################
 
-  # - key: opinions.graphql_better_than_rest
-  #   t: GraphQL is superior to REST
-  # - key: opinions.always_prefer_graphql_apis
-  #   t: I always prefer working with GraphQL APIs
+    # - key: opinions.graphql_better_than_rest
+    #   t: GraphQL is superior to REST
+    # - key: opinions.always_prefer_graphql_apis
+    #   t: I always prefer working with GraphQL APIs
 
-  ###########################################################################
-  # Resources
-  ###########################################################################
+    ###########################################################################
+    # Ressurser
+    ###########################################################################
 
-  - key: resources.first_steps_graphql
-    t: First Steps With GraphQL
-  - key: resources.first_steps_graphql.description
-    t: When first starting out, how did you initially learn GraphQL?
-  - key: resources.first_steps_graphql.others
-    t: Other initial learning methods
+    - key: resources.first_steps_graphql
+      t: First Steps With GraphQL
+    - key: resources.first_steps_graphql.description
+      t: When first starting out, how did you initially learn GraphQL?
+    - key: resources.first_steps_graphql.others
+      t: Andre initielle læringsmetoder
 
-  # sites & courses
-  - key: resources.sites_courses_graphql
-    aliasFor: resources.sites_courses
-  - key: resources.sites_courses_graphql.description
-    t: Which GraphQL-related sites/courses/etc. do you use to learn about GraphQL?
+    # sites & courses
+    - key: resources.sites_courses_graphql
+      aliasFor: resources.sites_courses
+    - key: resources.sites_courses_graphql.description
+      t: Hilken GraphQL-relatert side/kurs bruker du for å lære GraphQL?
 
-  # podcasts
-  - key: resources.podcasts_graphql.others
-    aliasFor: resources.podcasts
-  - key: resources.podcasts_graphql.others.description
-    t: Which GraphQL-related podcasts do you listen to?
+    # podcasts
+    - key: resources.podcasts_graphql.others
+      aliasFor: resources.podcasts
+    - key: resources.podcasts_graphql.others.description
+      t: Hilken GraphQL-relatert podcasts hører du på?
 
-  # people
-  - key: resources.people_graphql.others
-    aliasFor: resources.people
-  - key: resources.people_graphql.others.description
-    t: People you read, follow, or just want to highlight for their work in the GraphQL ecosystem.
+    # people
+    - key: resources.people_graphql.others
+      aliasFor: resources.people
+    - key: resources.people_graphql.others.description
+      t: Personer du følger, leser publikasjoner av, eller bare ønsker å fremheve for deres arbeid i GraphQL-økosystemet.
 
-  ###########################################################################
-  # Options
-  ###########################################################################
+    ###########################################################################
+    # Options
+    ###########################################################################
 
-  - key: options.graphql_experience.range_less_than_1
-    t: Less than one year
-  - key: options.graphql_experience.range_1_2
-    t: 1 to 2 years
-  - key: options.graphql_experience.range_3_5
-    t: 3 to 5 years
-  - key: options.graphql_experience.range_6_10
-    t: 6 to 10 years
-  - key: options.graphql_experience.range_more_than_10
-    t: More than 10 years
+    - key: options.graphql_experience.range_less_than_1
+      t: Mindre enn 1 år
+    - key: options.graphql_experience.range_1_2
+      t: 1 til 2 år
+    - key: options.graphql_experience.range_3_5
+      t: 3 til 5 år
+    - key: options.graphql_experience.range_6_10
+      t: 6 til 10 år
+    - key: options.graphql_experience.range_more_than_10
+      t: Mer enn 10 år
 
-  - key: options.api_type.public_apis
-    t: Publicly-available APIs intended for third-party developers
-  - key: options.api_type.personal_apis
-    t: Exposed APIs intended for your own website and/or apps
-  - key: options.api_type.private_apis
-    t: Private, unexposed APIs for internal usage
+    - key: options.api_type.public_apis
+      t: Offentlige APIer ment for tredjeparts utviklere
+    - key: options.api_type.personal_apis
+      t: Eksponerte APIer ment for din egen nettside og/eller app
+    - key: options.api_type.private_apis
+      t: Private, ikke-eksponerte APIer for intern bruk
 
-  - key: options.client_type.browsers
-    t: Browsers
-  - key: options.client_type.mobile_devices
-    t: Native Mobile Apps
-  - key: options.client_type.desktop_apps
-    t: Native Desktop Apps
-  - key: options.client_type.other_servers
-    t: Other Servers
+    - key: options.client_type.browsers
+      t: Nettlesere
+    - key: options.client_type.mobile_devices
+      t: Native mobilapplikasjoner
+    - key: options.client_type.desktop_apps
+      t: Native skrivebordsapplikasjoner
+    - key: options.client_type.other_servers
+      t: Andre servere
 
-  - key: options.data_sources.static_files
-    t: Static files (YAML, Markdown, etc.)
-  - key: options.data_sources.databases
-    t: Databases
-  - key: options.data_sources.spreadsheets
-    t: Spreadsheets
-  - key: options.data_sources.cmses
-    t: CMSes
-  - key: options.data_sources.rest_apis
-    t: REST APIs (Swagger/OpenAPI, json-schema, oData, etc.)
-  - key: options.data_sources.other_graphql_apis
-    t: Other GraphQL APIs
-  - key: options.data_sources.other_api_protocols
-    t: Other API Protocols (gRPC, SOAP, Apache Thrift, etc.)
+    - key: options.data_sources.static_files
+      t: Statiske filer (YAML, Markdown, etc.)
+    - key: options.data_sources.databases
+      t: Databaser
+    - key: options.data_sources.spreadsheets
+      t: Spreadsheets
+    - key: options.data_sources.cmses
+      t: CMSer
+    - key: options.data_sources.rest_apis
+      t: REST APIs (Swagger/OpenAPI, json-schema, oData, etc.)
+    - key: options.data_sources.other_graphql_apis
+      t: Andre GraphQL APIer
+    - key: options.data_sources.other_api_protocols
+      t: Andre API Protokoller (gRPC, SOAP, Apache Thrift, etc.)
 
-  - key: options.code_generation_type.code_first
-    t: Code-first (JS, TS, JSON, etc.)
-  - key: options.code_generation_type.schema_first
-    t: Schema-first (GraphQL SDL-first)
-  - key: options.code_generation_type.database_first
-    t: Database-first
+    - key: options.code_generation_type.code_first
+      t: Code-first (JS, TS, JSON, etc.)
+    - key: options.code_generation_type.schema_first
+      t: Schema-first (GraphQL SDL-first)
+    - key: options.code_generation_type.database_first
+      t: Database-first
 
-  - key: options.code_generation_target.graphql_schema
-    t: GraphQL schema (SDL)
-  - key: options.code_generation_target.non_graphql_typings
-    t: Non-GraphQL (e.g. TypeScript) typings
-  - key: options.code_generation_target.server_resolvers
-    t: Server resolvers
-  - key: options.code_generation_target.fragments_or_queries
-    t: Client-side fragments and/or queries
-  - key: options.code_generation_target.client_code
-    t: Other client-side code (e.g. React hooks)
+    - key: options.code_generation_target.graphql_schema
+      t: GraphQL schema (SDL)
+    - key: options.code_generation_target.non_graphql_typings
+      t: Ikke-GraphQL (e.g. TypeScript) typer
+    - key: options.code_generation_target.server_resolvers
+      t: Server-resolvere
+    - key: options.code_generation_target.fragments_or_queries
+      t: Client-side fragments and/or queries
+    - key: options.code_generation_target.client_code
+      t: Annen klient-side kode (e.g. React hooks)
 
-  - key: options.graphql_strong_points.avoiding_overfetching
-    t: Avoiding Over-fetching
-  - key: options.graphql_strong_points.avoiding_overfetching.description
-    t: Keep API responses smaller by specifying exactly the data you need.
-  - key: options.graphql_strong_points.introspection
-    t: Introspection & API Documentation
-  - key: options.graphql_strong_points.introspection.description
-    t: Create self-documenting APIs that improve the developer experience.
-  - key: options.graphql_strong_points.tooling_ecosystem
-    t: Tooling & Ecosystem
-  - key: options.graphql_strong_points.tooling_ecosystem.description
-    t: The different tools, services, and libraries that use GraphQL.
-  - key: options.graphql_strong_points.type_checking
-    t: Type-checking
-  - key: options.graphql_strong_points.type_checking.description
-    t: Enforcing and validating types for every object in the API.
-  - key: options.graphql_strong_points.api_aggregation
-    t: Combining Different APIs
-  - key: options.graphql_strong_points.api_aggregation.description
-    t: Being able to combine together different API schemas.
-  - key: options.graphql_strong_points.aggregating_requests
-    t: Aggregating Requests
-  - key: options.graphql_strong_points.aggregating_requests.description
-    t: Only ever have to make a single request from the client.
-  - key: options.graphql_strong_points.community
-    t: Community
-  - key: options.graphql_strong_points.community.description
-    t: The people who are active in the GraphQL space.
-  - key: options.graphql_strong_points.fragment_colocation
-    t: Fragment Colocation
-  - key: options.graphql_strong_points.fragment_colocation.description
-    t: Being able to colocate a component's data requirements next to it.
+    - key: options.graphql_strong_points.avoiding_overfetching
+      t: Unngå over-fetching
+    - key: options.graphql_strong_points.avoiding_overfetching.description
+      t: Hold svar fra APIet mindre ved å spesifisere hvilke data du trenger
+    - key: options.graphql_strong_points.introspection
+      t: Introspeksjon og API-dokumentasjon
+    - key: options.graphql_strong_points.introspection.description
+      t: Lag selvdokumenterende APIer som forbedrere DXen
+    - key: options.graphql_strong_points.tooling_ecosystem
+      t: Verkøy & økosystem
+    - key: options.graphql_strong_points.tooling_ecosystem.description
+      t: De ulike verktøyene, tjenestene og bibliotekene som bruker GraphQL.
+    - key: options.graphql_strong_points.type_checking
+      t: Type-sjekking
+    - key: options.graphql_strong_points.type_checking.description
+      t: Håndheve og validere typer for hvert objekt i API-et.
+    - key: options.graphql_strong_points.api_aggregation
+      t: Slå sammen forskjellige APIer
+    - key: options.graphql_strong_points.api_aggregation.description
+      t: Muligher for å kombinere forskjellige API schemas
+    - key: options.graphql_strong_points.aggregating_requests
+      t: Aggregere forespørsel
+    - key: options.graphql_strong_points.aggregating_requests.description
+      t: Behøver kun å gjøre én forespørsel fra klienten
+    - key: options.graphql_strong_points.community
+      t: Samfunn
+    - key: options.graphql_strong_points.community.description
+      t: Personer som er aktiv i GraphQL verden.
+    - key: options.graphql_strong_points.fragment_colocation
+      t: Fragment Colocation
+    - key: options.graphql_strong_points.fragment_colocation.description
+      t: Mulighet for å plassere kravene til en komponents sammen med dens data.
 
-  - key: options.graphql_pain_points.performance
-    t: Performance
-  - key: options.graphql_pain_points.performance.description
-    t: Performance issues such as the n+1 problem.
-  - key: options.graphql_pain_points.security
-    t: Security
-  - key: options.graphql_pain_points.security.description
-    t: Security issues such as infinitely nested queries.
-  - key: options.graphql_pain_points.combining_schemas
-    t: Combining Different Schemas
-  - key: options.graphql_pain_points.combining_schemas.description
-    t: Being able to combine together different API schemas.
-  - key: options.graphql_pain_points.api_versioning
-    t: API Versioning
-  - key: options.graphql_pain_points.api_versioning.description
-    t: Handling deprecated fields and other versioning concerns.
-  - key: options.graphql_pain_points.file_upload
-    t: File Upload
-  - key: options.graphql_pain_points.file_upload.description
-    t: Being able to upload files through your GraphQL API.
-  - key: options.graphql_pain_points.testing
-    t: Testing
-  - key: options.graphql_pain_points.testing.description
-    t: Testing your GraphQL API.
-  - key: options.graphql_pain_points.error_handling
-    t: Error Handling
-  - key: options.graphql_pain_points.error_handling.description
-    t: Returning errors and managing them on the client.
-  - key: options.graphql_pain_points.client_side_caching
-    t: Client-side Caching
-  - key: options.graphql_pain_points.client_side_caching.description
-    t: Caching data on the client, updating the cache, optimistic UI, etc.
+    - key: options.graphql_pain_points.performance
+      t: Ytelse
+    - key: options.graphql_pain_points.performance.description
+      t: Ytelsesproblemer, slik som n+1 problemet.
+    - key: options.graphql_pain_points.security
+      t: Sikkerhet
+    - key: options.graphql_pain_points.security.description
+      t: Sikkerhetsproblemer, som uendelig sammenkoblede spørringer.
+    - key: options.graphql_pain_points.combining_schemas
+      t: Kombineren forskjelige schemaer
+    - key: options.graphql_pain_points.combining_schemas.description
+      t: Muligher for å kombinere forskjellige API schemas
+    - key: options.graphql_pain_points.api_versioning
+      t: API-versjonering
+    - key: options.graphql_pain_points.api_versioning.description
+      t: Håndtering av utdaterte felt og andre versjoneringsbekymringer.
+    - key: options.graphql_pain_points.file_upload
+      t: Filopplasting
+    - key: options.graphql_pain_points.file_upload.description
+      t: Mulighet for å laste opp filer via GraphQL API.
+    - key: options.graphql_pain_points.testing
+      t: Testing
+    - key: options.graphql_pain_points.testing.description
+      t: Teste GraphQL APIet.
+    - key: options.graphql_pain_points.error_handling
+      t: Feilhåndtering
+    - key: options.graphql_pain_points.error_handling.description
+      t: Returnere feilmeldinger og håndtere de på klientsiden
+    - key: options.graphql_pain_points.client_side_caching
+      t: Klientsidecaching
+    - key: options.graphql_pain_points.client_side_caching.description
+      t: Cachelagring av data på klienten, oppdatering av cachen, optimistisk brukergrensesnitt, osv
 
-  # learning methods
-  - key: options.first_steps_graphql.books
-    t: Books
-  - key: options.first_steps_graphql.videos
-    t: Videos & screencasts
-  - key: options.first_steps_graphql.school
-    t: School & higher education
-  - key: options.first_steps_graphql.courses_free
-    t: Online courses (free)
-  - key: options.first_steps_graphql.courses_paid
-    t: Online courses (paid)
-  - key: options.first_steps_graphql.podcasts
-    t: Podcasts
-  - key: options.first_steps_graphql.bootcamp
-    t: Coding bootcamp
-  - key: options.first_steps_graphql.on_the_job
-    t: On-the-job training
-  - key: options.first_steps_graphql.self_directed
-    t: Self-directed learning (Google, Stack Overflow, etc.)
-  - key: options.first_steps_graphql.mentoring
-    t: Mentoring
+    # learning methods
+    - key: options.first_steps_graphql.books
+      t: Bøker
+    - key: options.first_steps_graphql.videos
+      t: Videor
+    - key: options.first_steps_graphql.school
+      t: Skole og høyere utdanning
+    - key: options.first_steps_graphql.courses_free
+      t: Nettbaserte kurs (gratis)
+    - key: options.first_steps_graphql.courses_paid
+      t: Nettbaserte kurs (betalte)
+    - key: options.first_steps_graphql.podcasts
+      t: Podcaster
+    - key: options.first_steps_graphql.bootcamp
+      t: Kode-bootcamp
+    - key: options.first_steps_graphql.on_the_job
+      t: Opplæring på arbeidsplassen
+    - key: options.first_steps_graphql.self_directed
+      t: Selvstyrt læring (Google, Stack Overflow, etc.)
+    - key: options.first_steps_graphql.mentoring
+      t: Veiledning

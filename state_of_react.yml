@@ -562,7 +562,7 @@ translations:
     - key: usage.what_do_you_use_react_for
       t: React-bruk
     - key: usage.what_do_you_use_react_for.question
-      t: What do you use React for?
+      t: Hva bruker du React til?
 
     - key: usage.react_pain_points
       t: Utfordringer med React

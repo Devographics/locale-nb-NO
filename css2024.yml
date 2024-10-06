@@ -228,7 +228,7 @@ translations:
     #     lines across the entire page.
 
     # - key: picks.bramus_van_damme.name
-    #   t: The `:has()` Selector
+    #   t: `:has()`-selektoren
     # - key: picks.bramus_van_damme.bio
     #   t: Chrome Developer Relations Engineer at Google
     # - key: picks.bramus_van_damme.description
@@ -246,7 +246,7 @@ translations:
           Ahmads blogg er en kilde til kunnskap og inspirasjon, med dyptgående utforskninger av ulike temaer, inkludert flotte visuelle elementer og brukstilfeller.
 
     # - key: picks.samuel_kraft.name
-    #   t: The `:has()` Selector
+    #   t: `:has()`-selektoren
     # - key: picks.samuel_kraft.bio
     #   t: Design Engineer
     # - key: picks.samuel_kraft.description
@@ -328,7 +328,7 @@ translations:
     #   t: |
 
     # - key: picks.jen_simmons.name
-    #   t: The `:has()` Selector
+    #   t: `:has()`-selektoren
     # - key: picks.jen_simmons.bio
     #   t: Web technologies evangelist at Apple
     # - key: picks.jen_simmons.description
