@@ -8,7 +8,7 @@ translations:
       t: 2023-utgaven av den årlige undersøkelsen om de nyeste trendene i CSS-økosystemet.
 
     - key: general.css2022.js2022_banner
-      t: **State of JS 2022-undersøkelsen** er nå åpen, og du kan [ta den her](https://survey.devographics.com/survey/state-of-js/2022?source=css2022)!
+      t: "**State of JS 2022-undersøkelsen** er nå åpen, og du kan [ta den her](https://survey.devographics.com/survey/state-of-js/2022?source=css2022)!"
 
     - key: general.css2023.results_intro
       t: |

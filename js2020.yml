@@ -14,41 +14,41 @@ translations:
 
     - key: introduction.js2020
       t: |
-        <span class="first-letter">S</span>å kjip som 2020 var, klarte JavaScript som helhet fortsatt å bevege seg fremover på en eller annen måte. Språket selv fortsetter å forbedre seg takket være nye funksjoner som Valgfri Kjeding og Nullish Koalescing, og TypeScripts omfattende adopsjon tar ting til et helt annet nivå ved å popularisere statisk typing.
+          <span class="first-letter">S</span>å kjip som 2020 var, klarte JavaScript som helhet fortsatt å bevege seg fremover på en eller annen måte. Språket selv fortsetter å forbedre seg takket være nye funksjoner som Valgfri Kjeding og Nullish Koalescing, og TypeScripts omfattende adopsjon tar ting til et helt annet nivå ved å popularisere statisk typing.
 
-        Og på rammeverksiden, akkurat når vi trodde at tingene hadde stabilisert seg, kommer Svelte inn og ryster alt med en ny tilnærming til front-end. Selv byggeverktøy viser tegn på ny aktivitet etter år med webpack-dominans.
+          Og på rammeverksiden, akkurat når vi trodde at tingene hadde stabilisert seg, kommer Svelte inn og ryster alt med en ny tilnærming til front-end. Selv byggeverktøy viser tegn på ny aktivitet etter år med webpack-dominans.
 
-        Men forskjellen denne gangen er at den "gamle" vaktposten – relativt sett – ikke går noe sted. Svelte og Snowpack er flotte, men det er også React og webpack. Og selvfølgelig, de vil også til slutt bli bytte for det Store JavaScript Uroligheten, men ikke på mange, mange år.
+          Men forskjellen denne gangen er at den "gamle" vaktposten – relativt sett – ikke går noe sted. Svelte og Snowpack er flotte, men det er også React og webpack. Og selvfølgelig, de vil også til slutt bli bytte for det Store JavaScript Uroligheten, men ikke på mange, mange år.
 
-        Så la oss nyte det vi har her: et fantastisk økosystem som bare blir bedre og bedre!
+          Så la oss nyte det vi har her: et fantastisk økosystem som bare blir bedre og bedre!
 
-        ### Bli med på vår lanseringslivestream!
+          ### Bli med på vår lanseringslivestream!
 
-        Vi vil ha en [spesiell lanseringslivestream](https://stateofjs.com/2020stream/) i samarbeid med folkene fra CodeItLive Twitch-kanalen. Bli med oss sammen med gjester som Sarah Drasner, Josh W. Comeau og Kent C. Dodds for å diskutere JavaScript-trendene fra det siste året!
+          Vi vil ha en [spesiell lanseringslivestream](https://stateofjs.com/2020stream/) i samarbeid med folkene fra CodeItLive Twitch-kanalen. Bli med oss sammen med gjester som Sarah Drasner, Josh W. Comeau og Kent C. Dodds for å diskutere JavaScript-trendene fra det siste året!
 
-        ### Last ned dataene våre
+          ### Last ned dataene våre
 
-        Du kan [laste ned rå JSON-data for denne undersøkelsen](https://www.kaggle.com/sachag/state-of-js). Gi oss beskjed hvis du lager dine egne datavisualiseringer!
+          Du kan [laste ned rå JSON-data for denne undersøkelsen](https://www.kaggle.com/sachag/state-of-js). Gi oss beskjed hvis du lager dine egne datavisualiseringer!
 
-        ### State of CSS
+          ### State of CSS
 
-        Hvis du ikke har sett det allerede, anbefaler vi sterkt å sjekke ut [State of CSS 2020 Trend Report](https://2020.stateofcss.com/en-US/report/) for å få oppdatert informasjon om de tre viktigste CSS-trendene fra det siste året.
+          Hvis du ikke har sett det allerede, anbefaler vi sterkt å sjekke ut [State of CSS 2020 Trend Report](https://2020.stateofcss.com/en-US/report/) for å få oppdatert informasjon om de tre viktigste CSS-trendene fra det siste året.
 
-        ### Takk
+          ### Takk
 
-        Mange takk til [Alexey Pyltsyn](https://github.com/lex111) for hjelpen med oversettelsene.
+          Mange takk til [Alexey Pyltsyn](https://github.com/lex111) for hjelpen med oversettelsene.
 
-        Takk også til [Amelia Wattenberger](https://wattenberger.com/) for at hun hjalp oss med å oppdatere hennes opprinnelige “Endringer over tid”-diagram fra i fjor. Hvis du vil lære hvordan du lager dine egne fantastiske datavisualiseringer, er det ikke noe bedre enn hennes [D3 videokurs](https://www.newline.co/fullstack-d3).
+          Takk også til [Amelia Wattenberger](https://wattenberger.com/) for at hun hjalp oss med å oppdatere hennes opprinnelige “Endringer over tid”-diagram fra i fjor. Hvis du vil lære hvordan du lager dine egne fantastiske datavisualiseringer, er det ikke noe bedre enn hennes [D3 videokurs](https://www.newline.co/fullstack-d3).
 
-        ### Krediteringer og annet
+          ### Krediteringer og annet
 
-        State of JavaScript-undersøkelsen er laget og vedlikeholdt av [Sacha Greif](https://twitter.com/sachagreif) og [Raphaël Benitte](https://twitter.com/benitteraphael).
+          State of JavaScript-undersøkelsen er laget og vedlikeholdt av [Sacha Greif](https://twitter.com/sachagreif) og [Raphaël Benitte](https://twitter.com/benitteraphael).
 
-        Se [denne videooversikten](https://www.youtube.com/watch?v=o4w1qEnZxbM) for å lære mer om de tekniske aspektene ved prosjektet, fra datainnsamling til datavisualiseringer. Spørsmål? Tilbakemeldinger? [Ta kontakt](mailto:hello@stateofjs.com) eller [bli med i Discorden vår](https://discord.gg/zRDb35jfrt).
+          Se [denne videooversikten](https://www.youtube.com/watch?v=o4w1qEnZxbM) for å lære mer om de tekniske aspektene ved prosjektet, fra datainnsamling til datavisualiseringer. Spørsmål? Tilbakemeldinger? [Ta kontakt](mailto:hello@stateofjs.com) eller [bli med i Discorden vår](https://discord.gg/zRDb35jfrt).
 
-        Og nå, la oss se hva JavaScript har vært opptatt med i år!
+          Og nå, la oss se hva JavaScript har vært opptatt med i år!
 
-        <span class="conclusion__byline">– Sacha og Raphaël</span>
+          <span class="conclusion__byline">– Sacha og Raphaël</span>
 
     ###########################################################################
     # Tshirt
@@ -59,13 +59,13 @@ translations:
 
     - key: sections.tshirt.description
       t: |
-        ## Støtt undersøkelsen og se bra ut i prosessen!
+          ## Støtt undersøkelsen og se bra ut i prosessen!
 
-        Vi har oppdatert fjorårets veldig populære 👕 State of JavaScript T-skjorte 👕 for 2020 JavaScript-landskapet!
+          Vi har oppdatert fjorårets veldig populære 👕 State of JavaScript T-skjorte 👕 for 2020 JavaScript-landskapet!
 
-        Skjorten har et ”periodisk bord av JavaScript” som viser de mest populære bibliotekene gruppert etter kategori, sammen med deres GitHub-stjerner (i tusen).
+          Skjorten har et ”periodisk bord av JavaScript” som viser de mest populære bibliotekene gruppert etter kategori, sammen med deres GitHub-stjerner (i tusen).
 
-        Denne skjorten er en flott måte å bli kjent med JavaScript-økosystemet på, og kanskje til og med starte en samtale med andre likesinnede JavaScript-utviklere!
+          Denne skjorten er en flott måte å bli kjent med JavaScript-økosystemet på, og kanskje til og med starte en samtale med andre likesinnede JavaScript-utviklere!
 
     - key: tshirt.about
       t: Om t-skjorten
@@ -154,21 +154,19 @@ translations:
           Selv om ting generelt ser bra ut i JavaScript-land, ser det ut til å være en viss nedgang fra
           positiviteten i 2018. Vil trenden vedvare? Følg med neste år for å finne ut!
 
-
     ###########################################################################
     # Notes
     ###########################################################################
 
     - key: blocks.source.note
       t: >
-      Dette diagrammet aggregerer en blanding av henvisninger, URL-parametere og svar i fritekst-format.
+          Dette diagrammet aggregerer en blanding av henvisninger, URL-parametere og svar i fritekst-format.
 
-      - State of JS: [State of JS](https://stateofjs.com) nyhetsbrev; matcher også `email`, `via e-post`, osv.
+          - State of JS: [State of JS](https://stateofjs.com) nyhetsbrev; matcher også `email`, `via e-post`, osv.
 
-      - State of CSS: [State of CSS](https://stateofcss.com/) nyhetsbrev
+          - State of CSS: [State of CSS](https://stateofcss.com/) nyhetsbrev
 
-      - Arbeid: matcher `arbeid`, `kolleger`, `medarbeidere`, osv.
-
+          - Arbeid: matcher `arbeid`, `kolleger`, `medarbeidere`, osv.
 
     ###########################################################################
     # Awards
@@ -176,7 +174,7 @@ translations:
 
     # - key: award.feature_adoption_delta_award.comment
     #   t: With a **{value}** progression in 2020, this was the year CSS Grid crossed over from new technology to established tool.
-    
+
     - key: award.tool_usage_delta_award.comment
       t: TypeScript var allerede populært, og med en **{value}** vekst i bruken ser det ut til at det bare vil bli mer allestedsnærværende fremover.
 
@@ -189,120 +187,119 @@ translations:
     - key: award.most_write_ins_award.comment
       t: Folk er alltid lidenskapelige om tekstredigerere, og med **{value}** omtaler vinner IntelliJ IDEA prisen for flest skriv-inn svar.
 
-
     ###########################################################################
     # Conclusion
     ###########################################################################
 
     - key: sections.conclusion.description
       t: |
-      Siden oldtiden har filosofer grunnet over JavaScript-paradokset: på den ene siden kan du ikke vente på spennende nye språkfunksjoner og biblioteker som lover å gjøre utvikleropplevelsen din så mye bedre.  
+          Siden oldtiden har filosofer grunnet over JavaScript-paradokset: på den ene siden kan du ikke vente på spennende nye språkfunksjoner og biblioteker som lover å gjøre utvikleropplevelsen din så mye bedre.  
 
-      Men samtidig lengter du etter stabilitet og enkelhet, slik at du endelig kan få ting gjort uten å måtte bruke halve tiden din på å bla gjennom kompliserte GitHub-issues og utdaterte Stack Overflow-spørsmål.  
+          Men samtidig lengter du etter stabilitet og enkelhet, slik at du endelig kan få ting gjort uten å måtte bruke halve tiden din på å bla gjennom kompliserte GitHub-issues og utdaterte Stack Overflow-spørsmål.  
 
-      Så hva vil vi egentlig ha? Vil vi ha det nye og glitrende, eller det gamle og pålitelige? Mer enn noen gang viser 2020 at vi ikke vil nøye oss med noe mindre enn *begge deler*. Den gode nyheten er at JavaScript-samfunnet har tatt utfordringen, noe som lover et spennende 2021!  
+          Så hva vil vi egentlig ha? Vil vi ha det nye og glitrende, eller det gamle og pålitelige? Mer enn noen gang viser 2020 at vi ikke vil nøye oss med noe mindre enn *begge deler*. Den gode nyheten er at JavaScript-samfunnet har tatt utfordringen, noe som lover et spennende 2021!  
 
-      P.S. Hvis du fortsatt er sulten etter mer JavaScript-statistikk, anbefaler vi å sjekke de årlige [Rising Stars](https://risingstars.js.org/2020/en/) rangeringene fra [Best Of JS](https://bestofjs.org/).
+          P.S. Hvis du fortsatt er sulten etter mer JavaScript-statistikk, anbefaler vi å sjekke de årlige [Rising Stars](https://risingstars.js.org/2020/en/) rangeringene fra [Best Of JS](https://bestofjs.org/).
 
     ###########################################################################
     # Picks
     ###########################################################################
 
-    - key: picks.my_2020_pick  
-      t: "Mitt valg for 2020: "  
+    - key: picks.my_2020_pick
+      t: "Mitt valg for 2020: "
 
-    - key: picks.intro  
-      t: Vi spurte medlemmer av JavaScript-samfunnet om å dele sine “valg for året”  
+    - key: picks.intro
+      t: Vi spurte medlemmer av JavaScript-samfunnet om å dele sine “valg for året”
 
-    - key: picks.joshwcomeau.bio  
-      t: Programvareutvikler som har blitt utdanner  
+    - key: picks.joshwcomeau.bio
+      t: Programvareutvikler som har blitt utdanner
 
-    - key: picks.joshwcomeau.description  
-      t: |  
-      Dette er en fantastisk ressurs i starten for å lære om webtilgjengelighet!  
-      Jeg valgte den fordi det er vår oppgave som JS-utviklere å sørge for at nettstedene vi bygger er brukbare for alle, ikke bare for synshemmede som bruker tastatur og mus.  
+    - key: picks.joshwcomeau.description
+      t: |
+          Dette er en fantastisk ressurs i starten for å lære om webtilgjengelighet!  
+          Jeg valgte den fordi det er vår oppgave som JS-utviklere å sørge for at nettstedene vi bygger er brukbare for alle, ikke bare for synshemmede som bruker tastatur og mus.
 
-    - key: picks.swyx.bio  
+    - key: picks.swyx.bio
       t: Infinite Builder
 
-    - key: picks.swyx.description  
-      t: |  
-      Svelte er romheisen for frontend-rammeverk.  
-      Det hjelper deg å sende apper ekstremt raskt.  
+    - key: picks.swyx.description
+      t: |
+          Svelte er romheisen for frontend-rammeverk.  
+          Det hjelper deg å sende apper ekstremt raskt.
 
-    - key: picks.kentcdodds.bio  
-      t: Forbedre verden med kvalitetsprogramvare  
+    - key: picks.kentcdodds.bio
+      t: Forbedre verden med kvalitetsprogramvare
 
-    - key: picks.kentcdodds.description  
-      t: |  
-      Remix er en annen tilnærming til React-rammeverk med vekt på progressiv  
-      forbedring. Det omfavner webplattformen på en måte som ingen eksisterende rammeverk gjør,  
-      og jeg er begeistret over dets potensiale.  
+    - key: picks.kentcdodds.description
+      t: |
+          Remix er en annen tilnærming til React-rammeverk med vekt på progressiv  
+          forbedring. Det omfavner webplattformen på en måte som ingen eksisterende rammeverk gjør,  
+          og jeg er begeistret over dets potensiale.
 
-    - key: picks.sarah_edo.bio  
-      t: Kjernegruppe for Vue.js  
+    - key: picks.sarah_edo.bio
+      t: Kjernegruppe for Vue.js
 
-    - key: picks.sarah_edo.description  
-      t: |  
-      Insomnia er en app som lar deg designe, teste og implementere API  
-      arbeidsflyter med en ren, forenklet brukeropplevelse - den har støtte for både REST og GraphQL,  
-      selv om ordspillene åpenbart er bedre hvis du bruker REST.  
+    - key: picks.sarah_edo.description
+      t: |
+          Insomnia er en app som lar deg designe, teste og implementere API  
+          arbeidsflyter med en ren, forenklet brukeropplevelse - den har støtte for både REST og GraphQL,  
+          selv om ordspillene åpenbart er bedre hvis du bruker REST.
 
-    - key: picks.ladyleet.bio  
-      t: This Dot Labs, GDE, MVP  
+    - key: picks.ladyleet.bio
+      t: This Dot Labs, GDE, MVP
 
-    - key: picks.ladyleet.description  
-      t: |  
-      RedwoodJS og rammeverk som det begynner å endre hvordan vi tenker på utvikling.  
-      Det bringer enkelheten fra Ruby on Rails til frontend-økosystemet.  
+    - key: picks.ladyleet.description
+      t: |
+          RedwoodJS og rammeverk som det begynner å endre hvordan vi tenker på utvikling.  
+          Det bringer enkelheten fra Ruby on Rails til frontend-økosystemet.
 
-    - key: picks.midudev.bio  
-      t: Lead Frontend @ Adevinta & Innholdsprodusent  
+    - key: picks.midudev.bio
+      t: Lead Frontend @ Adevinta & Innholdsprodusent
 
-    - key: picks.midudev.description  
-      t: |  
-      Å jobbe med moduler i JavaScript-økosystemet har vært rotete.  
-      ES2020 kom med ES-moduler for å avslutte det. Til og med stabilt på Node.js. Jippi!  
+    - key: picks.midudev.description
+      t: |
+          Å jobbe med moduler i JavaScript-økosystemet har vært rotete.  
+          ES2020 kom med ES-moduler for å avslutte det. Til og med stabilt på Node.js. Jippi!
 
-    - key: picks.cassidoo.bio  
-      t: Hovedutvikleropplevelsesingeniør hos Netlify  
+    - key: picks.cassidoo.bio
+      t: Hovedutvikleropplevelsesingeniør hos Netlify
 
-    - key: picks.cassidoo.description  
-      t: |  
-      Ben er en av de mest generøse menneskene i JS-samfunnet.  
-      Han er aktiv i open source (på Vue-kjernegruppen),  
-      lager konsekvent nyttig innhold for utviklere å lære, og er veldig raus med tiden sin.  
+    - key: picks.cassidoo.description
+      t: |
+          Ben er en av de mest generøse menneskene i JS-samfunnet.  
+          Han er aktiv i open source (på Vue-kjernegruppen),  
+          lager konsekvent nyttig innhold for utviklere å lære, og er veldig raus med tiden sin.
 
-    - key: picks.lauragift_.bio  
-      t: Frontend-utvikler @ PassionatePeople  
+    - key: picks.lauragift_.bio
+      t: Frontend-utvikler @ PassionatePeople
 
-    - key: picks.lauragift_.description  
-      t: |  
-      Josh Comeau har vært en inspirasjon for meg, og jeg kan si for JS-samfunnet generelt.  
-      Han skriver veldig tankevekkende artikler på bloggen sin, og de er noen av de beste jeg leste i  
-      2020 fordi de enten hjalp meg å holde meg oppdatert på det nyeste innen JavaScript  
-      eller hjalp meg å lære noe nytt.  
+    - key: picks.lauragift_.description
+      t: |
+          Josh Comeau har vært en inspirasjon for meg, og jeg kan si for JS-samfunnet generelt.  
+          Han skriver veldig tankevekkende artikler på bloggen sin, og de er noen av de beste jeg leste i  
+          2020 fordi de enten hjalp meg å holde meg oppdatert på det nyeste innen JavaScript  
+          eller hjalp meg å lære noe nytt.
 
-    - key: picks.tomdale.bio  
-      t: JavaScript Thinkfluencer  
+    - key: picks.tomdale.bio
+      t: JavaScript Thinkfluencer
 
-    - key: picks.tomdale.description  
-      t: |  
-      Volta hjelper deg med å administrere hele JavaScript-verktøykjeden din – tenk nvm, men det hjelper  
-      deg og teamet ditt med å holde seg på de samme versjonene av Node, npm, CLI-verktøy, osv.  
-      Jeg elsker det fordi det er så utrolig fint å bruke, og det er banebrytende i bruken av  
-      Rust for å bygge raske verktøy for JS.  
+    - key: picks.tomdale.description
+      t: |
+          Volta hjelper deg med å administrere hele JavaScript-verktøykjeden din – tenk nvm, men det hjelper  
+          deg og teamet ditt med å holde seg på de samme versjonene av Node, npm, CLI-verktøy, osv.  
+          Jeg elsker det fordi det er så utrolig fint å bruke, og det er banebrytende i bruken av  
+          Rust for å bygge raske verktøy for JS.
 
-    - key: picks.markdalgleish.bio  
-      t: Medskaper av CSS-moduler, skaper av Playroom  
+    - key: picks.markdalgleish.bio
+      t: Medskaper av CSS-moduler, skaper av Playroom
 
-    - key: picks.markdalgleish.description  
-      t: |  
-      Automatiserer npm-publisering med muligheten til å knytte Markdown-utgivelsesnotater til hver endring. Changesets har virkelig hevet kvaliteten på utgivelsesnotatene og versjonsstyringen vår i år.  
+    - key: picks.markdalgleish.description
+      t: |
+          Automatiserer npm-publisering med muligheten til å knytte Markdown-utgivelsesnotater til hver endring. Changesets har virkelig hevet kvaliteten på utgivelsesnotatene og versjonsstyringen vår i år.
 
-    - key: picks.sachagreif.bio  
-      t: Skaper av State of JS-undersøkelsen  
+    - key: picks.sachagreif.bio
+      t: Skaper av State of JS-undersøkelsen
 
-    - key: picks.sachagreif.description  
-      t: |  
-      Best Of JS sporer GitHub-statistikk om praktisk talt hvert større JavaScript-prosjekt, og det har vært en uvurderlig ressurs for å hjelpe oss med å bestemme hva vi skal inkludere i undersøkelsen!  
+    - key: picks.sachagreif.description
+      t: |
+          Best Of JS sporer GitHub-statistikk om praktisk talt hvert større JavaScript-prosjekt, og det har vært en uvurderlig ressurs for å hjelpe oss med å bestemme hva vi skal inkludere i undersøkelsen!

@@ -194,12 +194,11 @@ translations:
     - key: general.made_by_devographics
       t: Laget av <a href="{link}">Devographics</a>
 
-
     ###########################################################################
     # Nav
     ###########################################################################
 
-        - key: nav.surveys
+    - key: nav.surveys
       t: Undersøkelser
     - key: nav.account
       t: Konto

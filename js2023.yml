@@ -27,7 +27,6 @@ translations:
 
           <span class="conclusion__byline">– Sacha Greif</span>
 
-
     ###########################################################################
     # Tshirt
     ###########################################################################
@@ -70,7 +69,7 @@ translations:
     # Sections
     ###########################################################################
 
-      - key: sections.user_info.description
+    - key: sections.user_info.description
       t: |
           I år deltok **23,540** respondenter i undersøkelsen. For å hjelpe med å fremheve forskjellige stemmer og avdekke dypere innsikter, gjorde vi en spesiell innsats for å gi nye måter å bryte ned dataene våre på.
 
@@ -93,7 +92,6 @@ translations:
     - key: sections.resources.description
       t: |
           I stedet for å tilby forhåndsdefinerte lister med alternativer for undersøkelsesrespondentene, bestemte vi oss for å tilby rå tekstfelt. Dette førte til ganske mange nye deltakere i Ressurser-seksjonen i år!
-
 
     - key: sections.awards.description
       t: |
@@ -194,7 +192,6 @@ translations:
 
     - key: conclusion.js2023.theo_browne.bio
       t: Skaper av Ping, uploadthing, create-t3-app og videoprodusent
-
 
     ###########################################################################
     # Picks
@@ -413,4 +410,3 @@ translations:
           ### Teknisk Oversikt
 
           Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).
-

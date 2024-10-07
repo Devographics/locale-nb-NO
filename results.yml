@@ -1272,7 +1272,6 @@ translations:
           <span class="hint-bracket"><span class="hint-text">Det følgende diagrammet viser resultatene av et turneringsformat med 8 spillere der respondentene 
           fikk i oppgave å velge vinneren av hver match opp til en enkelt vinner gjensto.</span><span class="hint-diagram"/></span>
 
-
     - key: hints.comments_hint
       t: >
           <span class="hint-icon hint-comment-button">Kommentar-fanen</span> lar deg se kommentarer som ble skrevet av respondenter mens de fylte ut undersøkelsen.
@@ -1501,21 +1500,21 @@ translations:
       t: |
           Det faktiske tallet er **{cellCount}**, og de manglende **{normalizedCountDelta}** respondentene vises som tomme prikker.
 
-    - key: explorer.percentage_details.1_extra  
-      t: |  
-      Totalt har **{xAxisPercentage}%** av “{xAxisLabel}” respondentene valgt “{xAnswerLabel}”, men blant **“{yAxisLabel}” respondentene som valgte “{yAnswerLabel}”** stiger den prosentandelen til **{bucketPercentage}%**.
+    - key: explorer.percentage_details.1_extra
+      t: |
+          Totalt har **{xAxisPercentage}%** av “{xAxisLabel}” respondentene valgt “{xAnswerLabel}”, men blant **“{yAxisLabel}” respondentene som valgte “{yAnswerLabel}”** stiger den prosentandelen til **{bucketPercentage}%**.
 
-    - key: explorer.percentage_details.1_missing  
-      t: |  
-      Totalt har **{xAxisPercentage}%** av “{xAxisLabel}” respondentene valgt “{xAnswerLabel}”, men blant **“{yAxisLabel}” respondentene som valgte “{yAnswerLabel}”** faller den prosentandelen til **{bucketPercentage}%**.
+    - key: explorer.percentage_details.1_missing
+      t: |
+          Totalt har **{xAxisPercentage}%** av “{xAxisLabel}” respondentene valgt “{xAnswerLabel}”, men blant **“{yAxisLabel}” respondentene som valgte “{yAnswerLabel}”** faller den prosentandelen til **{bucketPercentage}%**.
 
-    - key: explorer.percentage_details.2_extra  
-      t: |  
-      De ekstra **{normalizedPercentageDelta}%** respondentene er *fremhevet*.
+    - key: explorer.percentage_details.2_extra
+      t: |
+          De ekstra **{normalizedPercentageDelta}%** respondentene er *fremhevet*.
 
-    - key: explorer.percentage_details.2_missing  
-      t: |  
-      De manglende **{normalizedPercentageDelta}%** respondentene vises som tomme prikker.
+    - key: explorer.percentage_details.2_missing
+      t: |
+          De manglende **{normalizedPercentageDelta}%** respondentene vises som tomme prikker.
 
     # - key: explorer.percentage_details.1
     #   t: |
@@ -1692,7 +1691,6 @@ translations:
     - key: dataloader.submit_issue
       t: Send inn problem
 
-
     # advanced options
 
     - key: filters.advanced_options
@@ -1713,12 +1711,11 @@ translations:
     - key: filters.options.showDefaultSeries.description
       t: Vis den standard (ufiltrerte) dataserien når du bruker rutenettmodus
 
-
     ###########################################################################
     # Chart Controls
     ###########################################################################
 
-    -- key: charts.group_by
+    - key: charts.group_by
       t: >
           Gruppér etter:
     - key: charts.group.experience
@@ -1785,7 +1782,6 @@ translations:
       t: >
           **{value}** medianverdi
 
-
     ###########################################################################
     # Multi Items Experience Chart
     ###########################################################################
@@ -1805,7 +1801,6 @@ translations:
     - key: charts.multiexp.cell_tooltip_neutral
       t: >
           **{value}%** av respondentene svarte "**{experience}**" og valgte ingen meninger
-
 
     ###########################################################################
     # Raw Freeform Answers

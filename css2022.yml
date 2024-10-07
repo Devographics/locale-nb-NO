@@ -45,11 +45,11 @@ translations:
 
     - key: sections.tshirt.description
       t: |
-      ## Støtt undersøkelsen med State of CSS T-skjorten
+        ## Støtt undersøkelsen med State of CSS T-skjorten
 
-      Videokvalitet, klumpete kassetter og behovet for å spole tilbake er ting vi ikke savner fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-tallsvisuelle elementene som pleide å pryde tomme VHS-kassetter.
+        Videokvalitet, klumpete kassetter og behovet for å spole tilbake er ting vi ikke savner fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-tallsvisuelle elementene som pleide å pryde tomme VHS-kassetter.
 
-      Men nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retro-stilen samtidig som du feirer kjærligheten din for CSS!
+        Men nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retro-stilen samtidig som du feirer kjærligheten din for CSS!
 
     - key: tshirt.about
       t: Om t-skjorten

@@ -181,7 +181,6 @@ translations:
 
           Når den [tredje epoken av JavaScript](https://www.swyx.io/js-third-age/) går inn i sitt tredje år, fortsetter mulighetene for lovende open sourcerors og entreprenører å folde seg ut, og jeg er spent på å se hva de neste par årene vil bringe!
 
-
     - key: conclusion.js2021.bio
       t: Head of DX hos Temporal
 
@@ -189,236 +188,236 @@ translations:
     # Picks
     ###########################################################################
 
-    - key: picks.my_pick  
-      t: "Mitt valg for 2021: "  
-    - key: picks.intro  
-      t: Vi ba medlemmer av JavaScript-samfunnet dele sine "valg for året."  
+    - key: picks.my_pick
+      t: "Mitt valg for 2021: "
+    - key: picks.intro
+      t: Vi ba medlemmer av JavaScript-samfunnet dele sine "valg for året."
 
-    - key: picks.lee_robinson.name  
-      t: SvelteKit  
-    - key: picks.lee_robinson.bio  
-      t: Direktør for Utviklerrelasjoner hos Vercel  
-    - key: picks.lee_robinson.description  
-      t: |  
+    - key: picks.lee_robinson.name
+      t: SvelteKit
+    - key: picks.lee_robinson.bio
+      t: Direktør for Utviklerrelasjoner hos Vercel
+    - key: picks.lee_robinson.description
+      t: |
           SvelteKit er en ny tilnærming til bygging for nettet og har et  
-          utrolig lidenskapelig, voksende samfunn av støttespillere.  
+          utrolig lidenskapelig, voksende samfunn av støttespillere.
 
-    - key: picks.vadim_makeev.name  
-      t: Server-Side Rendering  
-    - key: picks.vadim_makeev.bio  
-      t: DevRel, Podcaster & Webstandardforkjemper  
-    - key: picks.vadim_makeev.description  
-      t: |  
+    - key: picks.vadim_makeev.name
+      t: Server-Side Rendering
+    - key: picks.vadim_makeev.bio
+      t: DevRel, Podcaster & Webstandardforkjemper
+    - key: picks.vadim_makeev.description
+      t: |
           Tiden har kommet for å få prioriteringene våre på plass.  
-          UX > DX, og det har alltid vært slik. Ytelse FTW!  
+          UX > DX, og det har alltid vært slik. Ytelse FTW!
 
-    - key: picks.ben_ilegbodu.name  
-      t: Lee Robinson  
-    - key: picks.ben_ilegbodu.bio  
-      t: Ben Ilegbodu, Hovedfrontendingeniør hos Stitch Fix  
-    - key: picks.ben_ilegbodu.description  
-      t: |  
+    - key: picks.ben_ilegbodu.name
+      t: Lee Robinson
+    - key: picks.ben_ilegbodu.bio
+      t: Ben Ilegbodu, Hovedfrontendingeniør hos Stitch Fix
+    - key: picks.ben_ilegbodu.description
+      t: |
           Lee har vært fantastisk til å lede og ivareta Next.js.  
           Han har hjulpet meg mye med Next og fortsetter å bygge entusiasme  
-          for hvor det er på vei.  
+          for hvor det er på vei.
 
-    - key: picks.shawn_wang.name  
-      t: Supabase  
-    - key: picks.shawn_wang.bio  
-      t: Leder for DX hos Temporal  
-    - key: picks.shawn_wang.description  
-      t: |  
+    - key: picks.shawn_wang.name
+      t: Supabase
+    - key: picks.shawn_wang.bio
+      t: Leder for DX hos Temporal
+    - key: picks.shawn_wang.description
+      t: |
           Supabase gjør Postgres tilgjengelig for flere utviklere og viser  
-          alle hvordan et lite, fokusert team kan levere mer enn konkurrenter som er 10 ganger så store.  
+          alle hvordan et lite, fokusert team kan levere mer enn konkurrenter som er 10 ganger så store.
 
-    - key: picks.sarah_drasner.name  
-      t: Pawel Kozlowski  
-    - key: picks.sarah_drasner.bio  
-      t: Sjefsingeniør, Kjerneutvikler Web hos Google  
-    - key: picks.sarah_drasner.description  
-      t: |  
-        Pawel Kozlowski er den typen utvikler som kan være åpen for forskjellige tilnærminger med ydmykhet og nysgjerrighet med mål om å forbedre ting.  
+    - key: picks.sarah_drasner.name
+      t: Pawel Kozlowski
+    - key: picks.sarah_drasner.bio
+      t: Sjefsingeniør, Kjerneutvikler Web hos Google
+    - key: picks.sarah_drasner.description
+      t: |
+          Pawel Kozlowski er den typen utvikler som kan være åpen for forskjellige tilnærminger med ydmykhet og nysgjerrighet med mål om å forbedre ting.
 
-    - key: picks.sara_vieira.name  
-      t: Paul Henschel  
-    - key: picks.sara_vieira.bio  
-      t: Internasjonal Agent for JS Bullshit  
-    - key: picks.sara_vieira.description  
-      t: |  
-        Pauls arbeid med animasjoner og ReactThreeFiber  
-        har gjort det mye enklere å gjøre enhver form for 3D-arbeid på nettet.  
+    - key: picks.sara_vieira.name
+      t: Paul Henschel
+    - key: picks.sara_vieira.bio
+      t: Internasjonal Agent for JS Bullshit
+    - key: picks.sara_vieira.description
+      t: |
+          Pauls arbeid med animasjoner og ReactThreeFiber  
+          har gjort det mye enklere å gjøre enhver form for 3D-arbeid på nettet.
 
-    - key: picks.mark_erikson.name  
-      t: Ryan Carniato  
-    - key: picks.mark_erikson.bio  
-      t: Redux Vedlikeholder  
-    - key: picks.mark_erikson.description  
-      t: |  
-        Ryans reaktive JS-rammeverk SolidJS nådde 1.0,  
-        og han har skrevet mange artikler som analyserer avanserte  
-        implementasjonskonsepter for JS-rammer.  
+    - key: picks.mark_erikson.name
+      t: Ryan Carniato
+    - key: picks.mark_erikson.bio
+      t: Redux Vedlikeholder
+    - key: picks.mark_erikson.description
+      t: |
+          Ryans reaktive JS-rammeverk SolidJS nådde 1.0,  
+          og han har skrevet mange artikler som analyserer avanserte  
+          implementasjonskonsepter for JS-rammer.
 
-    - key: picks.miguel_angel_duran.name  
-      t: Vite  
-    - key: picks.miguel_angel_duran.bio  
-      t: Front End Utvikler & Twitch Coding Streamer  
-    - key: picks.miguel_angel_duran.description  
-      t: |  
-        I tillegg til esbuild og swc, fantastiske verktøy som driver økosystemet fremover,  
-        nyter jeg Vite. Det har en herlig utvikleropplevelse, og er rikt på funksjoner.  
+    - key: picks.miguel_angel_duran.name
+      t: Vite
+    - key: picks.miguel_angel_duran.bio
+      t: Front End Utvikler & Twitch Coding Streamer
+    - key: picks.miguel_angel_duran.description
+      t: |
+          I tillegg til esbuild og swc, fantastiske verktøy som driver økosystemet fremover,  
+          nyter jeg Vite. Det har en herlig utvikleropplevelse, og er rikt på funksjoner.
 
-    - key: picks.alyssa_nicoll.name  
-      t: BroccoDev's Twitch Stream  
-    - key: picks.alyssa_nicoll.bio  
-      t: Senior Developer Advocate hos Progress  
-    - key: picks.alyssa_nicoll.description  
-      t: |  
-        Mike Brocchi begynte nylig å streame til Twitch. Han er en brilliant programmerer,  
-        utvikler og, viktigst av alt, lærer.  
-        Jeg har alltid det moro med å se på streamene hans og lære av ham.  
+    - key: picks.alyssa_nicoll.name
+      t: BroccoDev's Twitch Stream
+    - key: picks.alyssa_nicoll.bio
+      t: Senior Developer Advocate hos Progress
+    - key: picks.alyssa_nicoll.description
+      t: |
+          Mike Brocchi begynte nylig å streame til Twitch. Han er en brilliant programmerer,  
+          utvikler og, viktigst av alt, lærer.  
+          Jeg har alltid det moro med å se på streamene hans og lære av ham.
 
-    - key: picks.michael_jackson.name  
-      t: esbuild  
-    - key: picks.michael_jackson.bio  
-      t: Medgründer av Remix  
-    - key: picks.michael_jackson.description  
-      t: |  
-        Vi har bygget Remix-kompilatoren på toppen av esbuild, og den  
-        har definitivt hevet standarden når det gjelder JS-bundlere.  
-        Den er utrolig rask, og plugin-API-en lar oss gjøre nesten hva vi vil.  
+    - key: picks.michael_jackson.name
+      t: esbuild
+    - key: picks.michael_jackson.bio
+      t: Medgründer av Remix
+    - key: picks.michael_jackson.description
+      t: |
+          Vi har bygget Remix-kompilatoren på toppen av esbuild, og den  
+          har definitivt hevet standarden når det gjelder JS-bundlere.  
+          Den er utrolig rask, og plugin-API-en lar oss gjøre nesten hva vi vil.
 
-    - key: picks.david_khourshid.name  
-      t: Remix  
-    - key: picks.david_khourshid.bio  
-      t: Pianist og grunnlegger av Stately  
-    - key: picks.david_khourshid.description  
-      t: |  
-        Remix er et fullstack webrammeverk som føles gammeldags, men på en god måte,  
-        ved å sette deg på veien mot å lage raske, komplekse og tilgjengelige moderne webapper.  
+    - key: picks.david_khourshid.name
+      t: Remix
+    - key: picks.david_khourshid.bio
+      t: Pianist og grunnlegger av Stately
+    - key: picks.david_khourshid.description
+      t: |
+          Remix er et fullstack webrammeverk som føles gammeldags, men på en god måte,  
+          ved å sette deg på veien mot å lage raske, komplekse og tilgjengelige moderne webapper.
 
-    - key: picks.kent_c_dodds.name  
-      t: Fly.io  
-    - key: picks.kent_c_dodds.bio  
-      t: Direktør for Utvikleropplevelse, Remix  
-    - key: picks.kent_c_dodds.description  
-      t: |  
-        Fly gjorde det mulig for meg (en frontend-ingeniør med aversjon mot DevOps)  
-        å trygt distribuere en virkelig, globalt distribuert, produksjonsklar  
-        app.  
+    - key: picks.kent_c_dodds.name
+      t: Fly.io
+    - key: picks.kent_c_dodds.bio
+      t: Direktør for Utvikleropplevelse, Remix
+    - key: picks.kent_c_dodds.description
+      t: |
+          Fly gjorde det mulig for meg (en frontend-ingeniør med aversjon mot DevOps)  
+          å trygt distribuere en virkelig, globalt distribuert, produksjonsklar  
+          app.
 
-    - key: picks.tejas_kumar.name  
-      t: Joe Haddad  
-    - key: picks.tejas_kumar.bio  
-      t: Webutvikler, Konferansetaler og Direktør for DevRel hos Xata  
-    - key: picks.tejas_kumar.description  
-      t: |  
-        Joe jobber med Next.js hos Vercel og ser stadig etter å stolt  
-        demonstrere kraften i det, samtidig som han aktivt lytter  
-        til tilbakemeldinger fra fellesskapet for å støtte dem bedre.  
+    - key: picks.tejas_kumar.name
+      t: Joe Haddad
+    - key: picks.tejas_kumar.bio
+      t: Webutvikler, Konferansetaler og Direktør for DevRel hos Xata
+    - key: picks.tejas_kumar.description
+      t: |
+          Joe jobber med Next.js hos Vercel og ser stadig etter å stolt  
+          demonstrere kraften i det, samtidig som han aktivt lytter  
+          til tilbakemeldinger fra fellesskapet for å støtte dem bedre.
 
-    - key: picks.wes_bos.name  
-      t: TC39 Forslag  
-    - key: picks.wes_bos.bio  
-      t: JavaScript Lærer & Podcast Vert  
-    - key: picks.wes_bos.description  
-      t: |  
-        Et Git-repo fullt av alle de tingene som har blitt foreslått å bli lagt til i JavaScript. Det er virkelig morsomt å lese gjennom alle ideene folk har for språket og se dem gå gjennom stadiene.  
+    - key: picks.wes_bos.name
+      t: TC39 Forslag
+    - key: picks.wes_bos.bio
+      t: JavaScript Lærer & Podcast Vert
+    - key: picks.wes_bos.description
+      t: |
+          Et Git-repo fullt av alle de tingene som har blitt foreslått å bli lagt til i JavaScript. Det er virkelig morsomt å lese gjennom alle ideene folk har for språket og se dem gå gjennom stadiene.
 
-    - key: picks.scott_tolinski.name  
-      t: SvelteKit  
-    - key: picks.scott_tolinski.bio  
-      t: Skaper av Level-Up Tutorials, medvert for Syntax  
-    - key: picks.scott_tolinski.description  
-      t: |  
-        SvelteKit gir den fantastiske utvikleropplevelsen til Svelte med alle  
-        de moderne funksjonene man forventer fra en webplattform.  
+    - key: picks.scott_tolinski.name
+      t: SvelteKit
+    - key: picks.scott_tolinski.bio
+      t: Skaper av Level-Up Tutorials, medvert for Syntax
+    - key: picks.scott_tolinski.description
+      t: |
+          SvelteKit gir den fantastiske utvikleropplevelsen til Svelte med alle  
+          de moderne funksjonene man forventer fra en webplattform.
 
-    - key: picks.xxxx.name  
-      t:  
-    - key: picks.xxxx.bio  
-      t:  
-    - key: picks.xxxx.description  
-      t: |  
+    - key: picks.xxxx.name
+      t:
+    - key: picks.xxxx.bio
+      t:
+    - key: picks.xxxx.description
+      t: |
 
-    ################################################################################################  
-    # Sponsorer  
-    ################################################################################################  
+    ################################################################################################
+    # Sponsorer
+    ################################################################################################
 
-    - key: sponsors.frontendmasters.description  
-      t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.  
-    - key: sponsors.polypane.description  
-      t: Nettleseren for ambisiøse utviklere. Bygg responsive, tilgjengelige og raske nettsider med letthet.  
-    - key: sponsors.google_chrome.description  
-      t: Takk til Google Chrome-teamet for støtten til vårt arbeid.  
+    - key: sponsors.frontendmasters.description
+      t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.
+    - key: sponsors.polypane.description
+      t: Nettleseren for ambisiøse utviklere. Bygg responsive, tilgjengelige og raske nettsider med letthet.
+    - key: sponsors.google_chrome.description
+      t: Takk til Google Chrome-teamet for støtten til vårt arbeid.
 
-    ################################################################################################  
-    # FAQ/Om  
-    ################################################################################################  
+    ################################################################################################
+    # FAQ/Om
+    ################################################################################################
 
-    - key: about.content  
-      t: >  
-      State of JS 2021-undersøkelsen ble gjennomført fra 13. januar til 2. februar **2022**, og samlet inn 16 085 svar. Undersøkelsen drives av meg, [Sacha Greif](https://sachagreif.com/), med hjelp fra et team av open-source bidragsytere og konsulenter.  
+    - key: about.content
+      t: >
+          State of JS 2021-undersøkelsen ble gjennomført fra 13. januar til 2. februar **2022**, og samlet inn 16 085 svar. Undersøkelsen drives av meg, [Sacha Greif](https://sachagreif.com/), med hjelp fra et team av open-source bidragsytere og konsulenter.  
 
-      Dette årets logo og T-skjorte ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).  
+          Dette årets logo og T-skjorte ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).  
 
-      ### Mål for undersøkelsen  
+          ### Mål for undersøkelsen  
 
-      Denne undersøkelsen, sammen med [State of CSS](https://stateofcss.com/) undersøkelsen, ble laget for å identifisere kommende trender i webutviklingsøkosystemet for å hjelpe utviklere med teknologiske valg.  
+          Denne undersøkelsen, sammen med [State of CSS](https://stateofcss.com/) undersøkelsen, ble laget for å identifisere kommende trender i webutviklingsøkosystemet for å hjelpe utviklere med teknologiske valg.  
 
-      Som sådan er disse undersøkelsene fokusert på å forutsi hva som kommer i løpet av de neste årene, i stedet for å analysere hva som er populært nå, som er grunnen til at funksjonene eller teknologiene som for tiden er mest utbredte, ikke alltid er inkludert.  
+          Som sådan er disse undersøkelsene fokusert på å forutsi hva som kommer i løpet av de neste årene, i stedet for å analysere hva som er populært nå, som er grunnen til at funksjonene eller teknologiene som for tiden er mest utbredte, ikke alltid er inkludert.  
 
-      De bør også betraktes som en **snapshot av et spesifikt utvalg av utviklere**, og er ikke ment å tale for hele økosystemet.  
+          De bør også betraktes som en **snapshot av et spesifikt utvalg av utviklere**, og er ikke ment å tale for hele økosystemet.  
 
-      ### Design av undersøkelsen  
+          ### Design av undersøkelsen  
 
-      Undersøkelsen ble delvis utformet basert på fjorårets undersøkelse, med en åpen tilbakemeldingsperiode der undersøkelsens struktur ble diskutert [på GitHub](https://github.com/StateOfJS/Monorepo/issues/56).  
+          Undersøkelsen ble delvis utformet basert på fjorårets undersøkelse, med en åpen tilbakemeldingsperiode der undersøkelsens struktur ble diskutert [på GitHub](https://github.com/StateOfJS/Monorepo/issues/56).  
 
-      Alle spørsmål i undersøkelsen var valgfrie.  
+          Alle spørsmål i undersøkelsen var valgfrie.  
 
-      ### Målgruppe for undersøkelsen  
+          ### Målgruppe for undersøkelsen  
 
-      Undersøkelsen var åpen for alle på nettet, og respondenter ble ikke filtrert eller valgt på noen måte. Respondentene var først og fremst en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og sosiale medier.  
+          Undersøkelsen var åpen for alle på nettet, og respondenter ble ikke filtrert eller valgt på noen måte. Respondentene var først og fremst en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og sosiale medier.  
 
-      Merk at rammer, biblioteker osv. fritt kunne oppmuntre publikum sitt til å delta i undersøkelsen, og noen av dem utnyttet dette via bannere, tweets osv. En detaljert oversikt over trafikkilder er inkludert i "Kilder"-diagrammet.  
+          Merk at rammer, biblioteker osv. fritt kunne oppmuntre publikum sitt til å delta i undersøkelsen, og noen av dem utnyttet dette via bannere, tweets osv. En detaljert oversikt over trafikkilder er inkludert i "Kilder"-diagrammet.  
 
-      ### Representativitet og inkludering  
+          ### Representativitet og inkludering  
 
-      Selv om vi mener det er viktig å gi en stemme til hvert samfunn, vil virkeligheten være at en åpen undersøkelse som denne alltid vil slite med å representere alle på riktig måte, spesielt når den opererer gjennom systemer som allerede bærer sine egne iboende skjevheter.  
+          Selv om vi mener det er viktig å gi en stemme til hvert samfunn, vil virkeligheten være at en åpen undersøkelse som denne alltid vil slite med å representere alle på riktig måte, spesielt når den opererer gjennom systemer som allerede bærer sine egne iboende skjevheter.  
 
-      For å motvirke dette implementerer vi tre distinkte strategier:  
+          For å motvirke dette implementerer vi tre distinkte strategier:  
 
-      - **Oppsøkende arbeid**: vi prøver alltid å kontakte ulike organisasjoner (som BIPOC- eller LGBTQ-fokuserte organisasjoner, eller plattformer for nettundervisning) for å prøve å diversifisere vårt eget publikum.  
+          - **Oppsøkende arbeid**: vi prøver alltid å kontakte ulike organisasjoner (som BIPOC- eller LGBTQ-fokuserte organisasjoner, eller plattformer for nettundervisning) for å prøve å diversifisere vårt eget publikum.  
 
-      - **Dataanalyse**: gjennom funksjoner som fasetter og varianter prøver vi alltid å gjøre det lettere å fremheve stemmene til ethvert demografisk segment, uansett hvor minorisert det måtte være i våre data.  
+          - **Dataanalyse**: gjennom funksjoner som fasetter og varianter prøver vi alltid å gjøre det lettere å fremheve stemmene til ethvert demografisk segment, uansett hvor minorisert det måtte være i våre data.  
 
-      - **Barrieresenkning**: å gjøre undersøkelsen for lang, utilgjengelig, treg å laste, bare på engelsk osv. kan alle bidra til å pålegge en "effort tax" som kutter av deler av fellesskapet som ikke kan betale den. Å fikse disse problemene kan senke barrierene for innpass og samtidig gjøre publikummet vårt mer mangfoldig.  
+          - **Barrieresenkning**: å gjøre undersøkelsen for lang, utilgjengelig, treg å laste, bare på engelsk osv. kan alle bidra til å pålegge en "effort tax" som kutter av deler av fellesskapet som ikke kan betale den. Å fikse disse problemene kan senke barrierene for innpass og samtidig gjøre publikummet vårt mer mangfoldig.  
 
-      ### Prosjektfinansiering  
+          ### Prosjektfinansiering  
 
-      Finansieringen av dette prosjektet kommer fra en rekke kilder:  
+          Finansieringen av dette prosjektet kommer fra en rekke kilder:  
 
-      - **T-skjortesalg**.  
+          - **T-skjortesalg**.  
 
-      - **Diagram Sponsing**: medlemmer av fellesskapet kan donere til undersøkelsen i bytte for å få navnet sitt omtalt i rapporten.  
+          - **Diagram Sponsing**: medlemmer av fellesskapet kan donere til undersøkelsen i bytte for å få navnet sitt omtalt i rapporten.  
 
-      - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side leveres av vår partner [Frontend Masters](https://frontendmasters.com/).  
+          - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side leveres av vår partner [Frontend Masters](https://frontendmasters.com/).  
 
-      - **Annen finansiering**: i år har [Google Chrome](https://www.google.com/chrome/) teamet avsatt et lite budsjett for å hjelpe til med å ansette en [tilgjengelighetskonsulent](https://fossheim.io/) for å jobbe med CSS- og JS-undersøkelsene.  
+          - **Annen finansiering**: i år har [Google Chrome](https://www.google.com/chrome/) teamet avsatt et lite budsjett for å hjelpe til med å ansette en [tilgjengelighetskonsulent](https://fossheim.io/) for å jobbe med CSS- og JS-undersøkelsene.  
 
-      Til tross for disse finansieringskildene forblir undersøkelsene for det meste et selvfinansiert prosjekt totalt sett, og enhver bidrag eller sponsing vil bli veldig verdsatt. Jeg vil spesielt gjerne jobbe tett med flere nettleserleverandører, siden de spiller en så sentral rolle i økosystemet på nettet.  
+          Til tross for disse finansieringskildene forblir undersøkelsene for det meste et selvfinansiert prosjekt totalt sett, og enhver bidrag eller sponsing vil bli veldig verdsatt. Jeg vil spesielt gjerne jobbe tett med flere nettleserleverandører, siden de spiller en så sentral rolle i økosystemet på nettet.  
 
-      ### Teknisk oversikt  
+          ### Teknisk oversikt  
 
-      Du finner en mer inngående teknisk oversikt over hvordan undersøkelsene kjøres [her](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).  
+          Du finner en mer inngående teknisk oversikt over hvordan undersøkelsene kjøres [her](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).  
 
-      - **Datainnsamling**: egendefinert [Vulcan.js](http://vulcanjs.org/) app.  
+          - **Datainnsamling**: egendefinert [Vulcan.js](http://vulcanjs.org/) app.  
 
-      - **Databehandling/lagring**: MongoDB & MongoDB Aggregations.  
+          - **Databehandling/lagring**: MongoDB & MongoDB Aggregations.  
 
-      - **Data-API**: Node.js GraphQL API.  
+          - **Data-API**: Node.js GraphQL API.  
 
-      - **Resultatside**: [Gatsby](https://www.gatsbyjs.com/) React-app.  
+          - **Resultatside**: [Gatsby](https://www.gatsbyjs.com/) React-app.  
 
-      - **Datavisualiseringer**: [Nivo](https://nivo.rocks/) React dataviz-bibliotek.  
+          - **Datavisualiseringer**: [Nivo](https://nivo.rocks/) React dataviz-bibliotek.  
 
-      - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) og [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).  
+          - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) og [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).
