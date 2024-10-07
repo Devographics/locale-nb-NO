@@ -365,7 +365,6 @@ translations:
     - key: options.age.range_more_than_65
       t: 65 år eller eldre
 
-
     # age (short versions)
     - key: options.age.range_less_than_10.short
       t: "<=10"
@@ -398,7 +397,7 @@ translations:
     - key: options.years_of_experience.range_more_than_20
       t: Mer enn 20 år
 
-        # years of experience (short versions)
+    # years of experience (short versions)
     - key: options.years_of_experience.range_less_than_1.short
       t: "<1 år"
     - key: options.years_of_experience.range_1_2.short
@@ -632,8 +631,7 @@ translations:
     - key: options.form_factors.vision_simulator
       t: Simulering av endret syn (fargeblindhet osv.)
 
-
-        # Industry Sector
+    # Industry Sector
     - key: options.industry_sector.ecommerce
       t: E-handel og detaljhandel
     - key: options.industry_sector.news_media
@@ -890,19 +888,18 @@ translations:
       t: Funksjonshemningstatus
     - key: user_info.disability_status.question
       t: >
-      Hvilke av følgende funksjonshemninger opplever du, hvis noen? Vennligst sjekk alle som gjelder.
-      Merk at dette kan inkludere midlertidige funksjonshemninger eller skader.
+          Hvilke av følgende funksjonshemninger opplever du, hvis noen? Vennligst sjekk alle som gjelder.
+          Merk at dette kan inkludere midlertidige funksjonshemninger eller skader.
 
-
-        # funksjonshemmingstatus (andre)
+    # disability status (other)
     - key: user_info.disability_status.others
-      t: Andre Funksjonshemminger
+      t: Andre funksjonshemminger
 
     # annen informasjon
     - key: user_info.how_did_user_find_out_about_the_survey
       t: Hvordan fant du ut om denne undersøkelsen?
     - key: user_info.email
-      t: Din E-post
+      t: Din e-post
     - key: user_info.email.description
       t: >
           Du har fylt ut undersøkelsen anonymt. Hvis du ønsker det, kan du valgfritt oppgi e-posten din for å få tilgang til dataene dine senere og bli varslet når undersøkelsesresultatene publiseres.
@@ -934,13 +931,13 @@ translations:
     - key: user_info.industry_sector.question
       t: Hvilken industrisektor(er) jobber du i?
     - key: user_info.industry_sector.others
-      t: Andre Industriseksjoner
+      t: Andre industriseksjoner
     - key: user_info.industry_sector.others.description
       t: Andre industrisektor(er) du jobber i, ikke nevnt ovenfor.
 
     # grad
     - key: user_info.higher_education_degree
-      t: Høyere Utdanningsgrad
+      t: Høyereutdanningsgrad
     - key: user_info.higher_education_degree.question
       t: Har du en høyere utdanningsgrad?
 

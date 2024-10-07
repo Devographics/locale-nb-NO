@@ -162,7 +162,7 @@ translations:
           Snart vil det bli mye enklere å plassere elementer på de samme grid-linjene over hele siden.
 
     - key: picks.bramus_van_damme.name
-      t: `:has()`-selektoren
+      t: has()-selektoren
     - key: picks.bramus_van_damme.bio
       t: Chrome Developer Relations Engineer hos Google
     - key: picks.bramus_van_damme.description
