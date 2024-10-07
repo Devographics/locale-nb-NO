@@ -45,11 +45,11 @@ translations:
 
     - key: sections.tshirt.description
       t: |
-        ## Støtt undersøkelsen med State of CSS T-skjorten
+          ## Støtt undersøkelsen med State of CSS T-skjorten
 
-        Videokvalitet, klumpete kassetter og behovet for å spole tilbake er ting vi ikke savner fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-tallsvisuelle elementene som pleide å pryde tomme VHS-kassetter.
+          Videokvalitet, klumpete kassetter og behovet for å spole tilbake er ting vi ikke savner fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-tallsvisuelle elementene som pleide å pryde tomme VHS-kassetter.
 
-        Men nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retro-stilen samtidig som du feirer kjærligheten din for CSS!
+          Men nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retro-stilen samtidig som du feirer kjærligheten din for CSS!
 
     - key: tshirt.about
       t: Om t-skjorten
@@ -181,12 +181,12 @@ translations:
           morsomme og imponerende demonstrasjoner og CodePens. Med alle de nye funksjonene 
           som nylig har blitt introdusert i CSS, er Jhey i frontlinjen for å forklare hvordan de fungerer.
     - key: picks.samuel_kraft.name
-      t: `:has()`-selektoren
+      t: :has()-selektoren
     - key: picks.samuel_kraft.bio
       t: Design Engineer
     - key: picks.samuel_kraft.description
       t: |
-          Den nye `:has()`-selektoren er superkraftig og åpner for nye stylingmuligheter. 
+          Den nye :has()-selektoren er superkraftig og åpner for nye stylingmuligheter. 
           Denne flotte artikkelen fra Jen Simmons forklarer det grundig med forklaringer og praktiske eksempler.
 
     - key: picks.josh_comeau.name
@@ -200,7 +200,7 @@ translations:
           løse gamle problemer på nye måter.
 
     - key: picks.adam_argyle.name
-      t: `:has()`-selektoren
+      t: :has()-selektoren
     - key: picks.adam_argyle.bio
       t: UI/CSS DevRel at Google
     - key: picks.adam_argyle.description
@@ -253,7 +253,7 @@ translations:
     #   t: |
 
     - key: picks.jen_simmons.name
-      t: `:has()`-selektoren
+      t: :has()-selektoren
     - key: picks.jen_simmons.bio
       t: Webteknologi-evangelist hos Apple
     - key: picks.jen_simmons.description
@@ -262,7 +262,7 @@ translations:
           i 2022, kom det som en total overraskelse da `:has()`-pseudoklassen dukket opp for å løse dette – og mye mer.
 
     - key: picks.sara_soueidan.name
-      t: `:has()`-selektoren
+      t: :has()-selektoren
     - key: picks.sara_soueidan.bio
       t: Ingeniør innen inkluderende design
     - key: picks.sara_soueidan.description

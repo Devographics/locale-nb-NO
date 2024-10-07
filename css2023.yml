@@ -231,7 +231,7 @@ translations:
     #     lines across the entire page.
 
     # - key: picks.bramus_van_damme.name
-    #   t: `:has()`-selektoren
+    #   t: :has()-selektoren
     # - key: picks.bramus_van_damme.bio
     #   t: Chrome Developer Relations Engineer at Google
     # - key: picks.bramus_van_damme.description
@@ -249,7 +249,7 @@ translations:
           Ahmads blogg er en kilde til kunnskap og inspirasjon, med dyptgående utforskninger av ulike temaer, inkludert flotte visuelle eksempler og brukstilfeller.
 
     # - key: picks.samuel_kraft.name
-    #   t: `:has()`-selektoren
+    #   t: :has()-selektoren
     # - key: picks.samuel_kraft.bio
     #   t: Design Engineer
     # - key: picks.samuel_kraft.description
@@ -297,12 +297,12 @@ translations:
 
     - key: picks.jhey_tompkins.name
       t: |
-          `:has()`-selektoren
+          :has()-selektoren
     - key: picks.jhey_tompkins.bio
       t: CEO for Fancy CSS
     - key: picks.jhey_tompkins.description
       t: |
-          `:has()` er magien som lar deg kombinere andre API-er som container-spørringer, ankerposisjonering, osv. Jeg gleder meg til å se hvordan samfunnet finner nye og innovative måter å bruke det på.
+          :has() er magien som lar deg kombinere andre API-er som container-spørringer, ankerposisjonering, osv. Jeg gleder meg til å se hvordan samfunnet finner nye og innovative måter å bruke det på.
 
     # - key: picks.gift_egwuenu.name
     #   t: Learn CSS
@@ -330,7 +330,7 @@ translations:
     #   t: |
 
     # - key: picks.jen_simmons.name
-    #   t: `:has()`-selektoren
+    #   t: :has()-selektoren
     # - key: picks.jen_simmons.bio
     #   t: Web technologies evangelist at Apple
     # - key: picks.jen_simmons.description
