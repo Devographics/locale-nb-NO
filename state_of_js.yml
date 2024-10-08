@@ -7,203 +7,199 @@ translations:
 
     - key: general.state_of_js.intro
       t: >
-          The JavaScript world could use a bit of classification.
+          JavaScript-verdenen kan trenge litt klassifisering.
 
+          Siden 2016 har denne undersøkelsen samlet inn data fra over 20 000 utviklere hvert år for å identifisere nåværende og kommende trender.
 
-          Since 2016, this survey has collected 
-          data from over 20,000 developers each year to identify current and upcoming trends.
-
-
-          Together, let's find out which libraries developers 
-          want to learn next, which have the best retention ratings, and much more.
+          La oss sammen finne ut hvilke biblioteker utviklere ønsker å lære neste, hvilke som har de beste retensjonsvurderingene, og mye mer.
 
     - key: general.state_of_js.title
-      t: The State of JavaScript Developer Survey
+      t: Tilstanden til JavaScript-utviklerundersøkelsen
 
     - key: general.state_of_js.description
-      t: The annual developer survey of the JavaScript ecosystem
+      t: Den årlige utviklerundersøkelsen av JavaScript-økosystemet
 
     ###########################################################################
-    # Sections
+    # Seksjoner
     ###########################################################################
 
     - key: sections.features.title
-      t: Features
+      t: Funksjoner
     - key: sections.features.description
-      t: Syntax, browser APIs, and other features.
+      t: Syntaks, nettleser-API-er og andre funksjoner.
 
     - key: sections.syntax.title
-      t: Syntax
+      t: Syntaks
     - key: sections.syntax.description
-      t: The grammar of JavaScript.
+      t: Grammatikk i JavaScript.
 
     - key: sections.language.title
       t: Språk
     - key: sections.language.description
-      t: The vocabulary of JavaScript.
+      t: Ordforrådet til JavaScript.
 
     - key: sections.data_structures.title
-      t: Data Structures
+      t: Datastrukturer
     - key: sections.data_structures.description
-      t: How you store and manipulate data.
+      t: Hvordan du lagrer og manipulerer data.
 
     - key: sections.browser_apis.title
-      t: Browser APIs
+      t: Nettleser-API-er
     - key: sections.browser_apis.description
-      t: The features provided by the browser.
+      t: Funksjonene som tilbys av nettleseren.
 
     - key: sections.other_features.title
       t: Andre funksjoner
     - key: sections.other_features.description
-      t: Other technologies and patterns
+      t: Andre teknologier og mønstre.
 
     - key: sections.patterns.title
-      t: Patterns
+      t: Mønstre
     - key: sections.patterns.description
-      t: How you prefer writing code
+      t: Hvordan du foretrekker å skrive kode.
 
     - key: sections.javascript_flavors.title
-      t: JavaScript Flavors
+      t: JavaScript-varianter
     - key: sections.javascript_flavors.description
-      t: Languages that compile to JavaScript
+      t: Språk som kompilerer til JavaScript.
 
     - key: sections.front_end_frameworks.title
-      t: Front-end Frameworks
+      t: Front-end rammeverk
     - key: sections.front_end_frameworks.description
-      t: Front-end frameworks and libraries
+      t: Front-end rammeverk og biblioteker.
 
     - key: sections.datalayer.title
-      t: Data Layer
+      t: Datagrunnlag
     - key: sections.datalayer.description
-      t: Loading and managing data in your app
+      t: Laste og administrere data i appen din.
 
     - key: sections.rendering_frameworks.title
-      t: Rendering Frameworks
+      t: Rendering-rammeverk
     - key: sections.rendering_frameworks.description
-      t: Frameworks focused on rendering and serving your application
+      t: Rammeverk fokusert på å gjengi og servere applikasjonen din.
 
     - key: sections.meta_frameworks.title
-      t: Meta-Frameworks
+      t: Meta-rammeverk
     - key: sections.meta_frameworks.description
-      t: Frameworks focused on rendering and serving your application
+      t: Rammeverk fokusert på å gjengi og servere applikasjonen din.
 
     - key: sections.back_end_frameworks.title
-      t: Back-end Frameworks
+      t: Back-end rammeverk
     - key: sections.back_end_frameworks.description
-      t: JavaScript on the server
+      t: JavaScript på serveren.
 
     - key: sections.testing.title
       t: Testing
     - key: sections.testing.description
-      t: Tools for testing your code
+      t: Verktøy for å teste koden din.
 
     - key: sections.mobile_desktop.title
-      t: Mobile & Desktop
+      t: Mobil og Desktop
     - key: sections.mobile_desktop.description
-      t: JavaScript for mobile devices and desktop apps
+      t: JavaScript for mobile enheter og skrivebordsapper.
 
     - key: sections.build_tools.title
-      t: Build Tools
+      t: Byggeverktøy
     - key: sections.build_tools.description
-      t: Compiling & bundling code
+      t: Kompilering og bundling av kode.
 
     - key: sections.monorepo_tools.title
-      t: Monorepo Tools
+      t: Monorepo-verktøy
     - key: sections.monorepo_tools.description
-      t: Tools used to manage JavaScript monorepos.
+      t: Verktøy som brukes til å administrere JavaScript-monorepoer.
 
     - key: sections.tools_others.title
       t: Andre verktøy
     - key: sections.tools_others.description
-      t: Other JavaScript tools
+      t: Andre JavaScript-verktøy.
 
     - key: sections.other_tools.title
       t: Andre verktøy
     - key: sections.other_tools.description
-      t: For these tools & technologies, just check the ones that you use regularly.
+      t: For disse verktøyene og teknologiene, bare sjekk de du bruker regelmessig.
 
     - key: sections.resources_js.title
       t: Ressurser
     - key: sections.resources_js.description
-      t: What JavaScript resources do you consult?
+      t: Hvilke JavaScript-ressurser konsulterer du?
 
     - key: sections.usage_js.title
-      t: Usage
+      t: Bruk
     - key: sections.usage_js.description
-      t: How you use JavaScript
+      t: Hvordan du bruker JavaScript.
 
     ###########################################################################
-    # Survey Help
+    # Survey help
     ###########################################################################
 
     - key: features.features_intro
       t: >
-          Welcome to the survey! This first part is all about figuring out 
-          which **features** of the JavaScript language you know about. 
-          And if you know about something but haven't yet used it, that's fine too!
+          Velkommen til undersøkelsen! Denne første delen handler om å finne ut 
+          hvilke **funksjoner** i JavaScript-språket du kjenner til. 
+          Og hvis du kjenner til noe, men ikke har brukt det ennå, er det helt greit!
 
     - key: tools.tools_intro
       t: >
-          The next couple sections focus on the **libraries** and **frameworks** that make up 
-          the JavaScript ecosystem. Let us know what you're excited about!
+          De neste par seksjonene fokuserer på **biblioteker** og **rammeverk** som utgjør 
+          JavaScript-økosystemet. Gi oss beskjed om hva du gleder deg til!
 
     ###########################################################################
     # Options
     ###########################################################################
 
-    # JS pain points
+    #  JS pain points
     # - key: options.top_js_pain_points.browser_interoperability
-    #   t: Browser Compatibility
+    #   t: Nettleserkompatibilitet
     # - key: options.js_pain_points.browser_interoperability.description
-    #   t: Differences between Chrome, Safari, Firefox, etc.
+    #   t: Forskjeller mellom Chrome, Safari, Firefox, osv.
     # - key: options.js_pain_points.animations
-    #   t: Animations
+    #   t: Animasjoner
     # - key: options.js_pain_points.animations.description
-    #   t: Managing animations, transitions, etc. using JavaScript.
+    #   t: Håndtering av animasjoner, overganger osv. ved hjelp av JavaScript.
     # - key: options.js_pain_points.form_handling
-    #   t: Form Handling
+    #   t: Skjema håndtering
     # - key: options.js_pain_points.form_handling.description
-    #   t: Creating forms, managing their state and errors, and saving their data.
+    #   t: Lage skjemaer, administrere deres tilstand og feil, og lagre deres data.
     - key: options.js_pain_points.state_management
-      t: State Management
+      t: Tilstandsadministrasjon
     - key: options.js_pain_points.state_management.description
-      t: Managing global data state in complex applications.
+      t: Administrering av global datatilstand i komplekse applikasjoner.
     # - key: options.js_pain_points.performance_issues
-    #   t: Performance Issues
+    #   t: Ytelsesproblemer
     # - key: options.js_pain_points.performance_issues.description
-    #   t: Bundle sizes, slow loading, and other performance issues.
+    #   t: Bundle-størrelser, treg lasting, og andre ytelsesproblemer.
     - key: options.js_pain_points.managing_dependencies
-      t: Managing Dependencies
+      t: Håndtering av avhengigheter
     - key: options.js_pain_points.managing_dependencies.description
-      t: Managing dependencies, package versions and bundle sizes.
+      t: Håndtering av avhengigheter, pakkeversjoner og bundle-størrelser.
     - key: options.js_pain_points.architecture
-      t: Code Architecture
+      t: Kodearkitektur
     - key: options.js_pain_points.architecture.description
-      t: Organizing and maintaining your codebase.
+      t: Organisering og vedlikehold av kodebasen din.
     - key: options.js_pain_points.finding_packages
-      t: Finding Packages
+      t: Finne pakker
     - key: options.js_pain_points.finding_packages.description
-      t: Finding and evaluating JavaScript packages.
+      t: Finne og evaluere JavaScript-pakker.
     - key: options.js_pain_points.writing_modules
-      t: Writing Modules
+      t: Skrive moduler
     - key: options.js_pain_points.writing_modules.description
-      t: Writing JavaScript modules and publishing them as packages.
+      t: Skrive JavaScript-moduler og publisere dem som pakker.
     - key: options.js_pain_points.debugging
-      t: Debugging
+      t: Feilsøking
     - key: options.js_pain_points.debugging.description
-      t: Identifying and solving issues with your code.
+      t: Identifisere og løse problemer med koden din.
     - key: options.js_pain_points.async_code
-      t: Async Code
+      t: Asynkron kode
     - key: options.js_pain_points.async_code.description
-      t: Handling asynchronous functions.
+      t: Håndtere asynkrone funksjoner.
     - key: options.js_pain_points.modules_management
-      t: Modules Management
+      t: Moduler administrasjon
     - key: options.js_pain_points.modules_management.description
-      t: Writing and importing modules.
+      t: Skrive og importere moduler.
     - key: options.js_pain_points.date_management
-      t: Date Management
+      t: Datohåndtering
     - key: options.js_pain_points.date_management.description
-      t: Handling and manipulating dates and times.
+      t: Håndtere og manipulere datoer og tider.
     # - key: options.js_pain_points.xxx
     #   t:
     # - key: options.js_pain_points.xxx.description
@@ -247,19 +243,19 @@ translations:
       aliasFor: options.js_pain_points.date_management.description
 
     - key: options.top_js_pain_points.performance
-      t: Performance
+      t: Ytelse
     - key: options.top_js_pain_points.performance.description
-      t: Writing performant and efficient JavaScript code
+      t: Skrive effektiv JavaScript-kode
 
     - key: options.top_js_pain_points.build_tools
-      t: Build Tools
+      t: Byggverktøy
     - key: options.top_js_pain_points.build_tools.description
-      t: Managing tooling to bundle your code
+      t: Styre verktøy for å bundle koden din
 
     - key: options.top_js_pain_points.typing
-      t: Typing
+      t: Definere typer
     - key: options.top_js_pain_points.typing.description
-      t: Managing and maintaining types
+      t: Administrere og vedlikeholde typer
 
     - key: options.top_js_pain_points.typescript
       t: TypeScript
@@ -268,57 +264,58 @@ translations:
     - key: options.top_js_pain_points.testing
       t: Testing
     - key: options.top_js_pain_points.too_many_choices
-      t: Too Many Choices
+      t: For mange valg
     - key: options.top_js_pain_points.react
       t: React
     - key: options.top_js_pain_points.bundlers
-      t: Bundlers
+      t: Bundlere
     - key: options.top_js_pain_points.complexity
-      t: Complexity
+      t: Kompleksitet
     - key: options.top_js_pain_points.standard_library
-      t: Standard Library
+      t: Standard-bibliotek
     - key: options.top_js_pain_points.tooling
-      t: Tooling
+      t: Verktæy
     - key: options.top_js_pain_points.dependencies
-      t: Dependencies
+      t: Avhengigheter
     - key: options.top_js_pain_points.security
-      t: Security
+      t: Sikkerhet
     - key: options.top_js_pain_points.slow
-      t: Slowness
+      t: Treghet
 
     # JS missing features
     - key: options.currently_missing_from_js.static_typing
-      t: Static Typing
+      t: Statiske typer
     - key: options.currently_missing_from_js.static_typing.description
-      t: Native runtime typing; or TypeScript-style type-as-comments
+      t: Native runtime typing; eller TypeScript-style type-as-comments
     - key: options.currently_missing_from_js.standard_library
-      t: Standard Library
+      t: Standard-bibliotek
     - key: options.currently_missing_from_js.standard_library.description
-      t: A standard library of common utilities
+      t: Et standardbibliotek med vanlige verktøy
     - key: options.currently_missing_from_js.pattern_matching
-      t: Pattern Matching
+      t: Mønster Matching
     - key: options.currently_missing_from_js.pattern_matching.description
-      t: A new `match` keyword for pattern-matching objects.
+      t: Et nytt `match`-nøkkelord for mønstermatching av objekter.
     - key: options.currently_missing_from_js.pipe_operator
-      t: Pipe Operator
+      t: Pipe-Operator
     - key: options.currently_missing_from_js.pipe_operator.description
-      t: A new `|>` operator for passing the result of one function to another.
+      t: En ny `|>`-operator for å sende resultatet av én funksjon til en annen.
     - key: options.currently_missing_from_js.decorators
-      t: Decorators
+      t: Dekoratører
     - key: options.currently_missing_from_js.decorators.description
-      t: Decorators used to metaprogram and add functionality to a value.
+      t: Dekoratører brukt for metaprogrammering og for å legge til funksjonalitet til en verdi.
     - key: options.currently_missing_from_js.immutable_data_structures
-      t: Immutable Data Structures
+      t: Uforanderlige Datastrukturer
     - key: options.currently_missing_from_js.immutable_data_structures.description
-      t: New deeply immutable data structures such as `Record` and `Tuple`.
+      t: Nye dypt uforanderlige datastrukturer som `Record` og `Tuple`.
     - key: options.currently_missing_from_js.better_date_management
-      t: Better Date Management
+      t: Bedre Databehandling
     - key: options.currently_missing_from_js.better_date_management.description
-      t: A new `Temporal` object for working with dates and times.
+      t: Et nytt `Temporal`-objekt for å arbeide med datoer og tidspunkter.
     - key: options.currently_missing_from_js.observable
       t: Observable
     - key: options.currently_missing_from_js.observable.description
-      t: A new `Observable` type used to model push-based data sources.
+      t: En ny `Observable`-type brukt for å modellere push-baserte datakilder.
+
     # - key: options.currently_missing_from_js.xxx
     #   t:
     # - key: options.currently_missing_from_js.xxx.description
@@ -358,128 +355,128 @@ translations:
       aliasFor: options.currently_missing_from_js.observable.description
 
     - key: options.top_currently_missing_from_js.static_typing
-      t: Static Typing
+      t: Statisk typing
     - key: options.top_currently_missing_from_js.standard_library
-      t: Standard Library
+      t: Standardbibliotek
     - key: options.top_currently_missing_from_js.operator_overloading
-      t: Operator Overloading
+      t: Operatøroverlasting
     - key: options.top_currently_missing_from_js.immutable
-      t: Immutable Data Structures
+      t: Immutable datastrukturer
     - key: options.top_currently_missing_from_js.deep_clone
-      t: Deep Clone
+      t: Dyp kloning
     - key: options.top_currently_missing_from_js.enums
       t: Enums
     - key: options.top_currently_missing_from_js.decorators
-      t: Decorators
+      t: Dekoratører
     - key: options.top_currently_missing_from_js.multithreading
       t: Multithreading
     - key: options.top_currently_missing_from_js.pipe_operator
-      t: Pipe Operator
+      t: Røroperator
     - key: options.top_currently_missing_from_js.native_observables
-      t: Native Observables
+      t: Native observables
 
-    # What do you use JS for?
+    # Hva bruker du JS til?
     - key: options.what_do_you_use_js_for.frontend_development
-      t: Frontend Development
+      t: Frontend utvikling
     - key: options.what_do_you_use_js_for.backend_development
-      t: Backend Development
+      t: Backend utvikling
     - key: options.what_do_you_use_js_for.data_analysis
-      t: Data Analysis
+      t: Dataanalyse
     - key: options.what_do_you_use_js_for.machine_learning
-      t: Machine Learning
+      t: Maskinlæring
     - key: options.what_do_you_use_js_for.desktop_apps
-      t: Desktop Apps
+      t: Skrivebordsapper
     - key: options.what_do_you_use_js_for.mobile_apps
-      t: Mobile Apps
+      t: Mobilapper
     - key: options.what_do_you_use_js_for.embedded_apps
-      t: Embedded Apps
+      t: Innebygde apper
     - key: options.what_do_you_use_js_for.game_development
-      t: Game Development
+      t: Spillutvikling
     - key: options.what_do_you_use_js_for.data_visualization
-      t: Data Visualization
+      t: Datavisualisering
     - key: options.what_do_you_use_js_for.graphics_animation
-      t: Graphics & Animation
+      t: Grafikk og animasjon
 
     - key: options.what_do_you_use_js_for.scripting
-      t: Scripting
+      t: Skripting
     - key: options.what_do_you_use_js_for.command_line_tools
-      t: Command Line Tools
+      t: Kommandolinjeverktøy
     - key: options.what_do_you_use_js_for.developer_tooling
-      t: Developer Tooling
+      t: Utviklerverktøy
     - key: options.what_do_you_use_js_for.automation
-      t: Automation
+      t: Automatisering
     - key: options.what_do_you_use_js_for.bots
-      t: Bots
+      t: Roboter
     - key: options.what_do_you_use_js_for.testing
       t: Testing
     - key: options.what_do_you_use_js_for.browser_extensions
-      t: Browser Extensions
+      t: Nettleserutvidelser
     - key: options.what_do_you_use_js_for.api
-      t: APIs
+      t: API-er
     - key: options.what_do_you_use_js_for.infrastructure_as_code
-      t: Infrastructure as Code
+      t: Infrastruktur som kode
     - key: options.what_do_you_use_js_for.prototyping
       t: Prototyping
 
     # JS App Patterns
 
     - key: options.js_app_patterns.single_page_app
-      t: Single Page Application (SPA)
+      t: Ensideapplikasjon (SPA)
     - key: options.js_app_patterns.single_page_app.description
-      t: Apps that run entirely in the browser
+      t: Apper som kjører helt i nettleseren
     - key: options.js_app_patterns.multiple_page_app
-      t: Multi-Page Application (MPA)
+      t: Flersideapplikasjon (MPA)
     - key: options.js_app_patterns.multiple_page_app.description
-      t: Apps that run entirely on the server, with minimal client-side dynamic behavior
+      t: Apper som kjører helt på serveren, med minimal dynamisk atferd på klientsiden
     - key: options.js_app_patterns.static_site_generation
-      t: Static Site Generation (SSG)
+      t: Statisk sidegenerering (SSG)
     - key: options.js_app_patterns.static_site_generation.description
-      t: Static content pre-rendered at build time, with or without a client-side dynamic element
+      t: Statisk innhold forhåndsbehandlet ved byggetid, med eller uten et dynamisk element på klientsiden
     - key: options.js_app_patterns.server_side_rendering
-      t: Server-Side Rendering (SSR)
+      t: Server-side rendering (SSR)
     - key: options.js_app_patterns.server_side_rendering.description
-      t: Dynamically rendering HTML content on the server on request, before rehydrating it on the client
+      t: Dynamisk generering av HTML-innhold på serveren ved forespørsel, før det hydreres på klientsiden
     - key: options.js_app_patterns.partial_hydration
-      t: Partial Hydration
+      t: Delvis hydrering
     - key: options.js_app_patterns.partial_hydration.description
-      t: Only hydrating some of your components on the client (e.g. React Server Components)
+      t: Bare hydrere noen av komponentene dine på klientsiden (f.eks. React Server Components)
     - key: options.js_app_patterns.progressive_rehydration
-      t: Progressive Hydration
+      t: Progressiv hydrering
     - key: options.js_app_patterns.progressive_rehydration.description
-      t: Controlling the order of component hydration on the client
+      t: Kontrollere rekkefølgen av komponenthydrering på klientsiden
     - key: options.js_app_patterns.islands_architecture
-      t: Islands Architecture
+      t: Øy-arkitektur
     - key: options.js_app_patterns.islands_architecture.description
-      t: Isolated islands of dynamic behavior with multiple entry points in an otherwise static site (Astro, Eleventy)
+      t: Isolerte øyer av dynamisk atferd med flere inngangspunkter i en ellers statisk side (Astro, Eleventy)
     - key: options.js_app_patterns.progressive_enhancement
-      t: Progressive Enhancement
+      t: Progressiv forbedring
     - key: options.js_app_patterns.progressive_enhancement.description
-      t: Making sure an app is functional even without JavaScript
+      t: Sikre at en app er funksjonell selv uten JavaScript
     - key: options.js_app_patterns.incremental_static_generation
-      t: Incremental Static Generation
+      t: Inkrementell statisk generering
     - key: options.js_app_patterns.incremental_static_generation.description
-      t: Being able to dynamically augment or modify a static site even after the initial build (Next.js ISR & on-demand revalidation, Gatsby DSG)
+      t: Mulighet til å dynamisk augmentere eller endre en statisk side selv etter den første byggingen (Next.js ISR & on-demand revalidation, Gatsby DSG)
     - key: options.js_app_patterns.streaming_ssr
       t: Streaming SSR
     - key: options.js_app_patterns.streaming_ssr.description
-      t: Breaking down server-rendered content in smaller streamed chunks
+      t: Dele opp servergenerert innhold i mindre strømmede biter
     - key: options.js_app_patterns.resumability
-      t: Resumability
+      t: Gjenopptakbarhet
     - key: options.js_app_patterns.resumability.description
-      t: Serializing framework state on the server so the client can resume execution with no duplicated code execution.
+      t: Serialisere rammeverksstatus på serveren slik at klientsiden kan gjenoppta utførelsen uten duplisert kodeutførelse.
     - key: options.js_app_patterns.edge_rendering
-      t: Edge Rendering
+      t: Kantrendering
     - key: options.js_app_patterns.edge_rendering.description
-      t: Altering rendered HTML at the edge before sending it on to the client
+      t: Endre rendert HTML på kanten før det sendes videre til klienten
     - key: options.js_app_patterns.partial_prerendering
-      t: Partial Prerendering
+      t: Delvis forhåndsrendering
     - key: options.js_app_patterns.partial_prerendering.description
-      t: Render a route with a static loading shell, while keeping some parts dynamic
+      t: Rendre en rute med et statisk innlastingsskall, samtidig som noen deler forblir dynamiske
 
     - key: options.js_app_patterns.micro_frontend
-      t: Micro Frontend
+      t: Mikrofrontend
     - key: options.js_app_patterns.domain_driven_design
-      t: Domain-Driven Design
+      t: Domene-drevet design
     - key: options.js_app_patterns.serverless
       t: Serverless
     - key: options.js_app_patterns.pespa
@@ -506,81 +503,81 @@ translations:
       t: 100% TS
 
     ###########################################################################
-    # Features
+    # Funksjoner
     ###########################################################################
 
-    # syntax
+    # syntaks
     - key: features.destructuring
-      t: Destructuring
+      t: Destrukturering
     - key: features.spread_operator
-      t: Spread operator
+      t: Spredningsoperator
     - key: features.arrow_functions
-      t: Arrow Functions
+      t: Pilfunksjoner
     - key: features.nullish_coalescing
-      t: Nullish Coalescing
+      t: Nullish sammenslåing
     - key: features.optional_chaining
-      t: Optional Chaining
+      t: Valgfri kjede
     - key: features.private_fields
-      t: Private Fields
+      t: Private felt
 
-    # language
+    # språk
     - key: features.proxies
       t: Proxies
     - key: features.async_await
       t: Async/Await
     - key: features.promises
-      t: Promises
+      t: Promisser
     - key: features.decorators
-      t: Decorators
+      t: Dekoratører
     - key: features.decorators.description
       t: >
-          In its simplest form, a decorator is simply a way of 
-          wrapping one piece of code with another — literally “decorating” it.
+          I sin enkleste form er en dekoratør ganske enkelt en måte å 
+          pakke ett stykke kode med et annet — bokstavelig talt “dekorere” det.
     - key: features.dynamic_import
-      t: Dynamic Import
+      t: Dynamisk import
 
     - key: features.syntax_features
-      t: Syntax Features
+      t: Syntaksfunksjoner
     - key: features.syntax_features.question
-      t: Which of these syntax features have you used?
+      t: Hvilke av disse syntaksfunksjonene har du brukt?
 
     - key: features.string_features
-      t: String Features
+      t: Strengfunksjoner
     - key: features.string_features.question
-      t: Which of these String features have you used?
+      t: Hvilke av disse strengfunksjonene har du brukt?
 
     - key: features.array_features
-      t: Array Features
+      t: Array-funksjoner
     - key: features.array_features.question
-      t: Which of these Array features have you used?
+      t: Hvilke av disse array-funksjonene har du brukt?
 
     - key: features.async_features
-      t: Async Features
+      t: Async-funksjoner
     - key: features.async_features.question
-      t: Which of these async features have you used?
+      t: Hvilke av disse async-funksjonene har du brukt?
 
     - key: features.browser_api_features
-      t: Browser APIs
+      t: Browser-API-er
     - key: features.browser_api_features.question
-      t: Which of these browser APIs have you used?
+      t: Hvilke av disse browser-API-ene har du brukt?
 
     - key: features.language_pain_points
       t: Utfordringer med språk
     - key: features.language_pain_points.question
-      t: What are your main pain points regarding the JavaScript language?
+      t: Hva er dine viktigste smertepunkter når det gjelder JavaScript-språket?
 
     - key: features.browser_apis_pain_points
-      t: Browser APIs Pain Points
+      t: Smertepunkter med browser-API-er
     - key: features.browser_apis_pain_points.question
-      t: What are your main pain points regarding browser APIs?
+      t: Hva er dine viktigste smertepunkter når det gjelder browser-API-er?
 
-    # patterns
+    # mønstre
     - key: patterns.object_oriented_programming
-      t: Object-Oriented Programming
+      t: Objektorientert programmering
     - key: features.functional_programming
-      t: Functional Programming
+      t: Funksjonell programmering
     - key: features.reactive_programming
-      t: Reactive Programming
+      t: Reaktiv programmering
 
     # upcoming features
     # - key: features.static_typing
@@ -604,297 +601,297 @@ translations:
 
     - key: tools.angular.description
       t: >
-          Note that this question only targets [Angular](https://angular.io/) experience,
-          and specifically does *not* apply to the deprecated [AngularJS](https://angularjs.org/).
+          Vær oppmerksom på at dette spørsmålet kun retter seg mot [Angular](https://angular.io/) erfaring,
+          og gjelder spesifikt *ikke* den avviklede [AngularJS](https://angularjs.org/).
 
     - key: tools.best_of_js_projects.note
       t: >
-          Libraries are loaded from [Best of JS](https://bestofjs.org/). 
-          If a project is missing, you can [submit it here](https://github.com/michaelrambeau/bestofjs/issues/new?template=add-a-project-to-best-of-javascript.md).
+          Bibliotekene lastes fra [Best of JS](https://bestofjs.org/). 
+          Hvis et prosjekt mangler, kan du [sende det inn her](https://github.com/michaelrambeau/bestofjs/issues/new?template=add-a-project-to-best-of-javascript.md).
 
     - key: tools.pain_points
-      t: Pain Points
+      t: Utfordringer
     - key: tools.ratios
-      t: Ratios Over Time
+      t: Forhold over tid
     - key: tools.experience
-      t: Experience & Sentiment
+      t: Erfaring & meninger
     - key: tools.others
       t: Andre verktøy
 
     # front-end frameworks
 
     - key: tools.front_end_frameworks_ratios
-      t: Front-end Frameworks Ratios Over Time
+      t: Forhold for front-end rammeverk over tid
     - key: tools.front_end_frameworks_ratios.short
       aliasFor: tools.ratios
 
     - key: tools.front_end_frameworks_experience
-      t: Front-end Frameworks Experience & Sentiment
+      t: Erfaring & meninger for front-end rammeverk
     - key: tools.front_end_frameworks_experience.short
       aliasFor: tools.experience
 
     - key: tools.front_end_frameworks.others
-      t: Other Front-end Frameworks
+      t: Andre front-end rammeverk
     - key: tools.front_end_frameworks.others.short
       aliasFor: tools.others
     - key: tools.front_end_frameworks_others
       aliasFor: tools.front_end_frameworks.others
 
     - key: tools.front_end_frameworks_happiness
-      t: Front-end Frameworks Happiness
+      t: Fordeler med front-end rammeverk
     - key: tools.front_end_frameworks_happiness.short
       aliasFor: charts.axis_legends.happiness
     - key: tools.front_end_frameworks_happiness.question
-      t: On a scale of 0 (very unhappy) to 4 (very happy), how happy are you with the current state of front-end frameworks?
+      t: På en skala fra 0 (veldig misfornøyd) til 4 (veldig fornøyd), hvor fornøyd er du med den nåværende tilstanden til front-end rammeverk?
 
     - key: tools.front_end_frameworks_pain_points
-      t: Front-end Frameworks Pain Points
+      t: Utfordringer for front-end rammeverk
     - key: tools.front_end_frameworks_pain_points.short
       aliasFor: tools.pain_points
     - key: tools.front_end_frameworks_pain_points.question
-      t: What pain points have you encountered when using front-end frameworks?
+      t: Hvilke utfordringer har du møtt på når du bruker front-end rammeverk?
 
     # meta-frameworks
 
     - key: tools.meta_frameworks_ratios
-      t: Meta-Frameworks Ratios Over Time
+      t: Forhold for Meta-Rammeverk over tid
     - key: tools.meta_frameworks_ratios.short
       aliasFor: tools.ratios
 
     - key: tools.meta_frameworks_experience
-      t: Meta-Frameworks Experience & Sentiment
+      t: Erfaring & meninger for Meta-Rammeverk
     - key: tools.meta_frameworks_experience.short
       aliasFor: tools.experience
 
     - key: tools.meta_frameworks.others
-      t: Other Meta-Frameworks
+      t: Andre Meta-Rammeverk
     - key: tools.meta_frameworks.others.short
       aliasFor: tools.others
     - key: tools.meta_frameworks_others
       aliasFor: tools.meta_frameworks.others
 
     - key: tools.meta_frameworks_happiness
-      t: Meta-Frameworks Happiness
+      t: Fordeler med Meta-Rammeverk
     - key: tools.meta_frameworks_happiness.short
       aliasFor: charts.axis_legends.happiness
     - key: tools.meta_frameworks_happiness.question
-      t: On a scale of 0 (very unhappy) to 4 (very happy), how happy are you with the current state of meta-frameworks?
+      t: På en skala fra 0 (veldig misfornøyd) til 4 (veldig fornøyd), hvor fornøyd er du med den nåværende tilstanden til meta-rammeverk?
 
     - key: tools.meta_frameworks_pain_points
-      t: Meta-Frameworks Pain Points
+      t: Utfordringer for Meta-Rammeverk
     - key: tools.meta_frameworks_pain_points.short
       aliasFor: tools.pain_points
     - key: tools.meta_frameworks_pain_points.question
-      t: What pain points have you encountered when using meta-frameworks?
+      t: Hvilke utfordringer har du møtt på når du bruker meta-rammeverk?
 
     # testing
 
     - key: tools.testing_ratios
-      t: Testing Tools Ratios Over Time
+      t: Forhold for Testverktøy over tid
     - key: tools.testing_ratios.short
       aliasFor: tools.ratios
 
     - key: tools.testing_experience
-      t: Testing Tools Experience & Sentiment
+      t: Erfaring & meninger for Testverktøy
     - key: tools.testing_experience.short
       aliasFor: tools.experience
 
     - key: tools.testing.others
-      t: Other Testing Tools
+      t: Andre Testverktøy
     - key: tools.testing.others.short
       aliasFor: tools.others
 
     - key: tools.testing_happiness
-      t: Testing Tools Happiness
+      t: Fordeler med Testverktøy
     - key: tools.testing_happiness.short
       aliasFor: charts.axis_legends.happiness
     - key: tools.testing_happiness.question
-      t: On a scale of 0 (very unhappy) to 4 (very happy), how happy are you with the current state of testing tools?
+      t: På en skala fra 0 (veldig misfornøyd) til 4 (veldig fornøyd), hvor fornøyd er du med den nåværende tilstanden til testverktøy?
 
     - key: tools.testing_pain_points
-      t: Testing Tools Pain Points
+      t: Utfordringer med testverktøy
     - key: tools.testing_pain_points.short
       aliasFor: tools.pain_points
     - key: tools.testing_pain_points.question
-      t: What pain points have you encountered when using testing tools?
+      t: Hvilke utfordringer har du møtt på når du bruker testverktøy?
 
     # mobile & desktop
 
     - key: tools.mobile_desktop_ratios
-      t: Mobile & Desktop Tools Ratios Over Time
+      t: Forhold for mobil- og desktopverktøy over tid
     - key: tools.mobile_desktop_ratios.short
       aliasFor: tools.ratios
 
     - key: tools.mobile_desktop_experience
-      t: Mobile & Desktop Tools Experience & Sentiment
+      t: Erfaring & meninger for mobil- og desktopverktøy
     - key: tools.mobile_desktop_experience.short
       aliasFor: tools.experience
 
     - key: tools.mobile_desktop.others
-      t: Other Mobile & Desktop Tools
+      t: Andre mobil- & desktopverktøy
     - key: tools.mobile_desktop.others.short
       aliasFor: tools.others
 
     - key: tools.mobile_desktop_happiness
-      t: Mobile & Desktop Tools Happiness
+      t: Fordeler med mobil- & desktopverktøy
     - key: tools.mobile_desktop_happiness.short
       aliasFor: charts.axis_legends.happiness
     - key: tools.mobile_desktop_happiness.question
-      t: On a scale of 0 (very unhappy) to 4 (very happy), how happy are you with the current state of mobile & desktop tools?
+      t: På en skala fra 0 (veldig misfornøyd) til 4 (veldig fornøyd), hvor fornøyd er du med den nåværende tilstanden til mobil & desktop verktøy?
 
     - key: tools.mobile_desktop_pain_points
-      t: Mobile & Desktop Tools Pain Points
+      t: Utfordringer for mobil- & desktopverktøy
     - key: tools.mobile_desktop_pain_points.short
       aliasFor: tools.pain_points
     - key: tools.mobile_desktop_pain_points.question
-      t: What pain points have you encountered when using JavaScript to build mobile & desktop apps?
+      t: Hvilke utfordringer har du møtt på når du bruker JavaScript til å bygge mobil- og desktopapper?
 
     # build tools
 
     - key: tools.build_tools_ratios
-      t: Build Tools Ratios Over Time
+      t: Forhold for byggeverktøy over tid
     - key: tools.build_tools_ratios.short
       aliasFor: tools.ratios
 
     - key: tools.build_tools_experience
-      t: Build Tools Experience & Sentiment
+      t: Erfaring & meninger for byggeverktøy
     - key: tools.build_tools_experience.short
       aliasFor: tools.experience
 
     - key: tools.build_tools.others
-      t: Other Build Tools
+      t: Andre byggeverktøy
     - key: tools.build_tools.others.short
       aliasFor: tools.others
 
     - key: tools.build_tools_happiness
-      t: Build Tools Happiness
+      t: Fordeler med byggeverktøy
     - key: tools.build_tools_happiness.short
       aliasFor: charts.axis_legends.happiness
     - key: tools.build_tools_happiness.question
-      t: On a scale of 0 (very unhappy) to 4 (very happy), how happy are you with the current state of build tools?
+      t: På en skala fra 0 (veldig misfornøyd) til 4 (veldig fornøyd), hvor fornøyd er du med den nåværende tilstanden til byggeverktøy?
 
     - key: tools.build_tools_pain_points
-      t: Build Tools Pain Points
+      t: Utfordringer med byggeverktøy
     - key: tools.build_tools_pain_points.short
       aliasFor: tools.pain_points
     - key: tools.build_tools_pain_points.question
-      t: What pain points have you encountered when using build tools?
+      t: Hvilke utfordringer har du møtt på når du bruker byggeverktøy?
 
     # monorepo tools
 
     - key: tools.monorepo_tools_ratios
-      t: Monorepo Tools Ratios Over Time
+      t: Forhold for monorepo verktøyover tid
     - key: tools.monorepo_tools_ratios.short
       aliasFor: tools.ratios
 
     - key: tools.monorepo_tools_experience
-      t: Monorepo Tools Experience & Sentiment
+      t: Erfaring & meninger for monorepo verktøy
     - key: tools.monorepo_tools_experience.short
       aliasFor: tools.experience
 
     - key: tools.monorepo_tools.others
-      t: Other Monorepo Tools
+      t: Andre monorepo verktøy
     - key: tools.monorepo_tools.others.short
       aliasFor: tools.others
 
     - key: tools.monorepo_tools_happiness
-      t: Monorepo Tools Happiness
+      t: Fordeler med monorepo verktøy
     - key: tools.monorepo_tools_happiness.short
       aliasFor: charts.axis_legends.happiness
     - key: tools.monorepo_tools_happiness.question
-      t: On a scale of 0 (very unhappy) to 4 (very happy), how happy are you with the current state of monorepo tools?
+      t: På en skala fra 0 (veldig misfornøyd) til 4 (veldig fornøyd), hvor fornøyd er du med den nåværende tilstanden til monorepo-verktøy?
 
     - key: tools.monorepo_tools_pain_points
-      t: Monorepo Tools Pain Points
+      t: utfordringer med monorepo verktøy
     - key: tools.monorepo_tools_pain_points.short
       aliasFor: tools.pain_points
     - key: tools.monorepo_tools_pain_points.question
-      t: What pain points have you encountered when using monorepo tools?
+      t: Hvilke utfordringer har du møtt på når du bruker monorepo-verktøy?
 
     ###########################################################################
     # Andre verktøy
     ###########################################################################
 
     - key: tools_others.libraries
-      t: Libraries
+      t: Biblioteker
     - key: tools_others.libraries.question
-      t: Which libraries do you regularly use?
+      t: Hvilke biblioteker bruker du regelmessig?
     - key: tools_others.libraries.others
-      t: Other Libraries
+      t: Andre biblioteker
     - key: tools_others.libraries.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.text_editors
-      t: Text Editors
+      t: Tekst-editor
     - key: tools_others.text_editors.question
-      t: Which text editor(s) do you regularly use?
+      t: Hvilket program skriver du kode i regelmessig?
     - key: tools_others.text_editors.others
-      t: Other Text Editors
+      t: Andre tekst-editorer
     - key: tools_others.text_editors.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.utilities
-      t: Utilities
+      t: Verktøy
     - key: tools_others.utilities.question
-      t: Which utilities or tools do you regularly use?
+      t: Hvilke verktøy eller verktøy bruker du regelmessig?
     - key: tools_others.utilities.others
-      t: Other Utilities
+      t: Andre verktøy
     - key: tools_others.utilities.others.description
-      t: Other utilities (freeform field).
+      t: Andre verktøy (fritekstfelt).
 
     - key: tools_others.browsers
-      t: Browsers
+      t: Nettlesere
     - key: tools_others.browsers.question
-      t: Which browser(s) do you primarily work in during initial development?
+      t: Hvilken(e) nettleser(e) jobber du primært i under initial utvikling?
     - key: tools_others.browsers.others
-      t: Other Browsers
+      t: Andre nettlesere
     - key: tools_others.browsers.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.build_tools
-      t: Build Tools
+      t: byggeverktøy
     - key: tools_others.build_tools.question
-      t: Which build tools do you use?
+      t: Hvilke byggeverktøy bruker du?
     - key: tools_others.build_tools.others
-      t: Other Build Tools
+      t: Andre byggeverktøy
     - key: tools_others.build_tools.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.non_js_languages
-      t: Non-JavaScript Languages
+      t: Andre programmeringsspråk
     - key: tools_others.non_js_languages.question
-      t: Which other programming languages do you use?
+      t: Hvilke andre programmeringsspråk bruker du?
     - key: tools_others.non_js_languages.others
-      t: Other Languages
+      t: Andre språk
     - key: tools_others.non_js_languages.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.javascript_flavors
-      t: JavaScript Flavors
+      t: JavaScript-varianter
     - key: tools_others.javascript_flavors.question
-      t: Languages that compile to JavaScript
+      t: Språk som kompilerer til JavaScript
     - key: tools_others.javascript_flavors.others
-      t: Other JavaScript Flavors
+      t: Andre JavaScript-varianter
     - key: tools_others.javascript_flavors.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.runtimes
-      t: JavaScript Runtimes
+      t: JavaScript-kjøretidsmiljøer
     - key: tools_others.runtimes.question
-      t: Which engines/runtimes/execution environments do you regularly use?
+      t: Hvilke motorer/kjøretidsmiljøer/eksekveringsmiljøer bruker du regelmessig?
     - key: tools_others.runtimes.others
-      t: Other Runtimes
+      t: Andre kjøretidsmiljøer
     - key: tools_others.runtimes.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.package_registries
-      t: Package Registries
+      t: Pakke-registere
     - key: tools_others.package_registries.question
-      t: Which package registries do you regularly fetch packages from?
+      t: Hvilke pakke-registere henter du regelmessig pakker fra?
     - key: tools_others.package_registries.others
-      t: Other Package Registries
+      t: Andre pakke-registere
     - key: tools_others.package_registries.others.description
-      t: Other answers (freeform field).
+      t: Andre svar (fritekstfelt).
 
     - key: tools_others.form_factors
       aliasFor: environments.form_factors
@@ -902,39 +899,39 @@ translations:
       aliasFor: environments.form_factors.question
 
     - key: tools_others.backend_as_a_service
-      t: Backend-as-a-Service Providers
+      t: Backend-as-a-Service-leverandører
     - key: tools_others.backend_as_a_service.question
-      t: Services that host your data and offer a client API to access it.
+      t: Tjenester som hoster dataene dine og tilbyr et klient-API for tilgang.
     - key: tools_others.backend_as_a_service.others
-      t: Other BaaS Providers
+      t: Andre BaaS-leverandører
 
     - key: tools_others.date_management
-      t: Date Management
+      t: Datostyring
     - key: tools_others.date_management.question
-      t: Libraries that help with date and timezone management.
+      t: Biblioteker som hjelper med dato- og tidssonehåndtering.
     - key: tools_others.date_management.others
-      t: Other Date Management Libraries
+      t: Andre biblioteker for datostyring
 
     - key: tools_others.data_visualization
-      t: Data Visualization
+      t: Datavisualisering
     - key: tools_others.data_visualization.question
-      t: Libraries that help with charts and other data visualizations.
+      t: Biblioteker som hjelper med diagrammer og andre datavisualiseringer.
     - key: tools_others.data_visualization.others
-      t: Other Data Visualization Libraries
+      t: Andre biblioteker for datavisualisering
 
     - key: tools_others.graphics_animation
-      t: Graphics & Animations
+      t: Grafikk og animasjoner
     - key: tools_others.graphics_animation.question
-      t: Libraries dedicated to graphics and animation.
+      t: Biblioteker dedikert til grafikk og animasjon.
     - key: tools_others.graphics_animation.others
-      t: Other Graphics & Animations Libraries
+      t: Andre biblioteker for grafikk og animasjoner
 
     - key: tools_others.data_fetching
-      t: Data Fetching
+      t: Datainnhenting
     - key: tools_others.data_fetching.question
-      t: Libraries that manage data fetching and caching.
+      t: Biblioteker som håndterer datainnhenting og caching.
     - key: tools_others.data_fetching.others
-      t: Other Data Fetching Libraries
+      t: Andre biblioteker for datainnhenting
 
     - key: other_tools.libraries
       aliasFor: tools_others.libraries
@@ -1002,9 +999,9 @@ translations:
     - key: tools_others.backend_frameworks
       aliasFor: sections.back_end_frameworks.title
     - key: tools_others.backend_frameworks.description
-      t: Frameworks for generating APIs and managing back-ends
+      t: Rammeverk for å generere API-er og administrere bakend
     - key: tools_others.backend_frameworks.others
-      t: Other Back-end Frameworks
+      t: Andre backend-rammeverk
 
     - key: other_tools.runtimes
       aliasFor: tools_others.runtimes
@@ -1072,65 +1069,65 @@ translations:
       aliasFor: tools_others.backend_frameworks.others
 
     - key: other_tools.ai_tools
-      t: AI Tools
+      t: AI-verktøy
     - key: other_tools.ai_tools.question
-      t: Which of these AI tools do you regularly use to help you write code?
+      t: Hvilke av disse AI-verktøyene bruker du regelmessig for å hjelpe deg med å skrive kode?
 
     - key: other_tools.hosting
-      t: Hosting Services
+      t: Hostingtjenester
     - key: other_tools.hosting.question
-      t: Which of these services have you used to host JavaScript apps?
+      t: Hvilke av disse tjenestene har du brukt for å hoste JavaScript-apper?
 
     ###########################################################################
     # Usage
     ###########################################################################
 
     - key: usage.js_app_patterns
-      t: Application Patterns
+      t: Applikasjonsmønstre
     - key: usage.js_app_patterns.question
-      t: Which of the following architecture and rendering patterns have you used **in the last year**?
+      t: Hvilke av følgende arkitektur- og renderingsmønstre har du brukt **i løpet av det siste året**?
     - key: usage.js_app_patterns.others
-      t: Other App Patterns
+      t: Andre applikasjonsmønstre
 
     - key: usage.what_do_you_use_js_for
-      t: JavaScript Usage
+      t: JavaScript-bruk
     - key: usage.what_do_you_use_js_for.question
-      t: What do you use JavaScript for?
+      t: Hva bruker du JavaScript til?
     - key: usage.what_do_you_use_js_for.others
-      t: Other JavaScript Use Cases
+      t: Andre JavaScript-brukstilfeller
 
     - key: usage.js_ts_balance
-      t: JavaScript/TypeScript Balance
+      t: JavaScript/TypeScript-balanse
     - key: usage.js_ts_balance.question
-      t: How do you divide your time between writing JavaScript and TypeScript code?
+      t: Hvordan fordeler du tiden din mellom å skrive JavaScript- og TypeScript-kode?
 
     - key: tools_others.edge_runtimes
-      t: JavaScript Edge/Serverless Runtimes
+      t: JavaScript Edge/Serverløse Kjøretidsmiljøer
     - key: tools_others.edge_runtimes.question
-      t: Which edge or serverless runtimes do you regularly use?
+      t: Hvilke edge- eller serverløse kjøretidsmiljøer bruker du regelmessig?
     - key: tools_others.edge_runtimes.others
-      t: Other Edge Runtimes
+      t: Andre edge-kjøretidsmiljøer
     - key: other_tools.edge_runtimes
       aliasFor: tools_others.edge_runtimes
     - key: other_tools.edge_runtimes.description
       aliasFor: tools_others.edge_runtimes.question
 
     - key: usage.usage_type
-      t: JavaScript Usage
+      t: JavaScript-bruk
     - key: usage.usage_type.question
-      t: In what context do you primarily use JavaScript?
+      t: I hvilken sammenheng bruker du hovedsakelig JavaScript?
     - key: usage.usage_type.others
-      t: Other Usages
+      t: Andre bruksområder
 
     - key: opinions.pick_of_the_year
-      t: Your “Pick of the Year”
+      t: Ditt "Valg for Året"
     - key: opinions.pick_of_the_year.description
-      t: The name of a feature, library, website, person, etc. you want to highlight this year.
+      t: Navnet på en funksjon, et bibliotek, en nettside, person, osv. som du vil fremheve i år.
 
     - key: usage.industry_sector_js
       aliasFor: usage.industry_sector
     - key: usage.industry_sector_js.question
-      t: Which industry sector(s) are you using JavaScript in?
+      t: Hvilken(e) industrisektor(er) bruker du JavaScript i?
     - key: usage.industry_sector_js.others
       aliasFor: usage.industry_sector.others
 
@@ -1139,71 +1136,71 @@ translations:
     ###########################################################################
 
     - key: opinions.js_moving_in_right_direction
-      t: JavaScript is moving in the right direction
+      t: JavaScript beveger seg i riktig retning
 
     - key: opinions.building_js_apps_overly_complex
-      t: Building JavaScript apps is overly complex right now
+      t: Det er for komplekst å bygge JavaScript-applikasjoner akkurat nå
 
     - key: opinions.js_over_used_online
-      t: JavaScript is over-used online
+      t: JavaScript er overbrukt på nettet
 
     - key: opinions.enjoy_building_js_apps
-      t: I enjoy building JavaScript apps
+      t: Jeg liker å bygge JavaScript-applikasjoner
 
     - key: opinions.would_like_js_to_be_main_lang
-      t: I would like JavaScript to be my main programming language
+      t: Jeg ønsker at JavaScript skal være mitt hovedprogrammeringsspråk
 
     - key: opinions.js_ecosystem_changing_to_fast
-      t: The JavaScript ecosystem is changing too fast
+      t: JavaScript-økosystemet endrer seg for raskt
 
     - key: opinions_others.missing_from_js.others
-      t: What do you feel is currently missing from JavaScript?
+      t: Hva føler du mangler i JavaScript akkurat nå?
     - key: opinions_others.missing_from_js.others.description
-      t: Features you'd like to see in JavaScript one day.
+      t: Funksjoner du gjerne vil se i JavaScript en dag.
 
     - key: happiness.front_end_frameworks
-      t: How happy are you with the state of front end frameworks?
+      t: Hvor fornøyd er du generelt med frontend-rammeverkene?
     - key: happiness.back_end_frameworks
-      t: How happy are you with the state of back end frameworks?
+      t: Hvor fornøyd er du generelt med backend-rammeverkene?
     - key: happiness.testing
-      t: How happy are you with the state of testing tools?
+      t: Hvor fornøyd er du generelt med testverktøyene?
     - key: happiness.mobile_desktop
-      t: How happy are you with the state of mobile & desktop frameworks?
+      t: Hvor fornøyd er du generelt med mobil- og desktop-rammeverkene?
     - key: happiness.build_tools
-      t: How happy are you with the state of build tools?
+      t: Hvor fornøyd er du generelt med byggeverktøyene?
     - key: happiness.monorepo_tools
-      t: How happy are you with the state of monorepo tools?
+      t: Hvor fornøyd er du generelt med monorepo-verktøyene?
     - key: happiness.rendering_frameworks
-      t: How happy are you with the state of rendering frameworks?
+      t: Hvor fornøyd er du generelt med renderingsrammeverkene?
 
     - key: happiness.state_of_the_web
-      t: Web Technologies Happiness
+      t: Webteknologiers Tilfredshet
     - key: happiness.state_of_the_web.question
-      t: How happy are you with the general state of web technologies?
+      t: Hvor fornøyd er du med den generelle tilstanden til webteknologier?
 
     - key: happiness.state_of_js
-      t: JavaScript Happiness
+      t: JavaScript Tilfredshet
     - key: happiness.state_of_js.question
-      t: How happy are you with the general state of JavaScript?
+      t: Hvor fornøyd er du med den generelle tilstanden til JavaScript?
 
-    # Pain Points
+    # pain points
 
     - key: usage.top_js_pain_points
       aliasFor: opinions.js_pain_points
     - key: usage.top_js_pain_points.question
-      t: What aspects of JavaScript do you struggle with the most?
+      t: Hvilke aspekter ved JavaScript sliter du mest med?
 
     - key: opinions.js_pain_points
-      t: JavaScript Pain Points
+      t: JavaScript utfordringer
     - key: opinions.js_pain_points.description
-      t: For each matchup, pick the aspect of JavaScript you struggle with the most.
+      t: For hvert par, velg aspektet ved JavaScript du sliter mest med.
     - key: opinions_others.js_pain_points.others
-      t: Other JavaScript Pain Points
+      t: Andre JavaScript utfordringer
 
     - key: opinions.top_js_pain_points
       aliasFor: opinions.js_pain_points
     - key: opinions.top_js_pain_points.description
-      t: Pick the top 3 aspects of JavaScript you struggle with the most.
+      t: Velg de tre aspektene ved JavaScript du sliter mest med.
     - key: opinions_others.top_js_pain_points.others
       aliasFor: opinions_others.js_pain_points.others
     - key: opinions.top_js_pain_points.others
@@ -1212,21 +1209,21 @@ translations:
     # Missing Features
 
     - key: usage.top_currently_missing_from_js
-      t: Missing Features
+      t: Manglende Funksjoner
     - key: usage.top_currently_missing_from_js.question
       aliasFor: opinions.currently_missing_from_js
 
     - key: opinions.currently_missing_from_js
-      t: What do you feel is currently missing from JavaScript?
+      t: Hva føler du mangler i JavaScript i dag?
     - key: opinions.currently_missing_from_js.description
-      t: For each matchup, pick the feature you'd most like to be able to use in JavaScript today.
+      t: For hvert par, velg funksjonen du helst vil kunne bruke i JavaScript i dag.
     - key: opinions_others.currently_missing_from_js.others
-      t: Other Missing Features
+      t: Andre Manglende Funksjoner
 
     - key: opinions.top_currently_missing_from_js
       aliasFor: opinions.currently_missing_from_js
     - key: opinions.top_currently_missing_from_js.description
-      t: Pick the top 3 features you'd most like to be able to use in JavaScript today.
+      t: Velg de 3 viktigste funksjonene du helst vil kunne bruke i JavaScript i dag.
     - key: opinions_others.top_currently_missing_from_js.others
       aliasFor: opinions_others.currently_missing_from_js.others
     - key: opinions.top_currently_missing_from_js.others
@@ -1234,30 +1231,30 @@ translations:
 
     # pain points/currently missing (results)
     - key: js_pain_points.js_pain_points_wins
-      t: JavaScript Pain Points
+      t: JavaScript utfordringer
     - key: js_pain_points.js_pain_points_wins.description
-      t: Which aspect of JavaScript do you struggle with the most? Results are ranked by number of tournament rounds won.
+      t: Hvilket aspekt ved JavaScript sliter du mest med? Resultatene er rangert etter antall turneringsrunder vunnet.
 
     - key: js_pain_points.js_pain_points_matchups
-      t: JavaScript Pain Points (Matchups)
+      t: JavaScript utfordringer (Par)
     - key: js_pain_points.js_pain_points_matchups.description
-      t: Which aspect of JavaScript do you struggle with the most? Percentage of rounds won by left-hand item against top-side item.
+      t: Hvilket aspekt ved JavaScript sliter du mest med? Prosentandel av runder vunnet av venstre element mot øvre element.
 
     - key: currently_missing_from_js.currently_missing_from_js_wins
-      t: Features Missing From JavaScript
+      t: Funksjoner som Mangler i JavaScript
     - key: currently_missing_from_js.currently_missing_from_js_wins.description
-      t: Which feature would you most like to be able to use in JavaScript today? Results are ranked by number of tournament rounds won.
+      t: Hvilken funksjon ønsker du mest å kunne bruke i JavaScript i dag? Resultatene er rangert etter antall turneringsrunder vunnet.
 
     - key: currently_missing_from_js.currently_missing_from_js_matchups
-      t: Features Missing From JavaScript (Matchups)
+      t: Manglende Funksjoner i JavaScript (Par)
     - key: currently_missing_from_js.currently_missing_from_js_matchups.description
-      t: Which feature would you most like to be able to use in JavaScript today? Percentage of rounds won by left-hand item against top-side item.
+      t: Hvilken funksjon ønsker du mest å kunne bruke i JavaScript i dag? Prosentandel av runder vunnet av venstre element mot øvre element.
 
     ###########################################################################
     # Ressurser
     ###########################################################################
 
     - key: resources.first_steps_js
-      t: First Steps With JavaScript
+      t: Første steg med JavaScript
     - key: resources.first_steps_js.description
-      t: When first starting out, how did you initially learn JavaScript?
+      t: Når du først kom igang, hvordan begynte du å lære deg JavaScript?

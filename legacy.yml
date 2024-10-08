@@ -228,7 +228,7 @@ translations:
       t: Hvordan føler du om tilstanden til {topic}?
 
     - key: sections.other_tools.title
-      t: Andre Verktøy
+      t: Andre verktøy
     - key: sections.other_tools.description
       t: For disse verktøyene og teknologiene, merk av for de du bruker regelmessig.
 
@@ -980,7 +980,7 @@ translations:
     - key: tools_others.utilities.question
       t: Hvilke verktøy eller redskaper bruker du regelmessig?
     - key: tools_others.utilities.others
-      t: Andre Verktøy
+      t: Andre verktøy
     - key: tools_others.utilities.others.description
       t: Andre verktøy (fritekstfelt).
 
@@ -998,7 +998,7 @@ translations:
     - key: tools_others.build_tools.question
       t: Hvilke byggeverktøy bruker du?
     - key: tools_others.build_tools.others
-      t: Andre Byggeverktøy
+      t: Andre byggeverktøy
     - key: tools_others.build_tools.others.description
       t: Andre svar (fritekstfelt).
 

@@ -31,7 +31,7 @@ translations:
     - key: sections.main_apis.title
       t: Hoved-APIer
     - key: sections.main_apis.description
-      t: Stabile og veletablerte React-features
+      t: Stabile og veletablerte React-funksjoner
 
     - key: sections.hooks.title
       t: Hooks
@@ -44,7 +44,7 @@ translations:
       t: Nylig introduserte- og eksperimentelle features
 
     - key: sections.component_libraries.title
-      t: Komponentbilbiotel
+      t: Komponentbibliotek
     - key: sections.component_libraries.description
       t: Byggesteinene til din applikasjon
 
@@ -111,17 +111,17 @@ translations:
     - key: features.main_apis_pain_points
       t: API-utfordringer
     - key: features.main_apis_pain_points.question
-      t: Hvilke utfordringer har du støtt på knyttet til de tidligere nevnte API-ene?
+      t: Hvilke utfordringer har du møtt på knyttet til de tidligere nevnte API-ene?
 
     - key: features.hooks_pain_points
       t: Hooks-utfordringer
     - key: features.hooks_pain_points.question
-      t: Hvilke utfordringer har du støtt på knyttet til hooks?
+      t: Hvilke utfordringer har du møtt på knyttet til hooks?
 
     - key: features.new_apis_pain_points
       t: Nye API-utfordringer
     - key: features.new_apis_pain_points.question
-      t: Hvilke utfordringer har du støtt på knyttet til de nye API-ene?
+      t: Hvilke utfordringer har du møtt på knyttet til de nye API-ene?
 
     # main features
     - key: features.fragment.description
@@ -267,7 +267,7 @@ translations:
     - key: tools.component_libraries_pain_points
       t: Utfordringer med komponenter
     - key: tools.component_libraries_pain_points.question
-      t: Hvilke utfordringer har du støtt på når det gjelder å arbeide med komponenter?
+      t: Hvilke utfordringer har du møtt på når det gjelder å arbeide med komponenter?
 
     # - key: tools.ui_libraries_happiness
     #   t: Happiness
@@ -282,7 +282,7 @@ translations:
     - key: tools.state_management_pain_points
       t: Utfordringer med statehåndtering
     - key: tools.state_management_pain_points.question
-      t: Hvilke utfordringer har du støtt på når det gjelder statehåndtering?
+      t: Hvilke utfordringer har du møtt på når det gjelder statehåndtering?
 
     # - key: tools.state_management_happiness
     #   t: Happiness
@@ -297,7 +297,7 @@ translations:
     - key: tools.data_loading_pain_points
       t: Utfordringer med datalasting
     - key: tools.data_loading_pain_points.question
-      t: Hvilke utfordringer har du støtt på når det gjelder datalasting?
+      t: Hvilke utfordringer har du møtt på når det gjelder datalasting?
 
     # - key: tools.data_loading_happiness
     #   t: Happiness
@@ -320,7 +320,7 @@ translations:
     - key: tools.back_end_infrastructure_pain_points
       t: Utfordringer med back-end
     - key: tools.back_end_infrastructure_pain_points.question
-      t: Hvilke utfordringer har du støtt på når det gjelder back-end og infrastruktur?
+      t: Hvilke utfordringer har du møtt på når det gjelder back-end og infrastruktur?
 
     - key: tools.testing
       t: Testbiblioteker
@@ -408,7 +408,7 @@ translations:
     - key: tools.backend_language
       t: Back-end språk
     - key: tools.backend_language.question
-      t: Hvilket(e) språk er back-end-appene dine skrevet i?
+      t: Hvilket språk er back-end-appene dine skrevet i?
 
     - key: tools.other_services
       t: Andre tjenester
@@ -474,7 +474,7 @@ translations:
     - key: usage.react_usage_type
       t: React-bruk
     - key: usage.react_usage_type.question
-      t: I hvilke kontekst bruker du vanligvis React?
+      t: I hvilke sammenheng bruker du vanligvis React?
 
     # react version
 

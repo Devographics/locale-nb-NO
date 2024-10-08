@@ -94,7 +94,7 @@ translations:
 
     - key: sections.opinions.description
       t: |
-          Enten det er smertepunkter som holder deg tilbake i dag, eller manglende funksjoner som du håper å bruke i morgen, var dette din sjanse til å lufte og dele dine klager om JavaScript!
+          Enten det er utfordringer som holder deg tilbake i dag, eller manglende funksjoner som du håper å bruke i morgen, var dette din sjanse til å lufte og dele dine klager om JavaScript!
 
     ###########################################################################
     # Charts

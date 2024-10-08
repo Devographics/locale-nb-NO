@@ -75,7 +75,7 @@ translations:
 
     - key: sections.features.description
       t: |
-          I år la vi spesielt vekt på å identifisere utvikleres smertepunkter med JavaScript. Som man kan forvente, ledet **mangelen på innebygd typing** og **nettleserinkonsekvenser** deres respektive diagrammer, hver påvirket nesten en tredjedel av utviklerne.
+          I år la vi spesielt vekt på å identifisere utfordringer utvikleres har med JavaScript. Som man kan forvente, ledet **mangelen på innebygd typing** og **nettleserinkonsekvenser** deres respektive diagrammer, hver påvirket nesten en tredjedel av utviklerne.
 
     - key: sections.libraries.description
       t: |
