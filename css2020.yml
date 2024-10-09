@@ -1,271 +1,271 @@
 locale: nb-NO
 translations:
-    ###########################################################################
-    # Introduction
-    ###########################################################################
+  ###########################################################################
+  # Introduction
+  ###########################################################################
 
-    - key: introduction.css2020
-      t: |
+  - key: introduction.css2020
+    t: |
 
-          <span class="first-letter">G</span>lem alt du vet om CSS. Eller i det minste, vær klar til å revurdere mye av det. Hvis du er som meg, og har skrevet CSS i over et tiår, ser CSS i 2020 helt annerledes ut enn det du var vant til.
+      <span class="first-letter">G</span>lem alt du vet om CSS. Eller i det minste, vær klar til å revurdere mye av det. Hvis du er som meg, og har skrevet CSS i over et tiår, ser CSS i 2020 helt annerledes ut enn det du var vant til.
 
-          I stedet for å bruke breakpoints, kan vi nå utnytte CSS Grid til å lage dynamiske, responsive oppsett som tilpasser seg enhver skjermstørrelse med færre kodelinjer. I stedet for å være avhengig av globale stilark, lar CSS-in-JS oss plassere stilene våre sammen med komponentene for å bygge tema-baserte designsystemer.
+      I stedet for å bruke breakpoints, kan vi nå utnytte CSS Grid til å lage dynamiske, responsive oppsett som tilpasser seg enhver skjermstørrelse med færre kodelinjer. I stedet for å være avhengig av globale stilark, lar CSS-in-JS oss plassere stilene våre sammen med komponentene for å bygge tema-baserte designsystemer.
 
-          Og mest av alt har Tailwind CSS gjort sitt inntog og, gjennom bruken av utility-first CSS, tvunget oss til å revurdere den tradisjonelle læren om semantiske klassenavn.
+      Og mest av alt har Tailwind CSS gjort sitt inntog og, gjennom bruken av utility-first CSS, tvunget oss til å revurdere den tradisjonelle læren om semantiske klassenavn.
 
-          Enten all denne endringen får deg til å ville skrive et begeistret blogginnlegg eller en sint Twitter-rant, er vi her for å presentere dataene, fremheve trendene, og forhåpentligvis lede deg gjennom enda et begivenhetsrikt år med CSS!
+      Enten all denne endringen får deg til å ville skrive et begeistret blogginnlegg eller en sint Twitter-rant, er vi her for å presentere dataene, fremheve trendene, og forhåpentligvis lede deg gjennom enda et begivenhetsrikt år med CSS!
 
-          ### Team
+      ### Team
 
-          The State of CSS Survey is created and maintained by:
+      The State of CSS Survey is created and maintained by:
 
-          - [Sacha Greif](https://twitter.com/sachagreif): Design, skriving, koding
-          - [Raphaël Benitte](https://twitter.com/benitteraphael): Dataanalyse, datavisualisering
+      - [Sacha Greif](https://twitter.com/sachagreif): Design, skriving, koding
+      - [Raphaël Benitte](https://twitter.com/benitteraphael): Dataanalyse, datavisualisering
 
-          ### Download Our Data
+      ### Download Our Data
 
-          Du kan [laste ned rådataene i JSON-format for denne undersøkelsen](https://www.kaggle.com/sachag/state-of-css). Gi oss beskjed hvis du ender opp med å lage dine egne datavisualiseringer!
+      Du kan [laste ned rådataene i JSON-format for denne undersøkelsen](https://www.kaggle.com/sachag/state-of-css). Gi oss beskjed hvis du ender opp med å lage dine egne datavisualiseringer!
 
-          ### Other Links
+      ### Other Links
 
-          - [State of CSS Hjemmeside](https://stateofcss.com)
-          - [State of JS](https://stateofjs.com)
+      - [State of CSS Hjemmeside](https://stateofcss.com)
+      - [State of JS](https://stateofjs.com)
 
-          ### Thanks
+      ### Thanks
 
-          Takk til alle som hjalp oss med å utforme undersøkelsen, inkludert [Chen Hui-Jing](http://chenhuijing.com/), [Philip Jägenstedt](https://blog.foolip.org/), [Adam Argyle](https://nerdy.dev/), [Ahmad Shadeed](https://www.ishadeed.com/), [Robert Flack](https://github.com/flackr), [Dominic Nguyen](https://www.chromatic.com/), [Fantasai](http://fantasai.inkedblade.net/), og [Kilian Valkhof](https://kilianvalkhof.com/).
+      Takk til alle som hjalp oss med å utforme undersøkelsen, inkludert [Chen Hui-Jing](http://chenhuijing.com/), [Philip Jägenstedt](https://blog.foolip.org/), [Adam Argyle](https://nerdy.dev/), [Ahmad Shadeed](https://www.ishadeed.com/), [Robert Flack](https://github.com/flackr), [Dominic Nguyen](https://www.chromatic.com/), [Fantasai](http://fantasai.inkedblade.net/), og [Kilian Valkhof](https://kilianvalkhof.com/).
 
-          En ekstra takk til [Alexey Pyltsyn](https://github.com/lex111) for å hjelpe til med oversettelser.  
+      En ekstra takk til [Alexey Pyltsyn](https://github.com/lex111) for å hjelpe til med oversettelser.  
 
-          ### Credits & Stuff
+      ### Credits & Stuff
 
-          Denne siden bruker IBM Plex Mono. Spørsmål? Feedback? [Ta kontakt!](mailto:hello@stateofjs.com)
+      Denne siden bruker IBM Plex Mono. Spørsmål? Feedback? [Ta kontakt!](mailto:hello@stateofjs.com)
 
-          La oss nå se hva CSS har holdt på med i 2020!
+      La oss nå se hva CSS har holdt på med i 2020!
 
-          <span class="conclusion__byline">– Sacha & Raphaël</span>
+      <span class="conclusion__byline">– Sacha & Raphaël</span>
 
-    ###########################################################################
-    # Tshirt
-    ###########################################################################
+  ###########################################################################
+  # Tshirt
+  ###########################################################################
 
-    - key: sections.tshirt.title
-      t: T-skjort
+  - key: sections.tshirt.title
+    t: T-skjort
 
-    - key: sections.tshirt.description
-      t: |
-          ## Støtt undersøkelsen og se bra ut samtidig!
+  - key: sections.tshirt.description
+    t: |
+      ## Støtt undersøkelsen og se bra ut samtidig!
 
-          En rask kunngjøring før undersøkelsesresultatene: Vi introduserer vår helt egen 🎈🎉👕 State of CSS T-skjorte 👕🎉🎈!
+      En rask kunngjøring før undersøkelsesresultatene: Vi introduserer vår helt egen 🎈🎉👕 State of CSS T-skjorte 👕🎉🎈!
 
-          Det som gjør denne skjorten virkelig spesiell, er at det er det eneste plagget som også faktisk lærer deg praktiske CSS-teknikker.
+      Det som gjør denne skjorten virkelig spesiell, er at det er det eneste plagget som også faktisk lærer deg praktiske CSS-teknikker.
 
-          Så enten du skal på en konferanse, et jobbintervju eller bare på jobb, vil denne skjorten vise frem din CSS-klasse som ingen andre plagg kan!
+      Så enten du skal på en konferanse, et jobbintervju eller bare på jobb, vil denne skjorten vise frem din CSS-klasse som ingen andre plagg kan!
 
-    - key: tshirt.about
-      t: Om t-skjorten
+  - key: tshirt.about
+    t: Om t-skjorten
 
-    - key: tshirt.description
-      t: |
-          T-skjorten har State of CSS-logoen, sammen med utdrag av den faktiske CSS-koden som brukes til å lage hver form. Hvem vet, kanskje du lærer en ting eller to!
+  - key: tshirt.description
+    t: |
+      T-skjorten har State of CSS-logoen, sammen med utdrag av den faktiske CSS-koden som brukes til å lage hver form. Hvem vet, kanskje du lærer en ting eller to!
 
-          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit.
-          Denne skjorten er liten i størrelsen, så hvis du foretrekker en romsligere passform, anbefaler vi å bestille en størrelse opp fra det du vanligvis bruker (jeg bruker M på bildene).
+      Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit.
+      Denne skjorten er liten i størrelsen, så hvis du foretrekker en romsligere passform, anbefaler vi å bestille en størrelse opp fra det du vanligvis bruker (jeg bruker M på bildene).
 
-    - key: tshirt.getit
-      t: Skaff deg denn
+  - key: tshirt.getit
+    t: Skaff deg denn
 
-    - key: tshirt.price
-      t: USD $24 + frakt
+  - key: tshirt.price
+    t: USD $24 + frakt
 
-    ###########################################################################
-    # Sections Introductions
-    ###########################################################################
+  ###########################################################################
+  # Sections Introductions
+  ###########################################################################
 
-    - key: sections.user_info.description
-      t: |
-          Årets undersøkelse nådde **11 492** personer i **102** land. For første gang i år 
-          klarte vi å oversette undersøkelsen til flere språk, takket være et fantastisk team av frivillige.
+  - key: sections.user_info.description
+    t: |
+      Årets undersøkelse nådde **11 492** personer i **102** land. For første gang i år 
+      klarte vi å oversette undersøkelsen til flere språk, takket være et fantastisk team av frivillige.
 
-    - key: sections.features.description
-      t: |
-          CSS har opplevd en bølge av nye funksjoner de siste årene, så som du ville forvente, henger adopsjonen 
-          litt etter mens fellesskapet tar seg tid til å sette seg inn i de nye egenskapene.
+  - key: sections.features.description
+    t: |
+      CSS har opplevd en bølge av nye funksjoner de siste årene, så som du ville forvente, henger adopsjonen 
+      litt etter mens fellesskapet tar seg tid til å sette seg inn i de nye egenskapene.
 
-    - key: sections.units_selectors.description
-      t: |
-          Vi tør å påstå at du vil finne noen ting du ikke visste om i denne delen!
+  - key: sections.units_selectors.description
+    t: |
+      Vi tør å påstå at du vil finne noen ting du ikke visste om i denne delen!
 
-    - key: sections.technologies.description
-      t: |
-          CSS-økosystemet gjennomgår en slags fornyelse, ettersom eldre bautaer som Bootstrap nå må tilpasse 
-          seg nyere aktører som Tailwind CSS. For ikke å nevne hele CSS-in-JS-bevegelsen, som, selv om den ennå 
-          ikke har blitt en del av CSS-hovedstrømmen, fortsatt er ganske dynamisk.
+  - key: sections.technologies.description
+    t: |
+      CSS-økosystemet gjennomgår en slags fornyelse, ettersom eldre bautaer som Bootstrap nå må tilpasse 
+      seg nyere aktører som Tailwind CSS. For ikke å nevne hele CSS-in-JS-bevegelsen, som, selv om den ennå 
+      ikke har blitt en del av CSS-hovedstrømmen, fortsatt er ganske dynamisk.
 
-    - key: sections.other_tools.description
-      t: |
-          Ingen store overraskelser her, men det er verdt å fremheve fremkomsten av utviklingsfokuserte nettlesere 
-          som Polypane og Sizzy, som går et skritt videre enn tradisjonelle utviklerverktøy.
+  - key: sections.other_tools.description
+    t: |
+      Ingen store overraskelser her, men det er verdt å fremheve fremkomsten av utviklingsfokuserte nettlesere 
+      som Polypane og Sizzy, som går et skritt videre enn tradisjonelle utviklerverktøy.
 
-    - key: sections.environments.description
-      t: |
-          En av hovedfordelene med CSS er evnen til å tilpasse seg forskjellige miljøer, men av ulike 
-          grunner forblir medier som trykk og e-post utelatt av flertallet av CSS-utviklere. 
-          Kanskje de vil vise seg å være den neste grensen for CSS…?
+  - key: sections.environments.description
+    t: |
+      En av hovedfordelene med CSS er evnen til å tilpasse seg forskjellige miljøer, men av ulike 
+      grunner forblir medier som trykk og e-post utelatt av flertallet av CSS-utviklere. 
+      Kanskje de vil vise seg å være den neste grensen for CSS…?
 
-    - key: sections.resources.description
-      t: |
-          Resultatene for "andre svar" i denne delen fremhever rikdommen og mangfoldet i CSS-fellesskapet, 
-          og inkluderer mange fremragende blogger og podcaster som vi ser frem til å offisielt legge til i undersøkelsen neste år!
+  - key: sections.resources.description
+    t: |
+      Resultatene for "andre svar" i denne delen fremhever rikdommen og mangfoldet i CSS-fellesskapet, 
+      og inkluderer mange fremragende blogger og podcaster som vi ser frem til å offisielt legge til i undersøkelsen neste år!
 
-    - key: sections.opinions.description
-      t: |
-          Disse meningene gir et bilde av et språk som blir mer modent, men også mer komplekst. Og kanskje 
-          – i hvert fall mens vi sliter med å følge med på endringene – litt mindre gøy?
+  - key: sections.opinions.description
+    t: |
+      Disse meningene gir et bilde av et språk som blir mer modent, men også mer komplekst. Og kanskje 
+      – i hvert fall mens vi sliter med å følge med på endringene – litt mindre gøy?
 
-    ###########################################################################
-    # Notes
-    ###########################################################################
+  ###########################################################################
+  # Notes
+  ###########################################################################
 
-    - key: blocks.gender.note
-      t: |
-          Om du er interessert i å lære mer, har vi [skrevet en blogpost](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) som omhandler kjønnsdynamikken i deltagelsen av undersøkelsen.
+  - key: blocks.gender.note
+    t: |
+      Om du er interessert i å lære mer, har vi [skrevet en blogpost](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) som omhandler kjønnsdynamikken i deltagelsen av undersøkelsen.
 
-    - key: blocks.css_missing_features.note
-      t: |
-          Du kan utforske alle svar i datasettet for spørsmålet på [dette sideprosjektet](https://whatsmissingfromcss.com/).
+  - key: blocks.css_missing_features.note
+    t: |
+      Du kan utforske alle svar i datasettet for spørsmålet på [dette sideprosjektet](https://whatsmissingfromcss.com/).
 
-    - key: blocks.source.note
-      t: >
+  - key: blocks.source.note
+    t: >
 
-          Denne grafen samler en blanding av henvisninger, URL-parametere og fritekstsvar. 
+      Denne grafen samler en blanding av henvisninger, URL-parametere og fritekstsvar. 
 
-          - State of JS: [State of JS](https://stateofjs.com) e-post liste.
+      - State of JS: [State of JS](https://stateofjs.com) e-post liste.
 
-          - State of CSS: the State of CSS e-post liste; matcher ogsåå `email`, `by email`, osv.
+      - State of CSS: the State of CSS e-post liste; matcher ogsåå `email`, `by email`, osv.
 
-          - Work: matcher `work`, `colleagues`, `coworkers`, osv.
-
-    ###########################################################################
-    # Awards
-    ###########################################################################
-
-    - key: award.feature_adoption_delta_award.comment
-      t: Med en **{verdi}** fremgang i 2020 var dette året da CSS Grid gikk fra å være ny teknologi til et etablert verktøy.
-
-    - key: award.tool_usage_delta_award.comment
-      t: Ingen andre verktøy kommer engang i nærheten av Tailwind CSS sin dramatiske **{verdi}** fremgang det siste året.
-
-    - key: award.tool_satisfaction_award.comment
-      t: PostCSS sin **{verdi}** bevaringsrate viser at du ikke kan slå å gjøre én ting virkelig, virkelig bra.
-
-    - key: award.tool_interest_award.comment
-      t: Med en **{verdi}** ratio har CSS-moduler generert mest interesse blant CSS-utviklere i år.
-
-    - key: award.most_write_ins_award.comment
-      t: Mange spørsmål aksepterte også fritekstsvar, og med **{verdi}** omtaler var PhpStorm det mest populære elementet totalt.
-
-    ###########################################################################
-    # Conclusion
-    ###########################################################################
-
-    - key: sections.conclusion.description
-      t: |
-          Hvis en JavaScript-utvikler skriver en linje CSS-kode, er de da en CSS-utvikler?
-
-          Dette programmerings *kōan* illustrerer en tydelig trend i webutviklingsverdenen: etter hvert som flere og flere CSS-utviklere får i oppgave å lære JavaScript, begynner også JavaScript-utviklere å innse at det kanskje er mer ved denne hele CSS-greia enn bare `font-weight: bold;`.
-
-          Så å spørre om “tilstanden til CSS” er i utgangspunktet en vanskelig oppgave: avhengig av hvem du spør, kan du få helt forskjellige svar! Og hvordan vet du hvilket svar som er riktig?
-
-          Her er en annen kōan til deg: det riktige svaret er at det *ikke* finnes noe riktig svar. Hver av de mange verktøyene, metodologiene, rammeverkene og bibliotekene som er omtalt her, har sin plass i det store front-end økosystemet.
-
-          Bygger du en kompleks React-app? Styled Components er et flott alternativ. Designer du en statisk landingsside? Du kan ikke gå galt med Sass! Og selv om Bootstrap har mistet noe av sin opprinnelige hype, er det uslåelig når det gjelder antall temaer og plugins.
-
-          Så mens vi holder øye med de nye, skinnende verktøyene som dukker opp på GitHub hver uke, la oss ikke glemme verktøyene, teknikkene og, fremfor alt, menneskene som har båret CSS-fakkelen frem til nå. Vi trenger alle hvis vi skal fortsette å drive CSS fremover inn i 2021 og utover!
-
-    ###########################################################################
-    # Picks
-    ###########################################################################
-
-    - key: picks.my_2020_pick
-      t: "Mine valg for 2020: "
-    - key: picks.intro
-      t: Vi ba medlemmer av CSS-fellesskapet om å dele sitt "årets valg".
-
-    - key: picks.shadeed9.bio
-      t: Skaper av debuggingcss.com
-    - key: picks.shadeed9.description
-      t: |
-          Container queries er en lenge etterlengtet funksjon for oss, 
-          og jeg er begeistret for at Chrome-teamet jobber med støtte for det nativt!
-
-    - key: picks.argyleink.bio
-      t: CSS hos Google
-    - key: picks.argyleink.description
-      t: |
-          Den beskjedne CSS-boksen blir mer dynamisk for hvert år, og for meg handlet 2020 om logiske sider i stedet for fysiske sider. Innholdsflyt i kontekst, spacing og forkortelser? Ja, takk!
-
-    - key: picks.sachagreif.bio
-      t: Skaper av undersøkelsen
-    - key: picks.sachagreif.description
-      t: |
-          Med dette blogginnlegget ble det ikke bare en ekstratur på Amelia Wattenberger, det ble en hel maraton! Animasjonene og quizen vil sørge for at du endelig forstår CSS-flyten.
-
-    - key: picks.christianoliff.bio
-      t: Front-end utvikler hos Trimble MAPS
-    - key: picks.christianoliff.description
-      t: |
-          En ting jeg virkelig har begynt å bruke og sette pris på i år, er Purge CSS – et fantastisk verktøy for å fjerne ubrukte CSS-regler. Det kan betydelig redusere størrelsen på CSS-en din, og det er raskt og enkelt å bruke.
-
-    - key: picks.kilianvalkhof.bio
-      t: Webutvikler og skaper av Polypane
-    - key: picks.kilianvalkhof.description
-      t: |
-          `content-visibility` gjør allerede en stor forskjell i ytelsen til nettsidene mine, men samtidig mener jeg det burde være nettlesernes ansvar å optimalisere dette, ikke utviklernes.
-
-    - key: picks.walterstephanie.bio
-      t: Brukerfokusert designer & CSS-fan
-    - key: picks.walterstephanie.description
-      t: |
-          En serie YouTube-videoer som forklarer alle de nye, kule CSS-funksjonene for å lage moderne design.
-
-    - key: picks.piccalilli_.bio
-      t: Freelance designer & utvikler som driver piccalil.li
-    - key: picks.piccalilli_.description
-      t: |
-          Denne bloggen er en absolutt gullgruve av CSS-kunnskap. Michelle er en CSS-legende, og hvert innlegg eller tutorial de skriver, er fylt med nyttig innhold.
-
-    - key: picks.sarasoueidan.bio
-      t: Uavhengig UI/designingeniør
-    - key: picks.sarasoueidan.description
-      t: |
-          Mitt valg er en person, nemlig Rachel Andrew. Hun har lært en hel generasjon utviklere CSS Grid.
-
-    - key: picks.5t3ph.bio
-      t: Programvareutvikler @ Microsoft
-    - key: picks.5t3ph.description
-      t: |
-          I dette fordraget gir Manuel Matuzovic gjennomtenkte innspill om
-          velutformede eksempler som er engasjerende, forståelig og lett å ta i bruk.
-
-    - key: picks.hugogiraudel.bio
-      t: Ikke-binær tilgjengelighets- og mangfoldsadvokat
-    - key: picks.hugogiraudel.description
-      t: |
-          Fela er et fantastisk program.
-          Det er kraftig, relativt enkelt å bruke, og ytelsen er veldig bra.
-
-    - key: picks.foolip.bio
-      t: Programvareutvikler @ Google
-    - key: picks.foolip.description
-      t: |
-          Sergio fikset nylig mye av Flexbox i WebKit, og til og med litt i Chromium, 
-          blant annet gjorde han flex gap tilgjengelig i WebKit, 
-          noe som betyr at snart er det tilgjengelig i alle moderne nettlesere.
-
-    - key: picks.jina.bio
-      t: Forkjemper for og bruker av designsystemer
-    - key: picks.jina.description
-      t: |
-          Media Query spørriong som reduserer bevegelse, noe som hjelper med å forhindre
-          trigging av svimmelhet og ubehag.
+      - Work: matcher `work`, `colleagues`, `coworkers`, osv.
+
+  ###########################################################################
+  # Awards
+  ###########################################################################
+
+  - key: award.feature_adoption_delta_award.comment
+    t: Med en **{value}** fremgang i 2020 var dette året da CSS Grid gikk fra å være ny teknologi til et etablert verktøy.
+
+  - key: award.tool_usage_delta_award.comment
+    t: Ingen andre verktøy kommer engang i nærheten av Tailwind CSS sin dramatiske **{value}** fremgang det siste året.
+
+  - key: award.tool_satisfaction_award.comment
+    t: PostCSS sin **{value}** bevaringsrate viser at du ikke kan slå å gjøre én ting virkelig, virkelig bra.
+
+  - key: award.tool_interest_award.comment
+    t: Med en **{value}** ratio har CSS-moduler generert mest interesse blant CSS-utviklere i år.
+
+  - key: award.most_write_ins_award.comment
+    t: Mange spørsmål aksepterte også fritekstsvar, og med **{value}** omtaler var PhpStorm det mest populære elementet totalt.
+
+  ###########################################################################
+  # Conclusion
+  ###########################################################################
+
+  - key: sections.conclusion.description
+    t: |
+      Hvis en JavaScript-utvikler skriver en linje CSS-kode, er de da en CSS-utvikler?
+
+      Dette programmerings *kōan* illustrerer en tydelig trend i webutviklingsverdenen: etter hvert som flere og flere CSS-utviklere får i oppgave å lære JavaScript, begynner også JavaScript-utviklere å innse at det kanskje er mer ved denne hele CSS-greia enn bare `font-weight: bold;`.
+
+      Så å spørre om “tilstanden til CSS” er i utgangspunktet en vanskelig oppgave: avhengig av hvem du spør, kan du få helt forskjellige svar! Og hvordan vet du hvilket svar som er riktig?
+
+      Her er en annen kōan til deg: det riktige svaret er at det *ikke* finnes noe riktig svar. Hver av de mange verktøyene, metodologiene, rammeverkene og bibliotekene som er omtalt her, har sin plass i det store front-end økosystemet.
+
+      Bygger du en kompleks React-app? Styled Components er et flott alternativ. Designer du en statisk landingsside? Du kan ikke gå galt med Sass! Og selv om Bootstrap har mistet noe av sin opprinnelige hype, er det uslåelig når det gjelder antall temaer og plugins.
+
+      Så mens vi holder øye med de nye, skinnende verktøyene som dukker opp på GitHub hver uke, la oss ikke glemme verktøyene, teknikkene og, fremfor alt, menneskene som har båret CSS-fakkelen frem til nå. Vi trenger alle hvis vi skal fortsette å drive CSS fremover inn i 2021 og utover!
+
+  ###########################################################################
+  # Picks
+  ###########################################################################
+
+  - key: picks.my_2020_pick
+    t: "Mine valg for 2020: "
+  - key: picks.intro
+    t: Vi ba medlemmer av CSS-fellesskapet om å dele sitt "årets valg".
+
+  - key: picks.shadeed9.bio
+    t: Skaper av debuggingcss.com
+  - key: picks.shadeed9.description
+    t: |
+      Container queries er en lenge etterlengtet funksjon for oss, 
+      og jeg er begeistret for at Chrome-teamet jobber med støtte for det nativt!
+
+  - key: picks.argyleink.bio
+    t: CSS hos Google
+  - key: picks.argyleink.description
+    t: |
+      Den beskjedne CSS-boksen blir mer dynamisk for hvert år, og for meg handlet 2020 om logiske sider i stedet for fysiske sider. Innholdsflyt i kontekst, spacing og forkortelser? Ja, takk!
+
+  - key: picks.sachagreif.bio
+    t: Skaper av undersøkelsen
+  - key: picks.sachagreif.description
+    t: |
+      Med dette blogginnlegget ble det ikke bare en ekstratur på Amelia Wattenberger, det ble en hel maraton! Animasjonene og quizen vil sørge for at du endelig forstår CSS-flyten.
+
+  - key: picks.christianoliff.bio
+    t: Front-end utvikler hos Trimble MAPS
+  - key: picks.christianoliff.description
+    t: |
+      En ting jeg virkelig har begynt å bruke og sette pris på i år, er Purge CSS – et fantastisk verktøy for å fjerne ubrukte CSS-regler. Det kan betydelig redusere størrelsen på CSS-en din, og det er raskt og enkelt å bruke.
+
+  - key: picks.kilianvalkhof.bio
+    t: Webutvikler og skaper av Polypane
+  - key: picks.kilianvalkhof.description
+    t: |
+      `content-visibility` gjør allerede en stor forskjell i ytelsen til nettsidene mine, men samtidig mener jeg det burde være nettlesernes ansvar å optimalisere dette, ikke utviklernes.
+
+  - key: picks.walterstephanie.bio
+    t: Brukerfokusert designer & CSS-fan
+  - key: picks.walterstephanie.description
+    t: |
+      En serie YouTube-videoer som forklarer alle de nye, kule CSS-funksjonene for å lage moderne design.
+
+  - key: picks.piccalilli_.bio
+    t: Freelance designer & utvikler som driver piccalil.li
+  - key: picks.piccalilli_.description
+    t: |
+      Denne bloggen er en absolutt gullgruve av CSS-kunnskap. Michelle er en CSS-legende, og hvert innlegg eller tutorial de skriver, er fylt med nyttig innhold.
+
+  - key: picks.sarasoueidan.bio
+    t: Uavhengig UI/designingeniør
+  - key: picks.sarasoueidan.description
+    t: |
+      Mitt valg er en person, nemlig Rachel Andrew. Hun har lært en hel generasjon utviklere CSS Grid.
+
+  - key: picks.5t3ph.bio
+    t: Programvareutvikler @ Microsoft
+  - key: picks.5t3ph.description
+    t: |
+      I dette fordraget gir Manuel Matuzovic gjennomtenkte innspill om
+      velutformede eksempler som er engasjerende, forståelig og lett å ta i bruk.
+
+  - key: picks.hugogiraudel.bio
+    t: Ikke-binær tilgjengelighets- og mangfoldsadvokat
+  - key: picks.hugogiraudel.description
+    t: |
+      Fela er et fantastisk program.
+      Det er kraftig, relativt enkelt å bruke, og ytelsen er veldig bra.
+
+  - key: picks.foolip.bio
+    t: Programvareutvikler @ Google
+  - key: picks.foolip.description
+    t: |
+      Sergio fikset nylig mye av Flexbox i WebKit, og til og med litt i Chromium, 
+      blant annet gjorde han flex gap tilgjengelig i WebKit, 
+      noe som betyr at snart er det tilgjengelig i alle moderne nettlesere.
+
+  - key: picks.jina.bio
+    t: Forkjemper for og bruker av designsystemer
+  - key: picks.jina.description
+    t: |
+      Media Query spørriong som reduserer bevegelse, noe som hjelper med å forhindre
+      trigging av svimmelhet og ubehag.
