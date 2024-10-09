@@ -1,415 +1,412 @@
 locale: nb-NO
 translations:
-  ###########################################################################
-  # General
-  ###########################################################################
+    ###########################################################################
+    # General
+    ###########################################################################
 
-  - key: general.results.description
-    t: The 2023 edition of the annual survey about the latest trends in the JavaScript ecosystem.
+    - key: general.results.description
+      t: 2023-utgaven av den årlige undersøkelsen om de nyeste trendene i JavaScript-økosystemet.
 
-  ###########################################################################
-  # Introduction
-  ###########################################################################
+    ###########################################################################
+    # Introduction
+    ###########################################################################
 
-  - key: introduction.js2023
-    t: |
+    - key: introduction.js2023
+      t: |
+          <span class="first-letter">D</span>et burde være klart nå at, for bedre eller verre, JavaScript ikke bremser opp. 
 
-      <span class="first-letter">I</span>t should be clear by now that, for better or for worse, JavaScript is not slowing down. 
+          Mellom serverkomponenter, serverhandlinger, signaler, kompilatorer og mer, ser vi nye innovasjoner dukke opp raskere enn de fleste av oss kan håndtere. 
 
-      Between server components, server actions, signals, compilers, and more, we're seeing new innovations pop up faster than most of us can handle. 
+          Trikset for å unngå den fryktede JavaScript-utmattelsen er å huske at du kan velge din egen vei: selvfølgelig kan du leve livet på den banebrytende kanten med tidlige brukere; men du kan også holde et tregere tempo og fokusere på stabile, modne teknologier – og til slutt komme til den nye hete trenden når den har fått et par år på seg til å kjøle seg ned. 
 
-      The trick to avoiding the dreaded JavaScript fatigue is remembering that you can pick your lane: sure, you can live life on the cutting edge with the early adopters; but you can also keep a slower pace and focus on stable, mature technologies – and eventually get to the new hotness once it's had a couple years to cool down. 
+          Når vi snakker om å ta det rolig, lurer du kanskje på hvorfor disse 2023-undersøkelsesresultatene blir utgitt seks måneder inn i *2024*. Sannheten er at vi, mellom lanseringen av den nye [State of HTML](https://2023.stateofhtml.com/) undersøkelsen, innovasjon av nye spørsmålsformater, innsamling av mer friformdata enn noen gang, og omskrivning av mye av koden vår for datavisualisering, endte opp med en arbeidsmengde som trolig var litt for ambisiøs, mildt sagt. 
 
-      Speaking of taking it slow, you might be wondering why these 2023 survey results are being released six months into *2024*. The truth is, between launching the new [State of HTML](https://2023.stateofhtml.com/) survey, innovating new question formats, collecting more freeform data than ever, and rewriting a lot of our data visualization codebase, we ended up with a workload that was probably a bit too ambitious, to say the least. 
+          Forhåpentligvis vil resultatet av all denne ekstra innsatsen være verdt det. Og vi planlegger mye raskere behandlinger fremover. 
 
-      Hopefully the result of all this extra effort will be worth it though. And we do plan on much faster turnarounds going forward. 
+          Med alt dette på plass, la oss oppdage hva JavaScript har vært opptatt med i det siste! 
 
-      With all this out of the way, let's discover what JavaScript has been up to lately!
+          <span class="conclusion__byline">– Sacha Greif</span>
 
-      <span class="conclusion__byline">– Sacha Greif</span>
+    ###########################################################################
+    # Tshirt
+    ###########################################################################
 
-  ###########################################################################
-  # Tshirt
-  ###########################################################################
+    - key: sections.tshirt.title
+      t: T-skjorte
 
-  - key: sections.tshirt.title
-    t: T-shirt
+    - key: sections.tshirt.description
+      t: |
+          ## Støtt undersøkelsen med State of JavaScript T-skjorte
 
-  - key: sections.tshirt.description
-    t: |
-      ## Support the Survey With the State of JavaScript T-Shirt
+          Mellom dårlig videokvalitet, klumpete kassetter og behovet for å spole tilbake, er det ikke mye å savne fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-talls visuene som pleide å pryde blanke VHS-kassetter.
 
-      Between the bad video quality, the bulky cassettes, and having to rewind, there's not much to miss about the VHS era. But one thing we *do* miss are the amazing 90s visuals that used to adorn blank VHS tapes. 
+          Men nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retroen samtidig som du feirer kjærligheten din for JavaScript!
 
-      But now, thanks to the talented Christopher Kirk-Nielsen you can enjoy all this retro radness while also celebrating your love for JavaScript at the same time!
+    - key: tshirt.about
+      t: Om t-skjorten
 
-  - key: tshirt.about
-    t: About the T-shirt
+    - key: tshirt.description
+      t: |
+          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print fra vår parner, Cotton Bureau.
 
-  - key: tshirt.description
-    t: |
-      We use a high-quality, super-soft tri-blend shirt with a slim fit printed by our partners at Cotton Bureau.
+    - key: tshirt.getit
+      t: Kjøp den
 
-  - key: tshirt.getit
-    t: Get It
+    - key: tshirt.price
+      t: USD $32 + shipping
 
-  - key: tshirt.price
-    t: USD $32 + shipping
+    - key: tshirt.designer.heading
+      t: Om designeren
 
-  - key: tshirt.designer.heading
-    t: About the Designer
+    - key: tshirt.designer.name
+      t: Christopher Kirk-Nielsen
 
-  - key: tshirt.designer.name
-    t: Christopher Kirk-Nielsen
+    - key: tshirt.designer.bio
+      t: |
+          Opprinnelig fra Frankrike, men nå basert i USA, er Chris ikke bare en fantastisk front-end utvikler, men også en talentfull illustratør som spesialiserer seg på det retrovisuelle. Vi oppfordrer deg også til å sjekke ut hans [andre t-skjortedesign](https://chriskirknielsen.com/designs)!
 
-  - key: tshirt.designer.bio
-    t: |
-      Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+    ###########################################################################
+    # Sections
+    ###########################################################################
 
-  ###########################################################################
-  # Sections
-  ###########################################################################
+    - key: sections.user_info.description
+      t: |
+          I år deltok **23,540** respondenter i undersøkelsen. For å hjelpe med å fremheve forskjellige stemmer og avdekke dypere innsikter, gjorde vi en spesiell innsats for å gi nye måter å bryte ned dataene våre på.
 
-  - key: sections.user_info.description
-    t: |
-      This year, **23,540** respondents took part in the survey. And in order
-      to help highlight different voices and surface deeper insights, we made a special
-      effort to provide new ways to break our data down.
+    - key: sections.features.description
+      t: |
+          I år la vi spesielt vekt på å identifisere utfordringer utvikleres har med JavaScript. Som man kan forvente, ledet **mangelen på innebygd typing** og **nettleserinkonsekvenser** deres respektive diagrammer, hver påvirket nesten en tredjedel av utviklerne.
 
-  - key: sections.features.description
-    t: |
-      This year we put special emphasis on identifying developer pain points with JavaScript. As one might expect, the **lack of native typing** and **browser inconsistencies** led their respective charts, each affecting nearly a third of developers.
+    - key: sections.libraries.description
+      t: |
+          Vi har omarbeidet diagrammene våre for å fremheve ikke bare utvikleropplevelsen, men også *stemningen*. Husk å utforske disse nye grupperingene og sorteringsalternativene for å finne ut hvilke biblioteker som får mest kjærlighet… eller minst!
 
-  - key: sections.libraries.description
-    t: |
-      We reworked our charts to highlight not just developer experience, but *sentiment*. Be sure to explore these new grouping and sorting options to figure out which libraries get the most love… or the least!
+    - key: sections.other_tools.description
+      t: |
+          Selv om JavaScript-samtalen ofte ser ut til å kretse rundt hvilket rammeverk man skal velge, er det verdt å huske at det finnes en hel galakse av andre verktøy, tjenester og plattformer å utforske utover det!
 
-  - key: sections.other_tools.description
-    t: |
-      While the JavaScript conversation often seems to boild down to which framework to pick, it's worth remembering that there's a whole galaxy of other tools, services, and platforms to explore beyond that!
+    - key: sections.usage.description
+      t: |
+          Igjen ser det ut til at TypeScript har etablert seg som standard, i det minste blant respondenter i undersøkelsen. Men bortsett fra det, forblir bruken av JavaScript så variert som alltid!
 
-  - key: sections.usage.description
-    t: |
-      Once again it seems like TypeScript has established itself as the default, at least among survey respondents. But apart from that, JavaScript usage remains as varied as ever!
+    - key: sections.resources.description
+      t: |
+          I stedet for å tilby forhåndsdefinerte lister med alternativer for undersøkelsesrespondentene, bestemte vi oss for å tilby rå tekstfelt. Dette førte til ganske mange nye deltakere i Ressurser-seksjonen i år!
 
-  - key: sections.resources.description
-    t: |
-      Rather than provide predefined lists of options for survey respondents to pick from, we decided to simply offer raw text fields. This led to quite a few new entrants in this year's Resources section!
+    - key: sections.awards.description
+      t: |
+          Årets prisutdeling ble dominert av ett veldig spesifikt prosjekt… hvor raskt vil du gjette hva det er?
 
-  - key: sections.awards.description
-    t: |
-      This year's awards were dominated by one very specific project… how quickly will you guess what it is?
+    ###########################################################################
+    # Charts
+    ###########################################################################
 
-  ###########################################################################
-  # Charts
-  ###########################################################################
+    - key: options.features_categories.language
+      aliasFor: sections.language.title
+    - key: options.features_categories.browser_apis
+      aliasFor: sections.browser_apis.title
+    - key: options.features_categories.other_features
+      aliasFor: sections.other_features.title
 
-  - key: options.features_categories.language
-    aliasFor: sections.language.title
-  - key: options.features_categories.browser_apis
-    aliasFor: sections.browser_apis.title
-  - key: options.features_categories.other_features
-    aliasFor: sections.other_features.title
+    ###########################################################################
+    # Notes
+    ###########################################################################
 
-  ###########################################################################
-  # Notes
-  ###########################################################################
+    - key: blocks.gender.note
+      t: |
+          Hvis du er interessert i å lære mer, har vi [skrevet et blogginnlegg](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) som tar for seg kjønnsfordelingen og dynamikken mellom de i undersøkelsen.
 
-  - key: blocks.gender.note
-    t: |
-      If you're interested in learning more, we [wrote a blog post](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) that addresses the survey's gender dynamics.
+    - key: blocks.source.note
+      t: >
 
-  - key: blocks.source.note
-    t: >
+          This chart aggregates a mix of referrers, URL parameters, and svar i fritekst-format. 
 
-      This chart aggregates a mix of referrers, URL parameters, and freeform answers. 
+          - State of JS: the [State of JS](https://stateofjs.com) mailing list.
 
-      - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+          - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
 
-      - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+          - Work: matches `work`, `colleagues`, `coworkers`, etc.
 
-      - Work: matches `work`, `colleagues`, `coworkers`, etc.
+    ###########################################################################
+    # Awards
+    ###########################################################################
 
-  ###########################################################################
-  # Awards
-  ###########################################################################
+    - key: award.feature_adoption_delta_award.comment
+      t: Med en **{value}** fremgang i 2022 har **top-level await** raskt blitt en integrert del av JavaScript.
 
-  - key: award.feature_adoption_delta_award.comment
-    t: With a **{value}** progression in 2022, **top-level await** has quickly become an integral part of JavaScript.
+    - key: award.tool_usage_delta_award.comment
+      t: |
+          **Vite** fortsetter å være det raskest voksende biblioteket der ute, med en **{value}** økning i bruken fra år til år!
 
-  - key: award.tool_usage_delta_award.comment
-    t: |
-      **Vite** continues to be the fastest-growing library out there, with a **{value}** year-over-year increase in usage!
+    - key: award.tool_satisfaction_award.comment
+      t: Vite tar igjen førsteplassen, med **{value}** av utviklerne villige til å bruke det igjen!
 
-  - key: award.tool_satisfaction_award.comment
-    t: Vite once again takes the top spot, with **{value}** of developers willing to use it again!
+    - key: award.tool_interest_award.comment
+      t: Gjettet du Vite? Nært, men i år er **Vitest** teknologien utviklerne er mest interessert i, med en **{value}** interessegrad.
 
-  - key: award.tool_interest_award.comment
-    t: Did you guess Vite? Close, but this year **Vitest** is the technology developers are most interested in with a **{value}** interest ratio.
+    - key: award.most_write_ins_award.comment
+      t: Med **{value}** omtaler, var **Bun** den mest nevnte teknologien totalt i fritekstspørsmål.
 
-  - key: award.most_write_ins_award.comment
-    t: With **{value}** mentions, **Bun** was the most mentioned technology overall in freeform questions.
+    - key: award.most_commented_tool_award.comment
+      t: Med **{value}** kommentarer viste React at det igjen er det mest omtalte biblioteket.
 
-  - key: award.most_commented_tool_award.comment
-    t: With **{value}** comments, React showed that it's once again the most-discussed library around.
+    - key: award.most_loved_tool_award.comment
+      t: Med **{value}** av alle utviklere som har en positiv oppfatning av det, avslutter Vite sin feiring av disse prisene ved å være den mest elskede teknologien!
 
-  - key: award.most_loved_tool_award.comment
-    t: With **{value}** of all developers having a positive opinion of it, Vite concludes its sweep of these awards by being the most-loved technology around!
+    ###########################################################################
+    # Conclusion
+    ###########################################################################
 
-  ###########################################################################
-  # Conclusion
-  ###########################################################################
+    - key: conclusion.js2023.cassidy_williams
+      t: |
+          <span class="first-line">Hei alle sammen, for et kult år å være på internett.</span>
 
-  - key: conclusion.js2023.cassidy_williams
-    t: |
-      <span class="first-line">Y'all, what a cool year to be on the internet.</span>
+          Det skjer så mange interessante og spennende endringer, og jeg har popcornet mitt ved tastaturet, bygget og sett på!
 
-      There's so many interesting and exciting changes happening, and I've got my popcorn next to my keyboard, building and watching!
-
-      The fact that so many "smaller" libraries like Preact, Solid, and htmx are climbing in positive sentiment over something massive like Next.js is fascinating. We're starting to see Angular make a bit of a comeback, and we'll see if that trend continues next year. We're seeing people fall out of love with some of the industry darlings. We're seeing very Rusty systems grow. Astro feels like it's off to the races in developer support.
-
-      In terms of actual browser features, it almost feels like we're going too fast for the world to catch up. Which is not always a bad thing, necessarily! But I totally echo the sentiments that browser support is my primary concern over all the cool things coming out. 
-
-      That being said, I'm personally loving using some of the new array features and the fact that more and more folks are supporting PWAs.
-
-      Next year, let's improve the diversity of responses, get more people developing, and hopefully all of the new and exciting changes err on the side of fun, rather than intimidating! Thanks Sacha and team for including me here, and for running another awesome and valuable survey.
-
-      See you online!
-
-  - key: conclusion.js2023.cassidy_williams.bio
-    t: Dev advocate, engineer, open sourcer, and memer
-
-  - key: conclusion.js2023.theo_browne
-    t: |
-      <span class="first-line">Javascript is moving to the server, and we’re uneasy about it.</span>
-
-      In last year’s survey, we saw quickly growing adoption of server-rendered frameworks like Next, Nuxt, Remix, and SvelteKit. This year, we shifted to server-first patterns such as Partial Hydration and Islands, which doubled in their adoption.
-
-      Frame-, err, libraries like htmx show that web devs aren’t the only ones benefiting from utilizing the server. SPAs aren’t going anywhere (take a look at [Inertia](https://inertiajs.com/) for proof), but as these new patterns continue to improve, the market seems to be following along.
-
-      This move has not been unanimously loved. React’s continued to grow, but React developers are increasingly concerned about its direction. Getting here has been… rough, but progress is being made every day.
-
-      We’re also seeing more options appear outside of the React ecosystem. From [Nuxt](https://roe.dev/blog/nuxt-server-components) to [SolidStart](https://docs.solidjs.com/solid-start/reference/server/use-server) to [Astro](https://astro.build/blog/astro-480/#experimental-astro-actions), all of the best React Server Component features are rolling out to every developer.
-
-      And of course, Vite has continued to dominate, and is the choice for app developers and framework authors alike. Hard to imagine where we’d be today without it!
-
-  - key: conclusion.js2023.theo_browne.bio
-    t: Creator of Ping, uploadthing, create-t3-app, and video creator
-
-  ###########################################################################
-  # Picks
-  ###########################################################################
-
-  - key: picks.my_pick
-    t: "My 2023 Pick: "
-  - key: picks.intro
-    t: We asked members of the JavaScript community to share their “pick of the year”
-
-  # https://leaddev.com/personal-development/how-build-trust-new-engineering-manager
-  - key: picks.emma_bostian.name
-    t: How to build trust as a new engineering manager
-  - key: picks.emma_bostian.bio
-    t: Engineering Manager, instructor, and co-host of the Ladybug Podcast.
-  - key: picks.emma_bostian.description
-    t: |
-      I've found the blog posts on LeadDev under Skills for new managers to be invaluable as a new Engineering Manager. They provide great resources for anyone looking to expand their engineering leadership and management skills!
-
-  # https://pocketbase.io
-  - key: picks.fireship.name
-    t: Pocketbase
-  - key: picks.fireship.bio
-    t: Google developer expert, data enthusiast, and YouTuber
-  - key: picks.fireship.description
-    t: |
-      My pick of the year is the Pocketbase project - an open-source SQLite powered backend. Its JavaScript SDK gives web developers everything needed to build a serious application, and amazingly, can be deployed as a single binary to any $5 server.
-
-  # https://www.localfirst.fm/
-  - key: picks.rich_harris.name
-    t: localfirst.fm
-  - key: picks.rich_harris.bio
-    t: Open source troublemaker at Vercel. Creator of Rollup and Svelte
-  - key: picks.rich_harris.description
-    t: |
-      If you're interested in where software is heading, this podcast is required listening. It'll renew your optimism about the future of web development.
-
-  # https://tldraw.com
-  - key: picks.david_khourshid.name
-    t: tldraw
-  - key: picks.david_khourshid.bio
-    t: Creator of XState and founder of [http://stately.ai](Stately)
-  - key: picks.david_khourshid.description
-    t: |
-      Much more than an infinite canvas, tldraw reimagines what is possible with user interfaces, from its impressive AI experiments to its attention to drawing detail. Its source code is readily available too, and I appreciate the state machines and extensible API for endless tinkering.
-
-  # https://replicache.dev/
-  - key: picks.dax_raad.name
-    t: Replicache
-  - key: picks.dax_raad.bio
-    t: Building [SST](https://sst.dev/) and [terminal](https://www.terminal.shop/)
-  - key: picks.dax_raad.description
-    t: |
-      No technology has had a bigger impact on the quality of what I've shipped in years.  I think they are carrying the torch on pushing what can be done on the web.
-
-  # https://lexical.dev/
-  - key: picks.german_jablonski.name
-    t: Lexical
-  - key: picks.german_jablonski.bio
-    t: CEO and creator of [Fluski](https://fluski.com/), notes and spreadsheet manager
-  - key: picks.german_jablonski.description
-    t: |
-      It's been an exceptional year for the Meta text editor. Its ingenious data model and lifecycle have greatly influenced the way I program.
-
-  # https://marvinh.dev/blog/speeding-up-javascript-ecosystem/
-  - key: picks.alina_listunova.name
-    t: Speeding up the JavaScript ecosystem
-  - key: picks.alina_listunova.bio
-    t: Front-end Developer, Technical Translator 🇺🇦
-  - key: picks.alina_listunova.description
-    t: |
-      Started in late 2022, this ongoing article series by Preact developer Marvin Hagemeister reveals time-inefficient elements in modern JavaScript projects and approaches. It is truly a fascinating piece for performance-conscious professionals.
-
-  # https://www.rspack.dev/
-  - key: picks.shadowingszy.name
-    t: Rspack
-  - key: picks.shadowingszy.bio
-    t: Architect of Datawhale, senior front-end R&D engineer of ByteDance
-  - key: picks.shadowingszy.description
-    t: |
-      Rspack is a Rust-based web bundler with extremely excellent performance. By using Rust, it has solved a large number of performance bottlenecks of JS bundler. And it can be compatible with the ecosystem of webpack.
-
-  # https://unjs.io/
-  - key: picks.quarkstuff.name
-    t: UnJS
-  - key: picks.quarkstuff.bio
-    t: Web & Game dev nerd
-  - key: picks.quarkstuff.description
-    t: |
-      The UnJS ecosystem is like a developer's toybox. From ofetch and consola to citty and nitro, there is likely something there for your next big project.
-
-  # https://www.npmjs.com/package/tess2
-  - key: picks.martin_heidegger.name
-    t: tess2.js
-  - key: picks.martin_heidegger.bio
-    t: Web developer, event organizer
-  - key: picks.martin_heidegger.description
-    t: |
-      I have not done a lot of JavaScript last year, but I was impressed by the tess2 algorithm, a 10-year-old npm library that still performs well!
-
-  # https://auto-animate.formkit.com/
-  - key: picks.sacha_greif.name
-    t: AutoAnimate
-  - key: picks.sacha_greif.bio
-    t: State of JS creator
-  - key: picks.sacha_greif.description
-    t: |
-      Formkit's AutoAnimate library, which you can see in action right here on this site, does exactly what its name implies and somehow figures out how to add animations to your apps with a single line of code!
-
-  # https://nuxt.com/
-  - key: picks.rexhent.name
-    t: Nuxt
-  - key: picks.rexhent.bio
-    t: Aspiring Linux and web developer
-  - key: picks.rexhent.description
-    t: |
-      Nuxt is focused on DX & UX. It's stable and continuously improving. It has the best devtools out of any framework and has created UnJS, and other tooling that powers new frameworks, like Nitro. They are a pillar of the FOSS community.
-
-  # https://medium.com/@devgustavovasquez/the-future-of-web-development-embracing-interoperable-runtimes-bd2006e9b9d7
-  - key: picks.gustavo_vasquez.name
-    t: Web Interoperable Runtimes
-  - key: picks.gustavo_vasquez.bio
-    t: Software Engineer 🇧🇷
-  - key: picks.gustavo_vasquez.description
-    t: |
-      Web Interoperable Runtimes are execution environments that allow code to run consistently across multiple platforms and environments. I believe that working with such a standard exposes us to the future of web development.
-
-  # https://x.com/wunderacle
-  - key: picks.augustin_mauroy.name
-    t: Claudio Wunder
-  - key: picks.augustin_mauroy.bio
-    t: Web developer and an OSS enthusiast
-  - key: picks.augustin_mauroy.description
-    t: |
-      Claudio is a superb person. He helped me to grow as a dev, but he also made it possible to redesign the Node website, thanks to his leadership skills. And he continues to push the Node project forward.
-
-  # https://www.electronjs.org/
-  - key: picks.kilian_valkhof.name
-    t: Electron
-  - key: picks.kilian_valkhof.bio
-    t: Creator of Polypane Browser for Developers
-  - key: picks.kilian_valkhof.description
-    t: |
-      With everyday apps like VS Code, Figma, Discord, Slack and 1Password all running on Electron, it remains an integral part of the JS and developer ecosystem. Many tools we all use wouldn't exist without it, and when used correctly it's a powerful platform indeed.
-
-  # https://x.com/dawntraoz
-  - key: picks.arisa_fukuzaki.name
-    t: Alba Silvente Fuentes
-  - key: picks.arisa_fukuzaki.bio
-    t: Senior DevRel Engineer & Docs at Storyblok
-  - key: picks.arisa_fukuzaki.description
-    t: |
-      Alba writes about frontend development, web architecture, and web performance, spoke at many conferences, and has a podcast, "No me da la vida". She has been inspiring many devs, and I'm one of them!
-
-  # - key: picks.xxxx.name
-  #   t:
-  # - key: picks.xxxx.bio
-  #   t:
-  # - key: picks.xxxx.description
-  #   t: |
-  ###########################################################################
-  # Sponsors
-  ###########################################################################
-
-  - key: sponsors.frontendmasters.description
-    t: Advance your skills with in-depth, modern front-end engineering courses.
-  - key: sponsors.google_chrome.description
-    t: Thanks to the Google Chrome team for supporting our work.
-  - key: sponsors.tokyodev.description
-    t: Find your dream developer job in Japan today.
-  - key: sponsors.renderatl.description
-    t: The tech conference focused on all things web.
-
-  ###########################################################################
-  # FAQ/About
-  ###########################################################################
-
-  - key: about.content
-    t: |
-      The 2023 State of JavaScript survey ran from November 22 to December 12 2023, and collected 23,540 responses. The results were published on June 20, 2024. The survey is run by [Devographics](https://devographics.com/), a collective consisting of me ([Sacha Greif](https://sachagreif.com/)) and [Eric Burel](https://www.lbke.fr/), as well as invited experts and open-source contributors. 
-
-      The State of JavaScript logo and t-shirt were designed by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
-
-      ### Survey Goals
-
-      This survey was created to identify upcoming trends in the web development ecosystem in order to help developers make technological choices. 
-
-      As such, the survey is focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why features or technologies may sometimes be omitted even if they are currently widespread 
-
-      It should also be taken as a **snapshot of a specific subset of developers**, and is not meant to speak for the entire ecosystem. 
-
-      ### Survey Design
-
-      The survey was designed in part based on last year's survey, with an open feedback period where the survey outline was discussed [on GitHub](https://github.com/Devographics/surveys/issues?q=is%3Aissue+is%3Aopen+label%3A%22State+of+JS+2023%22). 
-
-      All survey questions were optional. 
-
-      ### Survey Audience
-
-      The survey was openly accessible online and respondents were not filtered or selected in any way. Respondents were primarily a mix of respondents from past surveys (alerted through a dedicated mailing list) and social media traffic. 
-
-      Note that frameworks, libraries, etc. were free to encourage their audience to participate in the survey and some of them did take advantage of this via banners, tweets, etc. A detailed breakdown of traffic sources is included in the "Sources" chart. 
-
-      ### Project Funding
-
-      Funding from this project comes from a variety of sources:
-
-      - **T-shirt sales**. 
-
-      - **Sponsored links**: the links to recommended resources at the bottom of each page are provided by our partners [Frontend Masters](https://frontendmasters.com/) and [RenderATL](https://www.renderatl.com/).
-
-      - **Direct Funding**: this year, [Google](https://www.google.com/) funded my work on the survey. 
-
-      Any contribution or sponsorship is greatly appreciated. we would especially like to work closely with more browser vendors, since they play such a central role in the web ecosystem.  
-
-      ### Technical Overview
-
-      You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).
+          Det faktum at så mange "mindre" biblioteker som Preact, Solid, og htmx klatrer i positiv stemning over noe stort som Next.js er fascinerende. Vi begynner å se Angular gjøre en liten comeback, og vi får se om den trenden fortsetter neste år. Vi ser folk falle ut av kjærligheten med noen av bransjens darlinger. Vi ser veldig rustne systemer vokse. Astro føles som om det er på vei med utviklerstøtte.
+
+          Når det gjelder faktiske nettleserfunksjoner, føles det nesten som om vi går for raskt for verden å henge med. Som ikke nødvendigvis er en dårlig ting! Men jeg deler helt bekymringen om at nettleserstøtte er min primære bekymring over alle de kule tingene som kommer ut.
+
+          Når det er sagt, så elsker jeg personlig å bruke noen av de nye array-funksjonene og det faktum at flere og flere folk støtter PWAs.
+
+          Neste år, la oss forbedre mangfoldet av svar, få flere folk til å utvikle, og forhåpentligvis vil alle de nye og spennende endringene tippe mot moro, snarere enn å være skremmende! Takk Sacha og teamet for å inkludere meg her, og for å kjøre en annen fantastisk og verdifull undersøkelse.
+
+          Vi sees online!
+
+    - key: conclusion.js2023.cassidy_williams.bio
+      t: Utviklingsforkjemper, ingeniør, open sourcer og memer
+
+    - key: conclusion.js2023.theo_browne
+      t: |
+          <span class="first-line">Javascript flytter til serveren, og vi er litt urolige.</span>
+
+          I fjorårets undersøkelse så vi raskt voksende adopsjon av server-renderte rammer som Next, Nuxt, Remix, og SvelteKit. I år har vi gått over til server-første mønstre som Partial Hydration og Islands, som har doblet sin adopsjon.
+
+          Ramme-, eh, biblioteker som htmx viser at webutviklere ikke er de eneste som drar nytte av å utnytte serveren. SPAs forsvinner ikke (ta en titt på [Inertia](https://inertiajs.com/) for bevis), men ettersom disse nye mønstrene fortsetter å forbedre seg, ser det ut til at markedet følger med.
+
+          Denne bevegelsen har ikke vært entydig elsket. React har fortsatt å vokse, men React-utviklere er i økende grad bekymret for retningen den tar. Å komme hit har vært... tøft, men fremgang gjøres hver dag.
+
+          Vi ser også flere alternativer dukke opp utenfor React-økosystemet. Fra [Nuxt](https://roe.dev/blog/nuxt-server-components) til [SolidStart](https://docs.solidjs.com/solid-start/reference/server/use-server) til [Astro](https://astro.build/blog/astro-480/#experimental-astro-actions), alle de beste funksjonene for React Server Components rulles ut til alle utviklere.
+
+          Og selvfølgelig har Vite fortsatt å dominere, og er valget for app-utviklere og rammeverksforfattere alike. Det er vanskelig å forestille seg hvor vi ville vært i dag uten det!
+
+    - key: conclusion.js2023.theo_browne.bio
+      t: Skaper av Ping, uploadthing, create-t3-app og videoprodusent
+
+    ###########################################################################
+    # Picks
+    ###########################################################################
+
+    - key: picks.my_pick
+      t: "Mine valg for 2023: "
+    - key: picks.intro
+      t: Vi spurte medlemmer av JavaScript-fellesskapet om å dele sitt "valg av året"
+
+    # https://leaddev.com/personal-development/how-build-trust-new-engineering-manager
+    - key: picks.emma_bostian.name
+      t: Hvordan bygge tillit som ny engineering manager
+    - key: picks.emma_bostian.bio
+      t: Engineering Manager, instruktør og medvert av Ladybug Podcast.
+    - key: picks.emma_bostian.description
+      t: |
+          Jeg har funnet blogginnleggene på LeadDev under "Skills for new managers" uvurderlige som ny Engineering Manager. De gir flotte ressurser for alle som ønsker å utvide sine ferdigheter innen ingeniørledelse og ledelse!
+
+    # https://pocketbase.io
+    - key: picks.fireship.name
+      t: Pocketbase
+    - key: picks.fireship.bio
+      t: Google utvikler ekspert, dataentusiast og YouTuber
+    - key: picks.fireship.description
+      t: |
+          Mitt valg for året er Pocketbase-prosjektet - en åpen kildekode SQLite-drevet backend. Dets JavaScript SDK gir webutviklere alt som trengs for å bygge en seriøs applikasjon, og kan utrolig nok distribueres som en enkelt binærfil til enhver $5-server.
+
+    # https://www.localfirst.fm/
+    - key: picks.rich_harris.name
+      t: localfirst.fm
+    - key: picks.rich_harris.bio
+      t: Open source uromaker hos Vercel. Skaper av Rollup og Svelte
+    - key: picks.rich_harris.description
+      t: |
+          Hvis du er interessert i hvor programvare er på vei, er denne podkasten et must å lytte til. Den vil fornye din optimisme om fremtiden for webutvikling.
+
+    # https://tldraw.com
+    - key: picks.david_khourshid.name
+      t: tldraw
+    - key: picks.david_khourshid.bio
+      t: Skaper av XState og grunnlegger av [http://stately.ai](Stately)
+    - key: picks.david_khourshid.description
+      t: |
+          Mye mer enn et uendelig lerret, tldraw omdefinerer hva som er mulig med brukergrensesnitt, fra sine imponerende AI-eksperimenter til sin oppmerksomhet på tegndetaljer. Kildekoden er også lett tilgjengelig, og jeg setter pris på tilstandsmaskinene og den utvidbare API-en for uendelig tinkering.
+
+    # https://replicache.dev/
+    - key: picks.dax_raad.name
+      t: Replicache
+    - key: picks.dax_raad.bio
+      t: Bygger [SST](https://sst.dev/) og [terminal](https://www.terminal.shop/)
+    - key: picks.dax_raad.description
+      t: |
+          Ingen teknologi har hatt større innvirkning på kvaliteten på det jeg har levert de siste årene. Jeg tror de bærer faklen for å presse hva som kan gjøres på nettet.
+
+    # https://lexical.dev/
+    - key: picks.german_jablonski.name
+      t: Lexical
+    - key: picks.german_jablonski.bio
+      t: CEO og skaper av [Fluski](https://fluski.com/), notater og regneark manager
+    - key: picks.german_jablonski.description
+      t: |
+          Det har vært et eksepsjonelt år for Meta teksteditoren. Dets geniale datamodell og livssyklus har hatt stor innflytelse på måten jeg programmerer.
+
+    # https://marvinh.dev/blog/speeding-up-javascript-ecosystem/
+    - key: picks.alina_listunova.name
+      t: Å gjøre JavaScript-økosystemet raskere
+    - key: picks.alina_listunova.bio
+      t: Front-end utvikler, teknisk oversetter 🇺🇦
+    - key: picks.alina_listunova.description
+      t: |
+          Startet på slutten av 2022, denne pågående artikkelserien av Preact-utvikler Marvin Hagemeister avdekker tidseffektive elementer i moderne JavaScript-prosjekter og tilnærminger. Det er virkelig et fascinerende stykke for ytelseskonsentrerte fagfolk.
+
+    # https://www.rspack.dev/
+    - key: picks.shadowingszy.name
+      t: Rspack
+    - key: picks.shadowingszy.bio
+      t: Arkitekt av Datawhale, senior front-end R&D ingeniør hos ByteDance
+    - key: picks.shadowingszy.description
+      t: |
+          Rspack er en Rust-basert webbundler med ekstremt utmerket ytelse. Ved å bruke Rust har den løst mange ytelsesflaskehalser til JS-bundler. Og den kan være kompatibel med webpack-økosystemet.
+
+    # https://unjs.io/
+    - key: picks.quarkstuff.name
+      t: UnJS
+    - key: picks.quarkstuff.bio
+      t: Web- og spillutviklernerd
+    - key: picks.quarkstuff.description
+      t: |
+          UnJS-økosystemet er som en utviklerens leketøyboks. Fra ofetch og consola til citty og nitro, er det sannsynligvis noe der for ditt neste store prosjekt.
+
+    # https://www.npmjs.com/package/tess2
+    - key: picks.martin_heidegger.name
+      t: tess2.js
+    - key: picks.martin_heidegger.bio
+      t: Webutvikler, eventarrangør
+    - key: picks.martin_heidegger.description
+      t: |
+          Jeg skrev ikke mye JavaScript i fjor, men jeg ble imponert over tess2-algoritmen, et 10 år gammelt npm-bibliotek som fortsatt fungerer bra!
+
+    # https://auto-animate.formkit.com/
+    - key: picks.sacha_greif.name
+      t: AutoAnimate
+    - key: picks.sacha_greif.bio
+      t: Skaper av State of JS
+    - key: picks.sacha_greif.description
+      t: |
+          Formkits AutoAnimate-bibliotek, som du kan se i aksjon akkurat her på dette nettstedet, gjør akkurat det navnet tilsier og finner på en eller annen måte ut hvordan man kan legge til animasjoner til appene dine med en enkelt linje kode!
+
+    # https://nuxt.com/
+    - key: picks.rexhent.name
+      t: Nuxt
+    - key: picks.rexhent.bio
+      t: Aspiring Linux and web developer
+    - key: picks.rexhent.description
+      t: |
+          Nuxt er fokusert på utvikleropplevelse (DX) og brukeropplevelse (UX). Det er stabilt og forbedres kontinuerlig. Det har de beste utviklerverktøyene av alle rammeverk, og har laget UnJS og andre verktøy som driver nye rammeverk, som Nitro. De er en søyle i FOSS-samfunnet.
+
+    # https://medium.com/@devgustavovasquez/the-future-of-web-development-embracing-interoperable-runtimes-bd2006e9b9d7
+    - key: picks.gustavo_vasquez.name
+      t: Web Interoperable Runtimes
+    - key: picks.gustavo_vasquez.bio
+      t: Software Engineer 🇧🇷
+    - key: picks.gustavo_vasquez.description
+      t: |
+          Web-interoperable runtime-miljøer er kjøremiljøer som tillater at kode kjører konsekvent på tvers av flere plattformer og miljøer. Jeg tror at det å jobbe med en slik standard eksponerer oss for fremtiden innen webutvikling.
+
+    # https://x.com/wunderacle
+    - key: picks.augustin_mauroy.name
+      t: Claudio Wunder
+    - key: picks.augustin_mauroy.bio
+      t: Web-utvikler og OSS-enthusiast
+    - key: picks.augustin_mauroy.description
+      t: |
+          Claudio er en fantastisk person. Han har hjulpet meg med å vokse som utvikler, men han har også gjort det mulig å redesigne Node-nettstedet, takket være sine lederegenskaper. Og han fortsetter å drive Node-prosjektet fremover.
+
+    # https://www.electronjs.org/
+    - key: picks.kilian_valkhof.name
+      t: Electron
+    - key: picks.kilian_valkhof.bio
+      t: Skaper av Polypane Browser for utviklere
+    - key: picks.kilian_valkhof.description
+      t: |
+          Med hverdagsapper som VS Code, Figma, Discord, Slack og 1Password som alle kjører på Electron, forblir det en integrert del av JS- og utviklerøkosystemet. Mange verktøy vi alle bruker ville ikke eksistert uten det, og når det brukes riktig, er det virkelig en kraftig plattform.
+
+    # https://x.com/dawntraoz
+    - key: picks.arisa_fukuzaki.name
+      t: Alba Silvente Fuentes
+    - key: picks.arisa_fukuzaki.bio
+      t: Senior DevRel Engineer & Docs hos Storyblok
+    - key: picks.arisa_fukuzaki.description
+      t: |
+          Alba skriver om frontend-utvikling, webarkitektur og webytelse, har deltatt på mange konferanser, og har en podcast, "No me da la vida". Hun har inspirert mange utviklere, og jeg er en av dem!
+
+    # - key: picks.xxxx.name
+    #   t:
+    # - key: picks.xxxx.bio
+    #   t:
+    # - key: picks.xxxx.description
+    #   t: |
+    ###########################################################################
+    # Sponsors
+    ###########################################################################
+
+    - key: sponsors.frontendmasters.description
+      t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.
+    - key: sponsors.google_chrome.description
+      t: Takk til Google Chrome teamet for støtten til vårt arbeid.
+    - key: sponsors.tokyodev.description
+      t: Finn din drømmejobb som utvikler i Japan idag.
+    - key: sponsors.renderatl.description
+      t: Tech-konferransen med fokus på alle-ting-web
+
+    ###########################################################################
+    # FAQ/About
+    ###########################################################################
+
+    - key: about.content
+      t: |
+          The 2023 State of JavaScript-undersøkelsen ble gjennomført fra 22. november til 12. desember 2023, og samlet inn 23,540 svar. Resultatene ble publisert 20. juni 2024. Undersøkelsen ledes av [Devographics](https://devographics.com/), et kollektiv bestående av meg ([Sacha Greif](https://sachagreif.com/)) og [Eric Burel](https://www.lbke.fr/), samt inviterte eksperter og bidragsytere til åpen kildekode.
+
+          Logoen for State of JavaScript og T-skjorte ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+          ### Mål for Undersøkelsen
+
+          Denne undersøkelsen ble opprettet for å identifisere kommende trender i webutviklingsøkosystemet for å hjelpe utviklere med å ta teknologiske valg.
+
+          Som sådan er undersøkelsen fokusert på å forutsi hva som kommer i løpet av de neste årene, i stedet for å analysere hva som er populært nå, som er grunnen til at funksjoner eller teknologier noen ganger kan bli utelatt, selv om de for tiden er utbredte.
+
+          Det bør også forstås som et **øyeblikksbilde av en spesifikk undergruppe av utviklere**, og er ikke ment å tale for hele økosystemet.
+
+          ### Undersøkelsesdesign
+
+          Undersøkelsen ble delvis designet basert på fjorårets undersøkelse, med en åpen tilbakemeldingsperiode der undersøkelsens disposisjon ble diskutert [på GitHub](https://github.com/Devographics/surveys/issues?q=is%3Aissue+is%3Aopen+label%3A%22State+of+JS+2023%22).
+
+          Alle spørsmål i undersøkelsen var valgfrie.
+
+          ### Undersøkelsens Publikum
+
+          Undersøkelsen var åpent tilgjengelig på nettet, og respondenter ble ikke filtrert eller valgt på noen måte. Respondentene var primært en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og trafikk fra sosiale medier.
+
+          Merk at rammeverk, biblioteker osv. fritt kunne oppmuntre sitt publikum til å delta i undersøkelsen, og noen av dem utnyttet dette via bannere, tweets osv. En detaljert oversikt over trafikkilder er inkludert i diagrammet "Kilder".
+
+          ### Prosjektfinansiering
+
+          Finansiering av dette prosjektet kommer fra ulike kilder:
+
+          - **T-skjorte salg**.
+
+          - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side leveres av våre partnere [Frontend Masters](https://frontendmasters.com/) og [RenderATL](https://www.renderatl.com/).
+
+          - **Direkte finansiering**: i år finansierte [Google](https://www.google.com/) arbeidet mitt med undersøkelsen.
+
+          Enhver bidrag eller sponsing er svært verdsatt. Vi ønsker spesielt å samarbeide tett med flere nettleserleverandører, siden de spiller en så sentral rolle i webøkosystemet.
+
+          ### Teknisk Oversikt
+
+          Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).

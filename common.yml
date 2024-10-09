@@ -469,7 +469,7 @@ translations:
 
     # patterns
     - key: options.patterns.use_never
-      t: Nesten alltid unngå
+      t: Bruker aldri
     - key: options.patterns.use_sparingly
       t: Bruker med måte
     - key: options.patterns.use_neutral
@@ -852,7 +852,7 @@ translations:
     # Race & Ethnicity (short)
 
     - key: options.race_ethnicity.white_european.short
-      t: White
+      t: Hvit
     - key: options.race_ethnicity.south_asian.short
       t: Sør-asiatisk
     - key: options.race_ethnicity.south_east_asian.short
@@ -870,7 +870,7 @@ translations:
     - key: options.race_ethnicity.biracial.short
       t: Blandet etnisk bakgrunn
     - key: options.race_ethnicity.native_american_islander_australian.short
-      t: Amr urbefolkning/Stillehavsøyboere/Australsk urfolk
+      t: Amrikansk urbefolkning/Stillehavsøyboere/Australsk urfolk
     - key: options.race_ethnicity.not_listed.short
       t: Ikke oppgitt
 
@@ -934,7 +934,7 @@ translations:
     - key: options.form_factors.testing_tools
       t: Testverktøy (Axe, Lighthouse, etc.)
     - key: options.form_factors.vision_simulator
-      t: Simulator for endret syn (color blindness, etc.)
+      t: Simulator for endret syn (fargeblindhet, etc.)
 
     # Industry Sector
     - key: options.industry_sector.ecommerce
@@ -1578,7 +1578,7 @@ translations:
     ###########################################################################
 
     ###########################################################################
-    # Resources
+    # Ressurser
     ###########################################################################
 
     # first steps
