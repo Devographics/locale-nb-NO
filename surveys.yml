@@ -450,7 +450,7 @@ translations:
       t: Du kan lære mer om [fjorårets undersøkelse her](https://2021.stateofcss.com/en-US/about/).
 
     - key: faq.survey_design_css2022
-      t: Hvordan var undersøkelsen satt opp?
+      t: Hvordan ble undersøkelsen utformet?
     - key: faq.survey_design_css2022.description
       t: I år, takker være Google's [UI fond](https://web.dev/ui-fund/), kunne [Lea Verou](https://lea.verou.me/) ta styring og lede den [prosessen med utformingen av undersøkelsen](https://github.com/orgs/Devographics/projects/1/views/1) på GitHub.
 
@@ -479,7 +479,7 @@ translations:
       t: Du kan lære mer om denne undersøkelsen på [vår annonseringspost](https://dev.to/sachagreif/the-2023-state-of-css-survey-is-now-open-18bk).
 
     - key: faq.survey_design_css2023
-      t: Hvordan var undersøkelsen satt opp?
+      t: Hvordan ble undersøkelsen utformet?
     - key: faq.survey_design_css2023.description
       t: >
           I år, takker være Google's [UI Fond](https://web.dev/ui-fund/),
@@ -498,7 +498,7 @@ translations:
       t: Du kan lære mer om [fjorårets undersøkelse her](https://2021.stateofjs.com/en-US/about/).
 
     # - key: faq.survey_design_js2022
-    #   t: Hvordan var undersøkelsen satt opp?
+    #   t: Hvordan ble undersøkelsen utformet?
     # - key: faq.survey_design_css2022.description
     #   t: This year, thanks to a grant from Google's [UI Fund](https://web.dev/ui-fund/), [Lea Verou](https://lea.verou.me/) was able to take the lead and managed the [open survey design process](https://github.com/orgs/Devographics/projects/1/views/1) on GitHub.
 
@@ -546,7 +546,7 @@ translations:
       t: Du kan lære mer om denne undersøkelsen på [vår annonseringspost](https://lea.verou.me/blog/2023/design-state-of-html/).
 
     - key: faq.survey_design_html2023
-      t: Hvordan var undersøkelsen satt opp?
+      t: Hvordan ble undersøkelsen utformet?
     - key: faq.survey_design_html2023.description
       t: >
           Undersøkelsen ble utformet av [Lea Verou](https://lea.verou.me), med innspill fra nettleserleverandører samt grupper som [WebDX Community Group](https://www.w3.org/community/webdx/).
@@ -589,7 +589,7 @@ translations:
       t: Du kan lære mer om denne undersøkelsen på [vår annonseringspost](https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b).
 
     - key: faq.survey_design_react2023
-      t: Hvordan var undersøkelsen satt opp?
+      t: Hvordan ble undersøkelsen utformet?
     - key: faq.survey_design_react2023.description
       t: >
           Undersøkelsen ble utformet med innspill fra fellesskapet gjennom en [åpen tråd for tilbakemelding](https://github.com/Devographics/surveys/issues/85).
@@ -645,7 +645,7 @@ translations:
       t: Du kan lære mer om denne undersøkelsen på [vår annonseringspost](https://dev.to/sachagreif/the-state-of-js-2023-survey-is-now-open-2hah).
 
     - key: faq.survey_design_js2023
-      t: Hvordan var undersøkelsen satt opp?
+      t: Hvordan ble undersøkelsen utformet?
     - key: faq.survey_design_js2023.description
       t: >
           Undersøkelsen ble utformet med innspill fra fellesskapet gjennom en [åpen tråd for tilbakemelding](https://github.com/Devographics/surveys/issues/224).

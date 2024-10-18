@@ -1,538 +1,538 @@
 locale: nb-NO
 translations:
-  ###########################################################################
-  # General
-  ###########################################################################
+    ###########################################################################
+    # General
+    ###########################################################################
 
-  - key: general.results.description
-    t: 2023-utgaven av den årlige undersøkelsen om de nyeste trendene i CSS-økosystemet.
+    - key: general.results.description
+      t: 2023-utgaven av den årlige undersøkelsen om de nyeste trendene i CSS-økosystemet.
 
-  - key: general.css2022.js2022_banner
-    t: "**State of JS 2022-undersøkelsen** er nå åpen, og du kan [ta den her](https://survey.devographics.com/survey/state-of-js/2022?source=css2022)!"
+    - key: general.css2022.js2022_banner
+      t: "**State of JS 2022-undersøkelsen** er nå åpen, og du kan [ta den her](https://survey.devographics.com/survey/state-of-js/2022?source=css2022)!"
 
-  - key: general.css2023.results_intro
-    t: |
+    - key: general.css2023.results_intro
+      t: |
 
-      For å være helt ærlig så har det ikke vært lett å holde tritt med CSS i det siste. Heldigvis tok [Chen Hui Jing](https://chenhuijing.com/) ledelsen av designprosessen for undersøkelsen i år, og bygget videre på arbeidet gjort av [Lea Verou](https://lea.verou.me/) i fjor.
+          For å være helt ærlig så har det ikke vært lett å holde tritt med CSS i det siste. Heldigvis tok [Chen Hui Jing](https://chenhuijing.com/) ledelsen av designprosessen for undersøkelsen i år, og bygget videre på arbeidet gjort av [Lea Verou](https://lea.verou.me/) i fjor.
 
-      Vi var også heldige nok til å få støtte fra Google Chrome-teamet, som (sammen med andre nettleserleverandører) bruker disse resultatene for å veilede deres veikart.
+          Vi var også heldige nok til å få støtte fra Google Chrome-teamet, som (sammen med andre nettleserleverandører) bruker disse resultatene for å veilede deres veikart.
 
-      Takket være all denne ekstra hjelpen, kunne vi introdusere en rekke nye funksjoner, som muligheten til å **tilpasse diagrammer**. Ved å klikke på <span class="customize-chart-icon">“innstillinger”</span>-ikonet ved siden av et diagram, kan du nå filtrere det etter lønn, land eller hvilken som helst annen variabel du ønsker!
+          Takket være all denne ekstra hjelpen, kunne vi introdusere en rekke nye funksjoner, som muligheten til å **tilpasse diagrammer**. Ved å klikke på <span class="customize-chart-icon">“innstillinger”</span>-ikonet ved siden av et diagram, kan du nå filtrere det etter lønn, land eller hvilken som helst annen variabel du ønsker!
 
-      Med alt dette ute av veien, la oss se hvordan CSS utviklet seg i 2023!
+          Med alt dette ute av veien, la oss se hvordan CSS utviklet seg i 2023!
 
-  ###########################################################################
-  # Introduction
-  ###########################################################################
+    ###########################################################################
+    # Introduction
+    ###########################################################################
 
-  - key: introduction.css2023
-    t: |
-      <span class="first-letter">C</span>SS gjennomgår en periode med enestående fremgang. Mellom `:has()`, container-spørringer, subgrid og mye mer, kommer det nye funksjoner i nettlesere nesten hver måned.
+    - key: introduction.css2023
+      t: |
+          <span class="first-letter">C</span>SS gjennomgår en periode med enestående fremgang. Mellom `:has()`, container-spørringer, subgrid og mye mer, kommer det nye funksjoner i nettlesere nesten hver måned.
 
-      Konsekvensen av all denne veksten er at ting kan bli litt overveldende. Heldigvis hadde vi i år [Chen Hui Jing](https://chenhuijing.com/) til å hjelpe med å designe undersøkelsen og guide oss gjennom CSS-jungelen.
+          Konsekvensen av all denne veksten er at ting kan bli litt overveldende. Heldigvis hadde vi i år [Chen Hui Jing](https://chenhuijing.com/) til å hjelpe med å designe undersøkelsen og guide oss gjennom CSS-jungelen.
 
-      Og for å snakke om undersøkelsen, visste du at nettleserleverandører bruker dataene fra den som en del av [Interop](https://web.dev/interop-2023/) initiativet for å hjelpe til med å prioritere hvilke funksjoner de skal jobbe med neste gang?
+          Og for å snakke om undersøkelsen, visste du at nettleserleverandører bruker dataene fra den som en del av [Interop](https://web.dev/interop-2023/) initiativet for å hjelpe til med å prioritere hvilke funksjoner de skal jobbe med neste gang?
 
-      Til slutt introduserer vi en ny funksjon i år: muligheten til å **tilpasse diagrammer** med dine egne data-filtre. Vi er spente på å se hvilke nye innsikter du kommer opp med!
+          Til slutt introduserer vi en ny funksjon i år: muligheten til å **tilpasse diagrammer** med dine egne data-filtre. Vi er spente på å se hvilke nye innsikter du kommer opp med!
 
-      <span class="conclusion__byline">– Sacha Greif</span>
+          <span class="conclusion__byline">– Sacha Greif</span>
 
-  ###########################################################################
-  # Tshirt
-  ###########################################################################
+    ###########################################################################
+    # Tshirt
+    ###########################################################################
 
-  - key: sections.tshirt.title
-    t: T-skjorte
+    - key: sections.tshirt.title
+      t: T-skjorte
 
-  - key: sections.tshirt.description
-    t: |
-      ## Støtt undersøkelsen med State of CSS T-skjorten
+    - key: sections.tshirt.description
+      t: |
+          ## Støtt undersøkelsen med State of CSS T-skjorten
 
-      Videokvalitet, klumpete kassetter og behovet for å spole tilbake er ting vi ikke savner fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-tallsvisuelle elementene som pleide å pryde tomme VHS-kassetter.
+          Videokvalitet, klumpete kassetter og behovet for å spole tilbake er ting vi ikke savner fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-tallsvisuelle elementene som pleide å pryde tomme VHS-kassetter.
 
-      Og nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retro-stilen samtidig som du feirer kjærligheten din for CSS!
+          Og nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retro-stilen samtidig som du feirer kjærligheten din for CSS!
 
-  - key: tshirt.about
-    t: Om t-skjorten
+    - key: tshirt.about
+      t: Om t-skjorten
 
-  - key: tshirt.description
-    t: |
-      Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print fra vår parner, Cotton Bureau.
+    - key: tshirt.description
+      t: |
+          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print fra vår parner, Cotton Bureau.
 
-  - key: tshirt.getit
-    t: Kjøp den
+    - key: tshirt.getit
+      t: Kjøp den
 
-  - key: tshirt.price
-    t: USD $29 + frakt
+    - key: tshirt.price
+      t: USD $29 + frakt
 
-  - key: tshirt.designer.heading
-    t: Om designeren
+    - key: tshirt.designer.heading
+      t: Om designeren
 
-  - key: tshirt.designer.name
-    t: Christopher Kirk-Nielsen
+    - key: tshirt.designer.name
+      t: Christopher Kirk-Nielsen
 
-  - key: tshirt.designer.bio
-    t: |
-      Opprinnelig fra Frankrike, men nå basert i USA, er Chris ikke bare en fantastisk front-end utvikler, men også en talentfull illustratør som spesialiserer seg på det retrovisuelle. Vi oppfordrer deg også til å sjekke ut hans [andre t-skjortedesign](https://chriskirknielsen.com/designs)!
+    - key: tshirt.designer.bio
+      t: |
+          Opprinnelig fra Frankrike, men nå basert i USA, er Chris ikke bare en fantastisk front-end utvikler, men også en talentfull illustratør som spesialiserer seg på det retrovisuelle. Vi oppfordrer deg også til å sjekke ut hans [andre t-skjortedesign](https://chriskirknielsen.com/designs)!
 
-  ###########################################################################
-  # Sections Introductions
-  ###########################################################################
+    ###########################################################################
+    # Sections Introductions
+    ###########################################################################
 
-  - key: sections.user_info.description.css2023
-    t: |
-      This year's survey reached **9,190** developers throughout the world.
+    - key: sections.user_info.description.css2023
+      t: |
+          Årets undersøkelse nådde ut til **9,190** utviklere over hele verden.
 
-  - key: sections.features.description.css2023
-    t: |
-      CSS har hatt medvind i det siste, og mange av de nye funksjonene som er introdusert, 
-      blir sakte men sikkert tatt i bruk av flere og flere utviklere.
+    - key: sections.features.description.css2023
+      t: |
+          CSS har hatt medvind i det siste, og mange av de nye funksjonene som er introdusert, 
+          blir sakte men sikkert tatt i bruk av flere og flere utviklere.
 
-  - key: sections.css_frameworks.description.css2023
-    t: |
-      Igjen skiller Tailwind CSS seg ut som det ene store UI-rammeverket som utviklere er glade for å fortsette å bruke, mens Open Props genererer en liten, men ivrig tilhengerskare.
+    - key: sections.css_frameworks.description.css2023
+      t: |
+          Igjen skiller Tailwind CSS seg ut som det ene store UI-rammeverket som utviklere er glade for å fortsette å bruke, mens Open Props genererer en liten, men ivrig tilhengerskare.
 
-  - key: sections.css_in_js.description.css2023
-    t: |
-      Etter en viss innledende vekst ser det ut til at CSS-in-JS-sektoren har stabilisert seg, og det 
-      faktum at innebygd CSS selv tar i bruk mange av sine viktigste fordeler, er sannsynligvis en stor medvirkende faktor.
+    - key: sections.css_in_js.description.css2023
+      t: |
+          Etter en viss innledende vekst ser det ut til at CSS-in-JS-sektoren har stabilisert seg, og det 
+          faktum at innebygd CSS selv tar i bruk mange av sine viktigste fordeler, er sannsynligvis en stor medvirkende faktor.
 
-  - key: sections.other_tools.description.css2023
-    t: |
-      30 år etter oppfinnelsen av nettleseren ser vi fortsatt innovasjon på dette området med nye aktører som Brave og Arc, samt spesialiserte verktøy som Polypane som får økt markedsandel.
+    - key: sections.other_tools.description.css2023
+      t: |
+          30 år etter oppfinnelsen av nettleseren ser vi fortsatt innovasjon på dette området med nye aktører som Brave og Arc, samt spesialiserte verktøy som Polypane som får økt markedsandel.
 
-  - key: sections.usage.description.css2023
-    t: |
-      Uansett hvordan du bruker CSS, viser dataene at det fortsatt er en bekymring å sikre at koden din fungerer på tvers av alle nettlesere, spesielt for nyere funksjoner som `:has()`.
-
-  - key: sections.resources.description.css2023
-    t: |
-      Mellom blogger, YouTube-kanaler og podcaster er CSS-samfunnet mer livlig enn noen gang.
-
-  ###########################################################################
-  # Charts
-  ###########################################################################
-
-  - key: options.features_categories.layout
-    aliasFor: sections.layout.title
-  - key: options.features_categories.shapes_graphics
-    aliasFor: sections.shapes_graphics.title
-  - key: options.features_categories.interactions
-    aliasFor: sections.interactions.title
-  - key: options.features_categories.typography
-    aliasFor: sections.typography.title
-  - key: options.features_categories.accessibility
-    aliasFor: sections.accessibility.title
-  - key: options.features_categories.other_features
-    aliasFor: sections.other_features.title
-  - key: options.features_categories.colors
-    aliasFor: sections.colors.title
-  - key: options.features_categories.selectors
-    aliasFor: sections.selectors.title
-
-  - key: user_info.country_low_vs_high_income.description.css2023
-    t: >
-      Om vi deler respondenter i to grupper, høy inntekt og lav inntekt, får vi to
-      veldig forskjellige lister med land.
-
-  - key: user_info.higher_education_degree_by_gender.description.css2023
-    t: >
-      Representasjonen av kvinner var høyere enn forventet blant respondentene med høyere 
-      utdanning i områder som ikke er relatert til CSS, 
-      noe som potensielt indikerer mange karriereskift.
-
-  - key: user_info.source_by_gender.description.css2023
-    t: >
-      Selv om de lave totalene gjør det vanskelig å trekke noen konklusjoner, 
-      var andelen kvinner høyest blant respondentene som kom over undersøkelsen 
-      gjennom arbeidsplassen sin eller via muntlig omtale, 
-      spesielt sammenlignet med sosiale nettverk som Twitter eller YouTube.
-
-  - key: user_info.source_by_race_ethnicity.description.css2023
-    t: >
-      Igjen, med tanke på den lave utvalgsstørrelsen, skiller 
-      YouTube seg ut som en av de mest mangfoldige kildene til trafikk til undersøkelsen når man vurderer rase og etnisitet.
-
-  - key: user_info.average_income_by_company_size.description.css2023
-    t: >
-      Vi finner at de best betalte respondentene jobber for store selskaper, selv om det er 
-      verdt å merke seg at selvstendig næringsdrivende har en liten inntektsfordel sammenlignet med små selskaper.
-
-  - key: user_info.yearly_salary_usa_vs_the_world.description.css2023
-    t: >
-      Når man sammenligner inntektene i USA med resten av verden, 
-      blir det klart at amerikanske utviklere er overrepresentert i de høyere inntektsgruppene.
-
-  ###########################################################################
-  # Awards
-  ###########################################################################
-
-  - key: award.feature_adoption_delta_award.comment
-    t: |
-      `gap`-egenskapen for Flexbox er en så nyttig tillegg at det ikke er 
-      overraskende at vi vil se en **{verdi}** progresjon i 2023.
-
-  # - key: award.tool_usage_delta_award.comment
-  #   t: No other tool comes even close to Tailwind CSS's dramatic **{value}** progression over the last year.
-
-  - key: award.most_commented_feature_award.comment
-    t: Med **{verdi}** kommentarer, var det ingen annen funksjon som kom i nærheten av å generere like mye tilbakemelding som Subgrid.
-
-  - key: award.tool_satisfaction_award.comment
-    t: |
-      Av alle CSS-in-JS-løsningene er Open Props den eneste som har 
-      opprettholdt en skyhøy **{verdi}** bevaringsgrad.
-
-  # - key: award.tool_interest_award.comment
-  #   t: With a **{value}** ratio, CSS Modules again generated the most interest among CSS developers this year.
-
-  - key: award.most_write_ins_award.comment
-    t: |
-      Med **{value}** omtaler, var Panda det klart mest omtalte spørsmålet i friformatet.
-
-  ###########################################################################
-  # Conclusion
-  ###########################################################################
-
-  - key: conclusion.css2023.chen_hui_jing
-    t: |
-      <span class="first-line">Bruken av nyere CSS-funksjoner har vært økende, mens bruken av CSS-rammeverk har hatt en liten tilbakegang.</span>
-
-      Dette kan tyde på at utviklere begynner å bli vant til tanken om at man ikke nødvendigvis må vente på å bruke de nyeste CSS-funksjonene, fordi nettlesere tar raskere igjen gapet enn tidligere.
-
-      Med økt bevissthet rundt innebygde CSS-funksjoner som nesting og `:has()` (som kan fungere som en foreldreselektor, men er mye mer enn det!), ser det ut til at vi står på terskelen til utbredt adopsjon.
-
-      Av alle disse funksjonene hadde jeg en personlig favoritt for året, og det er `text-wrap: balance`. Den gir en enkel løsning med én linje for en forespørsel jeg har fått gjentatte ganger gjennom hele min webutviklingskarriere: "Kan vi justere overskriften slik at det siste ordet ikke står alene?"
-
-      Det var også interessant at så mange utviklere mente at animering til auto og mursteinslayout var manglende CSS-funksjoner. Det er sant at det alltid har vært utfordrende for nettlesere å fastslå elementdimensjoner (spesielt høyde) når de ikke er eksplisitt deklarert.
-
-      Men som [Lea Verou](https://lea.verou.me/) nevnte i fjor, med initiativer som [Interop](https://wpt.fyi/interop-2023) som bringer nettlesere sammen, kan funksjoner som tidligere ble ansett som umulige, nå potensielt bli en realitet!
-
-  - key: conclusion.css2023.chen_hui_jing.bio
-    t: Developer Experience Engineer @ Interledger Foundation
-
-  ###########################################################################
-  # Picks
-  ###########################################################################
-
-  - key: picks.my_pick
-    t: "Mine valg for 2023: "
-  - key: picks.intro
-    t: Vi spurte medlemmer fra CSS-samfunnet om å dele sine "årets valg"
-
-  # - key: picks.david_east.name
-  #   t: CSS Subgrid
-  # - key: picks.david_east.bio
-  #   t: Advocate for building on the web
-  # - key: picks.david_east.description
-  #   t: |
-  #     CSS Subgrid allows child elements to inherit their parents grid properties.
-  #     Soon, it will be much easier to lay elements out to the same grid
-  #     lines across the entire page.
-
-  # - key: picks.bramus_van_damme.name
-  #   t: :has()-selektoren
-  # - key: picks.bramus_van_damme.bio
-  #   t: Chrome Developer Relations Engineer at Google
-  # - key: picks.bramus_van_damme.description
-  #   t: |
-  #     You might know this one as the so-called “parent selector” but that name does it
-  #     no justice as it only covers a small part of what it can do.
-  #     This selector has essentially changed the way I write my CSS.
-
-  - key: picks.kevin_j_powell.name
-    t: Ahmad Shadeed
-  - key: picks.kevin_j_powell.bio
-    t: CSS Evangelist
-  - key: picks.kevin_j_powell.description
-    t: |
-      Ahmads blogg er en kilde til kunnskap og inspirasjon, med dyptgående utforskninger av ulike temaer, inkludert flotte visuelle eksempler og brukstilfeller.
-
-  # - key: picks.samuel_kraft.name
-  #   t: :has()-selektoren
-  # - key: picks.samuel_kraft.bio
-  #   t: Design Engineer
-  # - key: picks.samuel_kraft.description
-  #   t: |
-  #     The new :has() selector is super powerful and unlocks new styling possibilities.
-  #     This great article from Jen Simmons breaks it down with explanations and practical examples.
-
-  - key: picks.josh_comeau.name
-    t: CSS Podcast
-  - key: picks.josh_comeau.bio
-    t: Instruktør, CSS for JavaScript Developers
-  - key: picks.josh_comeau.description
-    t: |
-      Denne podcasten er en herlig rundtur gjennom en rekke viktige og moderne 
-      CSS-funksjoner. Den er ledet av Una Kravets og Adam Argyle, 
-      to helt fantastiske mennesker.
-  - key: picks.adam_argyle.name
-    t: Zag.js
-  - key: picks.adam_argyle.bio
-    t: Google Chrome Developer Relations
-  - key: picks.adam_argyle.description
-    t: |
-      De talentfulle personene som jobber borte hos ChakraUI bygger virkelig neste generajons
-      komponenter og ideer, lurer på hva det neste de kommer med blir.
-
-  # - key: picks.eric_w_bailey.name
-  #   t: “Style with Stateful, Semantic Selectors” by Ben Myers
-  # - key: picks.eric_w_bailey.bio
-  #   t: Accessibility advocate and CSS nerd
-  # - key: picks.eric_w_bailey.description
-  #   t: |
-  #     Ben demonstrates how utilizing ARIA
-  #     attribute selectors can simply and powerfully tie appearance to state.
-
-  # - key: picks.michelle_barker.name
-  #   t: Interop 2022
-  # - key: picks.michelle_barker.bio
-  #   t: Writer and creator of front-end blog CSS { In Real Life }
-  # - key: picks.michelle_barker.description
-  #   t: |
-  #     Interop is a collaboration between all of the major browser vendors,
-  #     agreeing 15 key areas of focus for implementation —
-  #     including game-changing new CSS features like container queries,
-  #     cascade layers and color functions.
-
-  - key: picks.jhey_tompkins.name
-    t: |
-      :has()-selektoren
-  - key: picks.jhey_tompkins.bio
-    t: CEO for Fancy CSS
-  - key: picks.jhey_tompkins.description
-    t: |
-      :has() er magien som lar deg kombinere andre API-er som container-spørringer, ankerposisjonering, osv. Jeg gleder meg til å se hvordan samfunnet finner nye og innovative måter å bruke det på.
-
-  # - key: picks.gift_egwuenu.name
-  #   t: Learn CSS
-  # - key: picks.gift_egwuenu.bio
-  #   t: Developer Advocate at Cloudflare
-  # - key: picks.gift_egwuenu.description
-  #   t: |
-  #     My recommended resource for anyone looking to learn CSS from the ground up,
-  #     I also use it as a reference everytime I need to look up any CSS property.
-
-  - key: picks.ahmad_shadeed.name
-    t: Scroll-Driven animasjoner
-  - key: picks.ahmad_shadeed.bio
-    t: Design Engineer og forfatter for [ishadeed.com](https://ishadeed.com/)
-  - key: picks.ahmad_shadeed.description
-    t: |
-      Hvis jeg hadde gått 2 år tilbake i tid, hadde jeg aldri trodd
-      at CSS skulle ha scroll-driven animasjoner. Men bare se nå!
-
-  # - key: picks.georgedoescode.name
-  #   t:
-  # - key: picks.georgedoescode.bio
-  #   t:
-  # - key: picks.georgedoescode.description
-  #   t: |
-
-  # - key: picks.jen_simmons.name
-  #   t: :has()-selektoren
-  # - key: picks.jen_simmons.bio
-  #   t: Web technologies evangelist at Apple
-  # - key: picks.jen_simmons.description
-  #   t: |
-  #     For two decades, “parent selector” was a top requested feature for CSS.
-  #     Then in 2022, in a total surprise, the :has() pseudo-class arrived to solve this and far more.
-
-  - key: picks.sara_soueidan.name
-    t: |
-      `color-contrast()`
-  - key: picks.sara_soueidan.bio
-    t: Ingeniør innen inkluderende design og pedagog
-  - key: picks.sara_soueidan.description
-    t: |
-      Min stemme går til `color-contrast()` fordi jeg mener det fortjener mer oppmerksomhet. 
-      Det er en av de få funksjonene som gjør det _enklere_ for oss utviklere å designe for brukerne våre. 
-      Støtte for dette i alle nettlesere kan ikke komme raskt nok.
-
-  - key: picks.adam_wathan.name
-    t: Lightning CSS
-  - key: picks.adam_wathan.bio
-    t: Skaperen av Tailwind CSS
-  - key: picks.adam_wathan.description
-    t: |
-      En ekstremt rask, alt-i-ett CSS-behandlingsverktøy som håndterer ting som vendor-prefikser, minifisering og transpilerer moderne funksjoner, samtidig som det er en fantastisk plattform for andre utviklere å bygge CSS-verktøy på.
-
-  # - key: picks.christianoliff.bio
-  #   t: Front-end developer for Trimble MAPS
-  # - key: picks.christianoliff.description
-  #   t: |
-  #       One thing I've really started using and appreciating this year though is Purge CSS- an awesome tool for removing unused CSS. It can greatly reduce the size of your CSS, and its fast and easy to use.
-
-  - key: picks.kilian_valkhof.name
-    t: Devtoolstips
-  - key: picks.kilian_valkhof.bio
-    t: Skaper av Polypane, nettleseren for utviklere.
-  - key: picks.kilian_valkhof.description
-    t: |
-      Utviklervektøyene i alle nettlesere er kraftige. Disse små tipsene
-      hjelper deg med å få mest mulig ut av dem, uansett hvilken nettleser du bruker.
-
-  - key: picks.ahmad_awais.name
-    t: |
-      `text-wrap: balance`
-  - key: picks.ahmad_awais.bio
-    t: VP DevRel & Google Developers Advisory Board founding member
-  - key: picks.ahmad_awais.description
-    t: |
-      Overskrifter bør skinne og være lette å lese, selv om skjermer kan være vanskelige 
-      å forutsi. Jeg har kjempet mot de irriterende soloordene på linjeslutt (hei, enker!), 
-      men gjett hva? Her kommer `text-wrap: balance` – en magisk one-liner-fix!
-
-  # - key: picks.piccalilli_.bio
-  #   t: Freelance designer & dev who runs piccalil.li
-  # - key: picks.piccalilli_.description
-  #   t: |
-  #       This blog is an absolute gold mine of CSS knowledge. Michelle is a CSS legend and every post or tutorial they write is heaped with useful content.
-
-  # - key: picks.piccalilli_.bio
-  #   t: Freelance designer & dev who runs piccalil.li
-  # - key: picks.piccalilli_.description
-  #   t: |
-  #       This blog is an absolute gold mine of CSS knowledge. Michelle is a CSS legend and every post or tutorial they write is heaped with useful content.
-
-  # - key: picks.sarasoueidan.bio
-  #   t: Independent UI/design engineer
-  # - key: picks.sarasoueidan.description
-  #   t: |
-  #       My pick is a person, namely Rachel Andrew. She taught CSS Grid to a whole generation of developers.
-
-  # - key: picks.5t3ph.bio
-  #   t: Software Engineer @ Microsoft
-  # - key: picks.5t3ph.description
-  #   t: |
-  #       In this conference talk, Manuel Matuzovic provides thoughtfully
-  #       crafted examples that are engaging, approachable, and actionable.
-
-  # - key: picks.hugogiraudel.bio
-  #   t: Non-binary accessibility & diversity advocate
-  # - key: picks.hugogiraudel.description
-  #   t: |
-  #       Fela is an amazing piece of software.
-  #       It’s pretty powerful, relatively easy to use and very performant
-
-  # - key: picks.foolip.bio
-  #   t: Software Engineer @ Google
-  # - key: picks.foolip.description
-  #   t: |
-  #       Sergio has recently fixed lots of Flexbox in WebKit and even some in Chromium,
-  #       notably bringing flex gap to WebKit,
-  #       which means that soon it will be available on all modern browsers.
-
-  # - key: picks.jina.bio
-  #   t: Design systems advocate and practitioner
-  # - key: picks.jina.description
-  #   t: |
-  #       The media query to reduce motion, which helps avoid
-  #       triggering dizziness and discomfort.
-
-  ###########################################################################
-  # Quiz
-  ###########################################################################
-
-  - key: quiz.quiz_dave_shea
-    t: "Spørsmål 01"
-  - key: quiz.quiz_dave_shea.question
-    t: >
-      I mai 2003 lanserte Dave Shea et nettsted som viste frem CSS sin fleksibilitet og tilpasningsevne. Hva het dette nettstedet?
-  - key: options.quiz_dave_shea.css_playground
-    t: CSS Playground
-  - key: options.quiz_dave_shea.style_jungle
-    t: Style Jungle
-  - key: options.quiz_dave_shea.css_zen_garden
-    t: CSS Zen Garden
-  - key: quiz.quiz_dave_shea.answer
-    t: >
-      [CSS Zen Garden](https://www.csszengarden.com/) gjorde stort inntrykk med å demonstrere hva som var mulig når du holdt markup og styling adskilt.
-  - key: quiz.quiz_dave_shea.description
-    aliasFor: quiz.quiz_dave_shea.question
-
-  - key: quiz.quiz_css_spec
-    t: "Spørsmål 02"
-  - key: quiz.quiz_css_spec.question
-    t: >
-      Hvilken av disse organisasjonene opprettholder CSS-spesifikasjonene?
-  - key: options.quiz_css_spec.w3c
-    t: W3C
-  - key: options.quiz_css_spec.w3schools
-    t: W3Schools
-  - key: options.quiz_css_spec.mdn
-    t: MDN
-  - key: quiz.quiz_css_spec.answer
-    t: >
-      W3C's [CSS-arbeidsgruppe](https://www.w3.org/groups/wg/css) opprettholder CSS-spesifikasjonen, som deretter implementeres i nettleserne.
-  - key: quiz.quiz_css_spec.description
-    aliasFor: quiz.quiz_css_spec.question
-
-  ###########################################################################
-  # Sponsors
-  ###########################################################################
-
-  - key: sponsors.frontendmasters.description
-    t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.
-  - key: sponsors.polypane.description
-    t: Nettleseren for ambisiøse utviklere. Bygg responsive, tilgjengelige og raske nettsider med letthet.
-  - key: sponsors.nijibox.description
-    t: Konsulenter innen UX og produktutvikling i hjerte av Tokyo.
-  - key: sponsors.renderatl.description
-    t: Den største teknologikonferansen med et dedikert Design- og CSS-spor.
-  - key: sponsors.google_chrome.description
-    t: Takk til Google Chrome teamet for støtten til vårt arbeid.
-
-  ###########################################################################
-  # FAQ/About
-  ###########################################################################
-
-  - key: about.content
-    t: >
-      **2023 State of CSS-undersøkelsen** ble gjennomført fra 15. juni til 15. juli 2023 og samlet inn 9 108 svar. Undersøkelsen er drevet av [Devographics](https://www.devographics.com/), med hjelp fra et team av bidragsytere og konsulenter innen åpen kildekode.
-
-      **State of CSS-logoen og T-skjorten** ble designet og animert av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
-
-      ### Undersøkelsens mål
-
-      Denne undersøkelsen, sammen med [State of JavaScript](https://stateofjs.com/) undersøkelsen, ble opprettet for å identifisere kommende trender i webutviklingsøkosystemet for å hjelpe utviklere med å ta teknologiske valg.
-
-      Som sådan fokuserer disse undersøkelsene på å forutsi hva som kommer de neste årene, snarere enn å analysere hva som er populært nå, noe som er grunnen til at funksjoner eller teknologier som for tiden er mest utbredte ikke alltid er inkludert.
-
-      I tillegg brukes data fra undersøkelsen av nettleserleverandører for å prioritere funksjoner og informere om initiativer som [Interop 2023](https://web.dev/interop-2023/).
-
-      ### Undersøkelsesdesign
-
-      I år ble designet av undersøkelsen ledet av [Chen Hui Jing](https://chenhuijing.com/) takket være et tilskudd fra Google Chrome-teamet. Alle spørsmål i undersøkelsen var valgfrie.
-
-      ### Målgruppen for undersøkelsen
-
-      Undersøkelsen var åpent tilgjengelig på nettet, og respondenter ble ikke filtrert eller utvalgt på noen måte. Respondentene var primært en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og trafikk fra sosiale medier.
-
-      ### Prosjektfinansiering
-
-      Finansieringen av dette prosjektet kommer fra en rekke kilder:
-
-      - **T-skjortesalg**.
-
-      - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side er levert av vår partner [Frontend Masters](https://frontendmasters.com/).
-
-      - **Sponsede diagrammer**: fra i fjor kan alle også velge å direkte sponse et diagram for $10 eller mer, og få Twitter-profilbildet sitt vist ved siden av det.
-
-      - **Google**: i år avsatte [Google Chrome](https://www.google.com/chrome/) teamet et budsjett for å ansette Lea til å hjelpe med designet av undersøkelsen, samt finansierte meg direkte for å støtte arbeidet mitt.
-
-      - **Nijibox**: Det Japan-baserte selskapet [Nijibox](https://nijibox.jp/) har også vennligst akseptert å sponse mine bestrebelser for å gjøre disse årlige undersøkelsene mer bærekraftige.
-
-      ### Teknisk oversikt
-
-      Du kan finne en mer grundig teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a). Koden vår er [åpen kildekode](https://github.com/Devographics/Monorepo/).
-
-      ### Tilbakemelding
-
-      - [Rapporter et teknisk problem](https://github.com/Devographics/Monorepo/issues)
-
-      - [Kom med et forslag til neste år](https://github.com/Devographics/surveys/issues/193)
-
-      - [Andre ikke-tekniske problemer](https://github.com/Devographics/surveys/issues)
-
-      - [Bli med i vår Discord](https://discord.gg/tuWRUWVyJs)
+    - key: sections.usage.description.css2023
+      t: |
+          Uansett hvordan du bruker CSS, viser dataene at det fortsatt er en bekymring å sikre at koden din fungerer på tvers av alle nettlesere, spesielt for nyere funksjoner som `:has()`.
+
+    - key: sections.resources.description.css2023
+      t: |
+          Mellom blogger, YouTube-kanaler og podcaster er CSS-samfunnet mer livlig enn noen gang.
+
+    ###########################################################################
+    # Charts
+    ###########################################################################
+
+    - key: options.features_categories.layout
+      aliasFor: sections.layout.title
+    - key: options.features_categories.shapes_graphics
+      aliasFor: sections.shapes_graphics.title
+    - key: options.features_categories.interactions
+      aliasFor: sections.interactions.title
+    - key: options.features_categories.typography
+      aliasFor: sections.typography.title
+    - key: options.features_categories.accessibility
+      aliasFor: sections.accessibility.title
+    - key: options.features_categories.other_features
+      aliasFor: sections.other_features.title
+    - key: options.features_categories.colors
+      aliasFor: sections.colors.title
+    - key: options.features_categories.selectors
+      aliasFor: sections.selectors.title
+
+    - key: user_info.country_low_vs_high_income.description.css2023
+      t: >
+          Om vi deler respondenter i to grupper, høy inntekt og lav inntekt, får vi to
+          veldig forskjellige lister med land.
+
+    - key: user_info.higher_education_degree_by_gender.description.css2023
+      t: >
+          Representasjonen av kvinner var høyere enn forventet blant respondentene med høyere 
+          utdanning i områder som ikke er relatert til CSS, 
+          noe som potensielt indikerer mange karriereskift.
+
+    - key: user_info.source_by_gender.description.css2023
+      t: >
+          Selv om de lave totalene gjør det vanskelig å trekke noen konklusjoner, 
+          var andelen kvinner høyest blant respondentene som kom over undersøkelsen 
+          gjennom arbeidsplassen sin eller via muntlig omtale, 
+          spesielt sammenlignet med sosiale nettverk som Twitter eller YouTube.
+
+    - key: user_info.source_by_race_ethnicity.description.css2023
+      t: >
+          Igjen, med tanke på den lave utvalgsstørrelsen, skiller 
+          YouTube seg ut som en av de mest mangfoldige kildene til trafikk til undersøkelsen når man vurderer rase og etnisitet.
+
+    - key: user_info.average_income_by_company_size.description.css2023
+      t: >
+          Vi finner at de best betalte respondentene jobber for store selskaper, selv om det er 
+          verdt å merke seg at selvstendig næringsdrivende har en liten inntektsfordel sammenlignet med små selskaper.
+
+    - key: user_info.yearly_salary_usa_vs_the_world.description.css2023
+      t: >
+          Når man sammenligner inntektene i USA med resten av verden, 
+          blir det klart at amerikanske utviklere er overrepresentert i de høyere inntektsgruppene.
+
+    ###########################################################################
+    # Awards
+    ###########################################################################
+
+    - key: award.feature_adoption_delta_award.comment
+      t: |
+          `gap`-egenskapen for Flexbox er en så nyttig tillegg at det ikke er 
+          overraskende at vi vil se en **{verdi}** progresjon i 2023.
+
+    # - key: award.tool_usage_delta_award.comment
+    #   t: No other tool comes even close to Tailwind CSS's dramatic **{value}** progression over the last year.
+
+    - key: award.most_commented_feature_award.comment
+      t: Med **{verdi}** kommentarer, var det ingen annen funksjon som kom i nærheten av å generere like mye tilbakemelding som Subgrid.
+
+    - key: award.tool_satisfaction_award.comment
+      t: |
+          Av alle CSS-in-JS-løsningene er Open Props den eneste som har 
+          opprettholdt en skyhøy **{verdi}** bevaringsgrad.
+
+    # - key: award.tool_interest_award.comment
+    #   t: With a **{value}** ratio, CSS Modules again generated the most interest among CSS developers this year.
+
+    - key: award.most_write_ins_award.comment
+      t: |
+          Med **{value}** omtaler, var Panda det klart mest omtalte spørsmålet i friformatet.
+
+    ###########################################################################
+    # Conclusion
+    ###########################################################################
+
+    - key: conclusion.css2023.chen_hui_jing
+      t: |
+          <span class="first-line">Bruken av nyere CSS-funksjoner har vært økende, mens bruken av CSS-rammeverk har hatt en liten tilbakegang.</span>
+
+          Dette kan tyde på at utviklere begynner å bli vant til tanken om at man ikke nødvendigvis må vente på å bruke de nyeste CSS-funksjonene, fordi nettlesere tar raskere igjen gapet enn tidligere.
+
+          Med økt bevissthet rundt innebygde CSS-funksjoner som nesting og `:has()` (som kan fungere som en foreldreselektor, men er mye mer enn det!), ser det ut til at vi står på terskelen til utbredt adopsjon.
+
+          Av alle disse funksjonene hadde jeg en personlig favoritt for året, og det er `text-wrap: balance`. Den gir en enkel løsning med én linje for en forespørsel jeg har fått gjentatte ganger gjennom hele min webutviklingskarriere: "Kan vi justere overskriften slik at det siste ordet ikke står alene?"
+
+          Det var også interessant at så mange utviklere mente at animering til auto og mursteinslayout var manglende CSS-funksjoner. Det er sant at det alltid har vært utfordrende for nettlesere å fastslå elementdimensjoner (spesielt høyde) når de ikke er eksplisitt deklarert.
+
+          Men som [Lea Verou](https://lea.verou.me/) nevnte i fjor, med initiativer som [Interop](https://wpt.fyi/interop-2023) som bringer nettlesere sammen, kan funksjoner som tidligere ble ansett som umulige, nå potensielt bli en realitet!
+
+    - key: conclusion.css2023.chen_hui_jing.bio
+      t: Developer Experience Engineer @ Interledger Foundation
+
+    ###########################################################################
+    # Picks
+    ###########################################################################
+
+    - key: picks.my_pick
+      t: "Mine valg for 2023: "
+    - key: picks.intro
+      t: Vi spurte medlemmer fra CSS-samfunnet om å dele sine "årets valg"
+
+    # - key: picks.david_east.name
+    #   t: CSS Subgrid
+    # - key: picks.david_east.bio
+    #   t: Advocate for building on the web
+    # - key: picks.david_east.description
+    #   t: |
+    #     CSS Subgrid allows child elements to inherit their parents grid properties.
+    #     Soon, it will be much easier to lay elements out to the same grid
+    #     lines across the entire page.
+
+    # - key: picks.bramus_van_damme.name
+    #   t: :has()-selektoren
+    # - key: picks.bramus_van_damme.bio
+    #   t: Chrome Developer Relations Engineer at Google
+    # - key: picks.bramus_van_damme.description
+    #   t: |
+    #     You might know this one as the so-called “parent selector” but that name does it
+    #     no justice as it only covers a small part of what it can do.
+    #     This selector has essentially changed the way I write my CSS.
+
+    - key: picks.kevin_j_powell.name
+      t: Ahmad Shadeed
+    - key: picks.kevin_j_powell.bio
+      t: CSS Evangelist
+    - key: picks.kevin_j_powell.description
+      t: |
+          Ahmads blogg er en kilde til kunnskap og inspirasjon, med dyptgående utforskninger av ulike temaer, inkludert flotte visuelle eksempler og brukstilfeller.
+
+    # - key: picks.samuel_kraft.name
+    #   t: :has()-selektoren
+    # - key: picks.samuel_kraft.bio
+    #   t: Design Engineer
+    # - key: picks.samuel_kraft.description
+    #   t: |
+    #     The new :has() selector is super powerful and unlocks new styling possibilities.
+    #     This great article from Jen Simmons breaks it down with explanations and practical examples.
+
+    - key: picks.josh_comeau.name
+      t: CSS Podcast
+    - key: picks.josh_comeau.bio
+      t: Instruktør, CSS for JavaScript Developers
+    - key: picks.josh_comeau.description
+      t: |
+          Denne podcasten er en herlig rundtur gjennom en rekke viktige og moderne 
+          CSS-funksjoner. Den er ledet av Una Kravets og Adam Argyle, 
+          to helt fantastiske mennesker.
+    - key: picks.adam_argyle.name
+      t: Zag.js
+    - key: picks.adam_argyle.bio
+      t: Google Chrome Developer Relations
+    - key: picks.adam_argyle.description
+      t: |
+          De talentfulle personene som jobber borte hos ChakraUI bygger virkelig neste generajons
+          komponenter og ideer, lurer på hva det neste de kommer med blir.
+
+    # - key: picks.eric_w_bailey.name
+    #   t: “Style with Stateful, Semantic Selectors” by Ben Myers
+    # - key: picks.eric_w_bailey.bio
+    #   t: Accessibility advocate and CSS nerd
+    # - key: picks.eric_w_bailey.description
+    #   t: |
+    #     Ben demonstrates how utilizing ARIA
+    #     attribute selectors can simply and powerfully tie appearance to state.
+
+    # - key: picks.michelle_barker.name
+    #   t: Interop 2022
+    # - key: picks.michelle_barker.bio
+    #   t: Writer and creator of front-end blog CSS { In Real Life }
+    # - key: picks.michelle_barker.description
+    #   t: |
+    #     Interop is a collaboration between all of the major browser vendors,
+    #     agreeing 15 key areas of focus for implementation —
+    #     including game-changing new CSS features like container queries,
+    #     cascade layers and color functions.
+
+    - key: picks.jhey_tompkins.name
+      t: |
+          :has()-selektoren
+    - key: picks.jhey_tompkins.bio
+      t: CEO for Fancy CSS
+    - key: picks.jhey_tompkins.description
+      t: |
+          :has() er magien som lar deg kombinere andre API-er som container-spørringer, ankerposisjonering, osv. Jeg gleder meg til å se hvordan samfunnet finner nye og innovative måter å bruke det på.
+
+    # - key: picks.gift_egwuenu.name
+    #   t: Learn CSS
+    # - key: picks.gift_egwuenu.bio
+    #   t: Developer Advocate at Cloudflare
+    # - key: picks.gift_egwuenu.description
+    #   t: |
+    #     My recommended resource for anyone looking to learn CSS from the ground up,
+    #     I also use it as a reference everytime I need to look up any CSS property.
+
+    - key: picks.ahmad_shadeed.name
+      t: Scroll-Driven animasjoner
+    - key: picks.ahmad_shadeed.bio
+      t: Design Engineer og forfatter for [ishadeed.com](https://ishadeed.com/)
+    - key: picks.ahmad_shadeed.description
+      t: |
+          Hvis jeg hadde gått 2 år tilbake i tid, hadde jeg aldri trodd
+          at CSS skulle ha scroll-driven animasjoner. Men bare se nå!
+
+    # - key: picks.georgedoescode.name
+    #   t:
+    # - key: picks.georgedoescode.bio
+    #   t:
+    # - key: picks.georgedoescode.description
+    #   t: |
+
+    # - key: picks.jen_simmons.name
+    #   t: :has()-selektoren
+    # - key: picks.jen_simmons.bio
+    #   t: Web technologies evangelist at Apple
+    # - key: picks.jen_simmons.description
+    #   t: |
+    #     For two decades, “parent selector” was a top requested feature for CSS.
+    #     Then in 2022, in a total surprise, the :has() pseudo-class arrived to solve this and far more.
+
+    - key: picks.sara_soueidan.name
+      t: |
+          `color-contrast()`
+    - key: picks.sara_soueidan.bio
+      t: Ingeniør innen inkluderende design og pedagog
+    - key: picks.sara_soueidan.description
+      t: |
+          Min stemme går til `color-contrast()` fordi jeg mener det fortjener mer oppmerksomhet. 
+          Det er en av de få funksjonene som gjør det _enklere_ for oss utviklere å designe for brukerne våre. 
+          Støtte for dette i alle nettlesere kan ikke komme raskt nok.
+
+    - key: picks.adam_wathan.name
+      t: Lightning CSS
+    - key: picks.adam_wathan.bio
+      t: Skaperen av Tailwind CSS
+    - key: picks.adam_wathan.description
+      t: |
+          En ekstremt rask, alt-i-ett CSS-behandlingsverktøy som håndterer ting som vendor-prefikser, minifisering og transpilerer moderne funksjoner, samtidig som det er en fantastisk plattform for andre utviklere å bygge CSS-verktøy på.
+
+    # - key: picks.christianoliff.bio
+    #   t: Front-end developer for Trimble MAPS
+    # - key: picks.christianoliff.description
+    #   t: |
+    #       One thing I've really started using and appreciating this year though is Purge CSS- an awesome tool for removing unused CSS. It can greatly reduce the size of your CSS, and its fast and easy to use.
+
+    - key: picks.kilian_valkhof.name
+      t: Devtoolstips
+    - key: picks.kilian_valkhof.bio
+      t: Skaper av Polypane, nettleseren for utviklere.
+    - key: picks.kilian_valkhof.description
+      t: |
+          Utviklervektøyene i alle nettlesere er kraftige. Disse små tipsene
+          hjelper deg med å få mest mulig ut av dem, uansett hvilken nettleser du bruker.
+
+    - key: picks.ahmad_awais.name
+      t: |
+          `text-wrap: balance`
+    - key: picks.ahmad_awais.bio
+      t: VP DevRel & Google Developers Advisory Board founding member
+    - key: picks.ahmad_awais.description
+      t: |
+          Overskrifter bør skinne og være lette å lese, selv om skjermer kan være vanskelige 
+          å forutsi. Jeg har kjempet mot de irriterende soloordene på linjeslutt (hei, enker!), 
+          men gjett hva? Her kommer `text-wrap: balance` – en magisk one-liner-fix!
+
+    # - key: picks.piccalilli_.bio
+    #   t: Freelance designer & dev who runs piccalil.li
+    # - key: picks.piccalilli_.description
+    #   t: |
+    #       This blog is an absolute gold mine of CSS knowledge. Michelle is a CSS legend and every post or tutorial they write is heaped with useful content.
+
+    # - key: picks.piccalilli_.bio
+    #   t: Freelance designer & dev who runs piccalil.li
+    # - key: picks.piccalilli_.description
+    #   t: |
+    #       This blog is an absolute gold mine of CSS knowledge. Michelle is a CSS legend and every post or tutorial they write is heaped with useful content.
+
+    # - key: picks.sarasoueidan.bio
+    #   t: Independent UI/design engineer
+    # - key: picks.sarasoueidan.description
+    #   t: |
+    #       My pick is a person, namely Rachel Andrew. She taught CSS Grid to a whole generation of developers.
+
+    # - key: picks.5t3ph.bio
+    #   t: Software Engineer @ Microsoft
+    # - key: picks.5t3ph.description
+    #   t: |
+    #       In this conference talk, Manuel Matuzovic provides thoughtfully
+    #       crafted examples that are engaging, approachable, and actionable.
+
+    # - key: picks.hugogiraudel.bio
+    #   t: Non-binary accessibility & diversity advocate
+    # - key: picks.hugogiraudel.description
+    #   t: |
+    #       Fela is an amazing piece of software.
+    #       It’s pretty powerful, relatively easy to use and very performant
+
+    # - key: picks.foolip.bio
+    #   t: Software Engineer @ Google
+    # - key: picks.foolip.description
+    #   t: |
+    #       Sergio has recently fixed lots of Flexbox in WebKit and even some in Chromium,
+    #       notably bringing flex gap to WebKit,
+    #       which means that soon it will be available on all modern browsers.
+
+    # - key: picks.jina.bio
+    #   t: Design systems advocate and practitioner
+    # - key: picks.jina.description
+    #   t: |
+    #       The media query to reduce motion, which helps avoid
+    #       triggering dizziness and discomfort.
+
+    ###########################################################################
+    # Quiz
+    ###########################################################################
+
+    - key: quiz.quiz_dave_shea
+      t: "Spørsmål 01"
+    - key: quiz.quiz_dave_shea.question
+      t: >
+          I mai 2003 lanserte Dave Shea et nettsted som viste frem CSS sin fleksibilitet og tilpasningsevne. Hva het dette nettstedet?
+    - key: options.quiz_dave_shea.css_playground
+      t: CSS Playground
+    - key: options.quiz_dave_shea.style_jungle
+      t: Style Jungle
+    - key: options.quiz_dave_shea.css_zen_garden
+      t: CSS Zen Garden
+    - key: quiz.quiz_dave_shea.answer
+      t: >
+          [CSS Zen Garden](https://www.csszengarden.com/) gjorde stort inntrykk med å demonstrere hva som var mulig når du holdt markup og styling adskilt.
+    - key: quiz.quiz_dave_shea.description
+      aliasFor: quiz.quiz_dave_shea.question
+
+    - key: quiz.quiz_css_spec
+      t: "Spørsmål 02"
+    - key: quiz.quiz_css_spec.question
+      t: >
+          Hvilken av disse organisasjonene opprettholder CSS-spesifikasjonene?
+    - key: options.quiz_css_spec.w3c
+      t: W3C
+    - key: options.quiz_css_spec.w3schools
+      t: W3Schools
+    - key: options.quiz_css_spec.mdn
+      t: MDN
+    - key: quiz.quiz_css_spec.answer
+      t: >
+          W3C's [CSS-arbeidsgruppe](https://www.w3.org/groups/wg/css) opprettholder CSS-spesifikasjonen, som deretter implementeres i nettleserne.
+    - key: quiz.quiz_css_spec.description
+      aliasFor: quiz.quiz_css_spec.question
+
+    ###########################################################################
+    # Sponsors
+    ###########################################################################
+
+    - key: sponsors.frontendmasters.description
+      t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.
+    - key: sponsors.polypane.description
+      t: Nettleseren for ambisiøse utviklere. Bygg responsive, tilgjengelige og raske nettsider med letthet.
+    - key: sponsors.nijibox.description
+      t: Konsulenter innen UX og produktutvikling i hjerte av Tokyo.
+    - key: sponsors.renderatl.description
+      t: Den største teknologikonferansen med et dedikert Design- og CSS-spor.
+    - key: sponsors.google_chrome.description
+      t: Takk til Google Chrome teamet for støtten til vårt arbeid.
+
+    ###########################################################################
+    # FAQ/About
+    ###########################################################################
+
+    - key: about.content
+      t: >
+          **2023 State of CSS-undersøkelsen** ble gjennomført fra 15. juni til 15. juli 2023 og samlet inn 9 108 svar. Undersøkelsen er drevet av [Devographics](https://www.devographics.com/), med hjelp fra et team av bidragsytere og konsulenter innen åpen kildekode.
+
+          **State of CSS-logoen og T-skjorten** ble designet og animert av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+          ### Undersøkelsens mål
+
+          Denne undersøkelsen, sammen med [State of JavaScript](https://stateofjs.com/) undersøkelsen, ble opprettet for å identifisere kommende trender i webutviklingsøkosystemet for å hjelpe utviklere med å ta teknologiske valg.
+
+          Som sådan fokuserer disse undersøkelsene på å forutsi hva som kommer de neste årene, snarere enn å analysere hva som er populært nå, noe som er grunnen til at funksjoner eller teknologier som for tiden er mest utbredte ikke alltid er inkludert.
+
+          I tillegg brukes data fra undersøkelsen av nettleserleverandører for å prioritere funksjoner og informere om initiativer som [Interop 2023](https://web.dev/interop-2023/).
+
+          ### Undersøkelsesdesign
+
+          I år ble designet av undersøkelsen ledet av [Chen Hui Jing](https://chenhuijing.com/) takket være et tilskudd fra Google Chrome-teamet. Alle spørsmål i undersøkelsen var valgfrie.
+
+          ### Målgruppen for undersøkelsen
+
+          Undersøkelsen var åpent tilgjengelig på nettet, og respondenter ble ikke filtrert eller utvalgt på noen måte. Respondentene var primært en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og trafikk fra sosiale medier.
+
+          ### Prosjektfinansiering
+
+          Finansieringen av dette prosjektet kommer fra en rekke kilder:
+
+          - **T-skjortesalg**.
+
+          - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side er levert av vår partner [Frontend Masters](https://frontendmasters.com/).
+
+          - **Sponsede diagrammer**: fra i fjor kan alle også velge å direkte sponse et diagram for $10 eller mer, og få Twitter-profilbildet sitt vist ved siden av det.
+
+          - **Google**: i år avsatte [Google Chrome](https://www.google.com/chrome/) teamet et budsjett for å ansette Lea til å hjelpe med designet av undersøkelsen, samt finansierte meg direkte for å støtte arbeidet mitt.
+
+          - **Nijibox**: Det Japan-baserte selskapet [Nijibox](https://nijibox.jp/) har også vennligst akseptert å sponse mine bestrebelser for å gjøre disse årlige undersøkelsene mer bærekraftige.
+
+          ### Teknisk oversikt
+
+          Du kan finne en mer grundig teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a). Koden vår er [åpen kildekode](https://github.com/Devographics/Monorepo/).
+
+          ### Tilbakemelding
+
+          - [Rapporter et teknisk problem](https://github.com/Devographics/Monorepo/issues)
+
+          - [Kom med et forslag til neste år](https://github.com/Devographics/surveys/issues/193)
+
+          - [Andre ikke-tekniske problemer](https://github.com/Devographics/surveys/issues)
+
+          - [Bli med i vår Discord](https://discord.gg/tuWRUWVyJs)
