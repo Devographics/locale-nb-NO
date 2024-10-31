@@ -1068,14 +1068,14 @@ translations:
   - key: other_tools.backend_frameworks.others
     aliasFor: tools.backend_frameworks.others
 
-  - key: other_tools.ai_tools
+  - key: tools.ai_tools
     t: AI-verktøy
-  - key: other_tools.ai_tools.question
+  - key: tools.ai_tools.question
     t: Hvilke av disse AI-verktøyene bruker du regelmessig for å hjelpe deg med å skrive kode?
 
-  - key: other_tools.hosting
+  - key: tools.hosting
     t: Hostingtjenester
-  - key: other_tools.hosting.question
+  - key: tools.hosting.question
     t: Hvilke av disse tjenestene har du brukt for å hoste JavaScript-apper?
 
   ###########################################################################
