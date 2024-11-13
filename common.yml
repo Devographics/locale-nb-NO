@@ -162,14 +162,14 @@ translations:
       t: Tilbake til undersøkelsen
     - key: general.thanks
       t: >
-          Takk for at du dfeltok i undersøkelsen! Din data er lagret.
+          Takk for at du deltok i undersøkelsen! Din data er lagret.
 
           Du kan også hjelpe med å dele denne undersøkelsen videre. Hvert svar teller,
           og flere deltagere vil gjøre vår data mer representativ.
 
     - key: general.thanks1
       t: >
-          Takk for at du dfeltok i undersøkelsen! Din data er lagret.
+          Takk for at du deltok i undersøkelsen! Din data er lagret.
     - key: general.thanks2
       t: >
           Du kan også hjelpe med å dele denne undersøkelsen videre. Hvert svar teller,
