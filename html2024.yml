@@ -1,0 +1,516 @@
+locale: nb-NO
+translations:
+    ###########################################################################
+    # General
+    ###########################################################################
+
+    - key: general.results.description
+      t: 2024-utgaven av den årlige undersøkelsen om de nyeste trendene i HTML-økosystemet.
+
+    - key: general.html2024.survey_intro
+      t: |
+          HTML var den opprinnelige web-teknologien, og det faktum at det er mer relevant enn noen gang tre tiår senere er ganske imponerende. 
+
+          Men til tross for navnet, går denne undersøkelsen langt utover bare HTML for å omfatte alle områder av webplattformen som helhet – og det er *mye* å dekke! 
+
+          Så som du kanskje kan forvente, involverer designen av en slik undersøkelse alltid tøffe valg. I år har vi bestemt oss for å fokusere på nye og kommende funksjoner for å hjelpe deg med å holde deg oppdatert; samt områder som nettleserleverandører er mest interessert i.
+
+          Dette betyr at svarene dine kan ha direkte innvirkning på veien videre for nettleseren du bruker akkurat nå. Derfor er jeg veldig spent på å åpne denne andre utgaven av State of HTML-undersøkelsen!
+
+    - key: features.features_intro_html2024
+      t: |
+          Velkommen til undersøkelsen! Denne første delen handler om å dele din erfaring med ulike webplattformfunksjoner:
+
+          - **Aldri hørt om det**: dette er første gang du ser det – eller du har hørt om det, men har ingen anelse om hva det gjør. 
+
+          - **Hørt om det**: du har lest eller lært om dette, men har ikke faktisk brukt det enda. 
+
+          - **Brukt det**: du har brukt det minst én gang, selv om det bare var for å leke litt med det. 
+
+          Forresten, hvis du vil fortelle oss mer om noen av valgene dine, kan du bare klikke på det lille "kommenter"-ikonet!
+
+    ###########################################################################
+    # Introduction
+    ###########################################################################
+
+    - key: introduction.html2024
+      t: |
+          <span class="first-letter">D</span>enne undersøkelsen handler, til tross for navnet, om mye mer enn bare HTML. 
+
+          Ikke misforstå meg – HTML er mer relevant enn noen gang i dag, noe som er ganske imponerende for en 30 år gammel teknologi. Likevel har vi prøvd å utvide undersøkelsens omfang enda mer til webplattformen som helhet.  
+
+          Fra nettleser-API-er, til utfordringer i webutvikling, til tilgjengelighetsstrategier, til analyse- og ytelsesverktøy, er det *mye* å dekke. 
+
+          For å gjøre det lettere å finne veien gjennom alle disse nye funksjonene, integrerer vi nå funksjonens [Baseline-status](https://web-platform-dx.github.io/web-features/) når det er mulig – se etter en liten blå eller grønn prikk ved siden av navnet.
+
+          Og hvis du synes all denne rådataen mangler litt kontekst, kan du nå også bla gjennom **kommentarene** som respondentene har lagt igjen på hvert spørsmål. 
+
+          Så la oss dykke rett inn og se hva webplattformen har vært opptatt med i 2024!
+
+          <span class="conclusion__byline">– Sacha Greif</span>
+
+    ###########################################################################
+    # Tshirt
+    ###########################################################################
+
+    - key: sections.tshirt.title
+      t: T-shirt
+
+    - key: sections.tshirt.description
+      t: |
+          ## Støtt undersøkelsen med State of HTML T-skjorte
+
+          Savner du de gode gamle dagene på midten av 90-tallet, da HTML var kongen og VHS-kassettene hadde futuristisk, fargerik kunst på omslaget? 
+
+          Den dårlige nyheten er at selv med teknologien fra 2024, kan du ikke gå tilbake i tid for å gjenoppleve de glorværdige dagene. Men det du *kan* gjøre, er å bruke denne fantastiske originale retro T-skjorten, designet av ingen ringere enn den talentfulle Christopher Kirk-Nielsen.
+
+    - key: tshirt.about
+      t: Om t-skjorten
+
+    - key: tshirt.description
+      t: |
+          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print fra vår parner, Cotton Bureau.
+
+    - key: tshirt.getit
+      t: Kjøp den
+
+    - key: tshirt.price
+      t: USD $32 + frakt
+
+    - key: tshirt.designer.heading
+      t: Om designeren
+
+    - key: tshirt.designer.name
+      t: Christopher Kirk-Nielsen
+
+    - key: tshirt.designer.bio
+      t: |
+          Opprinnelig fra Frankrike, men nå basert i USA, er Chris ikke bare en fantastisk front-end utvikler, men også en talentfull illustratør som spesialiserer seg på det retrovisuelle. Vi oppfordrer deg også til å sjekke ut hans [andre t-skjortedesign](https://chriskirknielsen.com/designs)!
+
+    ###########################################################################
+    # Sections Introductions
+    ###########################################################################
+
+    - key: sections.user_info.description.html2024
+      t: |
+          Velkommen til resultatene fra State of HTML-undersøkelsen. Årets utgave nådde **5 402** deltakere fra hele verden.
+
+    - key: sections.features.description.html2024
+      t: |
+          HTML-funksjoner og andre nettleser-API-er
+
+    ###########################################################################
+    # Diagrammer
+    ###########################################################################
+
+    # user_info
+
+    - key: user_info.country.takeaway.html2024
+      t: >
+          Tyskland hadde et imponerende resultat i år, og selv om det ikke overtok USA som nummer én, gjorde det definitivt en sterk innsats.
+
+    - key: user_info.locale.takeaway.html2024
+      t: >
+          Mange takk til våre frivillige oversettere for at de gjorde undersøkelsen tilgjengelig på så mange forskjellige språk!
+
+    - key: user_info.completion_stats.takeaway.html2024
+      t: >
+          Til tross for undersøkelsens lengde, tok et overveldende flertall av respondentene seg tid til å fullføre den fra start til slutt!
+
+    - key: user_info.age.takeaway.html2024
+      t: >
+          Respondentene i State of HTML hadde en medianalder på 35 år – nær State of CSSs 34 år, og betydelig eldre enn State of JSs 31 år.
+
+    - key: user_info.years_of_experience.takeaway.html2024
+      t: >
+          Forskjellen mellom undersøkelsene gjelder også når vi ser på antall års erfaring med webutvikling: gjennomsnittlig 12 år her, sammenlignet med 9 år for State of JS-respondentene.
+
+    - key: user_info.company_size.takeaway.html2024
+      t: >
+          Jo større selskapet, jo høyere lønn. Selv om dataene våre viser at du kan tjene godt, uavhengig av selskapets størrelse, dersom du er dyktig nok.
+
+    - key: user_info.yearly_salary.takeaway.html2024
+      t: >
+          Selv om vi ofte hører historier om seksifrede lønninger fra Silicon Valley, er virkeligheten at de fleste front-end utviklere verden over tjener langt mindre, noe som blir tydelig når vi sammenligner USA med resten av verden.
+
+    - key: user_info.higher_education_degree.takeaway.html2024
+      t: >
+          Selv om en grad kan sikre høyere lønn, viser det seg at det ikke nødvendigvis trenger å være relatert til programmering – et godt tegn for mange av oss som oppdaget en lidenskap for webutvikling senere i livet.
+
+    - key: user_info.gender.takeaway.html2024
+      t: >
+          I motsetning til tidligere undersøkelser, observerte vi ikke en betydelig lønnsforskjell mellom kjønnene denne gangen.  
+
+          Det er imidlertid viktig å merke seg at dette ene datapunktet ikke betyr at vi bør overse de utfordringene kvinner møter i vår bransje.
+
+    - key: user_info.race_ethnicity.takeaway.html2024
+      t: >
+          Ikke-hvite respondenter var mer sannsynlig å være yngre og ha mindre erfaring – noe som forhåpentligvis peker på en pågående diversifisering av bransjen.
+
+    - key: user_info.disability_status.takeaway.html2024
+      t: >
+          Takket være de vedvarende innsatsene fra tilgjengelighetsforkjempere, aksepterer vi nå at funksjonshemming (permanent eller midlertidig) bør tas i betraktning som en del av design- og utviklingsprosessen.
+
+    - key: user_info.source.takeaway.html2024
+      t: >
+          Et flertall av respondentene kjente til undersøkelsen fra tidligere år, men mange fant den også gjennom et banner på [2024 State of CSS-undersøkelsen](https://2024.stateofcss.com/).  
+
+          Og for første gang overgikk Mastodon X som en trafikkilde, muligens på grunn av at X straffet tweets med utgående lenker.
+
+    # features
+
+    - key: features.all_features
+      t: Funksjoner
+
+    - key: features.all_features.takeaway.html2024
+      t: >
+          Landmark-elementer (`<main>`, `<nav>`, etc.) rangert som den mest brukte funksjonen, mens den *minste* brukte var Isolated Web Apps.  
+
+          `<datalist>` hadde den høyeste andelen positivt sentiment (47%), mens `<model>` rangert først for negativt sentiment med 9%.
+
+    - key: features.reading_list.takeaway.html2024
+      t: >
+          Reading List lar deg lagre elementer du ønsker å lære mer om etter at undersøkelsen er fullført, og elementet som ble lagt til flest ganger var den nye Tilpassbare Select-funksjonen.
+
+    # forms
+
+    - key: features.forms_features.takeaway.html2024
+      t: >
+          Siden skjemaer er en av de viktigste måtene brukere interagerer med nettet på, burde det ikke være en overraskelse at de bringer med seg sin egen utfordring.  
+
+          En funksjon å følge med på er Tilpassbar Select, som på grunn av at den er helt ny, er en av de minst brukte skjema-funksjonene, men den rangerer som nummer to når den vurderes etter positivt sentiment.
+
+    - key: features.forms_pain_points.takeaway.html2024
+      t: >
+          Styling av skjema-inputs fortsetter å være utviklernes største skjema-relaterte smertepunkt, spesielt når det gjelder `<select>`-elementer.  
+
+          Når vi snakker om `<select>`, ble mangelen på "komboboks"-adferd (søk, autofyll, etc.) også sterkt følt, da det ofte tvinger apper til å stole på JavaScript-løsninger.
+
+    # interactivity
+
+    - key: features.interactivity_features.takeaway.html2024
+      t: >
+          Til tross for lav bruk og en status med "begrenset tilgjengelighet", scoret den nye Popover API-en høyest når det gjelder positivt sentiment, noe som gir mening for en så nyttig funksjon.
+
+    - key: features.interactivity_pain_points.takeaway.html2024
+      t: >
+          Styling av skjema-inputs fortsetter å være utviklernes største skjema-relaterte smertepunkt, spesielt når det gjelder `<select>`-elementer.  
+
+          Når vi snakker om `<select>`, ble mangelen på "komboboks"-adferd (søk, autofyll, etc.) også sterkt følt, da det ofte tvinger apper til å stole på JavaScript-løsninger.
+
+    # content
+
+    - key: features.content_features.takeaway.html2024
+      t: >
+          `srcset`- og `sizes`-attributtene samlet 81 friformkommentarer, hvorav 58 % av disse var knyttet til et negativt sentiment. Som en respondent uttrykte det: "Du må slå opp syntaksen hver gang du bruker det."
+
+    - key: features.content_pain_points.takeaway.html2024
+      t: >
+          SVG (spesielt styling av dem med CSS) og bildebehandling er de to største smertepunktene når det gjelder å håndtere innhold.
+
+    # web_components
+
+    - key: features.web_components_features.takeaway.html2024
+      t: >
+          Selv om webkomponenter har sine tilhengere, forblir de en kontroversiell teknologi. Webkomponentfunksjonene hadde et gjennomsnitt på 7 % negative meninger, mot 4 % for alle andre funksjoner kombinert.
+
+    - key: features.web_components_libraries.takeaway.html2024
+      t: >
+          Svelte er kanskje ikke kjent som et bibliotek for webkomponenter, men det viser seg at det fungerer ganske godt med dem – i motsetning til React, som ligger mye lenger ned på rangeringen.
+
+    - key: features.using_web_components_pain_points.takeaway.html2024
+      t: >
+          Vanskeligheten med å style og tilpasse webkomponenter forblir det største hinderet for å bruke dem mer utbredt. Et annet barrierer er hvor vanskelig det er å integrere dem med JavaScript-frontendlbiblioteker.
+
+    - key: features.making_web_components_pain_points.takeaway.html2024
+      t: >
+          Til tross for det kule navnet, fortsetter Shadow DOM å frustrere de som lager webkomponenter, med mange som kaster hendene opp på grunn av kompleksiteten i hele prosessen.
+
+    # accessibility
+
+    - key: features.accessibility_features.takeaway.html2024
+      t: >
+          De tilgjengelighetsfunksjonene som ble nevnt i årets undersøkelse viste seg å være enkle å bruke, noe som resulterte i et veldig lavt negativt sentiment totalt sett.
+
+    - key: features.accessibility_disabilities.takeaway.html2024
+      t: >
+          Det var betryggende å se at utviklere tar hensyn til et bredt spekter av funksjonshemminger når de lager nettsteder, med visuelle funksjonshemminger som den mest prioriterte.
+      aliases:
+          - accessibility.accessibility_disabilities.takeaway.html2024
+
+    - key: features.accessibility_techniques.takeaway.html2024
+      t: >
+          Det er fint å se at alt-tekst er mye implementert, og hvis ikke annet, kan dette diagrammet fungere som en praktisk kortliste over tilgjengelighetsmønstre å implementere i egne prosjekter.
+      aliases:
+          - accessibility.accessibility_techniques.takeaway.html2024
+
+    - key: features.accessibility_screenreaders.takeaway.html2024
+      t: >
+          Det burde ikke være en overraskelse at utviklere er mer tilbøyelige til å bruke skjermlesere dersom de er pakket sammen med nettleseren eller operativsystemet.
+      aliases:
+          - accessibility.accessibility_screenreaders.takeaway.html2024
+
+    - key: features.accessibility_tools.takeaway.html2024
+      t: >
+          Lighthouse og nettleserens utviklerverktøy topper rangeringen, og overgår mer spesialiserte verktøy som Axe eller WAVE.
+      aliases:
+          - accessibility.accessibility_tools.takeaway.html2024
+
+    - key: features.accessibility_pain_points.takeaway.html2024
+      t: >
+          Tilgjengelighet presenterer en unik utfordring der utviklere ikke bare må overvinne tekniske problemer som testvansker, men også organisatoriske hindringer som lav prioritering eller mangel på etterspørsel fra kunder.
+      aliases:
+          - accessibility.accessibility_pain_points.takeaway.html2024
+
+    # mobile_web_apps_features
+
+    - key: features.mobile_web_apps_features.takeaway.html2024
+      t: >
+          Bruken av funksjoner for mobile og desktop webapplikasjoner var lav totalt sett, med et gjennomsnitt på bare 6 % av respondentene som hadde brukt disse funksjonene, mot 30 % for alle andre funksjoner kombinert.
+
+    - key: features.native_apps_tools.takeaway.html2024
+      t: >
+          Selv om bygging av native apper med webteknologier byr på sine egne utfordringer og begrensninger, var det fortsatt den mest populære metoden blant respondentene.
+      aliases:
+          - mobile_web_apps.native_apps_tools.takeaway.html2024
+
+    - key: features.mobile_web_apps_pain_points.takeaway.html2024
+      t: >
+          iOS' dominerende markedsandel kombinert med dets lukkede natur betyr at det ikke er mye handlingsrom når det oppstår problemer med webplattformen.
+
+    # other_tools
+
+    - key: other_tools.site_generators.takeaway.html2024
+      t: >
+          Selv om Next.js ikke er en tradisjonell statisk sidegenerator, gjør støtten for mer dynamiske renderingsmetoder i tillegg til bygg-tids rendering det til et veldig allsidig valg – akkurat som Astro, som har et lignende sett med funksjoner.
+
+    - key: other_tools.validation_tools.takeaway.html2024
+      t: >
+          Valideringsverktøy er kanskje ikke like populære som de en gang var, men de er fortsatt et nyttig verktøy å ha i verktøykassen som webutvikler.
+
+    - key: other_tools.performance_tools.takeaway.html2024
+      t: >
+          På samme måte som i diagrammet for tilgjengelighetsverktøy, topper Lighthouse og nettleserens utviklerverktøy rangeringen, og viser nok en gang at allsidige verktøy er mer populære enn deres mer spesialiserte motparter.
+
+    - key: other_tools.analytics_tools.takeaway.html2024
+      t: >
+          Google Analytics dominerer kanskje fortsatt, men mer personvernvennlige alternativer som Plausible eller Fathom vinner terreng.
+
+    - key: other_tools.browsers.takeaway.html2024
+      t: >
+          Når man ser bort fra de fire store nettleserne, er det faktisk en overraskende variasjon på dette området, med nye aktører som Arc, Brave og Zen; og utviklerfokuserte alternativer som Polypane.
+
+    - key: other_tools.web_platform_resources.takeaway.html2024
+      t: >
+          MDN og Can I Use har fortjent sin plass som nøkkelressurser for webutviklingssamfunnet – men hold et øye med WebDX-gruppens arbeid rundt [Web Features](https://web-platform-dx.github.io/web-features-explorer/), et lovende nytt initiativ.
+
+    # usage
+
+    - key: usage.html_interoperability_features.takeaway.html2024
+      t: >
+          Det er få ting mer frustrerende enn å vite at en ny nettleser-API perfekt ville løse problemet ditt, men at du ikke kan bruke den på grunn av dårlig støtte.  
+            
+          Heldigvis, med initiativer som [Interop](https://web.dev/blog/interop-2024) kan man håpe at Popover API og Anchor Positioning snart blir en del av de funksjonene vi alle bruker uten å tenke på det.
+
+    - key: usage.html_functionality_features.takeaway.html2024
+      t: >
+          Selv om dårlig nettleserstøtte definitivt er et problem, kan også godt støttede funksjoner få lavere bruk dersom de er vanskelige å tilpasse utviklernes behov, eller rett og slett vanskelig å mestre.
+
+    - key: usage.html_missing_elements.takeaway.html2024
+      t: >
+          Det kan virke merkelig at allestedsnærværende UI-kontroller som faner eller datatabeller fortsatt ikke har et tilsvarende native HTML-element.  
+            
+          Men å få disse komplekse atferdene riktig mens man tar høyde for alle kanttilfellene tar tid, så for nå er alt vi kan gjøre å vente og håpe at disse elementene en dag kommer til nettleseren.
+
+    - key: usage.html_css_js_balance.takeaway.html2024
+      t: >
+          Vi bruker fortsatt langt mer tid på å skrive JavaScript (eller TypeScript) enn noe annet. Selv om det ikke er noe galt med det, vil webplattformens pågående fremgang forhåpentligvis bidra til å balansere dette litt i nær fremtid.
+
+    - key: usage.what_do_you_use_html_for.takeaway.html2024
+      t: >
+          Selv om "klassiske" bruksområder som blogger eller hjemmesider fortsatt utgjør en betydelig del av den moderne webutviklerens arbeidsmengde, er den største andelen nå webapplikasjoner – som igjen forklarer hvorfor webplattformen har tilpasset seg denne nye tilstanden.
+
+    - key: usage.industry_sector.takeaway.html2024
+      t: >
+          Programmering og tekniske verktøy toppet rangeringen, noe som gir mening for en utviklerfokusert undersøkelse.  
+            
+          Det er også interessant å merke seg at e-handel kom på tredjeplass, da dette er en sektor som møter den doble utfordringen med å bygge svært ytelseseffektive nettsteder som også trenger å inneholde komplekse brukerinteraksjoner.
+
+    # opinions
+
+    - key: opinions.accessibility_is_valued.takeaway.html2024
+      t: >
+          Det er flott å se at tilgjengelighet blir riktig verdsatt på arbeidsplassen – i det minste blant de som har svart på undersøkelsen.  
+            
+          Og selv om det sikkert er en selvselekterende skjevhet, har innsatsen til tilgjengelighetsforkjempere også bidratt mye til å flytte nålen.
+
+    - key: opinions.keeping_informed_is_challenging.takeaway.html2024
+      t: >
+          Nye funksjoner er flotte, men bare hvis du faktisk kan vite hva de er, og hvordan du bruker dem.  
+            
+          Et flertall av respondentene opplever denne utfordringen på daglig basis, noe som gjenspeiles i dataene.
+
+    - key: opinions.browser_interoperability_is_obstacle.takeaway.html2024
+      t: >
+          Selv om nettleserinteroperabilitet tradisjonelt har vært et stort problem for webutvikling, virker det som om situasjonen endelig blir bedre – og det blir spennende å se hvordan dette diagrammet utvikler seg over tid.
+
+    - key: opinions.web_platform_right_direction.takeaway.html2024
+      t: >
+          Det er grunn til å være håpefull for webplattformen, og denne optimismen gjenspeiles i årets data.
+
+    ###########################################################################
+    # Other Content
+    ###########################################################################
+
+    - key: features.all_features.description
+      t: |
+          Dette diagrammet oppsummerer alle undersøkelsens funksjonsrelaterte spørsmål. De viktigste stolpene representerer en respondents erfaring; og de er videre delt opp etter respondentens følelser. Du kan endre grupperingen for å veksle mellom begge.  
+            
+          Merk at du også kan finne en mer spesifikk oversikt over de samme dataene i hver funksjonsunderseksjon.
+
+    - key: features.forms_features
+      t: Skjemaer Erfaring & Følelser
+
+    - key: features.interactivity_features
+      t: Interaktivitet Erfaring & Følelser
+
+    - key: features.content_features
+      t: Innhold Erfaring & Følelser
+
+    - key: features.web_components_features
+      t: Webkomponenter Erfaring & Følelser
+      aliases:
+          - web_components_main_features
+
+    - key: features.accessibility_features
+      t: Tilgjengelighet Erfaring & Følelser
+
+    - key: features.mobile_web_apps_features
+      t: Native Web Apper Erfaring & Følelser
+
+    ###########################################################################
+    # Sponsors
+    ###########################################################################
+
+    - key: sponsors.frontendmasters.description
+      t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.
+    - key: sponsors.google_chrome.description
+      t: Takk til Google Chrome teamet for støtten til vårt arbeid.
+    - key: sponsors.tokyodev.description
+      t: Finn din drømmejobb som utvikler i Japan idag.
+    - key: sponsors.renderatl.description
+      t: Tech-konferransen med fokus på alle-ting-web
+
+    ###########################################################################
+    # Conclusion
+    ###########################################################################
+
+    - key: conclusion.html2024.patrick_brosset.bio
+      t: Productsjef på Edge-teamet hos Microsoft
+    - key: conclusion.html2024.patrick_brosset
+      t: >
+          Vi har en tendens til å ta HTML for gitt og anser det som noe som er i stor grad ferdig. Men elementene og nettleserfunksjonene det kommer med har utviklet seg enormt gjennom årene, og fortsetter å utvikle seg. Etter hvert som HTML-første arkitekturer får fotfeste, får vi muligheten til å bygge dem på riktig måte. Det har aldri vært en bedre tid å være en HTML-utvikler.
+
+          Det er likevel mer å gjøre. Nye problemområder dukker opp hele tiden, og plattformen må holde tritt med nye behov.
+
+          ### Legge til Nye Funksjoner...
+
+          Nye HTML-elementer, som datatabeller, faner eller brytere, er sterkt ønsket, men det er viktig å finne den rette balansen mellom komplekse komponenter som gjør alt, og enklere, men robuste og stilbare primitive elementer vi kan bygge fra.
+
+          ### ...Mens Vi Forbedrer De Gamle
+
+          Det er også viktig å fortsette å forbedre det vi allerede har. Eksisterende funksjoner som `<select>`, dato- og tid `<input>`, eller `<details>` har ikke alltid det riktige nivået av stilbarhet og tilpasning – mens andre funksjoner som CSP eller Shadow DOM er for kompliserte å bruke.
+
+          Tilgjengelighet, selv om det nå er bedre anerkjent som noe utviklere og organisasjoner trenger å bry seg om, er fortsatt vanskelig å teste og kompleks å forbedre.
+
+          ### Nettleserkompatibilitet
+
+          I tillegg til dette, er nettleserkompatibilitet og interoperabilitet for våre HTML-funksjoner fortsatt et stort hinder for webutviklere. Å måtte støtte eldre versjoner av nettlesere er slitsomt. Resultatene fra i år viser at dette er spesielt sant for nyere funksjoner som Popover, ankerposisjonering og fler-sides View Transitions, men også for `<dialog>` og for PWAs. Disse funksjonene blir tatt i bruk, og utviklere trenger at de fungerer overalt.
+
+          ### Utfordringen med å Henge Med
+
+          Så, ja, det er mer å gjøre. Men ting _skjer_ faktisk. Faktisk skjer det så raskt at det kan være utfordrende å holde seg informert. Ressurser som MDN, Caniuse.com, Web.dev eller W3C-nettsiden er til stor hjelp, men det er et behov for flere verktøy som kan hjelpe oss å holde tritt.
+
+          På den andre siden kan det være frustrerende for utviklere som ennå ikke kan bruke nye funksjoner, å høre om dem for tidlig. Derfor er det viktig å fortsette å vedlikeholde høykvalitets plattformdata som [browser-compat-data](https://github.com/mdn/browser-compat-data/) og [web-features](https://github.com/web-platform-dx/web-features/), som lar oss kommunisere om funksjoner på en mer utviklervennlig måte.
+
+          ### En Lys Fremtid for HTML
+
+          Avslutningsvis er det oppløftende at de fleste respondentene er enige om at, totalt sett, er interoperabilitet nå mye mindre et problem enn det pleide å være, med tydelige forbedringer som har blitt følt de siste årene. Og med det økende antallet muligheter vi får, blir det stadig lettere å bygge ytelsessterke, tilgjengelige og interaktive HTML-første UI-er, noe som gjør det mulig å redusere bruken av JavaScript til der det virkelig betyr noe, og lar webservere og nettlesere kommunisere slik de var ment å gjøre: med HTML!
+
+    ###########################################################################
+    # FAQ/About
+    ###########################################################################
+
+    - key: faq.how_long_will_survey_take_html2024
+      t: Hvor lang tid vil det ta å svare på undersøkelsen?
+    - key: faq.how_long_will_survey_take_html2024.description
+      t: >
+          Avhengig av hvor mange spørsmål du svarer på (alle spørsmål kan hoppes over), bør det ta omtrent 10-15 minutter å fylle ut undersøkelsen.
+
+    - key: faq.learn_more_html2024
+      t: Hvor kan jeg lære mer?
+    - key: faq.learn_more_html2024.description
+      t: Du kan lære mer om denne undersøkelsen i [vårt annonseinnlegg](https://dev.to/sachagreif/the-state-of-html-2024-survey-is-now-open-3i4j).
+
+    - key: faq.survey_design_html2024
+      t: Hvordan ble denne undersøkelsen designet?
+    - key: faq.survey_design_html2024.description
+      t: >
+          Denne undersøkelsen ble designet som resultatet av en [åpen designprosess](https://github.com/Devographics/surveys/issues/246) som involverte nettleserleverandører og webutviklingssamfunnet.
+
+    - key: faq.results_released_html2024
+      t: Når vil resultatene bli publisert?
+    - key: faq.results_released_html2024.description
+      t: Undersøkelsen vil være tilgjengelig fra 12. september til 1. oktober 2024, og resultatene vil bli publisert kort tid etter.
+
+    - key: faq.who_should_take_survey_html2024
+      t: Hvem bør ta denne undersøkelsen?
+    - key: faq.who_should_take_survey_html2024.description
+      t: >
+          Dette er en åpen undersøkelse for alle som lager nettsteder eller webapper, enten jevnlig eller av og til, som en del av jobben, som student eller bare for moro skyld!
+
+    - key: faq.data_used_html2024
+      t: Hvordan vil dataene bli brukt?
+    - key: faq.data_used_html2024.description
+      t: >
+          Alle innsamlede data vil bli frigitt åpent for utviklere eller selskaper som ønsker å konsultere dem. Nettleserleverandører bruker også [disse dataene](https://web.dev/blog/interop-2024) for å prioritere fokusområder og informere sine veikart.
+
+    - key: faq.survey_goals_html2024
+      t: Hva er undersøkelsens mål?
+    - key: faq.survey_goals_html2024.description
+      t: >
+          Målet med undersøkelsen er å måle bevisstheten rundt nye HTML-funksjoner og nettleser-API-er, og hjelpe utviklere å følge med på hvordan bruken av disse utvikler seg.
+
+    - key: about.content
+      t: |
+          2024 State of HTML-undersøkelsen ble gjennomført fra 12. september til 5. november 2024, og samlet inn 5 402 svar.
+
+          Undersøkelsen ble designet i samarbeid gjennom [en åpen GitHub-tråd](https://github.com/Devographics/surveys/issues/246) og under [WebDX Community Group](https://www.w3.org/groups/cg/webdx/) møter.
+
+          Undersøkelses-infrastrukturen er drevet av [Sacha Greif](https://sachagreif.com/) og [Eric Burel](https://www.lbke.fr/), med hjelp fra et team av open-source bidragsytere og konsulenter.
+
+          Årets logo og t-skjorte ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+          ### Undersøkelsens mål
+
+          Denne undersøkelsen ble opprettet for å identifisere kommende trender i webutviklings-økosystemet for å hjelpe utviklere med å ta teknologiske valg.
+
+          Som sådan er undersøkelsen fokusert på å forutsi hva som kommer de neste årene, heller enn å analysere hva som er populært nå, og derfor er funksjoner eller teknologier som er mest utbredt i dag ikke alltid inkludert.
+
+          Den bør også tas som et **øyeblikksbilde av en spesifikk gruppe utviklere**, og er ikke ment å representere hele økosystemet.
+
+          Undersøkelsen var åpent tilgjengelig på nettet, og respondentene ble ikke filtrert eller selektert på noen måte.
+
+          ### Prosjektfinansiering
+
+          Finansiering til dette prosjektet kommer fra forskjellige kilder:
+
+          - **T-skjorte-salg**.
+
+          - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side er levert av vår partner [Frontend Masters](https://frontendmasters.com/).
+
+          - **Andre kilder til finansiering**: [Google](https://www.google.com/) og [TokyoDev](https://www.tokyodev.com/) har også finansiert arbeidet med undersøkelsen.
+
+          ### Teknisk oversikt
+
+          Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene kjøres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2024-edition-1p6a).

@@ -53,7 +53,7 @@ translations:
       t: Kjøp den
 
     - key: tshirt.price
-      t: USD $32 + shipping
+      t: USD $32 + frakt
 
     - key: tshirt.designer.heading
       t: Om designeren
@@ -119,13 +119,13 @@ translations:
     - key: blocks.source.note
       t: >
 
-          This chart aggregates a mix of referrers, URL parameters, and svar i fritekst-format. 
+          Dette diagrammet slår sammen en mix av referranser, URL-parametere, and svar i fritekst-format. 
 
-          - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+          - State of JS: [State of JS](https://stateofjs.com) e-postlisten.
 
-          - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+          - State of CSS: State of CSS e-postlisten. Matcher også `email`, `by email`, osv.
 
-          - Work: matches `work`, `colleagues`, `coworkers`, etc.
+          - Work: matcher `work`, `colleagues`, `coworkers`, osv.
 
     ###########################################################################
     # Awards
@@ -200,7 +200,7 @@ translations:
     - key: picks.my_pick
       t: "Mine valg for 2023: "
     - key: picks.intro
-      t: Vi spurte medlemmer av JavaScript-fellesskapet om å dele sitt "valg av året"
+      t: Vi spurte medlemmer av JavaScript-fellesskapet om å dele sitt "årets valg"
 
     # https://leaddev.com/personal-development/how-build-trust-new-engineering-manager
     - key: picks.emma_bostian.name
@@ -215,7 +215,7 @@ translations:
     - key: picks.fireship.name
       t: Pocketbase
     - key: picks.fireship.bio
-      t: Google utvikler ekspert, dataentusiast og YouTuber
+      t: Google Developer Expert, dataentusiast og YouTuber
     - key: picks.fireship.description
       t: |
           Mitt valg for året er Pocketbase-prosjektet - en åpen kildekode SQLite-drevet backend. Dets JavaScript SDK gir webutviklere alt som trengs for å bygge en seriøs applikasjon, og kan utrolig nok distribueres som en enkelt binærfil til enhver $5-server.

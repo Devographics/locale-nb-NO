@@ -191,7 +191,7 @@ translations:
     - key: picks.my_pick
       t: "Mitt valg for 2021: "
     - key: picks.intro
-      t: Vi ba medlemmer av JavaScript-samfunnet dele sine "valg for året."
+      t: Vi ba medlemmer av JavaScript-samfunnet dele sine "årets valg".
 
     - key: picks.lee_robinson.name
       t: SvelteKit
