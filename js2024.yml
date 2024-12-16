@@ -1,337 +1,391 @@
 locale: nb-NO
 translations:
-    ###########################################################################
-    # General
-    ###########################################################################
-
     - key: general.results.description
-      t: 2024-utgaven av den årlige undersøkelsen om de nyeste trendene i JavaScript-økosystemet.
-
-    ###########################################################################
-    # Survey Intro
-    ###########################################################################
-
-    # JS 2023
+      t: 2024-utgaven av den årlige undersøkelsen om de nyeste trendene i
+          JavaScript-økosystemet.
     - key: general.js2024.survey_intro
       t: >
-          Mens vi prøvde å bestemme oss for hvilke frontend-rammeverk vi skulle bruke, har JavaScript gått gjennom en liten evolusjon selv. 
+          Mens vi prøvde å bestemme oss for hvilke frontend-rammeverk vi skulle
+          bruke, har JavaScript gått gjennom en liten evolusjon selv. 
 
 
-          Nye TC39-forslag skaper riplinger i miljøene, mens andre forslag er under implementering i nettlesere allerede. Og TypeScripts popularitet gjør muligheten for typestøtte direkte i Javascript på et tidspunkt i fremtiden til en reell mulighet.. 
+          Nye TC39-forslag skaper riplinger i miljøene, mens andre forslag er under
+          implementering i nettlesere allerede. Og TypeScripts popularitet gjør
+          muligheten for typestøtte direkte i Javascript på et tidspunkt i fremtiden
+          til en reell mulighet. 
 
 
-          Én ting er sikkert – selv om JavaScript i 2024 fortsatt føles likt som før, er det ingen garanti for at vi vil kunne si det samme om språket vi skriver om fem år.
+          Én ting er sikkert – selv om JavaScript i 2024 fortsatt føles likt som
+          før, er det ingen garanti for at vi vil kunne si det samme om språket vi
+          skriver om fem år.
 
 
-          Frem til da kan du være med på å forme veien videre ved å delta i årets State of JavaScript-undersøkelse!
-
-    ###########################################################################
-    # Survey FAQ
-    ###########################################################################
-
+          Frem til da kan du være med på å forme veien videre ved å delta i årets
+          State of JavaScript-undersøkelse!
     - key: faq.how_long_will_survey_take_js2024
       t: Hvor lang tid tar å besvare undersøkelsen?
     - key: faq.how_long_will_survey_take_js2024.description
       t: >
           Avhengig av hvor mange spørsmål du svarer på (alle spørsmål er valgfrie),
           bør det ta omtrent 15-20 minutter å fullføre undersøkelsen.
-
     - key: faq.survey_design_js2024
       t: Hvordan ble undersøkelsen utformet?
     - key: faq.survey_design_js2024.description
       t: >
-          Denne undersøkelsen ble utformet som resultatene av en [åpen designprosess](https://github.com/Devographics/surveys/issues/252) som involverte nettleserleverandører og webutviklingssamfunnet.
-
+          Denne undersøkelsen ble utformet som resultatene av en [åpen
+          designprosess](https://github.com/Devographics/surveys/issues/252) som
+          involverte nettleserleverandører og webutviklingssamfunnet.
     - key: faq.results_released_js2024
       t: Når blir resultatene publisert?
     - key: faq.results_released_js2024.description
-      t: Undersøkelsen vil pågå fra 10. november til 12. desember 2024, og resultatene vil bli publisert noen uker senere.
-
-    ###########################################################################
-    # Introduction
-    ###########################################################################
-
+      t:
+          Undersøkelsen vil pågå fra 10. november til 12. desember 2024, og resultatene
+          vil bli publisert noen uker senere.
     - key: introduction.js2024
-      t: |
+      t: >
 
-          <span class="first-letter">L</span>et's take a second to consider something: 2024's top three front end framework were all launched over a decade ago. 
+          Let's take a second to consider
+          something: 2024's top three front end framework were all launched over a
+          decade ago. 
 
-          Now sure, all three have evolved a lot along the way, and the patterns of 2014 would seem downright antiquated today. But given the JavaScript ecosystems's reputation as a constantly-churning whirlwind of change, it can be nice to know that some things do remain constant. 
 
-          Speaking of constants – reaching beyond the survey's existing audience remains frustratingly hard despite renewed outreach efforts, and something we'll definitely need to keep working on. 
+          Now sure, all three have evolved a lot along the way, and the patterns of
+          2014 would seem downright antiquated today. But given the JavaScript
+          ecosystems's reputation as a constantly-churning whirlwind of change, it
+          can be nice to know that some things do remain constant. 
 
-          In the meantime, we've also added a new **Metadata** appendix that will tell you more about survey respondents and the survey itself. And don't forget you can also apply any of these new variables to other charts using the **Query Builder**. 
 
-          With all this out of the way, let's discover what JavaScript has been up to this year!
+          Speaking of constants – reaching beyond the survey's existing audience
+          remains frustratingly hard despite renewed outreach efforts, and something
+          we'll definitely need to keep working on. 
 
-          <span class="conclusion__byline">– Sacha Greif</span>
 
-    ###########################################################################
-    # Tshirt
-    ###########################################################################
+          In the meantime, we've also added a new **Metadata** appendix that will
+          tell you more about survey respondents and the survey itself. And don't
+          forget you can also apply any of these new variables to other charts using
+          the **Query Builder**. 
 
+
+          With all this out of the way, let's discover what JavaScript has been up
+          to this year!
+
+
+          – Sacha Greif
     - key: sections.tshirt.title
       t: T-skjorte
-
     - key: sections.tshirt.description
-      t: |
+      t: >
           ## Støtt undersøkelsen med State of JavaScript T-skjorte
 
-          Mellom dårlig videokvalitet, klumpete kassetter og behovet for å spole tilbake, er det ikke mye å savne fra VHS-epoken. Men en ting vi *savner* er de fantastiske 90-talls visuene som pleide å pryde blanke VHS-kassetter.
 
-          Men nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte all denne retroen samtidig som du feirer kjærligheten din for JavaScript!
+          Mellom dårlig videokvalitet, klumpete kassetter og behovet for å spole
+          tilbake, er det ikke mye å savne fra VHS-epoken. Men en ting vi *savner*
+          er de fantastiske 90-talls visuene som pleide å pryde blanke
+          VHS-kassetter.
 
+
+          Men nå, takket være den talentfulle Christopher Kirk-Nielsen, kan du nyte
+          all denne retroen samtidig som du feirer kjærligheten din for JavaScript!
     - key: tshirt.about
       t: Om t-skjorten
-
     - key: tshirt.description
-      t: |
-          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print fra vår parner, Cotton Bureau.
-
+      t: >
+          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print
+          fra vår parner, Cotton Bureau.
     - key: tshirt.getit
       t: Kjøp den
-
     - key: tshirt.price
       t: USD $32 + frakt
-
     - key: tshirt.designer.heading
       t: Om designeren
-
     - key: tshirt.designer.name
       t: Christopher Kirk-Nielsen
-
     - key: tshirt.designer.bio
-      t: |
-          Opprinnelig fra Frankrike, men nå basert i USA, er Chris ikke bare en fantastisk front-end utvikler, men også en talentfull illustratør som spesialiserer seg på det retrovisuelle. Vi oppfordrer deg også til å sjekke ut hans [andre t-skjortedesign](https://chriskirknielsen.com/designs)!
-
-    ###########################################################################
-    # Sections
-    ###########################################################################
-
+      t: >
+          Opprinnelig fra Frankrike, men nå basert i USA, er Chris ikke bare en
+          fantastisk front-end utvikler, men også en talentfull illustratør som
+          spesialiserer seg på det retrovisuelle. Vi oppfordrer deg også til å
+          sjekke ut hans [andre
+          t-skjortedesign](https://chriskirknielsen.com/designs)!
     - key: sections.user_info.description
-      t: |
+      t: >
           I år deltok **14 015** personer i undersøkelsen. For å fremheve 
-          ulike perspektiver og gi dypere innsikt, har vi gjort en spesiell innsats for å introdusere nye måter å analysere og presentere dataene våre på.
 
+          ulike perspektiver og gi dypere innsikt, har vi gjort en spesiell innsats
+          for å introdusere nye måter å analysere og presentere dataene våre på.
     - key: sections.features.description
-      t: |
-          I år la vi særlig vekt på å identifisere utvikleres utfordringer med JavaScript. Som forventet toppet **mangelende typestøtte** og **inkonsistens mellom nettlesere** listene, hvor hver av dem påvirker nesten en tredjedel av utviklerne.
-
+      t: >
+          I år la vi særlig vekt på å identifisere utvikleres utfordringer med
+          JavaScript. Som forventet toppet **mangelende typestøtte** og
+          **inkonsistens mellom nettlesere** listene, hvor hver av dem påvirker
+          nesten en tredjedel av utviklerne.
     - key: sections.libraries.description
-      t: |
-          Vi har omarbeidet diagrammene våre for å fremheve både holdninger og meninger i tillegg til utvikleropplevelse. Utforsk de nye gruppering- og sorteringsvalgene for å finne ut hvilke biblioteker som får mest kjærlighet... eller minst!
-
+      t: >
+          Vi har omarbeidet diagrammene våre for å fremheve både holdninger og
+          meninger i tillegg til utvikleropplevelse. Utforsk de nye gruppering- og
+          sorteringsvalgene for å finne ut hvilke biblioteker som får mest
+          kjærlighet... eller minst!
     - key: sections.other_tools.description
-      t: |
-          Samtalene rundt Javascript har en tendens til å handle om hvilke rammeverk man skal velge, er det viktig å huske på at det finnes en hel verden av andre verktøy, services og platformer å utforske videre.
-
+      t: >
+          Samtalene rundt Javascript har en tendens til å handle om hvilke rammeverk
+          man skal velge, er det viktig å huske på at det finnes en hel verden av
+          andre verktøy, services og platformer å utforske videre.
     - key: sections.usage.description
-      t: |
-          Nok en gang ser det ut til at TypeScript har etablert seg som standarden, i hvert fall blant deltakerne i undersøkelsen. Men bortsett fra det, er bruken av JavaScript fortsatt like variert som alltid!
-
+      t: >
+          Nok en gang ser det ut til at TypeScript har etablert seg som standarden,
+          i hvert fall blant deltakerne i undersøkelsen. Men bortsett fra det, er
+          bruken av JavaScript fortsatt like variert som alltid!
     - key: sections.resources.description
-      t: |
-          I stedet for å gi forhåndsdefinerte lister med alternativer for undersøkelsesdeltakerne å velge fra, valgte vi å tilby fritekstfelt. Dette førte til en rekke nye bidrag i årets Ressurser-seksjon!
-
+      t: >
+          I stedet for å gi forhåndsdefinerte lister med alternativer for
+          undersøkelsesdeltakerne å velge fra, valgte vi å tilby fritekstfelt. Dette
+          førte til en rekke nye bidrag i årets Ressurser-seksjon!
     - key: sections.awards.description
-      t: |
-          Årets priser ble dominert av ett helt spesielt prosjekt … hvor raskt klarer du å gjette hvilket?
-
-    ###########################################################################
-    # Charts
-    ###########################################################################
-
+      t: >
+          Årets priser ble dominert av ett helt spesielt prosjekt … hvor raskt
+          klarer du å gjette hvilket?
     - key: options.features_categories.language
       aliasFor: sections.language.title
     - key: options.features_categories.browser_apis
       aliasFor: sections.browser_apis.title
     - key: options.features_categories.other_features
       aliasFor: sections.other_features.title
-
-    ###########################################################################
-    # Notes
-    ###########################################################################
-
     - key: blocks.gender.note
-      t: |
-          Hvis du er interessert i å lære mer, har vi [skrevet et blogginnlegg](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) som tar for seg kjønnsfordelingen og dynamikken mellom de i undersøkelsen.
-
+      t: >
+          Hvis du er interessert i å lære mer, har vi [skrevet et
+          blogginnlegg](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj)
+          som tar for seg kjønnsfordelingen og dynamikken mellom de i undersøkelsen.
     - key: blocks.source.note
       t: >
 
-          Dette diagrammet slår sammen en mix av referranser, URL-parametere, and svar i fritekst-format.
+          Dette diagrammet slår sammen en mix av referranser, URL-parametere, and
+          svar i fritekst-format.
 
           - State of JS: [State of JS](https://stateofjs.com) e-postlisten.
 
-          - State of CSS: State of CSS e-postlisten. Matcher også `email`, `by email`, osv.
+          - State of CSS: State of CSS e-postlisten. Matcher også `email`, `by
+          email`, osv.
 
           - Work: matcher `work`, `colleagues`, `coworkers`, osv.
-
-    ###########################################################################
-    # Awards
-    ###########################################################################
-
     - key: award.feature_adoption_delta_award.comment
-      t: Med en **{value}** fremgang i 2022 har **top-level await** raskt blitt en integrert del av JavaScript.
-
+      t:
+          Med en **{value}** fremgang i 2022 har **top-level await** raskt blitt en
+          integrert del av JavaScript.
     - key: award.tool_usage_delta_award.comment
-      t: |
-          **Vite** fortsetter å være det raskest voksende biblioteket der ute, med en **{value}** økning i bruken fra år til år!
-
+      t: >
+          **Vite** fortsetter å være det raskest voksende biblioteket der ute, med
+          en **{value}** økning i bruken fra år til år!
     - key: award.tool_satisfaction_award.comment
-      t: Vitest stikker av med førsteplass, med **{value}** av utviklerne villige til å bruke det igjen!
-
+      t:
+          Vitest stikker av med førsteplass, med **{value}** av utviklerne villige til
+          å bruke det igjen!
     - key: award.tool_interest_award.comment
-      t: Uten å forlate Vite-økosystemet, så er det i år **Rolldown** som er teknologien utviklerne er mest interessert i, med en **{value}** interessegrad.
-
+      t: Uten å forlate Vite-økosystemet, så er det i år **Rolldown** som er
+          teknologien utviklerne er mest interessert i, med en **{value}**
+          interessegrad.
     - key: award.most_write_ins_award.comment
-      t: Med **{value}** nevnelser var Angular-meta-rammeverket **Analog** biblioteket som fikk flest fritekstsvar fra deltakerne.
-
+      t:
+          Med **{value}** nevnelser var Angular-meta-rammeverket **Analog** biblioteket
+          som fikk flest fritekstsvar fra deltakerne.
     - key: award.most_commented_tool_award.comment
-      t: Angular er kanskje ikke den nyeste aktøren i feltet, men det er fortsatt et hett tema med **{value}** kommentarer fra deltakerne!
-
+      t:
+          Angular er kanskje ikke den nyeste aktøren i feltet, men det er fortsatt et
+          hett tema med **{value}** kommentarer fra deltakerne!
     - key: award.most_loved_tool_award.comment
-      t: Med **{value}** av alle utviklere som har en positiv oppfatning av det, stikker Vite nok en gang av med prisen for mest likte teknologi!
-
-    ###########################################################################
-    # Conclusion
-    ###########################################################################
-
+      t: Med **{value}** av alle utviklere som har en positiv oppfatning av det,
+          stikker Vite nok en gang av med prisen for mest likte teknologi!
     - key: conclusion.js2024.fernando_herrera
-      t: |
-          <span class="first-line">For noen år siden satte en annen State of JS-undersøkelse Astro på radaren min.</span>
+      t: >
+          For noen år siden satte en annen State of
+          JS-undersøkelse Astro på radaren min.
 
-          Jeg bestemte meg for å prøve det, og etter bare noen timer ble jeg forelsket i teknologien. Det var nesten kjærlighet ved første blikk! Plutselig så jeg for meg å bygge om nettstedet mitt, administrasjonsverktøy og andre prosjekter med Astro. Nå kan jeg si at Astro er mitt favoritt-rammeverk, uten tvil.
 
-          JavaScript er et dynamisk og spennende økosystem som stadig vokser med mange biblioteker og rammeverk. Fra gjenbrukbare komponenter til klient-, server- og statiske løsninger, finnes det utallige måter å nå målene dine på ved å bruke Vanilla JavaScript, fellesskapspakker, biblioteker eller rammeverk – som alle tilbyr nye muligheter for innovasjon. Selvfølgelig kan det føles overveldende, men denne variasjonen gjør JavaScript kraftig, og gir deg alt fra én til hundrevis av smarte måter å lykkes på.
+          Jeg bestemte meg for å prøve det, og etter bare noen timer ble jeg
+          forelsket i teknologien. Det var nesten kjærlighet ved første blikk!
+          Plutselig så jeg for meg å bygge om nettstedet mitt,
+          administrasjonsverktøy og andre prosjekter med Astro. Nå kan jeg si at
+          Astro er mitt favoritt-rammeverk, uten tvil.
 
-          Ikke vær redd for å utforske og eksperimentere med forskjellige verktøy – enten det er Vitest eller Jest, React eller Solid, Node eller Deno, Next.js eller Astro – eller noe helt nytt som [Brisa](https://brisa.build/).
 
-          Hold nysgjerrigheten levende, for ingen andre språk tilbyr det samme fellesskapet, fleksibiliteten og kreativiteten som JavaScript gjør!
+          JavaScript er et dynamisk og spennende økosystem som stadig vokser med
+          mange biblioteker og rammeverk. Fra gjenbrukbare komponenter til klient-,
+          server- og statiske løsninger, finnes det utallige måter å nå målene dine
+          på ved å bruke Vanilla JavaScript, fellesskapspakker, biblioteker eller
+          rammeverk – som alle tilbyr nye muligheter for innovasjon. Selvfølgelig
+          kan det føles overveldende, men denne variasjonen gjør JavaScript kraftig,
+          og gir deg alt fra én til hundrevis av smarte måter å lykkes på.
 
+
+          Ikke vær redd for å utforske og eksperimentere med forskjellige verktøy –
+          enten det er Vitest eller Jest, React eller Solid, Node eller Deno,
+          Next.js eller Astro – eller noe helt nytt som
+          [Brisa](https://brisa.build/).
+
+
+          Hold nysgjerrigheten levende, for ingen andre språk tilbyr det samme
+          fellesskapet, fleksibiliteten og kreativiteten som JavaScript gjør!
     - key: conclusion.js2024.fernando_herrera.bio
       t: Utvikler, lærer, and YouTuber
-
     - key: conclusion.js2024.theo_browne
-      t: |
-          <span class="first-line">JavaScript beveger seg til serveren, og det gjør oss litt urolige.</span>
+      t: >
+          JavaScript beveger seg til serveren, og det gjør
+          oss litt urolige.
 
-          I fjorårets undersøkelse så vi raskt økende bruk av server-fokuserte rammeverk som Next, Nuxt, Remix og SvelteKit. I år har vi sett en overgang til server-først mønstre som Partial Hydration og Islands, som har doblet i adopsjon.
 
-          Bibliotek- eh, rammeverk som htmx viser at det ikke bare er webutviklere som drar nytte av å bruke serveren. SPAs (Single Page Applications) er ikke på vei bort (ta en titt på [Inertia](https://inertiajs.com/) for bevis), men etter hvert som disse nye mønstrene fortsetter å forbedres, ser det ut til at markedet følger med.
+          I fjorårets undersøkelse så vi raskt økende bruk av server-fokuserte
+          rammeverk som Next, Nuxt, Remix og SvelteKit. I år har vi sett en overgang
+          til server-først mønstre som Partial Hydration og Islands, som har doblet
+          i adopsjon.
 
-          Denne overgangen har ikke blitt elsket av alle. React har fortsatt å vokse, men React-utviklere er i økende grad bekymret for hvilken retning det går i. Å komme hit har vært … tøft, men det gjøres fremskritt hver dag.
 
-          Vi ser også flere alternativer dukke opp utenfor React-økosystemet. Fra [Nuxt](https://roe.dev/blog/nuxt-server-components) til [SolidStart](https://docs.solidjs.com/solid-start/reference/server/use-server) til [Astro](https://astro.build/blog/astro-480/#experimental-astro-actions), rulles de beste funksjonene fra React Server Components ut til alle utviklere.
+          Bibliotek- eh, rammeverk som htmx viser at det ikke bare er webutviklere
+          som drar nytte av å bruke serveren. SPAs (Single Page Applications) er
+          ikke på vei bort (ta en titt på [Inertia](https://inertiajs.com/) for
+          bevis), men etter hvert som disse nye mønstrene fortsetter å forbedres,
+          ser det ut til at markedet følger med.
 
-          Og selvfølgelig fortsetter Vite å dominere, og det er det foretrukne valget for både applikasjonsutviklere og rammeverksforfattere. Det er vanskelig å forestille seg hvor vi hadde vært i dag uten det!
 
+          Denne overgangen har ikke blitt elsket av alle. React har fortsatt å
+          vokse, men React-utviklere er i økende grad bekymret for hvilken retning
+          det går i. Å komme hit har vært … tøft, men det gjøres fremskritt hver
+          dag.
+
+
+          Vi ser også flere alternativer dukke opp utenfor React-økosystemet. Fra
+          [Nuxt](https://roe.dev/blog/nuxt-server-components) til
+          [SolidStart](https://docs.solidjs.com/solid-start/reference/server/use-server)
+          til
+          [Astro](https://astro.build/blog/astro-480/#experimental-astro-actions),
+          rulles de beste funksjonene fra React Server Components ut til alle
+          utviklere.
+
+
+          Og selvfølgelig fortsetter Vite å dominere, og det er det foretrukne
+          valget for både applikasjonsutviklere og rammeverksforfattere. Det er
+          vanskelig å forestille seg hvor vi hadde vært i dag uten det!
     - key: conclusion.js2024.theo_browne.bio
       t: Skaper av Ping, uploadthing, create-t3-app, og content creator
-
-    ###########################################################################
-    # Picks
-    ###########################################################################
-
     - key: picks.my_pick
       t: "Mine valg for 2024: "
     - key: picks.intro
       t: Vi spurte medlemmer av JavaScript-fellesskapet om å dele sitt "årets valg"
-
     - key: picks.jack_herrington.name
       t: TanStack
     - key: picks.jack_herrington.bio
       t: Koder & YouTuber
     - key: picks.jack_herrington.description
-      t: |
-          Tanstack, en bankett av praktiske og utprøvde bibliotek i høy kvalitet, som smelter sammen til rammeverket TanStack Start.
-
+      t: >
+          Tanstack, en bankett av praktiske og utprøvde bibliotek i høy kvalitet,
+          som smelter sammen til rammeverket TanStack Start.
     - key: picks.josefine_schaefer.name
       t: Arisa Fukuzaki
     - key: picks.josefine_schaefer.bio
       t: Accessibility Engineer
     - key: picks.josefine_schaefer.description
-      t: |
-          Arisa er en fantastisk teknisk pedagog, mentor, dokumentasjons- og DevRel-ingeniør som er utrolig lidenskapelig opptatt av JS-rammeverk, fellesskapsarbeid og å støtte kvinner i teknologi. Hun er definitivt en å følge med på!
-
+      t: >
+          Arisa er en fantastisk teknisk pedagog, mentor, dokumentasjons- og
+          DevRel-ingeniør som er utrolig lidenskapelig opptatt av JS-rammeverk,
+          fellesskapsarbeid og å støtte kvinner i teknologi. Hun er definitivt en å
+          følge med på!
     - key: picks.cassie_evans.name
       t: gsap-video-export
     - key: picks.cassie_evans.bio
       t: Gjør litt av alt hos GSAP
     - key: picks.cassie_evans.description
-      t: |
-          Chris laget dette supernyttige verktøyet for å eksportere GSAP-animasjonene dine til video. Det har gjort livet mitt mye enklere og videoene mine mye jevnere – ikke flere skjermopptak i lav kvalitet fra meg!
-
+      t: >
+          Chris laget dette supernyttige verktøyet for å eksportere
+          GSAP-animasjonene dine til video. Det har gjort livet mitt mye enklere og
+          videoene mine mye jevnere – ikke flere skjermopptak i lav kvalitet fra
+          meg!
     - key: picks.tania_rascia.name
       t: Cassidy Williams
     - key: picks.tania_rascia.bio
       t: Selvlært ingeniør, dyktig teknisk blogger og profesjonelt utdannet kokk.
     - key: picks.tania_rascia.description
-      t: |
-          Cassidy har skrevet på bloggen sin siden 2009, har en utrolig unik stil og mange kule, nisjepregede interesser (jeg er stolt av å eie hennes StackOverflow copy/paste-tastatur!). Hun sender ut et flott nyhetsbrev hver uke, lager de beste utviklermemesene, og gjør alt dette samtidig som hun er nybakt mamma, noe som er veldig imponerende.
-
+      t: >
+          Cassidy har skrevet på bloggen sin siden 2009, har en utrolig unik stil og
+          mange kule, nisjepregede interesser (jeg er stolt av å eie hennes
+          StackOverflow copy/paste-tastatur!). Hun sender ut et flott nyhetsbrev
+          hver uke, lager de beste utviklermemesene, og gjør alt dette samtidig som
+          hun er nybakt mamma, noe som er veldig imponerende.
     - key: picks.salma_alam_naylor.name
       t: The Breedling
     - key: picks.salma_alam_naylor.bio
       t: Live streamer, programvareutvikler, og lærer innen utvikling
     - key: picks.salma_alam_naylor.description
-      t: |
-          Webteknologi er ikke bare for nettsider. The Breedling er et nettleserbasert visualiseringsverktøy som slår sammen live musikkspillinger fra bandet med samme navn, og blander video og RIVE-animasjoner med WebGL-shaders, ved bruk av et gammelt eksperimentelt BBC-bibliotek, VideoContext.
-
+      t: >
+          Webteknologi er ikke bare for nettsider. The Breedling er et
+          nettleserbasert visualiseringsverktøy som slår sammen live
+          musikkspillinger fra bandet med samme navn, og blander video og
+          RIVE-animasjoner med WebGL-shaders, ved bruk av et gammelt eksperimentelt
+          BBC-bibliotek, VideoContext.
     - key: picks.wes_bos.name
       t: Transformers.js
     - key: picks.wes_bos.bio
       t: Podcaster og lærer
     - key: picks.wes_bos.description
-      t: |
-          Transformers.js er et bibliotek for å jobbe med AI-modeller i JavaScript. Det gjør alt – datavisjon, lyd, bildegenerering, chat-bot-generering og mer.
+      t: >
+          Transformers.js er et bibliotek for å jobbe med AI-modeller i JavaScript.
+          Det gjør alt – datavisjon, lyd, bildegenerering, chat-bot-generering og
+          mer.
 
-          Det fungerer i nettleseren, via WASM eller WebGPU, og på serveren med Node.js, Bun eller Deno. Å kjøre AI-modeller på enheten er ganske spennende, og dette biblioteket er en flott måte å komme i gang på uten all smerten ved å prøve å få Python til å fungere.
 
+          Det fungerer i nettleseren, via WASM eller WebGPU, og på serveren med
+          Node.js, Bun eller Deno. Å kjøre AI-modeller på enheten er ganske
+          spennende, og dette biblioteket er en flott måte å komme i gang på uten
+          all smerten ved å prøve å få Python til å fungere.
     - key: picks.shaundai_person.name
       t: Shruti Kapoor
     - key: picks.shaundai_person.bio
       t: Frontend Senior programvareutvikler (Netflix) og kursholder
     - key: picks.shaundai_person.description
-      t: |
-          Min valg for året er min venn Shruti Kapoor. Shruti har en fantastisk måte å forklare selv de mest krevende tekniske JS-konseptene på en lettfattelig måte. I sine morsomme og engasjerende YouTube-videoer og konferanseforedrag lærer hun publikum de viktigste delene av JavaScript-utvikling, uten unødvendig fyllstoff.
-
+      t: >
+          Min valg for året er min venn Shruti Kapoor. Shruti har en fantastisk måte
+          å forklare selv de mest krevende tekniske JS-konseptene på en lettfattelig
+          måte. I sine morsomme og engasjerende YouTube-videoer og
+          konferanseforedrag lærer hun publikum de viktigste delene av
+          JavaScript-utvikling, uten unødvendig fyllstoff.
     - key: picks.michelle_bakels.name
       t: v0
     - key: picks.michelle_bakels.bio
       t: Programvareutvikler, community ildsjel, og React Miami arrangør hos G2i
     - key: picks.michelle_bakels.description
-      t: |
-          Selv om AI-kodeassistenter er her for å bli, kan de fortsatt møte utfordringer med å holde tritt med de nyeste utviklingene i økosystemet vårt. v0 er ikke bare det beste verktøyet for å generere brukergrensesnitt, men det har også den sterkeste konteksten for å gi verdifull og relevant kodehjelp i dagens JavaScript-status.
-
+      t: >
+          Selv om AI-kodeassistenter er her for å bli, kan de fortsatt møte
+          utfordringer med å holde tritt med de nyeste utviklingene i økosystemet
+          vårt. v0 er ikke bare det beste verktøyet for å generere
+          brukergrensesnitt, men det har også den sterkeste konteksten for å gi
+          verdifull og relevant kodehjelp i dagens JavaScript-status.
     - key: picks.sacha_greif.name
       t: Bluesky
     - key: picks.sacha_greif.bio
       t: Maintainer, State of JS
     - key: picks.sacha_greif.description
-      t: |
-          Med Xs langsomme fall ned i galskap, føltes det som om frontend-fellesskapet hadde blitt etterlatt uten et hjem. Derfor er det fantastisk å se at så mange av oss endelig samles mot en ny plattform hos Bluesky.
-
+      t: >
+          Med Xs langsomme fall ned i galskap, føltes det som om
+          frontend-fellesskapet hadde blitt etterlatt uten et hjem. Derfor er det
+          fantastisk å se at så mange av oss endelig samles mot en ny plattform hos
+          Bluesky.
     - key: picks.dominik_dorfmeister.name
       t: Knip
     - key: picks.dominik_dorfmeister.bio
       t: Programvareutvikler @ Sentry, React Query maintainer
     - key: picks.dominik_dorfmeister.description
-      t: |
-          Knip er et fantastisk verktøy som analyserer koden din og forteller deg hva du kan kvitte deg med. Det er raskt (slik at du kan kjøre det i CI), forstår mange rammeverk og biblioteker rett ut av boksen, og fungerer også sømløst i monorepos.
-
+      t: >
+          Knip er et fantastisk verktøy som analyserer koden din og forteller deg
+          hva du kan kvitte deg med. Det er raskt (slik at du kan kjøre det i CI),
+          forstår mange rammeverk og biblioteker rett ut av boksen, og fungerer også
+          sømløst i monorepos.
     - key: picks.sebastien_lorber.name
       t: Rspack
     - key: picks.sebastien_lorber.bio
       t: Skaper av This Week In React, Docusaurus maintainer
     - key: picks.sebastien_lorber.description
-      t: |
-          Rspack-bundleren er et nesten "drop-in" alternativ til Webpack. Implementert i Rust, er den mye raskere enn Webpack og bruker mindre minne. Alle Webpack-prosjekter bør prøve det umiddelbart, med tanke på hvor enkelt det er å ta det i bruk!
-
-    ###########################################################################
-    # Sponsors
-    ###########################################################################
-
+      t: >
+          Rspack-bundleren er et nesten "drop-in" alternativ til Webpack.
+          Implementert i Rust, er den mye raskere enn Webpack og bruker mindre
+          minne. Alle Webpack-prosjekter bør prøve det umiddelbart, med tanke på
+          hvor enkelt det er å ta det i bruk!
     - key: sponsors.frontendmasters.description
       t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.
     - key: sponsors.google_chrome.description
@@ -341,305 +395,421 @@ translations:
     - key: sponsors.renderatl.description
       t: Tech-konferransen med fokus på alle-ting-web
     - key: sponsors.gitnation.description
-      t: |
-          Abonner på GitNation Multipass: få tilgang til 11 digitale konferanser, over 300 timer med innhold og praktiske workshops om JavaScript, React, Vue og Node.
-
-    ###########################################################################
-    # FAQ/About
-    ###########################################################################
-
+      t: >
+          Abonner på GitNation Multipass: få tilgang til 11 digitale konferanser,
+          over 300 timer med innhold og praktiske workshops om JavaScript, React,
+          Vue og Node.
     - key: about.content
-      t: |
-          **2024 State of JavaScript**-undersøkelsen ble gjennomført fra 22. november til 12. desember 2024, og samlet inn 23 540 svar. Resultatene ble publisert 20. juni 2024. Undersøkelsen er drevet av [Devographics](https://devographics.com/), et kollektiv bestående av meg ([Sacha Greif](https://sachagreif.com/)) og [Eric Burel](https://www.lbke.fr/), samt inviterte eksperter og open-source bidragsytere.
+      t: >
+          **2024 State of JavaScript**-undersøkelsen ble gjennomført fra 22.
+          november til 12. desember 2024, og samlet inn 23 540 svar. Resultatene ble
+          publisert 20. juni 2024. Undersøkelsen er drevet av
+          [Devographics](https://devographics.com/), et kollektiv bestående av meg
+          ([Sacha Greif](https://sachagreif.com/)) og [Eric
+          Burel](https://www.lbke.fr/), samt inviterte eksperter og open-source
+          bidragsytere.
 
-          **State of JavaScript**-logoen og t-skjorten ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+          **State of JavaScript**-logoen og t-skjorten ble designet av [Christopher
+          Kirk-Nielsen](http://chriskirknielsen.com/).
+
 
           ### Undersøkelsens mål
 
-          Denne undersøkelsen ble laget for å identifisere kommende trender i webutviklingsøkosystemet, for å hjelpe utviklere med å ta teknologiske valg.
 
-          Som sådan fokuserer undersøkelsen på å forutsi hva som vil komme de neste årene, i stedet for å analysere hva som er populært nå. Derfor kan funksjoner eller teknologier noen ganger bli utelatt, selv om de er utbredte for øyeblikket.
+          Denne undersøkelsen ble laget for å identifisere kommende trender i
+          webutviklingsøkosystemet, for å hjelpe utviklere med å ta teknologiske
+          valg.
 
-          Undersøkelsen bør også sees på som et **øyeblikksbilde av en spesifikk undergruppe av utviklere**, og er ikke ment å representere hele økosystemet.
+
+          Som sådan fokuserer undersøkelsen på å forutsi hva som vil komme de neste
+          årene, i stedet for å analysere hva som er populært nå. Derfor kan
+          funksjoner eller teknologier noen ganger bli utelatt, selv om de er
+          utbredte for øyeblikket.
+
+
+          Undersøkelsen bør også sees på som et **øyeblikksbilde av en spesifikk
+          undergruppe av utviklere**, og er ikke ment å representere hele
+          økosystemet.
+
 
           ### Undersøkelsesdesign
 
-          Undersøkelsen ble designet delvis basert på fjorårets undersøkelse, med en åpen tilbakemeldingsperiode hvor undersøkelsens disposisjon ble diskutert [på GitHub](https://github.com/Devographics/surveys/issues?q=is%3Aissue+is%3Aopen+label%3A%22State+of+JS+2024%22).
+
+          Undersøkelsen ble designet delvis basert på fjorårets undersøkelse, med en
+          åpen tilbakemeldingsperiode hvor undersøkelsens disposisjon ble diskutert
+          [på
+          GitHub](https://github.com/Devographics/surveys/issues?q=is%3Aissue+is%3Aopen+label%3A%22State+of+JS+2024%22).
+
 
           Alle spørsmål i undersøkelsen var valgfrie.
 
+
           ### Undersøkelsens publikum
 
-          Undersøkelsen var fritt tilgjengelig online, og respondentene ble ikke filtrert eller selektert på noen måte. Respondentene var hovedsakelig en blanding av respondenter fra tidligere undersøkelser (informert gjennom en dedikert e-postliste) og trafikk fra sosiale medier.
 
-          Merk at rammeverk, biblioteker, osv. var frie til å oppfordre sitt publikum til å delta i undersøkelsen, og noen av dem benyttet seg av dette via bannere, tweets osv. En detaljert oversikt over trafikkilder er inkludert i "Sources"-diagrammet.
+          Undersøkelsen var fritt tilgjengelig online, og respondentene ble ikke
+          filtrert eller selektert på noen måte. Respondentene var hovedsakelig en
+          blanding av respondenter fra tidligere undersøkelser (informert gjennom en
+          dedikert e-postliste) og trafikk fra sosiale medier.
+
+
+          Merk at rammeverk, biblioteker, osv. var frie til å oppfordre sitt
+          publikum til å delta i undersøkelsen, og noen av dem benyttet seg av dette
+          via bannere, tweets osv. En detaljert oversikt over trafikkilder er
+          inkludert i "Sources"-diagrammet.
+
 
           ### Prosjektfinansiering
 
+
           Finansieringen for dette prosjektet kommer fra forskjellige kilder:
+
 
           - **T-skjortesalg**.
 
-          - **Sponsede lenker**: Lenker til anbefalte ressurser nederst på hver side leveres av våre partnere [Frontend Masters](https://frontendmasters.com/) og [RenderATL](https://www.renderatl.com/).
 
-          - **Direkte finansiering**: I år har [Google](https://www.google.com/) finansiert mitt arbeid med undersøkelsen.
+          - **Sponsede lenker**: Lenker til anbefalte ressurser nederst på hver side
+          leveres av våre partnere [Frontend Masters](https://frontendmasters.com/)
+          og [RenderATL](https://www.renderatl.com/).
 
-          Alle bidrag eller sponsorater er svært verdsatt. Vi ønsker spesielt å samarbeide tettere med flere nettleserleverandører, ettersom de spiller en så sentral rolle i webøkosystemet.
+
+          - **Direkte finansiering**: I år har [Google](https://www.google.com/)
+          finansiert mitt arbeid med undersøkelsen.
+
+
+          Alle bidrag eller sponsorater er svært verdsatt. Vi ønsker spesielt å
+          samarbeide tettere med flere nettleserleverandører, ettersom de spiller en
+          så sentral rolle i webøkosystemet.
+
 
           ### Teknisk oversikt
 
-          Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2024-edition-1p6a).
 
-    ###########################################################################
-    # Takeaways
-    ###########################################################################
-
-    # user_info
-
+          Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene
+          gjennomføres
+          [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2024-edition-1p6a).
     - key: user_info.country.takeaway.js2024
       t: >
-          Som vanlig representerte USA en stor andel av respondentene, og landet toppet også rangeringen når det gjaldt medianinntekt.
-
+          Som vanlig representerte USA en stor andel av respondentene, og landet
+          toppet også rangeringen når det gjaldt medianinntekt.
     - key: user_info.age.takeaway.js2024
       t: >
-          Med en gjennomsnittlig alder på 33,5 år, viste det seg at den gjennomsnittlige respondenten i State of JS var litt yngre enn i State of CSS (34,9) og State of HTML (35,8).
+          Med en gjennomsnittlig alder på 33,5 år, viste det seg at den
+          gjennomsnittlige respondenten i State of JS var litt yngre enn i State of
+          CSS (34,9) og State of HTML (35,8).
 
-Interessant nok var yngre respondenter mye mer sannsynlig å lide av kognitive og visuelle funksjonshemninger, mens eldre respondenter var mer påvirket av hørsel- og mobilitetsproblemer.
-
+          Interessant nok var yngre respondenter mye mer sannsynlig å lide av
+          kognitive og visuelle funksjonshemninger, mens eldre respondenter var mer
+          påvirket av hørsel- og mobilitetsproblemer.
     - key: user_info.years_of_experience.takeaway.js2024
       t: >
-          51 % av respondentene hadde 10 års erfaring eller mindre – noe som betyr at flertallet av de som svarte på undersøkelsen ikke har kjent til verden før moderne JavaScript-rammeverk.
-
+          51 % av respondentene hadde 10 års erfaring eller mindre – noe som betyr
+          at flertallet av de som svarte på undersøkelsen ikke har kjent til verden
+          før moderne JavaScript-rammeverk.
     - key: user_info.company_size.takeaway.js2024
       t: >
-          Større selskaper fortsetter å representere en betydelig andel av respondentene, mens selskapsstørrelse fortsatt er tett koblet med inntektsnivå.
-
+          Større selskaper fortsetter å representere en betydelig andel av
+          respondentene, mens selskapsstørrelse fortsatt er tett koblet med
+          inntektsnivå.
     - key: user_info.yearly_salary.takeaway.js2024
       t: >
-          Selv om vi ofte hører historier om seksifrede lønninger fra Silicon Valley, er virkeligheten at de fleste front-end utviklere rundt om i verden tjener langt mindre, noe som blir tydelig når man sammenligner USA med resten av verden.
-
+          Selv om vi ofte hører historier om seksifrede lønninger fra Silicon
+          Valley, er virkeligheten at de fleste front-end utviklere rundt om i
+          verden tjener langt mindre, noe som blir tydelig når man sammenligner USA
+          med resten av verden.
     - key: user_info.job_title.takeaway.js2024
       t: >
-          Det ser ut som JavaScript-økosystemet har like mange forskjellige jobbtitler som front-end rammeverk. Men én tydelig trend er at alt som har "ingeniør" i tittelen vil gi deg høyere lønn – til og med sammenlignet med CEO-er, CTO-er og grunnleggere. "Utviklere" derimot, er tydeligvis nederst på rangstigen, og de burde kanskje vurdere å trykke nye visittkort…
-
+          Det ser ut som JavaScript-økosystemet har like mange forskjellige
+          jobbtitler som front-end rammeverk. Men én tydelig trend er at alt som har
+          "ingeniør" i tittelen vil gi deg høyere lønn – til og med sammenlignet med
+          CEO-er, CTO-er og grunnleggere. "Utviklere" derimot, er tydeligvis nederst
+          på rangstigen, og de burde kanskje vurdere å trykke nye visittkort…
     - key: user_info.higher_education_degree.takeaway.js2024
       t: >
-          Selv om det å ha en grad vil sikre deg høyere lønn, viser det seg at det ikke nødvendigvis trenger å være relatert til programmering.
-
+          Selv om det å ha en grad vil sikre deg høyere lønn, viser det seg at det
+          ikke nødvendigvis trenger å være relatert til programmering.
     - key: user_info.gender.takeaway.js2024
       t: >
-          Til tross for [ekstra tiltak](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-c4g) i år, så vi bare en liten økning i andelen kvinner og ikke-binære respondenter sammenlignet med 2023, fra 5 % til 7 %.
-
+          Til tross for [ekstra
+          tiltak](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-c4g)
+          i år, så vi bare en liten økning i andelen kvinner og ikke-binære
+          respondenter sammenlignet med 2023, fra 5 % til 7 %.
     - key: user_info.race_ethnicity.takeaway.js2024
       t: >
-          Ikke-hvite respondenter var mer sannsynlig å være yngre og ha mindre erfaring – noe som forhåpentligvis peker på en pågående diversifisering av bransjen.
-
+          Ikke-hvite respondenter var mer sannsynlig å være yngre og ha mindre
+          erfaring – noe som forhåpentligvis peker på en pågående diversifisering av
+          bransjen.
     - key: user_info.disability_status.takeaway.js2024
       t: >
-          Enten de er permanente eller midlertidige, er funksjonsnedsettelser en del av hverdagen for mange av oss – spesielt ettersom vi blir eldre, når det gjelder hørsel- og mobilitetshemming.
+          Enten de er permanente eller midlertidige, er funksjonsnedsettelser en del
+          av hverdagen for mange av oss – spesielt ettersom vi blir eldre, når det
+          gjelder hørsel- og mobilitetshemming.
 
-          Og selv om noen funksjonsnedsettelser ikke påvirket respondentens evne til å tjene til livets opphold, ser det ut til at synshemninger spesielt er korrelert med lavere inntekt.
-
-    # features
-
+          Og selv om noen funksjonsnedsettelser ikke påvirket respondentens evne til
+          å tjene til livets opphold, ser det ut til at synshemninger spesielt er
+          korrelert med lavere inntekt.
     - key: features.language_pain_points.takeaway.js2024
       t: >
-          Når respondentene ble spurt om hva de slet mest med i JavaScript, nevnte de overveldende mangel på et innebygd typesystem – med problemer relatert til nettleserstøtte på en andreplass.
-
+          Når respondentene ble spurt om hva de slet mest med i JavaScript, nevnte
+          de overveldende mangel på et innebygd typesystem – med problemer relatert
+          til nettleserstøtte på en andreplass.
     - key: features.browser_apis_pain_points.takeaway.js2024
       t: >
-          Ikke overraskende, så er dårlig nettleserstøtte den største hindringen når det gjelder nettlesere og deres API-er. Safari ble også fremhevet som ekstra utfordrende, og det samme gjaldt den generelle mangelen på dokumentasjon om nettleserfunksjoner.
-
+          Ikke overraskende, så er dårlig nettleserstøtte den største hindringen når
+          det gjelder nettlesere og deres API-er. Safari ble også fremhevet som
+          ekstra utfordrende, og det samme gjaldt den generelle mangelen på
+          dokumentasjon om nettleserfunksjoner.
     - key: features.reading_list.takeaway.js2024
       t: >
-          Leselisten lar deg lagre elementer du ønsker å lære mer om etter at undersøkelsen er fullført.
+          Leselisten lar deg lagre elementer du ønsker å lære mer om etter at
+          undersøkelsen er fullført.
 
-          I år var det `error.cause`, Logical Assignment og `Object.groupBy()` som mest trigget respondentene sin nysgjerrighet.
-
-    # tools
-
+          I år var det `error.cause`, Logical Assignment og `Object.groupBy()` som
+          mest trigget respondentene sin nysgjerrighet.
     - key: tools.all_tools_experience.takeaway.js2024
       t: >
-          Webpack er det mest brukte JavaScript-verktøyet, men ikke det mest elskede. Den tittelen tilhører i stedet Vite, med 56 % positive meninger (merk at å være nøytral også var et alternativ i år). Forbløffende nok var Vite også det tredje mest brukte verktøyet totalt, til tross for at det har eksistert i relativt kort tid!
+          Webpack er det mest brukte JavaScript-verktøyet, men ikke det mest
+          elskede. Den tittelen tilhører i stedet Vite, med 56 % positive meninger
+          (merk at å være nøytral også var et alternativ i år). Forbløffende nok var
+          Vite også det tredje mest brukte verktøyet totalt, til tross for at det
+          har eksistert i relativt kort tid!
 
-          React, derimot, kom på andreplass både på listen over de mest brukte verktøyene og i rangeringen av de mest elskede, noe som viser en imponerende varighet for et prosjekt som er over 10 år gammelt! Det er også verdt å merke seg at React har den høyeste andelen brukere som aktivt velger et sentiment.
-
+          React, derimot, kom på andreplass både på listen over de mest brukte
+          verktøyene og i rangeringen av de mest elskede, noe som viser en
+          imponerende varighet for et prosjekt som er over 10 år gammelt! Det er
+          også verdt å merke seg at React har den høyeste andelen brukere som aktivt
+          velger et sentiment.
     - key: tools.tools_arrows.takeaway.js2024
       t: >
-          JavaScript-biblioteker viser ofte et "boomerang"-mønster over tid: de får et tidlig løft av positivitet (linjen går til høyre), bruken øker (linjen skyter opp), men etter hvert finner brukerne flere mangler og virkelige problemer, og meningene kan bli mer negative (linjen svinger til venstre).
+          JavaScript-biblioteker viser ofte et "boomerang"-mønster over tid: de får
+          et tidlig løft av positivitet (linjen går til høyre), bruken øker (linjen
+          skyter opp), men etter hvert finner brukerne flere mangler og virkelige
+          problemer, og meningene kan bli mer negative (linjen svinger til venstre).
 
-          Derfor er det alltid interessant å se prosjekter som klarer å bryte dette mønsteret, som Vue og Angular, som begge har klart å vinne tilbake positive meninger igjen etter noen år med mindre positive resultater.
-
+          Derfor er det alltid interessant å se prosjekter som klarer å bryte dette
+          mønsteret, som Vue og Angular, som begge har klart å vinne tilbake
+          positive meninger igjen etter noen år med mindre positive resultater.
     - key: tools.tier_list.takeaway.js2024
       t: >
-          Selv om det dessverre fortsatt ikke finnes en enkelt "S-tier"-stack, virker både SvelteKit og Astro som trygge valg for å starte et prosjekt – muligens sammen med Vitest for testing og pnpm for å administrere monorepoet ditt.
-
+          Selv om det dessverre fortsatt ikke finnes en enkelt "S-tier"-stack,
+          virker både SvelteKit og Astro som trygge valg for å starte et prosjekt –
+          muligens sammen med Vitest for testing og pnpm for å administrere
+          monorepoet ditt.
     - key: tools.scatterplot_overview.takeaway.js2024
       t: >
-          Det er bemerkelsesverdig at det bare var tre biblioteker som fanget over 50 % av respondentenes bruk, samtidig som de opprettholdt en >50 % beholdningsprosent: React, Jest og Vite – et tegn på et relativt fragmentert økosystem.
-
-    # front end frameworks
-
+          Det er bemerkelsesverdig at det bare var tre biblioteker som fanget over
+          50 % av respondentenes bruk, samtidig som de opprettholdt en >50 %
+          beholdningsprosent: React, Jest og Vite – et tegn på et relativt
+          fragmentert økosystem.
     - key: tools.front_end_frameworks_ratios.takeaway.js2024
       t: >
-          I fjor var den store nyheten at Vue overtok Angular i bruken blant våre respondenter. Til tross for Angulars fremgang i år, klarte Vue å beholde sin andreplass – og oppnådde en imponerende økning på tre plasser når det gjelder beholdningsprosent!
+          I fjor var den store nyheten at Vue overtok Angular i bruken blant våre
+          respondenter. Til tross for Angulars fremgang i år, klarte Vue å beholde
+          sin andreplass – og oppnådde en imponerende økning på tre plasser når det
+          gjelder beholdningsprosent!
 
-          Samtidig øker bruken av Svelte jevnt og trutt, og det fortsetter å toppe rangeringen når det gjelder generelt positive meninger.
-
+          Samtidig øker bruken av Svelte jevnt og trutt, og det fortsetter å toppe
+          rangeringen når det gjelder generelt positive meninger.
     - key: tools.front_end_frameworks_pain_points.takeaway.js2024
       t: >
-          Som den dominerende, må React bære byrden av å være mål for de fleste klager.
+          Som den dominerende, må React bære byrden av å være mål for de fleste
+          klager.
 
-          Overdreven kompleksitet, for mange valg, dårlig ytelse og bruddende endringer ble også ofte nevnt som store smertepunkter.
-
-    # meta frameworks
-
+          Overdreven kompleksitet, for mange valg, dårlig ytelse og bruddende
+          endringer ble også ofte nevnt som store smertepunkter.
     - key: tools.meta_frameworks_ratios.takeaway.js2024
       t: >
-          Next.js fortsetter å være langt foran konkurransen når det gjelder faktisk bruk. Men ser man på retensjon, forteller det en annen historie – om det ikke hadde vært for Gatsby, ville Next.js vært helt nederst.
+          Next.js fortsetter å være langt foran konkurransen når det gjelder faktisk
+          bruk. Men ser man på retensjon, forteller det en annen historie – om det
+          ikke hadde vært for Gatsby, ville Next.js vært helt nederst.
 
-          Dette peker på suksessen til Astro og SvelteKit spesielt, som så langt har klart å holde brukerne sine veldig fornøyde.
-
+          Dette peker på suksessen til Astro og SvelteKit spesielt, som så langt har
+          klart å holde brukerne sine veldig fornøyde.
     - key: tools.meta_frameworks_pain_points.takeaway.js2024
       t: >
-          Akkurat som React i sin egen kategori, får Next.js som leder også mest kritikk.
-
-    # testing
-
+          Akkurat som React i sin egen kategori, får Next.js som leder også mest
+          kritikk.
     - key: tools.testing_ratios.takeaway.js2024
       t: >
-          Det er sjeldent å se en trend så tydelig som Vitest sin oppstigning de siste årene. Selv om det "bare" er nummer fire når det gjelder bruk, topper det allerede rangeringen for interesse, retensjon og generell positivitet – og viser ingen tegn til å gi fra seg topp-plassen med det første.
-
+          Det er sjeldent å se en trend så tydelig som Vitest sin oppstigning de
+          siste årene. Selv om det "bare" er nummer fire når det gjelder bruk,
+          topper det allerede rangeringen for interesse, retensjon og generell
+          positivitet – og viser ingen tegn til å gi fra seg topp-plassen med det
+          første.
     - key: tools.testing_pain_points.takeaway.js2024
       t: >
-          Mocking er den største utfordringen når det gjelder testing, tett fulgt av besværet med komplekse oppsett og konfigurasjoner, og ikke minst langsomme tester som tar lang tid å kjøre.
-
-    # mobile desktop
-
+          Mocking er den største utfordringen når det gjelder testing, tett fulgt av
+          besværet med komplekse oppsett og konfigurasjoner, og ikke minst langsomme
+          tester som tar lang tid å kjøre.
     - key: tools.mobile_desktop_ratios.takeaway.js2024
       t: >
-          I løpet av det siste tiåret har det blitt langt mer vanlig å bygge mobil- og desktop-apper – men det betyr ikke nødvendigvis at utviklere er fornøyde med verktøyene sine.
+          I løpet av det siste tiåret har det blitt langt mer vanlig å bygge mobil-
+          og desktop-apper – men det betyr ikke nødvendigvis at utviklere er
+          fornøyde med verktøyene sine.
 
-          Mens Tauri og Expo skiller seg ut på toppen av retensjonsdiagrammet, har alt annet en lavere ratio sammenlignet med de gamle, tradisjonelle native-appene.
-
+          Mens Tauri og Expo skiller seg ut på toppen av retensjonsdiagrammet, har
+          alt annet en lavere ratio sammenlignet med de gamle, tradisjonelle
+          native-appene.
     - key: tools.mobile_desktop_pain_points.takeaway.js2024
       t: >
-          JavaScript-kodebaser sliter fortsatt med å konkurrere med rene native-apper når det gjelder ytelse. Og det ser ut som både Electron og React Native har sine utfordringer.
-
-    # build tools
-
+          JavaScript-kodebaser sliter fortsatt med å konkurrere med rene
+          native-apper når det gjelder ytelse. Og det ser ut som både Electron og
+          React Native har sine utfordringer.
     - key: tools.build_tools_ratios.takeaway.js2024
       t: >
-          Akkurat som sin slektning Vitest, vokser også Vite's markedsandeler raskt. Sørg også for å følge med på nye aktører som Rolldown og Rspack, som begge starter høyt på listene.
-
+          Akkurat som sin slektning Vitest, vokser også Vite's markedsandeler raskt.
+          Sørg også for å følge med på nye aktører som Rolldown og Rspack, som begge
+          starter høyt på listene.
     - key: tools.build_tools_pain_points.takeaway.js2024
       t: >
-          Overkompliserte konfigurasjoner har tradisjonelt vært et problem for byggeverktøy – men det er også ofte den samme kompleksiteten som gjør dem kraftige.
-
-    # build tools
-
+          Overkompliserte konfigurasjoner har tradisjonelt vært et problem for
+          byggeverktøy – men det er også ofte den samme kompleksiteten som gjør dem
+          kraftige.
     - key: tools.monorepo_tools_ratios.takeaway.js2024
       t: >
-          Monorepoer har ennå ikke blitt mainstream i webutviklingsøkosystemet – men for de som er modige nok til å utforske dette nye området, ser pnpm ut til å være den klare frontløperen.
-
+          Monorepoer har ennå ikke blitt mainstream i webutviklingsøkosystemet – men
+          for de som er modige nok til å utforske dette nye området, ser pnpm ut til
+          å være den klare frontløperen.
     - key: tools.monorepo_tools_ratios.takeaway.js2024
       t: >
-          Monorepoer er fortsatt for vanskelige å sette opp riktig. Og pakkehåndtering i seg selv er noe vi fortsatt ikke har fått helt på plass… men igjen, hvem har egentlig det?
-
-    # usage
-
+          Monorepoer er fortsatt for vanskelige å sette opp riktig. Og
+          pakkehåndtering i seg selv er noe vi fortsatt ikke har fått helt på plass…
+          men igjen, hvem har egentlig det?
     - key: usage.js_ts_balance.takeaway.js2024
       t: >
-          Vi er nå helt inne i TypeScript-æraen. 67 % av respondentene svarte at de skriver mer TypeScript enn JavaScript-kode – mens den største gruppen besto av folk som *bare* skriver TypeScript.
-
+          Vi er nå helt inne i TypeScript-æraen. 67 % av respondentene svarte at de
+          skriver mer TypeScript enn JavaScript-kode – mens den største gruppen
+          besto av folk som *bare* skriver TypeScript.
     - key: usage.compiled_code_balance.takeaway.js2024
       t: >
-          Det bør ikke komme som noen overraskelse at nesten all JavaScript-kode i 2024 går gjennom et bygge-trinn. Selv om bundlere og bygningsverktøy definitivt legger til kompleksitet i utviklingsprosessen vår, ser det ut til at de mest sannsynlig er her for å bli.
-
+          Det bør ikke komme som noen overraskelse at nesten all JavaScript-kode i
+          2024 går gjennom et bygge-trinn. Selv om bundlere og bygningsverktøy
+          definitivt legger til kompleksitet i utviklingsprosessen vår, ser det ut
+          til at de mest sannsynlig er her for å bli.
     - key: usage.ai_generated_code_balance.takeaway.js2024
       t: >
-          Til tross for all praten om AI-assistert koding, er det fortsatt mange av oss som bruker AI-verktøyene bare sparsomt. Faktisk er det hele 20 % som ikke bruker dem i det hele tatt for å produsere kode.
-
+          Til tross for all praten om AI-assistert koding, er det fortsatt mange av
+          oss som bruker AI-verktøyene bare sparsomt. Faktisk er det hele 20 % som
+          ikke bruker dem i det hele tatt for å produsere kode.
     - key: usage.usage_type.takeaway.js2024
       t: >
-          Det er alltid godt å vite i hvilken kontekst respondentene skriver JavaScript-kode, og langt de fleste bruker det som en del av deres daglige jobb.
-
+          Det er alltid godt å vite i hvilken kontekst respondentene skriver
+          JavaScript-kode, og langt de fleste bruker det som en del av deres daglige
+          jobb.
     - key: usage.what_do_you_use_js_for.takeaway.js2024
       t: >
-          Nesten alle respondentene oppga at de bruker JavaScript til frontend-utvikling, noe som gir mening gitt språkets opprinnelse.
-
+          Nesten alle respondentene oppga at de bruker JavaScript til
+          frontend-utvikling, noe som gir mening gitt språkets opprinnelse.
     - key: usage.industry_sector.takeaway.js2024
       t: >
-          Den største industrisektoren besto av utviklere som lager verktøy for andre utviklere, mens den best betalte sektoren viste seg å være reklame.
-
+          Den største industrisektoren besto av utviklere som lager verktøy for
+          andre utviklere, mens den best betalte sektoren viste seg å være reklame.
     - key: usage.js_app_patterns.takeaway.js2024
       t: >
-          Til tross for at moderne JavaScript meta-rammeverk nå støtter komplekse renderingstrategier, forble de vanligste applikasjonsmønstrene de mest tradisjonelle: single-page apps og server-side rendering.
-
+          Til tross for at moderne JavaScript meta-rammeverk nå støtter komplekse
+          renderingstrategier, forble de vanligste applikasjonsmønstrene de mest
+          tradisjonelle: single-page apps og server-side rendering.
     - key: usage.top_js_pain_points.takeaway.js2024
       t: >
-          Kodearkitektur er alltid en bekymring når en kodebase når en viss størrelse, så det gir mening at det toppet rangeringen over de største JavaScript-utfordringene, etterfulgt av tilstands- og avhengighetsstyring.
-
+          Kodearkitektur er alltid en bekymring når en kodebase når en viss
+          størrelse, så det gir mening at det toppet rangeringen over de største
+          JavaScript-utfordringene, etterfulgt av tilstands- og avhengighetsstyring.
     - key: usage.js_new_features.takeaway.js2024
       t: >
-          Det er for øyeblikket flere [TC39-forslag](https://github.com/tc39/proposals) som er på vei til å bli en realitet. Temporal og Decorators skilte seg ut i år som de som respondentene var mest entusiastiske for.
-
+          Det er for øyeblikket flere
+          [TC39-forslag](https://github.com/tc39/proposals) som er på vei til å bli
+          en realitet. Temporal og Decorators skilte seg ut i år som de som
+          respondentene var mest entusiastiske for.
     - key: usage.top_currently_missing_from_js.takeaway.js2024
       t: >
-          Mens mangelen på innebygd statisk typetesting har vært merkbart i utviklerfellesskapet i lang tid, er det interessant å se Signals komme inn på tredjeplass på denne listen, til tross for at det ikke er en del av de mest populære front-end-rammeverkene.
-
+          Mens mangelen på innebygd statisk typetesting har vært merkbart i
+          utviklerfellesskapet i lang tid, er det interessant å se Signals komme inn
+          på tredjeplass på denne listen, til tross for at det ikke er en del av de
+          mest populære front-end-rammeverkene.
     - key: usage.native_types_proposal.takeaway.js2024
       t: >
-          Det er tydelig at de som deltok i undersøkelsen ønsker seg innebygde typer, og at de håper å se dem implementert med en TypeScript-lignende syntaks.
+          Det er tydelig at de som deltok i undersøkelsen ønsker seg innebygde
+          typer, og at de håper å se dem implementert med en TypeScript-lignende
+          syntaks.
 
-          Dessverre skilte ikke formuleringen av årets spørsmål klart mellom typer runtime og TypeScript-lignende typer som annotasjoner, så det gjenstår å se hvilken av disse to veiene som vil vinne fellesskapets favoritt.
-
-    # resources
-
+          Dessverre skilte ikke formuleringen av årets spørsmål klart mellom typer
+          runtime og TypeScript-lignende typer som annotasjoner, så det gjenstår å
+          se hvilken av disse to veiene som vil vinne fellesskapets favoritt.
     - key: resources.courses.takeaway.js2024
       t: >
-          Udemy har gjort en utmerket jobb med å rekruttere populære instruktører som Brad Traversy og Colt Steele for å styrke sitt utvalg av JavaScript-kurs, og det samme har Frontend Masters (disclaimer: Frontend Masters finansierer denne undersøkelsen).
+          Udemy har gjort en utmerket jobb med å rekruttere populære instruktører
+          som Brad Traversy og Colt Steele for å styrke sitt utvalg av
+          JavaScript-kurs, og det samme har Frontend Masters (disclaimer: Frontend
+          Masters finansierer denne undersøkelsen).
 
-          Det er også verdt å nevne *You Don't Know JS*, en flott bok som er tilgjengelig gratis på nettet.
-
+          Det er også verdt å nevne *You Don't Know JS*, en flott bok som er
+          tilgjengelig gratis på nettet.
     - key: resources.newsletters.takeaway.js2024
       t: >
-          Nyhetsbrev er en flott måte å holde seg oppdatert på det stadig skiftende JavaScript-landskapet, og Cooperpress' JavaScript Weekly fortsetter å være ledende på området.
-
+          Nyhetsbrev er en flott måte å holde seg oppdatert på det stadig skiftende
+          JavaScript-landskapet, og Cooperpress' JavaScript Weekly fortsetter å være
+          ledende på området.
     - key: resources.podcasts.takeaway.js2024
       t: >
-          Mens Syntax beholder kronen et år til, kan en ny utfordring komme i form av videoskapere som The Primeagen og Midudev, som enkelt kan generere lydinnhold i tillegg til tradisjonelle videoer.
-
+          Mens Syntax beholder kronen et år til, kan en ny utfordring komme i form
+          av videoskapere som The Primeagen og Midudev, som enkelt kan generere
+          lydinnhold i tillegg til tradisjonelle videoer.
     - key: resources.video_creators.takeaway.js2024
       t: >
-          Fireship, Theo, og The Primeagen står øverst på rangeringen for videoskapere. Men det er verdt å fremheve hvor livlig det spanskspråklige økosystemet har blitt, med Midudev som et ledende navn, og som starter som nummer fire på den totale listen.
+          Fireship, Theo, og The Primeagen står øverst på rangeringen for
+          videoskapere. Men det er verdt å fremheve hvor livlig det spanskspråklige
+          økosystemet har blitt, med Midudev som et ledende navn, og som starter som
+          nummer fire på den totale listen.
 
-          Merk at den andre fanen viser de samme rangeringene, men manuelt filtrert for spanskspråklige skapere.
-
+          Merk at den andre fanen viser de samme rangeringene, men manuelt filtrert
+          for spanskspråklige skapere.
     - key: resources.people.takeaway.js2024
       t: >
-          Engelsk har lenge vært det dominerende språket i teknologibransjen, men i vårt hjørne av verden er det i det minste spansk som tar utfordringen, med Midudev og Fernando Herrera på toppen av rangeringen for mest innflytelsesrike utviklere innen ikke-videokanaler.
-
-    # metadata
-
+          Engelsk har lenge vært det dominerende språket i teknologibransjen, men i
+          vårt hjørne av verden er det i det minste spansk som tar utfordringen, med
+          Midudev og Fernando Herrera på toppen av rangeringen for mest
+          innflytelsesrike utviklere innen ikke-videokanaler.
     - key: user_metadata.source.takeaway.js2024
       t: >
-          Flertallet av respondentene kjente til undersøkelsen fra tidligere år. Det er også verdt å fremheve at [Angular](https://angular.dev/) og [Nuxt](https://nuxt.com/) sine hjemmesider hadde bannere som pekte brukerne deres til undersøkelsen; og at Bluesky kom inn på 5. plass, til tross for at dette var første gang det dukket opp som en trafikkilde for undersøkelsen.
+          Flertallet av respondentene kjente til undersøkelsen fra tidligere år. Det
+          er også verdt å fremheve at [Angular](https://angular.dev/) og
+          [Nuxt](https://nuxt.com/) sine hjemmesider hadde bannere som pekte
+          brukerne deres til undersøkelsen; og at Bluesky kom inn på 5. plass, til
+          tross for at dette var første gang det dukket opp som en trafikkilde for
+          undersøkelsen.
 
-          Vi gjorde også spesifikke innsatsforsøk ([full rapport her](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-c4g)) for å tiltrekke flere kvinnelige utviklere, men effekten var ikke helt som vi hadde håpet på.
-
+          Vi gjorde også spesifikke innsatsforsøk ([full rapport
+          her](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-c4g))
+          for å tiltrekke flere kvinnelige utviklere, men effekten var ikke helt som
+          vi hadde håpet på.
     - key: user_metadata.past_surveys.takeaway.js2024
       t: >
-          Denne diagrammet viser hvilke andre Devographics-undersøkelser årets respondenter har deltatt i tidligere.
+          Denne diagrammet viser hvilke andre Devographics-undersøkelser årets
+          respondenter har deltatt i tidligere.
 
-          Det faktum at en betydelig andel av årets respondenter også har deltatt i andre undersøkelser, peker på at webutvikling ikke er så fragmentert som man kanskje skulle tro – selv om du primært skriver JavaScript, er det fortsatt viktig å holde seg oppdatert på CSS og webplattformen!
 
-          Merk at vi kun kan generere dette datapunktet for respondenter som deltar i undersøkelsen mens de er innlogget. Gjestrespondenter vises som “No Answer”.
+          Det faktum at en betydelig andel av årets respondenter også har deltatt i
+          andre undersøkelser, peker på at webutvikling ikke er så fragmentert som
+          man kanskje skulle tro – selv om du primært skriver JavaScript, er det
+          fortsatt viktig å holde seg oppdatert på CSS og webplattformen!
 
+
+          Merk at vi kun kan generere dette datapunktet for respondenter som deltar
+          i undersøkelsen mens de er innlogget. Gjestrespondenter vises som “No
+          Answer”.
     - key: user_metadata.past_same_survey_count.takeaway.js2024
       t: >
-          Dette diagrammet viser hvor mange ganger respondentene i år har deltatt i en State of JS-undersøkelse tidligere.
+          Dette diagrammet viser hvor mange ganger respondentene i år har deltatt i
+          en State of JS-undersøkelse tidligere.
 
-          At den største gruppen består av nye respondenter, betyr at vi har klart å nå ut til en ny befolkning, noe som reduserer skjevhet som kan komme fra vår eksisterende målgruppe. Men det peker også på utfordringene med å få folk til å fylle ut en undersøkelse konsekvent år etter år.
 
-          Merk at vi kun kan generere dette datapunktet for respondenter som har tatt undersøkelsen mens de var innlogget. Gjestrespondenter vises som "No Answer".
+          At den største gruppen består av nye respondenter, betyr at vi har klart å
+          nå ut til en ny befolkning, noe som reduserer skjevhet som kan komme fra
+          vår eksisterende målgruppe. Men det peker også på utfordringene med å få
+          folk til å fylle ut en undersøkelse konsekvent år etter år.
+
+
+          Merk at vi kun kan generere dette datapunktet for respondenter som har
+          tatt undersøkelsen mens de var innlogget. Gjestrespondenter vises som "No
+          Answer".

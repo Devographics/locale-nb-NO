@@ -5,34 +5,29 @@ translations:
     ###########################################################################
 
     - key: general.results.description
-      t: The 2023 edition of the annual survey about the latest trends in the HTML ecosystem.
+      t: 2023-utgaven av den årlige undersøkelsen om de nyeste trendene i HTML-økosystemet.
 
     - key: introduction.html2023
       t: >
-          While JavaScript was taking over the web, and CSS was gaining new superpowers year over year, 
-          it could seem like HTML was content to stay dormant, happy to cede center stage to its younger siblings. 
-          After all once you've learned about `<div>`s and `<h>`s 1 through 6, what else is there to know?
+          Mens JavaScript tok over nettet, og CSS fikk nye superkrefter år etter år, 
+          kunne det virke som om HTML var fornøyd med å forbli i ro, glad for å gi scenen til sine yngre søsken. 
+          Tross alt, når du først har lært om `<div>`er og `<h>`er 1 til 6, hva er det mer å vite?
 
+          Ganske mye, viser det seg! Nok en gang engasjerte vi [Lea Verou](https://lea.verou.me/) for å bruke sin dyptgående
+          kunnskap om webplattformen og hjelpe oss med å lage en undersøkelse som til slutt strakte seg langt
+          utover ren HTML, og dekket tilgjengelighet, webkomponenter og mye mer.
 
-          Quite a lot, as it turns out! Once again we drafted [Lea Verou](https://lea.verou.me/) to put her in-depth
-          knowledge of the web platform to work, and help us craft a survey that ended up reaching far
-          beyond pure HTML to cover accessibility, web components, and much more.
+          Dette forklarer delvis hvorfor denne rapporten har tatt så lang tid å publisere – det var 
+          rett og slett *mye* nye data å prosessere! Forhåpentligvis finner du at resultatet var verdt ventetiden.
 
+          Utover dataene som er inkludert her, har vi også forbedret vår **diagramtilpasning**-funksjon for å la deg tilpasse 
+          hver datavisualisering til et enda større nivå. Hvis du finner noen interessante
+          innsikter i prosessen, vær sikker på å gi oss beskjed!
 
-          This partly explains why this report has taken so long to come out – there was 
-          just a *lot* of new data to process! Hopefully you'll find that the result was worth the wait.
+          Du kan lære mer om alt dette i [denne posten](https://dev.to/sachagreif/discover-the-state-of-html-2023-survey-results-n10), eller ved å se på en [rask YouTube-video](https://www.youtube.com/watch?v=G-rFwp2zUT4)
 
-
-          Beyond the data included here, we've also improved our **chart customization** feature to let you tailor 
-          each data visualization to an even greater degree. If you find any interesting
-          insights in the process, be sure to let us know!
-
-
-          You can learn more about all this in [this post](https://dev.to/sachagreif/discover-the-state-of-html-2023-survey-results-n10), or by watching a [quick YouTube video](https://www.youtube.com/watch?v=G-rFwp2zUT4)
-
-
-          With all this out of the day, welcome to the results for the first ever State of HTML survey. 
-          After this, I'm willing to bet you won't look at good old HTML quite the same way ever again!
+          Med alt dette ute av veien, velkommen til resultatene fra den aller første State of HTML-undersøkelsen. 
+          Etter dette er jeg villig til å vedde på at du aldri vil se på det gode gamle HTML på samme måte igjen!
 
     ###########################################################################
     # Tshirt
@@ -43,24 +38,24 @@ translations:
 
     - key: sections.tshirt.description
       t: |
-          ## Support the Survey With the State of HTML T-skjorte
+          ## Støtt undersøkelsen med State of HTML T-skjorte
 
-          Do you miss the the good old days of the mid-90s, when HTML was king and VHS tape covers featured futuristic, colorful artwork? 
+          Savner du de gode gamle dagene på midten av 90-tallet, da HTML var kongen og VHS-kassettene hadde futuristisk, fargerik kunst på omslaget? 
 
-          The bad news is that even with 2024's technology, you can't yet go back in time to relive those glory days. But what you *can* do is wear this awesome original retro T-skjorte, designed by none other than the talented Christopher Kirk-Nielsen.
+          Den dårlige nyheten er at selv med teknologien fra idag, kan du ikke gå tilbake i tid for å gjenoppleve de glorværdige dagene. Men det du *kan* gjøre, er å bruke denne fantastiske originale retro T-skjorten, designet av ingen ringere enn den talentfulle Christopher Kirk-Nielsen.
 
     - key: tshirt.about
       t: Om t-skjorten
 
     - key: tshirt.description
       t: |
-          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print fra vår parner, Cotton Bureau.
+          Vi bruker en høykvalitets og supermyk t-skjorte med en slim fit, med print fra vår partner, Cotton Bureau.
 
     - key: tshirt.getit
       t: Kjøp den
 
     - key: tshirt.price
-      t: USD $32 + shipping
+      t: USD $32 + frakt
 
     - key: tshirt.designer.heading
       t: Om designeren
@@ -78,24 +73,23 @@ translations:
 
     - key: sections.user_info.description.html2023
       t: |
-          Welcome to the State of HTML survey results. This first-ever edition reached **20,904** participants from all around the world.
+          Velkommen til State of HTML undersøkelsesresultatene. Denne aller første utgaven nådde **20 904** deltakere fra hele verden.
 
     - key: sections.features.description.html2023
       t: |
-          HTML features and other browser APIs
+          HTML-funksjoner og andre nettleser-API-er
 
     ###########################################################################
     # Other Content
     ###########################################################################
 
     - key: features.all_features
-      t: All Features
+      t: Alle funksjoner
     - key: features.all_features.description
       t: |
           Dette diagrammet oppsummerer alle spørsmål om forskjellige funksjoner fra undersøkelsen. Hovedstolpene representerer en respondents erfaring; og de er deretter videre delt opp etter den respondentens meninger. Du kan endre gruppering for å veksle mellom begge. 
 
-
-          Note that you can also find a more specific breakdown of the same data in each feature sub-section.
+          Merk at du også kan finne en mer spesifikk oppdeling av de samme dataene i hver funksjonsundersøkelsesseksjon.
 
     - key: features.forms_features
       t: Forms Experience & Sentiment
@@ -125,36 +119,33 @@ translations:
     - key: sponsors.frontendmasters.description
       t: Utvikle ferdighetene dine med dyptgående, moderne kurs innen front-end.
     - key: sponsors.google_chrome.description
-      t: Takk til Google Chrome teamet for støtten til vårt arbeid.
+      t: Takk til Google Chrome-teamet for støtten til vårt arbeid.
     - key: sponsors.tokyodev.description
-      t: Finn din drømmejobb som utvikler i Japan idag.
+      t: Finn din drømmejobb som utvikler i Japan i dag.
     - key: sponsors.renderatl.description
-      t: Tech-konferransen med fokus på alle-ting-web
+      t: Tech-konferansen med fokus på alle-ting-web
 
     ###########################################################################
     # Conclusion
     ###########################################################################
 
     - key: conclusion.html2023.lea_verou.bio
-      t: W3C Technical Architecture Group Member & MIT CSAIL Researcher
+      t: W3C Technical Architecture Group-medlem & MIT CSAIL-forsker
     - key: conclusion.html2023.lea_verou
       t: >
-          *Phew!* This survey has taken a monumental effort by dozens of people across six continents. Not only did it set a new record for the most responses in a “State of…” survey debut, its data collection UI pioneered innovations that gave us unparalleled insight into developer attitudes, and will ripple far beyond its scope. 
+          *Phew!* Denne undersøkelsen har vært en monumental innsats fra dusinvis av personer på seks kontinenter. Ikke bare satte den en ny rekord for flest svar i en "State of..." undersøkelsesdebut, men dens datainnsamlingsgrensesnitt banet vei for innovasjoner som ga oss uovertrufne innsikter i utvikleres holdninger, og vil ha ringvirkninger langt utover dens omfang. 
 
+          Noen hevder at det er bortkastet å forbedre HTML, men undersøkelsen viser tydelig det motsatte. **Utviklere ønsker flere interaktive HTML-elementer**: ikke bare var interaktive elementer som `<datalist>` eller Popover API blant de som fikk mest positiv respons på tvers av alle kategorier, men i tillegg var alle topp [manglende elementer](https://2023.stateofhtml.com/en-US/usage/#html_missing_elements) interaktive widgets.
 
-          Some argue that improving HTML is futile, but the survey resoundingly demonstrates the contrary. **Developers crave more interactive HTML elements**: not only were interactive elements like `<datalist>` or the Popover API among those accumulating the most positive sentiment across all categories, but in addition all top [missing elements](https://2023.stateofhtml.com/en-US/usage/#html_missing_elements) were interactive widgets. 
+          Men, **å gjøre enkle ting enkle** ved å tilby ferdige funksjoner er ikke lenger tilstrekkelig. **Å gjøre komplekse ting mulig** ved å støtte grundig tilpasning er en nødvendighet: utilstrekkelig tilpasningsevne, spesielt når det gjelder **stilsetting**, var uten tvil den største gjentatte utfordringen. 
 
+          Som et resultat var også formelementene de elementene som [oftest ble laget på nytt](https://2023.stateofhtml.com/en-US/usage/#html_functionality_features); et vinn-vinn-resultat som gjør at både utviklere og sluttbrukere lider. Heldigvis er det mange nye initiativer for å forbedre dette, så fremtiden ser lys ut.
 
-          However, **making simple things easy** by providing canned functionality is no longer sufficient. **Making complex things possible** by supporting thorough customization is a necessity: insufficient customizability, especially around **styling**, was by far the top recurring pain point. 
+          Et annet stort behov er utvidbarhet. Det er ikke skalerbart hvis kun standardiseringsorganer har privilegiet å utvide HTML; og dessuten kan ikke generiske elementer i det hele tatt adressere den enorme mangfoldigheten av behov. Dessverre virker **Web Components API-er** (og spesielt Shadow DOM), selv om de er mye brukt, å være utilstrekkelige når det gjelder å møte utvikleres behov og gi en smidig utvikleropplevelse, da de topper listene over dårligste opplevelse på tvers av undersøkelsen. Imidlertid gir den pågående aktiviteten på dette området (noe jeg har vært en del av) håp om at de, selv om det har vært en steinete vei, er på vei mot å nå sitt fulle potensial.
 
+          Som bringer meg til mitt siste poeng: det er viktig å huske at denne undersøkelsen bare er et øyeblikksbilde av utvikleres perspektiver og reflekterer tilstanden til webplattformen på det tidspunktet. Imidlertid er et hovedmål med disse undersøkelsene å
 
-          As a result, form elements were also the elements [most frequently recreated](https://2023.stateofhtml.com/en-US/usage/#html_functionality_features); a lose-lose outcome that makes both developers and end-users suffer. Thankfully, there are many new initiatives to improve this, so the future looks bright.
-
-
-          Another big need is extensibility. It does not scale if only standards bodies have the privilege to extend HTML; and besides, generic elements cannot possibly address the enormous diversity of needs. Unfortunately, **Web Components APIs** (and especially Shadow DOM), while widely used, appear to fall short in terms of meeting developer needs and providing a smooth developer experience, as they topped the charts of worst experiences across the survey. However, the ongoing activity in this area (some of which I have been part of) leaves me hopeful that while it has been a rocky path, they are on track to reach their full potential.
-
-
-          Which brings me to my final point: it is important to remember that this survey is only a snapshot of developer perspectives and reflects the state of the web platform at the time. However, a primary goal of these surveys is to improve the status quo by providing better visibility into developer needs. How many of today’s pain points will be addressed tomorrow as a result? Join us later this year for the survey’s second iteration and let’s find out!
+          forbedre status quo ved å gi bedre synlighet på utvikleres behov. Hvor mange av dagens smertepunkter vil bli adressert i morgen som et resultat? Bli med oss senere i år for undersøkelsens andre iterasjon, og la oss finne ut av det!
 
     ###########################################################################
     # About
@@ -162,34 +153,34 @@ translations:
 
     - key: about.content
       t: |
-          The 2023 State of HTML survey ran from September 19 to October 19 2023, and collected 20,904 responses. 
+          State of HTML 2023-undersøkelsen ble kjørt fra 19. september til 19. oktober 2023, og samlet 20 904 svar.
 
-          The survey design effort was lead by [Lea Verou](https://lea.verou.me/) thanks to a grant from Google. Lea also oversaw the prototyping, testing, and implementation of new UI data collection elements; contributed to data processing; and helped with data visualization. 
+          Undersøkelsesdesignet ble ledet av [Lea Verou](https://lea.verou.me/) takket være et tilskudd fra Google. Lea hadde også ansvar for prototyping, testing og implementering av nye UI-elementer for datainnsamling; bidro til databehandling; og hjalp til med datavisualisering.
 
-          The survey infrastructure is run by [Sacha Greif](https://sachagreif.com/) and [Eric Burel](https://www.lbke.fr/), with help from a team of open-source contributors and consultants. 
+          Undersøkelsesinfrastrukturen ble drevet av [Sacha Greif](https://sachagreif.com/) og [Eric Burel](https://www.lbke.fr/), med hjelp fra et team av open-source bidragsytere og konsulenter.
 
-          This year's logo and T-skjorte were designed by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+          Årets logo og T-skjorte ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
 
-          ### Survey Goals
+          ### Undersøkelsens mål
 
-          This survey was created to identify upcoming trends in the web development ecosystem in order to help developers make technological choices. 
+          Denne undersøkelsen ble laget for å identifisere kommende trender i webutviklingsøkosystemet for å hjelpe utviklere med å ta teknologiske valg.
 
-          As such, the survey is focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why the features or technologies that are currently most widespread are not always included. 
+          Undersøkelsen er derfor fokusert på å forutsi hva som kommer de neste årene, snarere enn å analysere hva som er populært nå, som er grunnen til at de funksjonene eller teknologiene som er mest utbredt i dag ikke nødvendigvis er inkludert.
 
-          It should also be taken as a **snapshot of a specific subset of developers**, and is not meant to speak for the entire ecosystem. 
+          Den bør også tas som et **øyeblikksbilde av et spesifikt utvalg av utviklere**, og er ikke ment å representere hele økosystemet.
 
-          The survey was openly accessible online and respondents were not filtered or selected in any way.
+          Undersøkelsen var åpent tilgjengelig på nettet og respondentene ble ikke filtrert eller selektert på noen måte.
 
-          ### Project Funding
+          ### Prosjektfinansiering
 
-          Funding from this project comes from a variety of sources:
+          Finansieringen til dette prosjektet kommer fra flere kilder:
 
-          - **T-skjorte sales**. 
+          - **T-skjorte-salg**.
 
-          - **Sponsored links**: the links to recommended resources at the bottom of each page are provided by our partner [Frontend Masters](https://frontendmasters.com/).
+          - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side er levert av vår partner [Frontend Masters](https://frontendmasters.com/).
 
-          - **Other Funding**: [Google](https://www.google.com/) and [TokyoDev](https://www.tokyodev.com/) also funded work on the survey.
+          - **Andre finansieringskilder**: [Google](https://www.google.com/) og [TokyoDev](https://www.tokyodev.com/) har også finansiert arbeidet med undersøkelsen.
 
-          ### Technical Overview
+          ### Teknisk oversikt
 
-          You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).
+          Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).
