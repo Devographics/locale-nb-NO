@@ -53,7 +53,7 @@ translations:
       t: Kjøp den
 
     - key: tshirt.price
-      t: USD $32 + shipping
+      t: USD $32 + frakt
 
     - key: tshirt.designer.heading
       t: Om designeren
