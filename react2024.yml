@@ -283,12 +283,6 @@ translations:
     # Notes
     ###########################################################################
 
-    locale: nb-NO
-translations:
-    ###########################################################################
-    # Gender & Source Notes
-    ###########################################################################
-
     - key: blocks.gender.note
       t: |
           Hvis du er interessert i å lære mer, [skrev vi et blogginnlegg](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) som tar for seg undersøkelsens kjønnsdynamikk.
@@ -459,7 +453,6 @@ translations:
     - key: sponsors.renderatl.description
       t: Den teknologiske konferansen som fokuserer på alt som har med web å gjøre.
 
-
     ###########################################################################
     # FAQ/About
     ###########################################################################
@@ -504,49 +497,48 @@ translations:
 
     - key: about.content
       t: |
-      Den 2024 State of React-undersøkelsen ble gjennomført fra 27. oktober til 15. november 2024, og samlet inn 13 003 svar. Resultatene ble publisert 20. juli 2024. Undersøkelsen ble kjørt av [Devographics](https://devographics.com/), et kollektiv bestående av meg ([Sacha Greif](https://sachagreif.com/)) og [Eric Burel](https://www.lbke.fr/), samt inviterte eksperter og open-source bidragsytere.
+          Den 2024 State of React-undersøkelsen ble gjennomført fra 27. oktober til 15. november 2024, og samlet inn 13 003 svar. Resultatene ble publisert 20. juli 2024. Undersøkelsen ble kjørt av [Devographics](https://devographics.com/), et kollektiv bestående av meg ([Sacha Greif](https://sachagreif.com/)) og [Eric Burel](https://www.lbke.fr/), samt inviterte eksperter og open-source bidragsytere.
 
-      State of React-logoen og t-skjorten ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+          State of React-logoen og t-skjorten ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
 
-      ### Undersøkelsens mål
+          ### Undersøkelsens mål
 
-      Denne undersøkelsen ble laget for å identifisere kommende trender i React-økosystemet for å hjelpe utviklere med å ta teknologiske valg.
+          Denne undersøkelsen ble laget for å identifisere kommende trender i React-økosystemet for å hjelpe utviklere med å ta teknologiske valg.
 
-      Som sådan er undersøkelsen fokusert på å forutse hva som kommer de neste årene, snarere enn å analysere hva som er populært nå. Derfor kan funksjoner eller teknologier noen ganger være utelatt, selv om de er utbredte i dag.
+          Som sådan er undersøkelsen fokusert på å forutse hva som kommer de neste årene, snarere enn å analysere hva som er populært nå. Derfor kan funksjoner eller teknologier noen ganger være utelatt, selv om de er utbredte i dag.
 
-      Det bør også sees på som et **øyeblikksbilde av en spesifikk delmengde av utviklere**, og er ikke ment å representere hele React-økosystemet.
+          Det bør også sees på som et **øyeblikksbilde av en spesifikk delmengde av utviklere**, og er ikke ment å representere hele React-økosystemet.
 
-      ### Undersøkelsens design
+          ### Undersøkelsens design
 
-      Undersøkelsen ble delvis designet basert på fjorårets undersøkelse, med en åpen tilbakemeldingsperiode hvor undersøkelsens disposisjon ble diskutert [på GitHub](https://github.com/Devographics/surveys/issues/85).
+          Undersøkelsen ble delvis designet basert på fjorårets undersøkelse, med en åpen tilbakemeldingsperiode hvor undersøkelsens disposisjon ble diskutert [på GitHub](https://github.com/Devographics/surveys/issues/85).
 
-      Alle undersøkelsens spørsmål var valgfrie.
+          Alle undersøkelsens spørsmål var valgfrie.
 
-      ### Undersøkelsens målgruppe
+          ### Undersøkelsens målgruppe
 
-      Undersøkelsen var åpent tilgjengelig online og deltakerne ble ikke filtrert eller valgt på noen måte. Deltakerne var hovedsakelig en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og trafikk fra sosiale medier.
+          Undersøkelsen var åpent tilgjengelig online og deltakerne ble ikke filtrert eller valgt på noen måte. Deltakerne var hovedsakelig en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og trafikk fra sosiale medier.
 
-      Merk at rammeverk, biblioteker osv. var frie til å oppfordre sitt publikum til å delta i undersøkelsen, og noen av dem benyttet seg av dette via bannere, tweets osv. En detaljert oversikt over trafikkilder er inkludert i "Kilder"-diagrammet.
+          Merk at rammeverk, biblioteker osv. var frie til å oppfordre sitt publikum til å delta i undersøkelsen, og noen av dem benyttet seg av dette via bannere, tweets osv. En detaljert oversikt over trafikkilder er inkludert i "Kilder"-diagrammet.
 
-      ### Prosjektfinansiering
+          ### Prosjektfinansiering
 
-      Finansiering for dette prosjektet kommer fra ulike kilder:
+          Finansiering for dette prosjektet kommer fra ulike kilder:
 
-      - **T-skjorte-salg**.
+          - **T-skjorte-salg**.
 
-      - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side leveres av vår partner [Frontend Masters](https://frontendmasters.com/).
+          - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side leveres av vår partner [Frontend Masters](https://frontendmasters.com/).
 
-      - **Direkte finansiering**: i år har [Google](https://www.google.com/) og [TokyoDev](https://www.tokyodev.com/) finansiert mitt arbeid med undersøkelsene.
+          - **Direkte finansiering**: i år har [Google](https://www.google.com/) og [TokyoDev](https://www.tokyodev.com/) finansiert mitt arbeid med undersøkelsene.
 
-      Enhver bidrag eller sponsing er veldig verdsatt. Vi ønsker spesielt å jobbe tett med flere nettleserleverandører, da de spiller en så sentral rolle i web-økosystemet.
+          Enhver bidrag eller sponsing er veldig verdsatt. Vi ønsker spesielt å jobbe tett med flere nettleserleverandører, da de spiller en så sentral rolle i web-økosystemet.
 
-      ### Teknisk oversikt
+          ### Teknisk oversikt
 
-      Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2024-edition-1p6a).
+          Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2024-edition-1p6a).
 
-      **Merk: Dette er *ikke* en offisiell React-undersøkelse, og undersøkelsesteamet er ikke tilknyttet Meta, Vercel eller React-teamet.**
+          **Merk: Dette er *ikke* en offisiell React-undersøkelse, og undersøkelsesteamet er ikke tilknyttet Meta, Vercel eller React-teamet.**
 
-      ### Spesielle takk
+          ### Spesielle takk
 
-      Spesielle takk for deres kontinuerlige støtte til Paul McMahon, Marc Grabanski og Justin E. Samuels.
-
+          Spesielle takk for deres kontinuerlige støtte til Paul McMahon, Marc Grabanski og Justin E. Samuels.
