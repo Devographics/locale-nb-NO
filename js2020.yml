@@ -209,7 +209,7 @@ translations:
       t: "Mitt valg for 2020: "
 
     - key: picks.intro
-      t: Vi spurte medlemmer av JavaScript-samfunnet om å dele sine “valg for året”
+      t: Vi spurte medlemmer av JavaScript-samfunnet om å dele sine "årets valg".
 
     - key: picks.joshwcomeau.bio
       t: Programvareutvikler som har blitt utdanner

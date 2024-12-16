@@ -43,34 +43,18 @@ translations:
           vil bli publisert noen uker senere.
     - key: introduction.js2024
       t: >
+          <span class="first-letter">L</span>et oss ta et øyeblikk og vurdere noe: De tre største front-end rammeverkene i 2024 ble alle lansert for over et tiår siden.
 
-          Let's take a second to consider
-          something: 2024's top three front end framework were all launched over a
-          decade ago. 
+          Nå, visst, alle tre har utviklet seg mye på veien, og mønstrene fra 2014 ville virke direkte utdaterte i dag. Men gitt JavaScript-økosystemets rykte som et konstant virvlende kaos av endringer, kan det være godt å vite at noen ting forblir konstante.
 
+          Snakker vi om konstanter, er Vite og Vitest fortsatt på topp på hver eneste liste og leder an for en nyere, enklere generasjon av verktøy.
 
-          Now sure, all three have evolved a lot along the way, and the patterns of
-          2014 would seem downright antiquated today. But given the JavaScript
-          ecosystems's reputation as a constantly-churning whirlwind of change, it
-          can be nice to know that some things do remain constant. 
+          Forresten – vi har lagt til et nytt **Metadata**-appendiks som gir mer informasjon om undersøkelsesdeltakere og selve undersøkelsen. Og ikke glem at du også kan bruke noen av disse nye variablene på andre diagrammer ved hjelp av **Query Builder**.
 
+          Med alt dette ute av veien, la oss oppdage hva JavaScript har drevet med i år!
 
-          Speaking of constants – reaching beyond the survey's existing audience
-          remains frustratingly hard despite renewed outreach efforts, and something
-          we'll definitely need to keep working on. 
+          <span class="conclusion__byline">– Sacha Greif</span>
 
-
-          In the meantime, we've also added a new **Metadata** appendix that will
-          tell you more about survey respondents and the survey itself. And don't
-          forget you can also apply any of these new variables to other charts using
-          the **Query Builder**. 
-
-
-          With all this out of the way, let's discover what JavaScript has been up
-          to this year!
-
-
-          – Sacha Greif
     - key: sections.tshirt.title
       t: T-skjorte
     - key: sections.tshirt.description
@@ -226,45 +210,18 @@ translations:
           fellesskapet, fleksibiliteten og kreativiteten som JavaScript gjør!
     - key: conclusion.js2024.fernando_herrera.bio
       t: Utvikler, lærer, and YouTuber
-    - key: conclusion.js2024.theo_browne
-      t: >
-          JavaScript beveger seg til serveren, og det gjør
-          oss litt urolige.
+    - key: conclusion.js2024.shaundai_person
+      t: |
+          <span class="first-line">Litt under fem år siden oppdaget jeg fordelene med å bruke TypeScript for første gang.</span>
 
+          Jeg var ikke alene på denne reisen; jeg var blant mange JavaScript-utviklere som akkurat hadde begynt å utforske TypeScript og fordelene det gir for team som ønsker å lage skalerbare og vedlikeholdbare front-end systemer. Det er utrolig å se hvor raskt TypeScript har vokst i popularitet! Jeg er begeistret over å se at flertallet av survey-respondentene nå bruker TypeScript i sitt daglige arbeid.
 
-          I fjorårets undersøkelse så vi raskt økende bruk av server-fokuserte
-          rammeverk som Next, Nuxt, Remix og SvelteKit. I år har vi sett en overgang
-          til server-først mønstre som Partial Hydration og Islands, som har doblet
-          i adopsjon.
+          I dag inneholder min foretrukne stack for både profesjonelt arbeid og personlige prosjekter React, TypeScript, Vite og Jest. Store og raskt voksende team har satset på disse verktøyene – som TypeScript og React – og ser etter ekspertise på disse områdene når de ansetter front-end utviklere. Så det er ikke overraskende at disse verktøyene er mye adoptert og beholdt av andre organisasjoner også.
 
+          Hvis du er som meg, foretrekker du å fokusere på å mestre noen få essensielle verktøy fremfor å kontinuerlig eksperimentere med nye rammeverk og biblioteker. Også, som meg, kan du til og med vente med å ta i bruk de nyeste versjonene av pålitelige front-end verktøy til de har nådd stabile utgivelser og eventuelle problemer er løst. Du er ikke alene, og det er store fordeler for oss som foretrekker den velprøvde veien.
 
-          Bibliotek- eh, rammeverk som htmx viser at det ikke bare er webutviklere
-          som drar nytte av å bruke serveren. SPAs (Single Page Applications) er
-          ikke på vei bort (ta en titt på [Inertia](https://inertiajs.com/) for
-          bevis), men etter hvert som disse nye mønstrene fortsetter å forbedres,
-          ser det ut til at markedet følger med.
-
-
-          Denne overgangen har ikke blitt elsket av alle. React har fortsatt å
-          vokse, men React-utviklere er i økende grad bekymret for hvilken retning
-          det går i. Å komme hit har vært … tøft, men det gjøres fremskritt hver
-          dag.
-
-
-          Vi ser også flere alternativer dukke opp utenfor React-økosystemet. Fra
-          [Nuxt](https://roe.dev/blog/nuxt-server-components) til
-          [SolidStart](https://docs.solidjs.com/solid-start/reference/server/use-server)
-          til
-          [Astro](https://astro.build/blog/astro-480/#experimental-astro-actions),
-          rulles de beste funksjonene fra React Server Components ut til alle
-          utviklere.
-
-
-          Og selvfølgelig fortsetter Vite å dominere, og det er det foretrukne
-          valget for både applikasjonsutviklere og rammeverksforfattere. Det er
-          vanskelig å forestille seg hvor vi hadde vært i dag uten det!
-    - key: conclusion.js2024.theo_browne.bio
-      t: Skaper av Ping, uploadthing, create-t3-app, og content creator
+    - key: conclusion.js2024.shaundai_person.bio
+      t: Utvikler, lærer, and YouTuber
     - key: picks.my_pick
       t: "Mine valg for 2024: "
     - key: picks.intro
@@ -532,7 +489,7 @@ translations:
     - key: user_info.gender.takeaway.js2024
       t: >
           Til tross for [ekstra
-          tiltak](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-c4g)
+          tiltak](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-n0e)
           i år, så vi bare en liten økning i andelen kvinner og ikke-binære
           respondenter sammenlignet med 2023, fra 5 % til 7 %.
     - key: user_info.race_ethnicity.takeaway.js2024
@@ -618,6 +575,16 @@ translations:
 
           Overdreven kompleksitet, for mange valg, dårlig ytelse og bruddende
           endringer ble også ofte nevnt som store smertepunkter.
+    - key: tools.front_end_frameworks_work.takeaway.js2024
+      t: >
+          Selv om det ikke er noen vesentlige inntektsforskjeller basert på hvilke frontend-rammeverk respondentene brukte på jobb, forteller selskapsstørrelse en annen historie.
+
+          Nye utfordrere som Alpine.js, Qwik og Solid blir foretrukket av små selskaper, mens Web Components-løsningene Lit og Stencil blir overveldende brukt av store selskaper.
+    - key: tools.meta_frameworks_work.takeaway.js2024
+      t: >
+          Gatsby kan være et av de minst elskede verktøyene, men det er også det mest lukrative – noe som mest sannsynlig skyldes at det hovedsakelig brukes i store selskaper.
+
+          På den andre siden av spekteret er Astro fortsatt i starten av sin reise mot bedriftsadopsjon, noe som igjen korrelerer med lavere inntekt.
     - key: tools.meta_frameworks_ratios.takeaway.js2024
       t: >
           Next.js fortsetter å være langt foran konkurransen når det gjelder faktisk
@@ -656,6 +623,10 @@ translations:
           JavaScript-kodebaser sliter fortsatt med å konkurrere med rene
           native-apper når det gjelder ytelse. Og det ser ut som både Electron og
           React Native har sine utfordringer.
+
+    - key: tools.mobile_desktop_work.takeaway.js2024
+      t: >
+          Som tidligere ser det ut til at nyere verktøy som Tauri primært brukes på arbeidsplassen av mindre erfarne utviklere, noe som viser at det noen ganger kan være en fordel å ikke ha all den bagasjen!
     - key: tools.build_tools_ratios.takeaway.js2024
       t: >
           Akkurat som sin slektning Vitest, vokser også Vite's markedsandeler raskt.
@@ -666,6 +637,9 @@ translations:
           Overkompliserte konfigurasjoner har tradisjonelt vært et problem for
           byggeverktøy – men det er også ofte den samme kompleksiteten som gjør dem
           kraftige.
+    - key: tools.build_tools_work.takeaway.js2024
+      t: >
+          Rspack har på en eller annen måte funnet en måte å bryte trenden på og hoppe rett inn i å bli adoptert av store selskaper, uten tvil et resultat av den svært smarte strategien for å bli en drop-in erstatning for webpack.
     - key: tools.monorepo_tools_ratios.takeaway.js2024
       t: >
           Monorepoer har ennå ikke blitt mainstream i webutviklingsøkosystemet – men
@@ -676,6 +650,9 @@ translations:
           Monorepoer er fortsatt for vanskelige å sette opp riktig. Og
           pakkehåndtering i seg selv er noe vi fortsatt ikke har fått helt på plass…
           men igjen, hvem har egentlig det?
+    - key: tools.monorepo_tools_work.takeaway.js2024
+      t: >
+          Det bør ikke komme som noen overraskelse at mange monorepo-verktøy brukes av store selskaper, siden selskapsstørrelse ofte korrelerer med størrelsen på kodebasen.
     - key: usage.js_ts_balance.takeaway.js2024
       t: >
           Vi er nå helt inne i TypeScript-æraen. 67 % av respondentene svarte at de
@@ -780,7 +757,7 @@ translations:
           undersøkelsen.
 
           Vi gjorde også spesifikke innsatsforsøk ([full rapport
-          her](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-c4g))
+          her](https://dev.to/sachagreif/state-of-js-2024-outreach-and-diversity-report-n0e))
           for å tiltrekke flere kvinnelige utviklere, men effekten var ikke helt som
           vi hadde håpet på.
     - key: user_metadata.past_surveys.takeaway.js2024

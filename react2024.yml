@@ -1,58 +1,55 @@
-locale: en-US
+locale: nb-NO
 translations:
     ###########################################################################
-    # General
+    # Generelt
     ###########################################################################
 
     - key: general.results.description
-      t: The 2024 edition of the annual survey about the latest trends in the React ecosystem.
+      t: 2024-utgaven av den årlige undersøkelsen om de siste trendene i React-økosystemet.
 
     ###########################################################################
-    # Introduction
+    # Introduksjon
     ###########################################################################
 
     - key: general.react2024.survey_intro
       t: |
-          Let's face it: neither you or I have the dedication, patience, and sheer force of will it would take to properly keep up with the React ecosystem, as new APIs, new libraries, and even new versions are introduced week after week. 
+          La oss være ærlige: verken du eller jeg har dedikasjon, tålmodighet og viljestyrke som skal til for å holde følge med React-økosystemet, der nye API-er, nye biblioteker og til og med nye versjoner introduseres uke etter uke.
 
-          Thankfully for all of our sakes, one individual has willingly taken on that burden: I'm talking about none other than [This Week in React](https://thisweekinreact.com/)'s Sebastien Lorber. 
+          Heldigvis har én person frivillig påtatt seg denne byrden: jeg snakker om ingen ringere enn Sebastien Lorber fra [This Week in React](https://thisweekinreact.com/).
 
-          Sebastien has lent us his knowledge to make sure this year's survey covers all bases. This means that by taking this survey not only will you help provide the community with valuable insights, but you will also get a chance to catch up with any developments you might've missed.
+          Sebastien har bidratt med sin kunnskap for å sikre at årets undersøkelse dekker alle områder. Det betyr at ved å ta denne undersøkelsen vil du ikke bare hjelpe fellesskapet med verdifulle innsikter, men også få sjansen til å ta igjen eventuelle utviklinger du har gått glipp av.
 
-          So once again, please join me for this year's State of React!
+          Så bli med meg igjen for årets State of React!
 
     - key: features.features_intro.react2024
       t: |
-          Welcome to the survey! This first part is all about sharing your experience with various React features:
+          Velkommen til undersøkelsen! Denne første delen handler om å dele din erfaring med forskjellige React-funksjoner:
 
+          - **Aldri hørt om det**: dette er første gang du ser dette – eller du har hørt om det, men har ingen anelse om hva det gjør.
 
-          - **Never heard of it**: it's your first time seeing this – or you've heard of it but have no idea what it does. 
+          - **Hørt om det**: du har lest eller lært om dette, men har ikke faktisk brukt det ennå.
 
-          - **Heard of it**: you've read or learned about this, but haven't actually used it yet. 
+          - **Brukt det**: du har brukt dette minst én gang, selv om det bare var for å eksperimentere.
 
-          - **Used it**: you've used this at least once, even if it was just to play around. 
-
-
-          By the way, if you want to tell us more about any of your choices, just click that little "comment" icon!
+          For øvrig, hvis du vil fortelle oss mer om noen av valgene dine, kan du bare klikke på den lille "kommentar"-ikonet!
 
     - key: tools.tools_intro.react2024
       t: |
-          This next part of the survey is all about the various libraries and frameworks that make up the React ecosystem.
+          Denne neste delen av undersøkelsen handler om de forskjellige bibliotekene og rammeverkene som utgjør React-økosystemet.
 
     - key: introduction.react2024
       t: |
+          <span class="first-letter">R</span>eact har eksistert i 11 år, noe som virker vanskelig å fatte når man ser på dagens tempo i webutvikling.
 
-          <span class="first-letter">R</span>eact has been around for 11 years, which seems hard to even grasp when you look at the current pace of web development. 
+          Grunnen til at vi fortsatt snakker om React i dag, er at det på en eller annen måte har klart å holde følge, og hele tiden utvikle seg for å møte utfordringene som brukerne har stilt det overfor.
 
-          The reason why we're still talking about React today is that it's somehow been able to keep up, always evolving to meet the challenges thrown at it by its users. 
+          Faktisk, ikke bare fornøyd med å holde følge, leder React også an i nye innovative mønstre som Server Components og den kommende Compileren.
 
-          In fact, not content with merely keeping up, React is even leading the way on new innovative patterns such as Server Components and the upcoming Compiler. 
+          Det skal nevnes at disse dataene ble samlet inn mellom **27. oktober** og **15. november 2024**, noe som betyr at React 19 – så vel som enhver annen utvikling som kan ha funnet sted etter denne perioden – ikke er dekket.
 
-          That being said, please note that this data was collected between **October 27** and **November 15, 2024**, which does mean that React 19 –as well as any other development that may have taken place after that time period– isn't covered. 
+          Likevel er det mye å utforske her, fra komponentbiblioteker til state management-teknikker og applikasjonsmønstre. La oss oppdage resultatene av den første State of React-fellesskapsundersøkelsen sammen!
 
-          Even so, there's still a lot to explore here, from component libraries, to state management techniques, to application patterns. So let's discover the results of the first ever State of React community survey together!
-
-          *This in an unofficial survey unaffiliated with Meta, Vercel, or the React team.*
+          *Dette er en uoffisiell undersøkelse som ikke er tilknyttet Meta, Vercel eller React-teamet.*
 
           <span class="conclusion__byline">– Sacha Greif</span>
 
@@ -61,50 +58,48 @@ translations:
     ###########################################################################
 
     - key: sections.tshirt.title
-      t: T-shirt
+      t: T-skjorte
 
     - key: sections.tshirt.description
       t: |
-          ## Support the Survey With the official State of React T-Shirt
+          ## Støtt Undersøkelsen med den offisielle State of React T-skjorten
 
-          Is it a library? A framework? An unknown element on the verge of mutating into a dangerous, unstable entity? Whatever your feelings about React, you will find them reflected in this design that echoes anime and science-fiction.
+          Er det et bibliotek? Et rammeverk? Et ukjent element på randen av å mutere til en farlig, ustabil enhet? Uansett dine følelser om React, vil du finne dem gjenspeilt i dette designet som ekkoer anime og science fiction.
 
     - key: tshirt.about
-      t: About the T-shirt
+      t: Om t-skjorten
 
     - key: tshirt.description
       t: |
-          We use a high-quality shirt printed by our partners at Cotton Bureau.
+          Vi bruker en høykvalitets t-skjorte trykket av våre partnere hos Cotton Bureau.
 
     - key: tshirt.getit
-      t: Get It
+      t: Kjøp den
 
     - key: tshirt.price
-      t: USD $32 + shipping
+      t: USD $32 + frakt
 
     - key: tshirt.designer.heading
-      t: About the Designer
+      t: Om designeren
 
     - key: tshirt.designer.name
       t: Christopher Kirk-Nielsen
 
     - key: tshirt.designer.bio
       t: |
-          Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+          Opprinnelig fra Frankrike, men nå bosatt i USA, er Chris ikke bare en fantastisk frontend-utvikler, men også en talentfull illustratør som spesialiserer seg på retrospektive visuelle uttrykk. Vi oppfordrer deg faktisk til å sjekke ut [hans andre t-skjortdesign](https://chriskirknielsen.com/designs)!
 
     ###########################################################################
-    # Content
+    # Brukerinfo
     ###########################################################################
-
-    # user_info
 
     - key: sections.user_info.description.react2024
       t: |
-          **13,003** respondents took part in the first ever State of React survey. A small sample of the overall community to be sure, but still large enough to provide us with valuable data!
+          **13 003** respondenter deltok i den første State of React-undersøkelsen. Et lite utvalg av hele fellesskapet, men likevel stort nok til å gi oss verdifull data!
 
     - key: user_info.country.takeaway
       t: |
-          The majority of respondents came from the **U.S.** and **Europe**.
+          Flertallet av respondentene kom fra **USA** og **Europa**.
 
     - key: user_info.locale.takeaway
       aliasFor: user_info.locale.description
@@ -116,143 +111,162 @@ translations:
 
     - key: sections.features.description.react2024
       t: |
-          We asked respondents about their thoughts on **28** distinct features, from omnipresent hooks such as `useState`, to more niche APIs like `useDeferredValue`. Be sure to try and sort by “sentiment”!
+          Vi spurte respondentene om deres tanker om **28** distinkte funksjoner, fra allestedsnærværende hooks som `useState`, til mer nisje API-er som `useDeferredValue`. Sørg for å prøve å sortere etter "sentiment"!
 
     - key: features.all_features
-      t: All Features
+      t: Alle funksjoner
 
     - key: features.all_features.takeaway
       t: |
-          This chart recaps all of the survey's feature questions. The main bars represent a respondent's experience; and they are then further subdivided according to that respondent's sentiment. You can change the grouping to alternate between both.
+          Dette diagrammet oppsummerer alle funksjonsspørsmålene i undersøkelsen. Hovedlinjene representerer en respondents erfaring; og de er deretter ytterligere delt opp etter respondentens sentiment. Du kan endre grupperingen for å veksle mellom begge.
 
     - key: features.reading_list.takeaway
       t: >
-          **30%** of respondents added at least one item to their reading list while taking the survey in order to learn more about them later. Here is a breakdown of their picks.
+          **30%** av respondentene la til minst ett element på leselisten sin mens de tok undersøkelsen for å lære mer om dem senere. Her er en oversikt over deres valg.
 
     - key: features.main_apis_items
-      t: Main APIs Experience & Sentiment
+      t: Hoved-API-ers Erfaring & Sentiment
     - key: features.main_apis_pain_points.takeaway
       t: >
-          Among the most common React APIs, `forwardRef` was by far the one generating the most pain for developers, with `memo` a close second. Thankfully the React team is in the process of rolling out better alternatives to both.
+          Blant de vanligste React API-ene var `forwardRef` definitivt den som skapte mest hodebry for utviklere, med `memo` like bak. Heldigvis arbeider React-teamet med å lansere bedre alternativer til begge.
 
     - key: features.hooks_items
-      t: Hooks Experience & Sentiment
+      t: Hooks Erfaring & Sentiment
     - key: features.hooks_pain_points.takeaway
       t: >
-          Unsurpringly, `useEffect` and `useCallback` were cited as the most problematice React hooks, in large part due to the management of dependency arrays.
+          Ikke overraskende ble `useEffect` og `useCallback` nevnt som de mest problematiske React-hookene, i stor grad på grunn av håndteringen av avhengighetsmatriser.
 
     - key: features.new_apis_items
-      t: New APIs Experience & Sentiment
+      t: Nye API-ers Erfaring & Sentiment
     - key: features.new_apis_pain_points.takeaway
       t: >
-          While React's ability to keep evolving and stay relevant over time is one of its best assets, it also comes at a cost and new APIs such as **Server Components** can definitely be tough to adopt.
+          Mens Reacts evne til kontinuerlig utvikling og relevans er ett av dets beste kjennetegn, kommer det også med en kostnad, og nye API-er som **Server Components** kan definitivt være vanskelige å adoptere.
 
-    # libraries
+    ###########################################################################
+    # Biblioteker
+    ###########################################################################
 
     - key: sections.libraries.description.react2024
       t: |
-          We reworked our charts to highlight not just developer experience, but *sentiment*. Be sure to explore these new grouping and sorting options to figure out which libraries get the most love… or the least!
+          Vi har omarbeidet diagrammene våre for å fremheve ikke bare utviklererfaringer, men *sentiment*. Sørg for å utforske disse nye grupperings- og sorteringsalternativene for å finne ut hvilke biblioteker som får mest kjærlighet... eller minst!
 
     - key: tools.all_tools_experience
-      t: Libraries Experience & Sentiment
+      t: Biblioteker Erfaring & Sentiment
     - key: tools.all_tools_experience.takeaway
       t: >
-          Among React libraries and frameworks, **Next.js** and **TanStack Query** lead the way in terms of overall positivity.
+          Blant React-biblioteker og -rammeverk leder **Next.js** og **TanStack Query** an når det gjelder total positivitet.
 
-          Note that some items such as `useState` and `fetch` were also included in order to provide a baseline, even though they're not libraries themselves.
+          Merk at noen elementer som `useState` og `fetch` også var inkludert for å gi et sammenligningsgrunnlag, selv om de ikke er biblioteker i seg selv.
 
     - key: tools.scatterplot_overview
-      t: Libraries Retention vs Usage
+      t: Biblioteker Retensjonsrate vs Bruk
     - key: tools.scatterplot_overview.takeaway
       t: >
-          Among libraries and frameworks, **Next.js** was the only item boasting both high retention and high usage. On the other hand, while even more respondents had used **Create React App**, a lot fewer were willing to keep using it going forward.
+          Blant biblioteker og rammeverk var **Next.js** det eneste elementet som kunne skilte med både høy retensjonsrate og høy bruk. På den andre siden, mens enda flere respondenter hadde brukt **Create React App**, var det langt færre som ville fortsette å bruke det fremover.
 
-    # component libraries
+    ###########################################################################
+    # Component Libraries
+    ###########################################################################
 
     - key: tools.component_libraries_experience
-      t: Component Libraries Experience & Sentiment
+      t: Erfaring og følelser med komponentbiblioteker
     - key: tools.component_libraries_experience.takeaway
       t: >
-          **React Aria** and **Radix** lead the rankings in terms of positivity, proving that the headless approach to component libraries has a lot going for it.
+          **React Aria** og **Radix** leder rangeringen når det gjelder positivitet, noe som beviser at den headless tilnærmingen til komponentbiblioteker har mye å gå på.
 
-    # state management
+    ###########################################################################
+    # State Management
+    ###########################################################################
 
     - key: tools.state_management_experience
-      t: State Management Experience & Sentiment
+      t: Erfaring og følelser med tilstandsadministrasjon
     - key: tools.state_management_experience.takeaway
       t: >
-          Beyond **useState**, the state management solution with the highest positivity ratio is **Zustand**. And while **Redux** still boasts a large userbase, it isn't quite as beloved.
+          Utover **useState**, er tilstandshåndteringsløsningen med høyest positivitetsratio **Zustand**. Og selv om **Redux** fortsatt har et stort brukergrunnlag, er det ikke helt like elsket.
 
-    # data loading
+    ###########################################################################
+    # Data Loading
+    ###########################################################################
 
     - key: tools.data_loading_experience
-      t: Data Loading Experience & Sentiment
+      t: Erfaring og følelser med datalasting
     - key: tools.data_loading_experience.takeaway
       t: >
-          **TanStack Query** has been making waves for a while now, and it turns out its reputation is reflected in the data since it's the data loading method respondents felt the most positive about, right after the native `fetch` API.
+          **TanStack Query** har gjort seg bemerket på en stund, og det viser seg at ryktene om det stemmer med dataene, ettersom det er den metoden for datalasting respondentene føler seg mest positive til, rett etter den native `fetch` API-en.
 
-    # back-end infrastructure
+    ###########################################################################
+    # Back-End Infrastructure
+    ###########################################################################
 
     - key: tools.meta_frameworks_experience
-      t: Meta-Frameworks Experience & Sentiment
+      t: Erfaring og følelser med meta-rammeverk
     - key: tools.meta_frameworks_experience.takeaway
       t: >
-          While you'll certainly have no trouble finding people complaining about **Next.js**, it still managed to top the positivity rankings for meta-frameworks, followed by **Remix** and **Astro**.
+          Selv om du absolutt vil finne folk som klager på **Next.js**, har det fortsatt klart å toppe rangeringen for positivitet for meta-rammeverk, etterfulgt av **Remix** og **Astro**.
 
-    #other_tools
+    ###########################################################################
+    # Other Tools
+    ###########################################################################
 
     - key: sections.other_tools.description.react2024
       t: |
-          React is known for focusing on UI rendering while being fairly agnostic about the other parts of your app, and that's reflected in the vibrant ecosystem that has emerged to fill these gaps!
+          React er kjent for å fokusere på UI-rendering, samtidig som den er ganske uavhengig av de andre delene av appen din, og det gjenspeiles i det levende økosystemet som har oppstått for å fylle disse gapene!
 
-    # usage
+    ###########################################################################
+    # Usage
+    ###########################################################################
 
     - key: sections.usage.description.react2024
       t: |
-          No matter what version you use, application pattern you adopt, or industry sector you belong to, there's no wrong way to use React!
+          Uansett hvilken versjon du bruker, hvilket applikasjonsmønster du velger, eller hvilken bransjesektor du tilhører, finnes det ingen feil måte å bruke React på!
 
     - key: usage.js_app_patterns.takeaway
       t: >
-          Despite the focus on static site generation, server-side rendering, and server components, it's interesting to note that the vast majority of React users still work on Single Page Applications.
+          Til tross for fokuset på statisk sidegenerering, server-side rendering og serverkomponenter, er det interessant å merke seg at det store flertallet av React-brukere fortsatt jobber med Single Page Applications.
 
     - key: usage.react_version.takeaway
       t: >
-          Note that the survey was conducted **before** the announcement or release of React 19.
+          Merk at undersøkelsen ble gjennomført **før** kunngjøringen eller utgivelsen av React 19.
 
-    # resources
+    ###########################################################################
+    # Resources
+    ###########################################################################
 
     - key: sections.resources.description.react2024
       t: |
-          One of the big reason for React's continued dominance is the sheer amount of documentation, blog posts, videos, and other resources it has accumulated over the years. Here's just a small sample!
+          En av de store grunnene til Reacts fortsatte dominans er det enorme antallet dokumentasjon, blogginnlegg, videoer og andre ressurser det har samlet over tid. Her er bare et lite utvalg!
 
     - key: resources.learning_methods.takeaway
       t: |
-          The React team has done a great job with the new React docs site, so it shouldn't be surprised that it has become the number one way people learn about the framework.
+          React-teamet har gjort en flott jobb med det nye React-dokumentasjonssiden, så det er ikke overraskende at den har blitt den viktigste måten folk lærer om rammeverket på.
 
     - key: resources.blogs_news_magazines.takeaway
       t: |
-          While this list is populated by many usual suspects, it's worth celebrating the presence of React-specific media such as **This Week in React** or **React Status**.
+          Selv om denne listen er fylt med mange kjente navn, er det verdt å feire tilstedeværelsen av React-spesifikke medier som **This Week in React** eller **React Status**.
 
     - key: resources.sites_courses.takeaway
       t: |
-          While **Stack Overflow** has gone through its own share of AI-related trouble recently, it still tops the rankings for now.
+          Selv om **Stack Overflow** har hatt sine egne AI-relaterte problemer nylig, topper det fortsatt rangeringen for nå.
 
     - key: resources.podcasts.takeaway
       t: |
-          **Syntax** continues to assert its dominance over the dev podcast landscape. Also interesting to note the lack of any active React-specific podcast in the top 10.
+          **Syntax** fortsetter å hevde sin dominans over utviklerpodcast-landskapet. Det er også interessant å merke seg fraværet av noen aktiv React-spesifikk podcast i topp 10.
 
     - key: resources.video_creators.takeaway
       t: |
-          While **Theo** and **Web Dev Simplified** both featured React content, it's interesting to note that despite not typically covering React, **The Primeagen** still comes in at #3.
+          Mens **Theo** og **Web Dev Simplified** begge hadde React-innhold, er det interessant å merke seg at til tross for at **The Primeagen** vanligvis ikke dekker React, kommer han likevel på 3. plass.
 
     - key: resources.people.takeaway
       t: |
-          When it comes to being an influential figure in the React community, it's no surprise that **Dan Abramov** tops the rankings – Although **Kent C. Dodds** and **Theo** both seem to be challenging for the crown.
+          Når det gjelder å være en innflytelsesrik skikkelse i React-fellesskapet, er det ikke overraskende at **Dan Abramov** topper rangeringen – selv om **Kent C. Dodds** og **Theo** begge ser ut til å utfordre tronen.
 
-    #awards
+    ###########################################################################
+    # Awards
+    ###########################################################################
+
     - key: sections.awards.description.react2024
       t: |
-          This year's awards were dominated by one very specific project… how quickly will you guess what it is?
+          Årets priser ble dominert av ett veldig spesifikt prosjekt… hvor raskt vil du gjette hva det er?
 
     ###########################################################################
     # Charts
@@ -269,46 +283,52 @@ translations:
     # Notes
     ###########################################################################
 
+    locale: nb-NO
+translations:
+    ###########################################################################
+    # Gender & Source Notes
+    ###########################################################################
+
     - key: blocks.gender.note
       t: |
-          If you're interested in learning more, we [wrote a blog post](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) that addresses the survey's gender dynamics.
+          Hvis du er interessert i å lære mer, [skrev vi et blogginnlegg](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) som tar for seg undersøkelsens kjønnsdynamikk.
 
     - key: blocks.source.note
       t: >
 
-          This chart aggregates a mix of referrers, URL parameters, and freeform answers. 
+          Denne grafen aggregerer en blanding av henvisninger, URL-parametere og fritekstsvar. 
 
-          - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+          - State of JS: [State of JS](https://stateofjs.com) e-postliste.
 
-          - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+          - State of CSS: State of CSS e-postliste; samsvarer også med `email`, `by email`, osv.
 
-          - Work: matches `work`, `colleagues`, `coworkers`, etc.
+          - Work: samsvarer med `work`, `colleagues`, `coworkers`, osv.
 
     ###########################################################################
     # Awards
     ###########################################################################
 
     - key: award.feature_adoption_delta_award.comment
-      t: With a **{value}** progression in 2022, **top-level await** has quickly become an integral part of JavaScript.
+      t: Med en **{value}** fremgang i 2022 har **top-level await** raskt blitt en integrert del av JavaScript.
 
     - key: award.tool_usage_delta_award.comment
       t: |
-          **Vite** continues to be the fastest-growing library out there, with a **{value}** year-over-year increase in usage!
+          **Vite** fortsetter å være det raskest voksende biblioteket, med en **{value}** økning i bruken fra år til år!
 
     - key: award.tool_satisfaction_award.comment
-      t: Vite once again takes the top spot, with **{value}** of developers willing to use it again!
+      t: Vite inntar igjen førsteplassen, med **{value}** av utviklerne som er villige til å bruke det igjen!
 
     - key: award.tool_interest_award.comment
-      t: Did you guess Vite? Close, but this year **Vitest** is the technology developers are most interested in with a **{value}** interest ratio.
+      t: Gjettet du Vite? Nesten, men i år er det **Vitest** som er teknologien utviklere er mest interessert i, med en **{value}** interesse-ratio.
 
     - key: award.most_write_ins_award.comment
-      t: With **{value}** mentions, **Bun** was the most mentioned technology overall in freeform questions.
+      t: Med **{value}** omtaler var **Bun** den mest nevnte teknologien totalt i fritekstsvarene.
 
     - key: award.most_commented_tool_award.comment
-      t: With **{value}** comments, React showed that it's once again the most-discussed library around.
+      t: Med **{value}** kommentarer viste React at det igjen er det mest diskuserte biblioteket.
 
     - key: award.most_loved_tool_award.comment
-      t: With **{value}** of all developers having a positive opinion of it, Vite concludes its sweep of these awards by being the most-loved technology around!
+      t: Med **{value}** av alle utviklere som har en positiv mening om det, avslutter Vite sin feiende seier i disse prisene ved å være den mest elskede teknologien!
 
     ###########################################################################
     # Conclusion
@@ -316,137 +336,129 @@ translations:
 
     - key: conclusion.react2024.josh_comeau
       t: |
+          <span class="first-line">For et år!</span>
 
-          <span class="first-line">What a year!</span>
+          Med introduksjonen av React Server Components, vil jeg si at dette har vært det største året for React siden 2018, da React Hooks ble introdusert.
 
-          With the introduction of React Server Components, I’d say this has been the biggest year for React since 2018, when React Hooks were first introduced.
+          På de 5 årene siden 2018 har Hooks fått overveldende adopsjon. Hele 99,5% av undersøkelsens respondenter har tatt i bruk `useState`, og mindre enn 2% er misfornøyde med det. Klassekomponenter eksisterer fortsatt, men de har blitt henvist til legacy-kodebaser og sporadiske feilgrensesnittkomponenter.
 
-          In the 5 years since 2018, Hooks have reached overwhelming adoption. A whopping 99.5% of survey respondents have adopted `useState`, and less than 2% are unhappy about it. Class components still exist, but they’ve been relegated to legacy codebases and the occasional error boundary component.
+          Jeg undrer meg, dog… Vil vi alle bruke Server Components 5 år etter at de ble utgitt, i 2028? Jeg er ikke så sikker. Server Components-paradigmet krever dyp integrasjon med bundleren og routeren. Det er ikke noe som de fleste utviklere kan begynne å ta i bruk gradvis i sine nåværende React-kodebaser.
 
-          I wonder, though… Will we all be using Server Components 5 years after their release, in 2028? I’m not so sure. The Server Components paradigm requires deep integration with the bundler and router. It’s not something that most developers can start incrementally adopting in their current React codebase.
+          React-utviklere liker å holde seg oppdaterte; 71% av undersøkelsens respondenter sa at de brukte React 18, den nyeste versjonen tilgjengelig da disse dataene ble samlet. Samtidig er det mest brukte React-miljøet fortsatt Create React App, til tross for at det er offisielt deprekert og ikke har hatt en utgivelse siden april 2022. Vi oppdaterer gjerne React når en ny versjon kommer ut, men vi er ikke klare til å bytte til et annet miljø; 37% av undersøkelsens respondenter har aldri engang brukt SSR (Server Side Rendering), selv om det har vært et alternativ i over et tiår!
 
-          React developers like to keep up-to-date; 71% of survey respondents said they were using React 18, the newest version available when this data was collected. At the same time, the most widely-used React environment is still Create React App, despite being officially deprecated and not having a release since April 2022. We’ll happily update React when a new version comes out, but we’re not about to switch to a different environment; 37% of survey respondents have never even used SSR (Server Side Rendering), even though it’s been an option for over a decade now!
+          Hvis jeg måtte gjette, vil jeg si at i 2028 vil det være to React-rammeverk i vid sirkulasjon med omtrent like stor bruk. Den “full-stack” versjonen, med Server Components og Server Actions, og den klient-baserte Single Page App-versjonen.
 
-          If I had to guess, I’d say that in 2028, there will be two Reacts in wide circulation with roughly equivalent usage. The “full-stack” version, with Server Components and Server Actions, and the client-only Single Page App version.
-
-          We live in interesting times! I’m excited to see how React and its ecosystem evolves over the coming years. ❤️
+          Vi lever i interessante tider! Jeg er spent på å se hvordan React og økosystemet utvikler seg i de kommende årene. ❤️
 
     - key: conclusion.react2024.josh_comeau.bio
-      t: Software engineer and educator. Creator of [The Joy of React](https://www.joyofreact.com/)
+      t: Programvareingeniør og pedagog. Skaper av [The Joy of React](https://www.joyofreact.com/)
 
     ###########################################################################
     # Picks
     ###########################################################################
 
     - key: picks.my_pick
-      t: "My 2024 Pick: "
+      t: "Min valg for 2024: "
     - key: picks.intro
-      t: We asked members of the React community to share their “pick of the year”
+      t: Vi spurte medlemmer av React-fellesskapet om å dele sitt "årets valg"
 
     # https://zustand-demo.pmnd.rs
     - key: picks.jack_herrington.name
       t: Zustand
     - key: picks.jack_herrington.bio
-      t: Principal Engineer and YouTuber
+      t: Principal Engineer og YouTuber
     - key: picks.jack_herrington.description
       t: |
-          Simple, elegant, extensible state management that "just works" (tm). Nowadays, you might not need state management, but if you do, Zustand is a great place to start.
+          Enkel, elegant, utvidbar tilstandshåndtering som "bare fungerer" (tm). I dag er det kanskje ikke alltid nødvendig med tilstandshåndtering, men hvis du trenger det, er Zustand et flott sted å begynne.
 
     # https://react.dev/reference/rsc/server-components
     - key: picks.alex_sidorenko.name
       t: React Server Components
     - key: picks.alex_sidorenko.bio
-      t: Making short videos about Next.js on Twitter
+      t: Lager korte videoer om Next.js på Twitter
     - key: picks.alex_sidorenko.description
       t: |
-          Eleven years ago, React reimagined web development by challenging established practices. Now, React is doing this again with RSC. 
+          For elleve år siden omdefinerte React webutvikling ved å utfordre etablerte praksiser. Nå gjør React dette igjen med RSC.
 
-          P.S. Shout out to the Next.js team for pushing this new vision forward.
+          P.S. Kudos til Next.js-teamet for å fremme denne nye visjonen.
 
     # https://youtube.com/watch?v=zqhE-CepH2g
     - key: picks.sam_selikoff.name
       t: |
-          "Mind the Gap" – Ryan Florence's talk at Big Sky Dev Con 2024
+          "Mind the Gap" – Ryan Florences foredrag på Big Sky Dev Con 2024
     - key: picks.sam_selikoff.bio
-      t: Videos for frontend developers on Build UI and YouTube, co-host of the Frontend First podcast
+      t: Lager videoer for frontend-utviklere på Build UI og YouTube, medvert for Frontend First podcast
     - key: picks.sam_selikoff.description
       t: |
-          Ryan masterfully shows how React's new "use server" and "use client" directives let us build rich features on both sides of the network, using the same unified paradigm. A must-watch for any React developer.
+          Ryan viser mesterlig hvordan Reacts nye "use server" og "use client"-direktiv lar oss bygge rike funksjoner på begge sider av nettverket, ved å bruke samme forente paradigm. Et must-see for enhver React-utvikler.
 
     # https://www.remotion.dev/
     - key: picks.sebastien_lorber.name
       t: Remotion
     - key: picks.sebastien_lorber.bio
-      t: Creator of [This Week in React](https://thisweekinreact.com/)
+      t: Skaper av [This Week in React](https://thisweekinreact.com/)
     - key: picks.sebastien_lorber.description
       t: |
-          The idea of creating programmatic videos in React continues to fascinate me. Remotion is a rather discreet project, which continues to grow slowly but steadily, successfully adopted by DevRels, educators, indie makers and larger companies (notably GitHub's Unwrapped video campaign).
+          Ideen om å lage programmatiske videoer i React fortsetter å fascinere meg. Remotion er et ganske diskret prosjekt, som fortsetter å vokse sakte, men jevnt, og har blitt vellykket adoptert av DevRels, pedagoger, indie-makere og større selskaper (spesielt GitHub sin Unwrapped-video kampanje).
 
     # https://buildui.com/posts/instant-search-params-with-react-server-components
     - key: picks.aurora_scharff.name
-      t: Instant Search Params with React Server Components
+      t: Instant Search Params med React Server Components
     - key: picks.aurora_scharff.bio
-      t: Web developer and consultant at Inmeta
+      t: Webutvikler og konsulent hos Inmeta
     - key: picks.aurora_scharff.description
       t: |
-          This blog post goes through a problem you would must likely encounter when building a proper app with the Next.js App Router: handling search params. It’s surprisingly hard to make interactions behave “perfectly”, and the post end with the solution: useOptimistic. It also teaches you about transitions with lots of sandbox demos.
+          Dette blogginnlegget tar for seg et problem du mest sannsynlig vil støte på når du bygger en skikkelig app med Next.js App Router: håndtering av søkeparametere. Det er overraskende vanskelig å få interaksjoner til å oppføre seg "perfekt", og innlegget avsluttes med løsningen: useOptimistic. Det lærer deg også om overganger med mange sandkasse-demoer.
 
     # https://mui.com/blog/introducing-pigment-css/
     - key: picks.josh_comeau.name
       t: Pigment CSS
     - key: picks.josh_comeau.bio
-      t: Software engineer and educator. Creator of [The Joy of React](https://www.joyofreact.com/)
+      t: Programvareingeniør og pedagog. Skaper av [The Joy of React](https://www.joyofreact.com/)
     - key: picks.josh_comeau.description
       t: |
-          The Material UI team is building a next-gen CSS-in-JS library that pulls the styled API into the React Server Components era. There’s no shortage of CSS-in-JS tools out there, but this one checks all of the boxes for me.
+          Material UI-teamet bygger et neste generasjons CSS-in-JS-bibliotek som tar den styled API-en inn i React Server Components-æraen. Det finnes mange CSS-in-JS-verktøy der ute, men dette sjekker alle boksene for meg.
 
     # https://www.propelauth.com/post/nextjs-challenges
     - key: picks.carl_vitullo.name
-      t: It’s not just you, Next.js is getting harder to use
+      t: Det er ikke bare deg, Next.js blir vanskeligere å bruke
     - key: picks.carl_vitullo.bio
-      t: Solopreneur currently hosting [This Month in React](https://podcasts.apple.com/us/podcast/this-month-in-react/id1661733526), and community lead at [Reactiflux](https://www.reactiflux.com/)
+      t: Solopreneur og vert for [This Month in React](https://podcasts.apple.com/us/podcast/this-month-in-react/id1661733526), samt community lead hos [Reactiflux](https://www.reactiflux.com/)
     - key: picks.carl_vitullo.description
       t: |
-          This was a great blog post! I think it captures the current zeitgeist in React, clearly articulates a frustration that's been simmering in the ecosystem through 2024.
+          Dette var et flott blogginnlegg! Jeg synes det fanger tidsånden i React, og artikulerer tydelig en frustrasjon som har ulmet i økosystemet gjennom 2024.
 
     # https://sonner.emilkowal.ski
     - key: picks.miguel_angel_duran.name
       t: Sonner
     - key: picks.miguel_angel_duran.bio
-      t: Twitch Coding Streamer & Content Creator
+      t: Twitch-koding streameren & innholdsskaper
     - key: picks.miguel_angel_duran.description
       t: |
-          Sonner is the best toast component for React. Beautiful by default, highly configurable, and with a simple API to use in any project. Wonderful work by Emil.
+          Sonner er den beste toast-komponenten for React. Vakker som standard, svært konfigurerbar, og med et enkelt API som kan brukes i ethvert prosjekt. Fantastisk arbeid av Emil.
 
     # https://docs.expo.dev/router/introduction/
     - key: picks.lydia_hallie.name
       t: Expo Router
     - key: picks.lydia_hallie.bio
-      t: Independent software engineer and technical content creator
+      t: Uavhengig programvareingeniør og teknisk innholdsskaper
     - key: picks.lydia_hallie.description
       t: |
-          Expo Router earns my pick for its incredible potential in both the web and native space. It's the first framework to leverage React's full power to operate across all platforms, making React a true platform-agnostic renderer. Its file-based architecture makes it simpler for web developers to adapt to native platforms, speeding up development, and reducing the time to ship across all devices.
-
-    #
-    # - key: picks.xxx.name
-    #   t:
-    # - key: picks.xxx.bio
-    #   t:
-    # - key: picks.xxx.description
-    #   t: |
+          Expo Router fortjener min stemme for sitt utrolige potensial både på web og native plattformer. Det er det første rammeverket som utnytter Reacts fulle kraft for å operere på tvers av alle plattformer, og gjør React til en virkelig plattform-agnostisk renderer. Dens filbaserte arkitektur gjør det enklere for webutviklere å tilpasse seg native plattformer, akselererer utviklingen, og reduserer tiden til lansering på alle enheter.
 
     ###########################################################################
     # Sponsors
     ###########################################################################
 
     - key: sponsors.frontendmasters.description
-      t: Advance your skills with in-depth, modern front-end engineering courses.
+      t: Ta ferdighetene dine til neste nivå med inngående, moderne front-end kurs.
     - key: sponsors.google_chrome.description
-      t: Thanks to the Google Chrome team for supporting our work.
+      t: Takk til Google Chrome-teamet for å støtte vårt arbeid.
     - key: sponsors.tokyodev.description
-      t: Find your dream developer job in Japan today.
+      t: Finn din drømmeutviklerjobb i Japan i dag.
     - key: sponsors.renderatl.description
-      t: The tech conference focused on all things web.
+      t: Den teknologiske konferansen som fokuserer på alt som har med web å gjøre.
+
 
     ###########################################################################
     # FAQ/About
@@ -455,85 +467,86 @@ translations:
     # React 2023
 
     - key: faq.data_used_react2024
-      t: How will this data be used?
+      t: Hvordan vil disse dataene bli brukt?
     - key: faq.data_used_react2024.description
       t: >
-          All data collected will be released openly for anybody to consult. Developers or companies may use it to prioritize focus areas and inform their roadmaps.
+          Alle innsamlede data vil bli offentliggjort for at alle skal kunne konsultere dem. Utviklere eller selskaper kan bruke dem for å prioritere fokusområder og informere sine veikart.
 
     - key: faq.survey_goals_react2024
-      t: What are the survey's goals?
+      t: Hva er undersøkelsens mål?
     - key: faq.survey_goals_react2024.description
       t: >
-          The survey's goals are to measure awareness and popularity of React APIs, as well as libraries in the React ecosystem.
+          Undersøkelsens mål er å måle bevissthet og popularitet av React-API-er, samt biblioteker i React-økosystemet.
 
     - key: faq.who_should_take_survey_react2024
-      t: Who should take this survey?
+      t: Hvem bør ta denne undersøkelsen?
     - key: faq.who_should_take_survey_react2024.description
       t: >
-          This is an open survey for anybody who uses React, whether regularly or occasionally, as part of their job, as a student, or just for fun!
+          Dette er en åpen undersøkelse for alle som bruker React, enten jevnlig eller av og til, som en del av sitt arbeid, som student, eller bare for moro skyld!
 
     - key: faq.how_long_will_survey_take_react2024
-      t: How long will answering the survey take?
+      t: Hvor lang tid vil det ta å svare på undersøkelsen?
     - key: faq.how_long_will_survey_take_react2024.description
       t: >
-          Depending on how many questions you answer (all questions are optional),
-          filling out the survey should take around 15-20 minutes.
+          Avhengig av hvor mange spørsmål du svarer på (alle spørsmål er valgfrie),
+          bør det ta rundt 15-20 minutter å fylle ut undersøkelsen.
 
     - key: faq.survey_design_react2024
-      t: How was this survey designed?
+      t: Hvordan ble denne undersøkelsen designet?
     - key: faq.survey_design_react2024.description
       t: >
-          The survey was designed with input from the community through an [open feedback thread](https://github.com/Devographics/surveys/issues/250).
+          Undersøkelsen ble designet med innspill fra fellesskapet gjennom en [åpen tilbakemeldings-tråd](https://github.com/Devographics/surveys/issues/250).
 
     - key: faq.results_released_react2024
-      t: When will the results be released?
+      t: Når vil resultatene bli publisert?
     - key: faq.results_released_react2024.description
-      t: The survey will run from October 19 to November 19, and the survey results will be released shortly after that.
+      t: Undersøkelsen ble gjennomført fra 19. oktober til 19. november, og resultatene vil bli publisert kort tid etter dette.
 
     - key: about.content
       t: |
-          The 2024 State of React survey ran from October 27 to November 15 2024, and collected 13,003 responses. The results were published on July 20, 2024. The survey is run by [Devographics](https://devographics.com/), a collective consisting of me ([Sacha Greif](https://sachagreif.com/)) and [Eric Burel](https://www.lbke.fr/), as well as invited experts and open-source contributors. 
+      Den 2024 State of React-undersøkelsen ble gjennomført fra 27. oktober til 15. november 2024, og samlet inn 13 003 svar. Resultatene ble publisert 20. juli 2024. Undersøkelsen ble kjørt av [Devographics](https://devographics.com/), et kollektiv bestående av meg ([Sacha Greif](https://sachagreif.com/)) og [Eric Burel](https://www.lbke.fr/), samt inviterte eksperter og open-source bidragsytere.
 
-          The State of React logo and t-shirt were designed by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+      State of React-logoen og t-skjorten ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
 
-          ### Survey Goals
+      ### Undersøkelsens mål
 
-          This survey was created to identify upcoming trends in the React ecosystem in order to help developers make technological choices. 
+      Denne undersøkelsen ble laget for å identifisere kommende trender i React-økosystemet for å hjelpe utviklere med å ta teknologiske valg.
 
-          As such, the survey is focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why features or technologies may sometimes be omitted even if they are currently widespread 
+      Som sådan er undersøkelsen fokusert på å forutse hva som kommer de neste årene, snarere enn å analysere hva som er populært nå. Derfor kan funksjoner eller teknologier noen ganger være utelatt, selv om de er utbredte i dag.
 
-          It should also be taken as a **snapshot of a specific subset of developers**, and is not meant to speak for the entire React ecosystem. 
+      Det bør også sees på som et **øyeblikksbilde av en spesifikk delmengde av utviklere**, og er ikke ment å representere hele React-økosystemet.
 
-          ### Survey Design
+      ### Undersøkelsens design
 
-          The survey was designed in part based on last year's survey, with an open feedback period where the survey outline was discussed [on GitHub](https://github.com/Devographics/surveys/issues/85). 
+      Undersøkelsen ble delvis designet basert på fjorårets undersøkelse, med en åpen tilbakemeldingsperiode hvor undersøkelsens disposisjon ble diskutert [på GitHub](https://github.com/Devographics/surveys/issues/85).
 
-          All survey questions were optional. 
+      Alle undersøkelsens spørsmål var valgfrie.
 
-          ### Survey Audience
+      ### Undersøkelsens målgruppe
 
-          The survey was openly accessible online and respondents were not filtered or selected in any way. Respondents were primarily a mix of respondents from past surveys (alerted through a dedicated mailing list) and social media traffic. 
+      Undersøkelsen var åpent tilgjengelig online og deltakerne ble ikke filtrert eller valgt på noen måte. Deltakerne var hovedsakelig en blanding av respondenter fra tidligere undersøkelser (varslet gjennom en dedikert e-postliste) og trafikk fra sosiale medier.
 
-          Note that frameworks, libraries, etc. were free to encourage their audience to participate in the survey and some of them did take advantage of this via banners, tweets, etc. A detailed breakdown of traffic sources is included in the "Sources" chart. 
+      Merk at rammeverk, biblioteker osv. var frie til å oppfordre sitt publikum til å delta i undersøkelsen, og noen av dem benyttet seg av dette via bannere, tweets osv. En detaljert oversikt over trafikkilder er inkludert i "Kilder"-diagrammet.
 
-          ### Project Funding
+      ### Prosjektfinansiering
 
-          Funding from this project comes from a variety of sources:
+      Finansiering for dette prosjektet kommer fra ulike kilder:
 
-          - **T-shirt sales**. 
+      - **T-skjorte-salg**.
 
-          - **Sponsored links**: the links to recommended resources at the bottom of each page are provided by our partner [Frontend Masters](https://frontendmasters.com/).
+      - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side leveres av vår partner [Frontend Masters](https://frontendmasters.com/).
 
-          - **Direct Funding**: this year, [Google](https://www.google.com/) and [TokyoDev](https://www.tokyodev.com/) funded my work on the surveys. 
+      - **Direkte finansiering**: i år har [Google](https://www.google.com/) og [TokyoDev](https://www.tokyodev.com/) finansiert mitt arbeid med undersøkelsene.
 
-          Any contribution or sponsorship is greatly appreciated. we would especially like to work closely with more browser vendors, since they play such a central role in the web ecosystem.  
+      Enhver bidrag eller sponsing er veldig verdsatt. Vi ønsker spesielt å jobbe tett med flere nettleserleverandører, da de spiller en så sentral rolle i web-økosystemet.
 
-          ### Technical Overview
+      ### Teknisk oversikt
 
-          You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2024-edition-1p6a).
+      Du kan finne en mer detaljert teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2024-edition-1p6a).
 
-          **Note: This is *not* an official React survey, and the survey team is not affiliated with Meta, Vercel, or the React team.**
+      **Merk: Dette er *ikke* en offisiell React-undersøkelse, og undersøkelsesteamet er ikke tilknyttet Meta, Vercel eller React-teamet.**
 
-          ### Special Thanks
+      ### Spesielle takk
 
-          Special thanks for their ongoing support to Paul McMahon, Marc Grabanski, and Justin E. Samuels.
+      Spesielle takk for deres kontinuerlige støtte til Paul McMahon, Marc Grabanski og Justin E. Samuels.
+
