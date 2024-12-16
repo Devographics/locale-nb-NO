@@ -876,11 +876,11 @@ translations:
       t: Andre svar (fritekstfelt).
 
     - key: tools.runtimes
-      t: JavaScript-kjøretidsmiljøer
+      t: JavaScript runtimes
     - key: tools.runtimes.question
-      t: Hvilke motorer/kjøretidsmiljøer/eksekveringsmiljøer bruker du regelmessig?
+      t: Hvilke motorer/runtimes/miljøer bruker du regelmessig?
     - key: tools.runtimes.others
-      t: Andre kjøretidsmiljøer
+      t: Andre runtimes
     - key: tools.runtimes.others.description
       t: Andre svar (fritekstfelt).
 
@@ -1102,11 +1102,11 @@ translations:
       t: Hvordan fordeler du tiden din mellom å skrive JavaScript- og TypeScript-kode?
 
     - key: tools.edge_runtimes
-      t: JavaScript Edge/Serverløse Kjøretidsmiljøer
+      t: JavaScript Edge/Serverløse runtimes
     - key: tools.edge_runtimes.question
-      t: Hvilke edge- eller serverløse kjøretidsmiljøer bruker du regelmessig?
+      t: Hvilke edge- eller serverløse runtimes bruker du regelmessig?
     - key: tools.edge_runtimes.others
-      t: Andre edge-kjøretidsmiljøer
+      t: Andre edge-runtimes
     - key: other_tools.edge_runtimes
       aliasFor: tools.edge_runtimes
     - key: other_tools.edge_runtimes.description
