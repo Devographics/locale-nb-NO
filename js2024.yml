@@ -43,15 +43,15 @@ translations:
           vil bli publisert noen uker senere.
     - key: introduction.js2024
       t: >
-          <span class="first-letter">L</span>et oss ta et øyeblikk og vurdere noe: De tre største front-end rammeverkene i 2024 ble alle lansert for over et tiår siden.
+          <span class="first-letter">L</span>et oss ta et øyeblikk og tenke over noe: De tre største front-end rammeverkene i 2024 ble alle lansert for over 10 år siden.
 
-          Nå, visst, alle tre har utviklet seg mye på veien, og mønstrene fra 2014 ville virke direkte utdaterte i dag. Men gitt JavaScript-økosystemets rykte som et konstant virvlende kaos av endringer, kan det være godt å vite at noen ting forblir konstante.
+          Alle tre har vel og merke utviklet seg mye på veien, og løsningene fra 2014 ville virke utdaterte og gammeldags i dag. Men gitt JavaScript-økosystemets rykte som et konstant bavegelig kaos av endringer, kan det være godt å vite at noen ting forblir.
 
-          Snakker vi om konstanter, er Vite og Vitest fortsatt på topp på hver eneste liste og leder an for en nyere, enklere generasjon av verktøy.
+          Snakker vi om ting som forblir, er Vite og Vitest fortsatt på topp på hver eneste liste, og leder an for en ny, enklere generasjon av verktøy.
 
-          Forresten – vi har lagt til et nytt **Metadata**-appendiks som gir mer informasjon om undersøkelsesdeltakere og selve undersøkelsen. Og ikke glem at du også kan bruke noen av disse nye variablene på andre diagrammer ved hjelp av **Query Builder**.
+          Og forresten – vi har lagt til et nytt tillegg for **Metadata** som gir mer informasjon om respondenter og selve undersøkelsen. Og ikke glem at du også kan bruke noen av disse nye variablene på andre diagrammer ved hjelp av **Query Builder**.
 
-          Med alt dette ute av veien, la oss oppdage hva JavaScript har drevet med i år!
+          Når det er sagt, la oss utforske hva JavaScript har drevet med i 2024!
 
           <span class="conclusion__byline">– Sacha Greif</span>
 
