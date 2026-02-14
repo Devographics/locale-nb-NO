@@ -1,0 +1,652 @@
+locale: nb-NO
+translations:
+    ###########################################################################
+    # General
+    ###########################################################################
+
+    - key: finish.share_message.js2025
+      t: State of JS 2025-undersøkelsen er nå åpen! {link}
+
+    - key: general.results.description
+      t: 2025-utgaven av den årlige undersøkelsen om de nyeste trendene i JavaScript-økosystemet.
+
+    ###########################################################################
+    # Survey Intro
+    ###########################################################################
+
+    - key: general.js2025.survey_intro
+      t: >
+          JavaScript - går det bra? Du har knapt produsert noen nye front-end-rammeverk i år.
+
+
+          Etter et tiår med rask iterasjon virker det klart at økosystemet har stabilisert seg de siste årene. Visste du for eksempel at “nykommeren” Svelte er *9 år gammel*? Det er, i JavaScript-rammeverksår, urgammelt!
+
+
+          I stedet har hovedkampen flyttet seg til meta-rammeverk, der Astro gjør et seriøst forsøk på å ta kronen fra Next.js – mens det på byggverktøysiden virker som et spørsmål om tid før Vite tar igjen webpack. 
+
+
+          Eller kanskje dukker det opp noe helt nytt fra Rust-økosystemet og plutselig tar over, og setter en for tidlig slutt på vår velfortjente tidsalder med fred og ro.  
+
+
+          Uansett hva som skjer, er en ting sikkert: du kan hjelpe oss å finne ut av det ved å ta årets State of JavaScript-undersøkelse!
+
+    - key: introduction.js2025
+      t: >
+          Da den etterlengtede Nintendo Switch 2 nylig kom ut, var det åtte år siden den originale Switch.
+
+
+          Kan du forestille deg hvordan det må ha vært for de stakkars spillutviklerne? Åtte lange år med utvikling for den samme plattformen, uten nye API-er, uten nye funksjoner, uten nye feil, uten nye versjoner som bryter bygget ditt… De stakkars sjelene!
+
+
+          Heldigvis er det noe *vi* aldri trenger å bekymre oss for, siden JavaScript-gudene fortsetter å passe på at hvert nytt år bringer sin andel av probl… jeg mener, *innovasjoner*!
+
+
+          Så bli med meg nok en gang for å gå gjennom disse undersøkelsesresultatene og se tilbake på hva 2025 hadde å by på for oss alle.
+
+
+          <span class="conclusion__byline">– Sacha Greif</span>
+
+    ###########################################################################
+    # Survey FAQ
+    ###########################################################################
+
+    - key: faq.how_long_will_survey_take_js2025
+      t: Hvor lang tid tar det å svare på undersøkelsen?
+    - key: faq.how_long_will_survey_take_js2025.description
+      t: >
+          Avhengig av hvor mange spørsmål du svarer på (alle spørsmål kan hoppes over),
+          bør det ta rundt 15-20 minutter å fylle ut undersøkelsen.
+
+    - key: faq.survey_design_js2025
+      t: Hvordan ble denne undersøkelsen utformet?
+    - key: faq.survey_design_js2025.description
+      t: >
+          Denne undersøkelsen ble utformet som resultatet av en [åpen designprosess](https://github.com/Devographics/surveys/issues/307) som involverte browser-leverandører og webutviklermiljøet.
+
+    - key: faq.results_released_js2025
+      t: Når blir resultatene publisert?
+    - key: faq.results_released_js2025.description
+      t: Undersøkelsen er åpen fra 1. oktober til 1. november 2025, og resultatene publiseres kort tid etter.
+
+    ###########################################################################
+    # Overview
+    ###########################################################################
+
+    - key: overview_1_frontend_fatigue.js2025
+      t: |
+          Front-end-rammeverk
+
+    - key: overview_2_whats_next.js2025
+      t: |
+          Meta-rammeverk
+
+    - key: overview_3_back_in_business.js2025
+      t: |
+          Back-end-rammeverk
+
+    - key: overview_4_build_it.js2025
+      t: |
+          Byggverktøy
+
+    - key: overview_5_static_typing.js2025
+      t: |
+          Statisk typing
+
+    - key: overview_6_other_languages.js2025
+      t: |
+          Andre språk
+
+    - key: overview_7_conclusion.js2025
+      t: |
+          ### Nå åpen
+          ## State of React 2025
+
+    ###########################################################################
+    # Takeaways
+    ###########################################################################
+
+    - key: features.js_new_features.takeaway.js2025
+      t: >
+          Selv om **Temporal** fortsatt topper rangeringen, er entusiasmen lavere enn i fjor, noe som gir mening siden det har begynt å gå fra teoretisk forslag til faktisk implementering i Firefox.
+
+    - key: features.top_currently_missing_from_js.takeaway.js2025
+      t: >
+          Ingen endring i rangeringen blant topp 5, men det er merkbart at interessen for **Signals** har falt litt sammenlignet med i fjor.
+
+    - key: features.native_types_proposal.takeaway.js2025
+      t: >
+          Selv om 32% av respondentene håper på **runtime-typer** i nettleseren for JavaScript, virker det mye mer sannsynlig at offisiell support for typer vil komme via **TypeScript-lignende typeanmerkninger**, som kom på førsteplass.
+
+    - key: features.js_pace_of_change.takeaway.js2025
+      t: >
+          Målet med dette spørsmålet var å få en grov idé om hvor godt respondentene holder tritt med nye funksjoner, og det viser at de fleste av oss sliter med å lære om – og langt mindre ta i bruk – nye språkfunksjoner. Forhåpentligvis kan disse undersøkelsesresultatene hjelpe!
+
+    - key: features.reading_list.takeaway.js2025
+      t: >
+          **Reading List** lar respondenter lære mer om spesifikke temaer etter undersøkelsen, og i år justerte vi den til å støtte automatisk tillegg basert på svar, i tillegg til manuelle valg.
+
+          Denne endringen ga en liste langt mer fokusert på bibliotek sammenlignet med tidligere år, som inkluderte flere funksjoner.
+
+    - key: libraries.all_tools_experience.takeaway.js2025
+      t: >
+          **Vite** har vært det mest elskede biblioteket i flere år, men har nå passert **React** og blitt det nest mest brukte verktøyet, og ser ut til å kunne ta topplasseringen neste år. 
+
+
+          Samtidig er **Next.js** det 13. mest elskede prosjektet, men også det 5. mest mislikte, og det skapte flest kommentarer totalt – noe som viser hvor polariserende rammeverket kan være.
+
+    - key: libraries.tools_arrows.takeaway.js2025
+      t: >
+          JavaScript-biblioteker viser ofte et "boomerang"-monster over tid: drevet av tidlig positivitet (linjen går mot høyre), bruk øker (linjen skyter opp), men brukere blir så konfrontert med flere randtilfeller og utfordringer i praksis, og meningene kan bli mer negative (linjen svinger mot venstre).
+
+
+          Det betyr at ethvert prosjekt som flytter seg mot høyre (som **Vue.js**) eller bare holder seg loddrett (som **Astro**) er verdt å følge med på!
+
+    - key: libraries.tier_list.takeaway.js2025
+      t: >
+          Med en tilfredshetsrate over 90% gjør **Hono** og **Bun** en velfortjent entre i S-nivået i år.
+
+    - key: libraries.tools_ratios_over_time.takeaway.js2025
+      t: >
+          Prisen for største relative økning i bruk går til **Vitest** og **Playwright**, som begge økte med **14** prosentpoeng fra i fjor. 
+
+
+          Samtidig så **Rolldown** en enorm økning i navnegjenkjenning, fra **33%%* til **51%** bevissthet [[CHECK: 33%%*]]. Og ser vi på tilfredshet, fikk **Next.js** den største nedgangen, fra **68%** til **55%**.
+
+
+          Til slutt er det interessant å se at bade **Preact** og **React** scorer langt bedre blant respondenter som faktisk har brukt dem enn blant dem som bare har hørt om bibliotekene (som vist i Appreciation-fanen).
+
+    - key: libraries.scatterplot_overview.takeaway.js2025
+      t: >
+          Med årets inkludering av back-end-rammeverk har **Express** sluttet seg til **Vite**, **React** og **Jest** i den ettertraktede kvadranten oppe til høyre. Men **Vue.js**, **Storybook** og **Vitest** er ikke langt bak!
+
+    # front_end_frameworks
+
+    - key: front_end_frameworks.front_end_frameworks_ratios.takeaway.js2025
+      t: >
+          Til tross for snakket om at front-end-økosystemet er i konstant uro, har ting vært bemerkelsesverdig stabile det siste året, uten endringer i bruksrangeringen bortsett fra at **Alpine.js** og **HTMX** byttet plass.
+
+
+          Det samme gjelder tilfredshet, med unntak av at **Qwik** fortsetter å falle i rangering.
+
+
+          En annen plass der mangelen på ny hype er tydelig er Interest-fanen, der ingen rammeverk bortsett fra **Solid** og **Preact** har vunnet terreng siden i fjor.
+
+    - key: front_end_frameworks.front_end_frameworks_others.takeaway.js2025
+      t: >
+          Ser vi bort fra **Astro**, som egentlig ikke tilhører front-end-rammeverk-kategorien, og **Ember**, som har vært her en stund, er den mest spennende nykommeren her **Ripple**, som tar på seg den krevende jobben å være den nye ungen i front-end-gata.
+
+    - key: front_end_frameworks.front_end_frameworks_cardinalities.takeaway.js2025
+      t: >
+          Den gjennomsnittlige respondenten har bare brukt **2,6** ulike front-end-rammeverk i lopet av karrieren, noe som igjen viser at bildet av den utbrente webutvikleren som hopper fra rammeverk til rammeverk hver måned ikke lenger er helt treffende.
+
+    - key: front_end_frameworks.front_end_frameworks_happiness.takeaway.js2025
+      t: >
+          Selv om det er en liten nedgang, har tilfredsheten med front-end vært bemerkelsesverdig stabil over årene.
+
+    - key: front_end_frameworks.front_end_frameworks_pain_points.takeaway.js2025
+      t: >
+          Å være det dominerende rammeverket betyr også at **React** topper listen over ting front-end-utviklere sliter med. 
+
+
+          Andre gjentakende problemer inkluderer svak ytelse, tilstandsforvaltning og rett og slett kompleksiteten i det moderne front-end-økosystemet.
+
+    # meta_frameworks
+
+    - key: meta_frameworks.meta_frameworks_ratios.takeaway.js2025
+      t: >
+          **Next.js** fortsetter å vinne terreng og dominere meta-rammeverk-kategorien, men paradoksalt nok mister det samtidig tilfredshet. Det er ikke et godt tegn, siden tilfredshetsraten nå har et **39%** gap til lederen **Astro**.
+
+
+          Og et blikk på Awareness-diagrammet er nok til å se hvor farlig konkurrent Astro virkelig er, fra nesten ukjent til en seriøs utfordrer på bare noen få år.
+
+    - key: meta_frameworks.meta_frameworks_others.takeaway.js2025
+      t: >
+          Mange respondenter stilte spørsmål ved at **TanStack Start** manglet blant alternativene i undersøkelsen. Grunnen er ganske enkelt at rammeverket ikke var ute av beta da undersøkelsen startet!
+
+
+          Heldigvis kunne respondentene rette opp dette ved å nevne prosjektet i feltet “andre meta-rammeverk”, et tydelig signal om at TanStack Start kommer til å gjøre en sterk entre i neste års “offisielle” rangeringer.
+
+    - key: meta_frameworks.meta_frameworks_cardinalities.takeaway.js2025
+      t: >
+          Respondentene har ikke brukt så mange ulike meta-rammeverk, noe som er forventet i en kategori som fortsatt domineres av bare en eller to løsninger.
+
+    - key: meta_frameworks.meta_frameworks_happiness.takeaway.js2025
+      t: >
+          Det blir interessant å se om synkende tilfredshet med Next.js til slutt gir lavere trivsel totalt sett, men så langt ser det ikke slik ut.
+
+    - key: meta_frameworks.front_end_frameworks_pain_points.takeaway.js2025
+      t: >
+          Meta-rammeverk spenner naturlig over gapet mellom klient og server, noe som fører til mange komplekse utfordringer. 
+
+
+          Og selv om **Next.js** tilbyr mange måter å lse disse utfordringene på, er baksiden at læringskurven og den totale utvikleropplevelsen noen ganger kan lide.
+
+    # back_end_frameworks
+
+    - key: back_end_frameworks.back_end_frameworks_ratios.takeaway.js2025
+      t: >
+          Etter tre års fravær fra undersøkelsen var det på tide å sjekke tilbake på back-end-rammeverkene. Og ingen overraskelse her: **Express** er fortsatt lederen når det gjelder bruk, selv om **Nest** avanserer i et pent tempo.
+
+
+          Men ting blir mer interessante når vi ser på Satisfaction-fanen, der de tre første prosjektene (**Hono**, **Nitro** og **ElysiaJS**) alle er nye innslag, noe som gjør dette til en av de mest spennende kategoriene å følge de kommende årene.
+
+    - key: back_end_frameworks.back_end_frameworks_others.takeaway.js2025
+      t: >
+          **oRPC** tilbyr typesikre API-er, noe som er et stort fortrinn sammenlignet med tradisjonelle back-end-løsninger som ble laget for TypeScript-omveltningen.
+
+    - key: back_end_frameworks.back_end_frameworks_cardinalities.takeaway.js2025
+      t: >
+          Respondentene bruker vanligvis relativt få back-end-rammeverk, noe som kan forklare hvorfor **Express** forblir så dominerende: har du valgt en back-end, er det lite sannsynlig at du går ut av din vei for å prøve nye alternativer.
+
+    - key: back_end_frameworks.back_end_frameworks_pain_points.takeaway.js2025
+      t: >
+          Selv om **Express** fortsatt er mye brukt *15 år* etter første lansering, begynner noen å ønske at back-end-økosystemet beveger seg videre til mer moderne alternativer. 
+
+
+          Dette gjelder spesielt når det kommer til typesikre, TypeScript-kompatible API-er, noe det ærverdige rammeverket aldri var ment å tilby.
+
+    # testing
+
+    - key: testing.testing_ratios.takeaway.js2025
+      t: >
+          Selv om **Jest** lenge har hatt en komfortabel posisjon som det mest brukte testverktoy, klatrer **Vitest** så raskt at det ikke ville overraske om det tar igjen i kommende år, spesielt siden Jest sin tilfredshetsrate er på vei ned. 
+
+
+          Samtidig er **Storybook** et interessant case-studie i et prosjekt som gjør sitt beste for å adressere brukernes frustrasjoner. Det viser fortsatt en liten nedgang i tilfredshet sammenlignet med i fjor, men fallet har avtatt, og ting kan snart begynne å lysne.
+
+    - key: testing.testing_others.takeaway.js2025
+      t: >
+          Selv om test-runneren til **Deno** ikke var med blant hovedalternativene i undersøkelsen, kom den først i fritekst-omtaler.
+
+    - key: testing.testing_cardinalities.takeaway.js2025
+      t: >
+          Mens andre kategorier hittil har ligget rundt 1-2 verktøy i bruk, har respondentene i testing et gjennomsnitt på hele **4,4**, et tegn på at folk fortsatt leter etter den perfekte test-runneren, og at feltet er langt fra avklart.
+
+    - key: testing.testing_happiness.takeaway.js2025
+      t: >
+          Tilfredsheten holder seg stabil, med en liten oppgang de siste tre årene.
+
+    - key: testing.testing_pain_points.takeaway.js2025
+      t: >
+          **Mocking** er fortsatt et stort smertepunkt for utviklere, med **konfigurasjon** og oppsett ikke langt bak.
+
+    # build_tools
+
+    - key: build_tools.build_tools_ratios.takeaway.js2025
+      t: >
+          Jeg trodde virkelig dette ville være året **Vite** endelig tar igjen **webpack** og blir det mest brukte byggverktøyet, men det ser ut til å må vente ett år til. 
+
+
+          **Turbopack** viser også stor fremgang i bruk, uten tvil fordi det leveres sammen med Next.js. Nar det er sagt, er tilfredshetsraten, i likhet med Next.js, ganske bekymringsverdig.
+
+
+          **Rolldown** har på sin side økt tilfredshet, og kommer også først når det gjelder interesse.
+
+
+          Til slutt gjør **Bun** det ganske bra på tvers av alle kategorier, noe som er imponerende for et så nytt og ambisiøst prosjekt.
+
+    - key: build_tools.build_tools_others.takeaway.js2025
+      t: >
+          Igjen nevnte respondentene **Deno**, noe som gjør det til en sterk kandidat for å bli inkludert blant hovedalternativene i 2026.
+
+    - key: build_tools.build_tools_cardinalities.takeaway.js2025
+      t: >
+          I likhet med testverktoy har respondentene prøvd ganske mange ulike byggverktøy. Det gjenstår å se om **Vite** vil gjøre dette til historie.
+
+    - key: build_tools.build_tools_happiness.takeaway.js2025
+      t: >
+          Tilfredshet med byggverktøy forblir stabil.
+
+    - key: build_tools.build_tools_pain_points.takeaway.js2025
+      t: >
+          Selv om Vite absolutt har gjort ting bedre, er **konfigurasjon** og oppsett fortsatt de mest presserende problemene for byggverktøy.
+
+      # other_tools
+
+    - key: other_tools.libraries.takeaway.js2025
+      t: >
+          **Zod** hadde stor vekst fra i fjor. Og siden mange av bibliotekene her fokuserer på datohåndtering, blir det interessant å se hvordan dette diagrammet utvikler seg etter hvert som **Temporal** blir bedre støttet på tvers av nettlesere.
+
+    - key: other_tools.graphics_animation.takeaway.js2025
+      t: >
+          **Chart.js** var et fritekstsvar i fjor, og ved å bli inkludert som et offisielt alternativ i år skjøt det helt til førsteplass.
+
+    - key: other_tools.utilities.takeaway.js2025
+      t: >
+          Alle JavaScript-utviklere med respekt for seg selv ser ut til å bruke **ESLint** og **Prettier** nå for tiden.
+
+    - key: other_tools.runtimes.takeaway.js2025
+      t: >
+          At **Node.js** og nettlesere tar topplassene er ikke noe stort sjokk, men **Bun** sin tredjeplass er et fint tegn på prosjektets vekst.
+
+    - key: other_tools.hosting.takeaway.js2025
+      t: >
+          Til tross for selskapets til tider polariserende rykte, har **Vercel** gjort en imponerende jobb med å etablere seg som et seriøst hosting-alternativ, kun bak **AWS**.
+
+    - key: other_tools.edge_runtimes.takeaway.js2025
+      t: >
+          Selv om **Cloudflare** var nummer fem i hosting-diagrammet, ligger det her rett under **AWS Lambda**, noe som gjør det til en seriøs utfordrer i begge kategorier.
+
+    - key: other_tools.text_editors.takeaway.js2025
+      t: >
+          **VS Code** har lenge dominert teksteditor-rangeringen, men **Cursor** har på en eller annen mate klart å passere alle andre konkurrenter takket være løfter om AI-drevet koding.
+
+    - key: other_tools.mobile_desktop.takeaway.js2025
+      t: >
+          **React Native** tar ledelsen her, men **Expo** og **Tauri** er også verdt å holde et øye med!
+
+    - key: other_tools.monorepo_tools.takeaway.js2025
+      t: >
+          **pnpm** er den klare lederen i monorepo-kategorien.
+
+    - key: other_tools.non_js_languages.takeaway.js2025
+      t: >
+          Når vi ikke skriver JavaScript, vender de fleste av oss oss til **Python** og **PHP**.
+
+    - key: other_tools.non_js_languages_features_top_features.takeaway.js2025
+      t: >
+          I år spurte vi også respondentene hvilke *funksjoner* de ønsker å se tatt inn i JavaScript, samtidig som de oppga hvilket språk funksjonen kom fra.
+
+
+          Den andre fanen viser hvilke språk som dukket opp oftest. Og selv om **Rust** bare var det 7. mest brukte språket i forrige “Ikke-JavaScript-språk”-diagram, kom det på førsteplass her, et vitnesbyrd om den store innflytelsen på JavaScript-økosystemet.
+
+    # usage
+
+    - key: usage.js_ts_balance.takeaway.js2025
+      t: >
+          Andelen utviklere som skriver all koden sin i TypeScript fortsetter å øke, og kan snart utgjøre flertallet av respondentene.
+
+    - key: usage.compiled_code_balance.takeaway.js2025
+      t: >
+          En naturlig konsekvens av å skrive typet kode (i dag i hvert fall) er avhengighet av et byggesteg, noe som gjelder for de aller fleste av oss.
+
+    - key: usage.build_step_advantages.takeaway.js2025
+      t: >
+          Hvis vi *skulle* forestille oss en fremtid uten byggesteg, ville første steg utvilsomt være innebygd typesupport i JavaScript.
+
+    - key: usage.ai_generated_code_balance.takeaway.js2025
+      t: >
+          Selv om respondentene enn så lenge ikke produserer mesteparten av koden sin med AI, flytter balansen seg raskt, med andelen kode som er resultat av AI-uttak økende fra 20% til 29% fra i fjor.
+
+    - key: usage.what_do_you_use_js_for.takeaway.js2025
+      t: >
+          Til tross for det stadig økende antallet bruksområder for JavaScript, er front-end-utvikling fortsatt den vanligste grunnen til å bruke språket.
+
+    - key: usage.industry_sector.takeaway.js2025
+      t: >
+          Med undersøkelsens fokus på kommende trender og tidligfase-funksjoner, er det naturlig at den største publikumsgruppen er utviklere som bygger verktøy og produkter for andre utviklere.
+
+    - key: usage.js_app_patterns.takeaway.js2025
+      t: >
+          Moderne JavaScript-rammeverk støtter nå et helt spekter av renderingsmodi, men de enkleste er fortsatt de mest populære den dag i dag.
+
+    - key: usage.top_js_pain_points.takeaway.js2025
+      t: >
+          Vi har nå stort sett alle verktøyene vi trenger; utfordringen er å vite hvordan vi bruker dem riktig.
+
+    - key: usage.state_of_the_web_happiness.takeaway.js2025
+      t: >
+          Tilfredsheten er nok en gang stabil.
+
+    - key: usage.state_of_js_happiness.takeaway.js2025
+      t: >
+          Trivsel-nivåene holder seg konstante nok en gang.
+
+    # resources
+
+    - key: resources.courses.takeaway.js2025
+      t: >
+          Det er alltid interessant å se hvordan uavhengige utviklere som **Wes Bos** og **Fireship** har klart å utnytte følgerskarene sine til å konkurrere med mye større aktører som **Udemy** eller **O'Reilly**.
+
+    - key: resources.newsletters.takeaway.js2025
+      t: >
+          Nyhetsbrev mangler de innebygde delingsmekanismene til sosiale medier, så det kan være ganske vanskelig å vokse. Dette forklarer hvorfor etablerte aktører som **JavaScript Weekly** og **CSS-Tricks** fortsatt ligger på topp.
+
+    - key: resources.podcasts.takeaway.js2025
+      t: >
+          Etter hvert som grensen mellom podkaster og videoinnhold blir stadig mer uklar, holder **Syntax** fortsatt plassen som respondentenes favoritt for programmeringsrelatert lydinnhold.
+
+    - key: resources.video_creators.takeaway.js2025
+      t: >
+          Selv om rangeringene kan være avhengige av om videokreatorer delte undersøkelsen med sitt eget publikum eller ikke, ser **Fireship**, **Theo** og **The Primeagen** ut til å være solid etablert som de tre største profilene på programmerings-YouTube.
+
+    - key: resources.people.takeaway.js2025
+      t: >
+          Mens **Midudev** har en stor videoprofil og andre “berømte” utviklere er knyttet til vellykkede open-source-prosjekter, er det verdt å merke seg at **Josh Comeau** sin velfortjente suksess nesten utelukkende skyldes kvaliteten på den utmerkede bloggen hans, en tilbakevending til en mer old-school måte å lage læringsinnhold på nett.
+
+    - key: resources.other_surveys.takeaway.js2025
+      t: >
+          Selv om det å fylle ut for mange nettundersøkelser uten tvil kan føre til “survey fatigue” (snakk med legen din!), kan de fortsatt være et flott verktøy for å lære om økosystemet, når de tas i moderate mengder.
+
+    ###########################################################################
+    # Picks
+    ###########################################################################
+
+    - key: picks.my_pick.js2025
+      t: "Mitt 2025-valg: "
+    - key: picks.intro
+      t: Vi ba medlemmer av JavaScript-miljøet dele sitt “årets valg”
+
+    - key: picks.aurora_scharff.name
+      t: |
+          Talk: Next.js at the speed of Bun
+    - key: picks.aurora_scharff.bio
+      t: Webutvikler
+    - key: picks.aurora_scharff.description
+      t: |
+          Mitt valg er Lydia Hallie sitt føredrag på Next.js Conf om Bun. De jobber med super spennende ting, og hun er best på å forklare avanserte emner :)
+
+    - key: picks.ankita_kulkarni.name
+      t: |
+          Delba Oliveira
+    - key: picks.ankita_kulkarni.bio
+      t: Teknologiformidler
+    - key: picks.ankita_kulkarni.description
+      t: |
+          Mitt årets valg er Delba Oliveira fra Next.js-teamet. Arbeidet hennes på tvers av økosystemet er bemerkelsesverdig. Hun har en sjelden evne til å gjøre komplekse temaer enkle, samtidig som hun konsekvent leverer veldig praktisk veiledning for moderne Next.js, React og JS.
+
+    - key: picks.shaundai_person.name
+      t: |
+          Bree Hall
+    - key: picks.shaundai_person.bio
+      t: Senior programvareingeniør hos Netflix
+    - key: picks.shaundai_person.description
+      t: |
+          Mitt valg er Bree Hall, hun har gjort flott arbeid og vi er heldige som har henne som en del av miljøet.
+
+    - key: picks.sam_selikoff.name
+      t: |
+          RSC Explorer
+    - key: picks.sam_selikoff.bio
+      t: Next.js-teamet
+    - key: picks.sam_selikoff.description
+      t: |
+          Server Components utvider mulighetene i serverrendret React ved at du kan sende ikke bare inert HTML til nettleseren, men også datastrukturer (objekter, arrays, datoer, maps), Promises (til og med rekursive), nye React-trær (og kildekoden deres) og referanser til Server Functions. Det er et serialiseringsformat, og Dans RSC Explorer hjelper virkelig med å forstå det.
+
+    - key: picks.sacha_greif.name
+      t: |
+          Kit Langton
+    - key: picks.sacha_greif.bio
+      t: Skaper av Devographics-undersøkelsene
+    - key: picks.sacha_greif.description
+      t: |
+          Kits nettsted er en flott utstilling av prosjekter som kombinerer vakre visuelle uttrykk, god funksjonalitet og fantastisk innhold, spesielt rundt [TypeScript](https://types.kitlangton.com/) og [Effect](https://www.effect.institute/)-biblioteket.
+
+    - key: picks.declan_chidlow.name
+      t: |
+          Web Origami
+    - key: picks.declan_chidlow.bio
+      t: Front-end-utvikler, designer, skribent
+    - key: picks.declan_chidlow.description
+      t: |
+          Som en “kortfattet dialekt av JavaScript-uttrykk” er Web Origami et prosjekt som virkelig fant formen i 2025. Det tilbyr en overraskende intuitiv mate å transformere data, bygge nettsteder og kalle JavaScript direkte fra skallet. Det kobler uttrykk og stier for å muliggjore kraftig, intuitiv datamanipulasjon.
+
+    - key: picks.jenn_schiffer.name
+      t: |
+          The Atproto Dev Community
+    - key: picks.jenn_schiffer.bio
+      t: Anerkjent lysmaker og karaokeproff
+    - key: picks.jenn_schiffer.description
+      t: |
+          Jeg mener at atproto-utviklermiljoet fortjener rampelyset - en av de offisielle SDK-ene er TypeScript! Og en ekstra shout-out til [Jason Lengstorf](https://jason.energy/) og alle andre som var involvert i [dette](https://bsky.app/profile/codetv.dev/post/3lzgoi3nzh223).
+
+    - key: picks.michael_rambeau.name
+      t: |
+          SST
+    - key: picks.michael_rambeau.bio
+      t: Skaper, [BestOfJS](https://bestofjs.org/)
+    - key: picks.michael_rambeau.description
+      t: |
+          Jeg kjente ikke til SST for bare et år siden, men jeg begynte å bruke det i et nytt jobbprosjekt og det har vært fantastisk! Det fortjener virkelig mer oppmerksomhet.
+
+    - key: picks.adam_argyle.name
+      t: |
+          Observable
+    - key: picks.adam_argyle.bio
+      t: Medvert, The CSS Podcast
+    - key: picks.adam_argyle.description
+      t: |
+          Observable lar deg bygge interaktive dokumenter ved å behandle hver blokk som en funksjon som returnerer noe. Alt er async, veldig kraftig, utrolig gøy å lage ting i, og driver [Nerdy Notebook](http://nerdy.dev/notebook).
+
+    ###########################################################################
+    # Highlights
+    ###########################################################################
+
+    - key: highlight.solid.html2025
+      t: |
+          **Solid** brukes kanskje bare av 10% av respondentene, men det at det har hatt høyest tilfredshet i *fem år på rad* bør være nok til at vi følger med på hva det gjør. 
+
+
+          Dessuten har Solid-skaperen [Ryan Carniato](https://dev.to/ryansolid) i stor grad vært ansvarlig for å popularisere konsepter som **signals**, og er også en av de beste til å [forklare nyansene](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel) i andre front-end-rammeverk.
+
+    - key: highlight.astro.html2025
+      t: |
+          **Astro** har sett på hva andre statiske sidegeneratorer gjorde, tatt de beste ideene og forkastet resten. Resultatet er et rammeverk som føles både enkelt og kraftig samtidig, og som derfor har høyest tilfredshet.
+
+
+          Og etter nylig å ha [slått seg sammen med Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/), er det spennende å tenke på hva Astro-teamet vil vise oss neste gang!
+
+    - key: highlight.elysia.html2025
+      t: |
+          Det finnes mange back-end-rammeverk, men **Elysia** skiller seg ut som det eneste bygget på [Bun](https://bun.com/). 
+
+
+          Å satse på en helt ny runtime kan være risikabelt, men med Buns voksende popularitet ser det ut til at satsingen kan lønne seg. Om ikke annet er det i alle fall et interessant eksperiment!
+
+    - key: highlight.bun_test.html2025
+      t: |
+          Etter år med ønsket om en mer samlet verktoykjede ser det ut til at JavaScript-utviklere endelig kan begynne å få ønsket oppfylt.
+
+
+          **Bun test** er bare ett eksempel på at en test-runner er bakt inn i runtime, og bade [Node](https://nodejs.org/api/test.html) og [Deno](https://docs.deno.com/runtime/fundamentals/testing/) tilbyr sine egne alternativer.
+
+    - key: highlight.rolldown.html2025
+      t: |
+          Selv om **Vite**-teamet mest er kjent for, vel, Vite, har de også stille og rolig utviklet **Rolldown** som en raskere, Rust-basert bundler. 
+
+
+          Og nå som [Vite selv bruker Rolldown](https://vite.dev/blog/announcing-vite8-beta), vil prosjektet uten tvil få en sentral rolle i byggverktøy-økosystemet.
+
+    ###########################################################################
+    # Awards
+    ###########################################################################
+
+    - key: award.tool_usage_delta_award.comment
+      t: |
+          **Vitest** og **Playwright** økte begge med **{value}** i bruk blant respondentene.
+
+    - key: award.tool_satisfaction_award.comment
+      t: Vite tar topplasseringen, med **{value}** av brukerne som har en positiv oppfatning av det.
+
+    - key: award.tool_interest_award.comment
+      t: Nok en gang er **Vitest** teknologien utviklere er mest interesserte i, med en interesseandel på **{value}**.
+
+    - key: award.most_write_ins_award.comment
+      t: Med **{value}** omtaler viser Node-versjonsbehandleren **fnm** nok en gang at alt blir bedre når det er skrevet i Rust.
+
+    - key: award.most_commented_tool_award.comment
+      t: Med **{value}** kommentarer fra respondentene etterlater **Next.js** definitivt ingen likegyldige.
+
+    - key: award.most_loved_tool_award.comment
+      t: Med **{value}** av alle utviklere som har en positiv oppfatning av det, får Vite igjen prisen for mest elskede teknologi!
+
+    - key: award.feature_adoption_delta_award.comment
+      t: Med en økning på **{value}** i 2022 har **top-level await** raskt blitt en integrert del av JavaScript.
+
+    ###########################################################################
+    # Conclusion
+    ###########################################################################
+
+    - key: conclusion.js2025.daniel_roe
+      t: |
+          <span class="first-line">TypeScript has won.</span>
+
+          Ikke som bundler &ndash; men som språk. Deno og Bun har støttet det lenge. Og nå betyr fjerning av typer at du kan skrive det direkte i stabile Node.js-versjoner. Hvis typer som kommentarer blir realitet, vil du til og med kunne skrive det i nettleseren.
+
+          …og Vites dag er kommet. I år så vi at Vite-nedlastinger gikk forbi webpack sine. Samtidig har Vitest-bruken skutt i været. Det virker som et godt tidspunkt å velge den nye Vite-verktoykjeden, og 2026 lover å bli året det skjer &ndash; med en stabil lansering av Rolldown som driver en ny, raskere Vite, samt løfter om en alt-i-ett “Vite+”.
+
+          Verktoyene være er bedre enn noen gang. Likevel er det eksistensielle sporsmalet vi alle stiller et helt annet: hva med AI?
+
+          AI er klar til å endre hvordan vi konsumerer dokumentasjon, skriver kode, tar arkitektoniske valg og mer. Selskaper satser alt på nye utviklingsmonstre. For de aller fleste av oss endrer kodeagenter hvordan vi samhandler med koden var.
+
+          Er det en god ting?
+
+          Tilsynelatende var litt under 30% av kode AI-generert ved utgangen av 2025. Cursor og Zed vokser raskt i popularitet, selv om de er langt fra å avsette VS Code som den mest brukte IDE-en. Og agentbaserte tilnærminger, som Claude, Gemini og Copilot, vokser raskt.
+
+          For oss utviklere blir det viktigere enn noen gang å vite hvordan “godt” ser ut, uansett hvilke verktoy vi bruker. Å holde tritt med nye språkfunksjoner blir viktigere. Det blir også viktig å vite hvilke biblioteker vi skal bygge på, i stedet for å vibe-kode alt fra bunnen av.
+
+          Det er allerede mulig å starte et nytt prosjekt på en dag &ndash; eller migrere et eksisterende prosjekt enkelt. Det er en utfordring for rammeverks- og bibliotekforfattere. Vi må sikre at verktoyene våre fortsatt tjener utviklere. Vi kan ikke stole på treghet.
+
+          Og det er en grunn for alle brukere til å være optimistiske.
+
+          La oss se hva 2026 bringer. Jeg håper det blir raskere verktoy, bedre utvikleropplevelse og teknologiens kraft som en multiplikator som styrker vår egen handlekraft og valgene våre.
+
+    - key: conclusion.js2025.daniel_roe.bio
+      t: Open source-vedlikeholder og grunnlegger, leder Nuxt-kjerneteamet.
+
+    ###########################################################################
+    # FAQ/About
+    ###########################################################################
+
+    - key: about.content.js2025
+      t: |
+          State of JavaScript-undersøkelsen 2025 kjørte fra 24. september til 10. november 2025, og samlet 13 002 svar. Resultatene ble publisert 3. februar 2026. Undersøkelsen drives av [Devographics](https://devographics.com/).
+
+          State of JavaScript-logoen og t-skjørten ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+          ### Undersøkelsens mal
+
+          Denne undersøkelsen ble laget for å identifisere kommende trender i webutviklingsøkosystemet, for å hjelpe utviklere å ta teknologiske valg. 
+
+          Derfor er undersøkelsen fokusert på å forutsi hva som kommer de neste årene, heller enn å analysere hva som er populært nå. Dette er grunnen til at funksjoner eller teknologier noen ganger kan utelates selv om de er utbredt i dag. 
+
+          Den bør også sees som et **øyeblikksbilde av en spesifikk delmengde utviklere**, og er ikke ment å representere hele økosystemet. 
+
+          ### Undersøkelsesdesign
+
+          Undersøkelsen ble delvis utformet med utgangspunkt i fjorårets undersøkelse, med en åpen tilbakemeldingsperiode der disposisjonen ble diskutert [på GitHub](https://github.com/Devographics/surveys/issues/255). 
+
+          Alle spørsmål i undersøkelsen var valgfrie. 
+
+          ### Undersøkelsens deltakere
+
+          Undersøkelsen var åpent tilgjengelig på nett, og respondentene ble ikke filtrert eller valgt på noen mate. Respondentene var hovedsakelig en blanding av tidligere deltakere (varslet via en egen e-postliste) og trafikk fra sosiale medier. 
+
+          Merk at rammeverk, biblioteker osv. stod fritt til å oppfordre publikum sitt til å delta i undersøkelsen, og noen benyttet seg av dette via bannere, tweets osv. En detaljert oversikt over trafikkildene finnes i Metadata-sidens “Sources”-diagram. 
+
+          ### Prosjektfinansiering
+
+          I tillegg til t-skjørtesalg kommer finansieringen av prosjektet fra følgende sponsorer:
+
+          - [Google](https://www.google.com/chrome/?utm_source=stateofjs&utm_medium=website&utm_campaign=js2025)
+          - [TokyoDev](https://www.tokyodev.com/?utm_source=stateofjs&utm_medium=website&utm_campaign=js2025)
+          - [Frontend Masters](https://frontendmasters.com/?utm_source=stateofjs&utm_medium=website&utm_campaign=js2025)
+          - [Algolia](https://www.algolia.com/?utm_source=stateofjs&utm_medium=website&utm_campaign=js2025)
+          - [Storyblok](https://www.storyblok.com/?utm_source=stateofjs&utm_medium=website&utm_campaign=js2025)
+          - [JetBrains](https://www.jetbrains.com/webstorm/?utm_source=stateofjs&utm_medium=website&utm_campaign=js2025)
+
+          Alle bidrag eller sponsorater er sterkt verdsatt. Vi vil spesielt gjerne jobbe tettere med flere browser-leverandører, siden de spiller en så sentral rolle i webøkosystemet.  
+
+          ### Teknisk oversikt
+
+          Du finner en mer inngående teknisk oversikt over hvordan undersøkelsene gjennomføres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).

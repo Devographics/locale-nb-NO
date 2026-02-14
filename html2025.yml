@@ -1,0 +1,365 @@
+locale: nb-NO
+translations:
+    ###########################################################################
+    # General
+    ###########################################################################
+
+    - key: general.results.description
+      t: 2025-utgaven av den årlige undersøkelsen om de nyeste trendene i HTML-økosystemet.
+
+    - key: general.html2025.survey_intro
+      t: |
+          I 2023, etter at State of JS og State of CSS-undersøkelsene allerede hadde pågått i noen år, innså vi at noe manglet: hva med teknologien som binder det hele sammen?
+
+          Tross alt går HTML nå langt utover tags og attributter – det omfatter API-er for dynamiske oppdateringer, rich embeds, ytelseinfo, templating og komponenter og mye mer.
+
+          Den første State of HTML, ledet av webstjernen [Lea Verou](https://lea.verou.me/), satte nye rekorder for en ny undersøkelse med 21 000 respondenter og introduserte nye UI-paradigmer som forbedret alle senere undersøkelser.
+
+          I år, med Lea igjen ved roret, la vi til ✨35 nye funksjoner✨ og introduserte to nye seksjoner: **Grafikk & Multimedia** og **Ytelse**.
+
+          Dessuten, som i tidligere utgaver, vil årets resultater bli tatt i betraktning av nettleserutviklere når de bestemmer sitt veikart – så din deltakelse kan bidra til å forme fremtiden på nettet!
+
+          Er du klar? Løft, sett, gå!
+
+    - key: features.features_intro_html2025
+      aliasFor: features.features_intro_html2024
+
+    - key: introduction.html2025
+      t: |
+          Hvis du vil få inntrykk av hvor funksjonell nettplattformen har blitt de siste årene, trenger du bare å se på listen over kategorier som dekkes i denne undersøkelsen.
+
+          Skjemaer, grafikk, ytelsesfunksjoner, metoder for samhandling med ulike system- og enhets-API-er, tilgjengelighet… Det er fantastisk at noen klarer å holde styr på det hele!
+
+          Heldigvis er det minst en person som gjør det: [Lea Verou](https://lea.verou.me/), som etter å ha designet den opprinnelige versjonen av undersøkelsen i 2023, sluttet seg til oss igjen i år for å gi den en oppdatering.
+
+          Og sammen, ett av områdene vi fokuserte på i år, var å analysere det enorme antallet fritekst-svar som ble samlet rundt ulike smertepunkter.
+
+          Du kan nå grave dypere ned i kategoriserte data, samt få tilgang til (og søke gjennom) respondentenes originale svar.
+
+          Hvis ikke annet, burde dette hjelpe oss å innse at vi alle er i dette sammen, deler de samme frustrasjoner – men også de samme håpene!
+
+          <span class="conclusion__byline">– Sacha Greif</span>
+
+    - key: faq.survey_design_html2025
+      t: Hvordan ble denne undersøkelsen utformet?
+    - key: faq.survey_design_html2025.description
+      t: >
+          Denne undersøkelsen ble utformet som resultatet av en [åpen designprosess](https://github.com/Devographics/surveys/issues/253) som involverte nettleserleverandører og webutviklermiljøet.
+
+    - key: faq.results_released_html2025
+      t: Når blir resultatene publisert?
+    - key: faq.results_released_html2025.description
+      t: Undersøkelsen var åpen fra 15. juli til 15. august 2025, og resultatene ble publisert omkring 15. september 2025.
+
+    ###########################################################################
+    # Figures
+    ###########################################################################
+
+    - key: figure.figure_lazy_loading_usage.html2025
+      t: Andel respondenter som har brukt **lazy loading**, den mest brukte funksjonen blant dem med statusen "Nylig tilgjengelig" på Baseline.
+
+    - key: figure.figure_content_security_usage.html2025
+      t: Største økning i bruk fra år til år for **Content-Security Policy**.
+
+    - key: figure.figure_forms_features.html2025
+      t: Antall kommentarer på den mest kommenterte funksjonen, **datalist**.
+
+    ###########################################################################
+    # Highlights
+    ###########################################################################
+
+    - key: highlight.customizable_select.html2025
+      t: |
+          **Tilpassbar Select** er kanskje ikke bred støttet ennå, men det er en funksjon som er verdt å vite om. Selv om bare **7,1%** av respondentene har brukt det, rapporterer **89%** av utviklere som *har* brukt det en positiv erfaring.
+
+          Og gitt at elementet `<select/>` alltid har vært en utfordring å style, og nå å kunne tilpasse det til dine behov uten å ty til JavaScript-hack er en velkommen forbedring!
+
+    - key: highlight.jpeg_xl.html2025
+      t: |
+          Etter "JIF/GIF"-uttalefiaskoen og det gjennomsiktig navngitte "PNG" ("pee-en-gee"? "ping"?), bestemte den som er ansvarlig for navngiving av bildeformat seg til å holde ting enkle denne gangen: ta det allerede populære JPEG og legg til "XL" for å gjøre det kulere.
+
+          Men ikke større, for i motsetning til sitt navn er JPEG XL-bildene faktisk *mindre* enn kjedelige gamle JPEG – mens de samtidig er bakoverkompatible med det. Spør meg ikke hvordan det virker.
+
+    - key: highlight.hidden_until_found.html2025
+      t: |
+          Visste du at nettlesere nå kan spille gjemsel? Attributtet `hidden="until-found"` lar deg skjule et element til brukeren utløser det, for eksempel ved å klikke på en ankerlenke som peker på det.
+
+          For øyeblikket er funksjonen definitivt i sin "skjulte" tilstand, med **79,4%** av respondentene som aldri engang har hørt om det før. Og nettleserstøtte er fortsatt sparsom (jeg ser på deg, Safari!). Men når samoperativiteten forbedres, kan det vise seg å være verdt å legge til i verktøybeltet ditt.
+
+    - key: highlight.popover_api.html2025
+      t: |
+          **Popover API** er "Nylig tilgjengelig" fra i år, noe som betyr at det nå er støttet i alle fire store nettlesere. Noe som gjør dette til det perfekte tidspunktet å lære hvordan det kan hjelpe deg å bli kvitt hacky JavaScript-kode og erstatte den med et fint deklarativt API!
+
+    - key: highlight.blocking_render.html2025
+      t: |
+          De av oss som har gjennomtenkt visking av ustylt innhold (FOUC) kommer til å være glade for å lære om `blocking="render"`. Som navnet antyder, kan dette attributtet få en `<link>`, `<script>` eller `<style>`-tagg til å blokkere sidens gjengving til de er fullt lastet.
+
+          Nettleserstøtte er ikke helt der ennå – men det er definitivt noe som vil gjøre webopplevelsen mye jevnere når det blir bredt støttet.
+
+    - key: highlight.element_internals.html2025
+      t: |
+          Hvis du skriver webkomponenter, må du ha hatt behov for å spesifisere egendefinerte pseudo-klasser, standard ARIA-parametere, eller få en komponent til å oppføre seg som et vanlig element?
+
+          **ElementInternals** gjør alt det, og mer! Det beste? Det er bredt tilgjengelig, støttet av alle nettlesere siden 2023!
+
+    - key: highlight.payment_request_api.html2025
+      t: |
+          "Min favoritt gulrotkakoppskrift? Ja selvfølgelig! Men først, kan jeg interessere deg for en ny madrass? Eller kanskje noen sko?".
+
+          Annonser kan virke som en uunngåelig del av nettet, spesielt når du prøver å bake en ny bakvare. Men **PaymentRequest API** kunne være første steg mot å gjøre nettleserintegrererte mikrobetalinger til virkelighet. Og det faktum alene gjør det verdt å følge med på.
+
+    - key: highlight.search_element.html2025
+      t: |
+          Elementet `<search>` er ett av disse enkle triumfene som tar veldig lite innsats å legge til listen over beste praksis. Trinn 1: bruk det til å betegne ethvert søkefelt i appene dine. Trinn 2: så er det egentlig det!
+
+          Og nå som det er støttet i alle fire store nettlesere, er det virkelig ingen grunn til ikke å bruke det.
+
+    ###########################################################################
+    # Takeaways
+    ###########################################################################
+
+    - key: forms.forms_features.takeaway.html2025
+      t: |
+          Overraskende nok var `<input type="color"/>` den mest brukte skjemarelaterte funksjonen i år, med **41,8%** av respondentene som rapporterer å ha brukt det.
+
+          Men når man ser på positiv meninger, topper grunnleggende UI-byggeblokker som autofullføring (`<datalist>`) og rullegardinmeny (Tilpassbar Select) rangeringen, noe som viser at utviklere verdsetter funksjoner som er tilpassbare og kan skreddersy til deres behov.
+
+    - key: forms.forms_pain_points.takeaway.html2025
+      t: |
+          **Styling og tilpasning** av standard skjemakontroller fortsatt et stort stolpeskudd, med nær **halvparten** av smertepunktene handler om det.
+
+          **Skjemavalidering** er også et problem, spesielt når det kommer til mer avansert bruk som å validere en felts verdi basert på et annet.
+
+    - key: graphics_multimedia.graphics_multimedia_features.takeaway.html2025
+      t: |
+          **JPEG XL** og **ctx.drawElement()** var de to nye funksjonene som tiltrakk seg mest positiv meninger, mens mer komplekse områder som forsterket eller utvidet virkelighets-API-er ikke scoret like høyt – noe som igjen viser at utviklere først og fremst er interessert i primitiver som gjør dagliglivet lettere.
+
+    - key: graphics_multimedia.graphics_pain_points.takeaway.html2025
+      t: |
+          SVG har alltid vært wild card på nettet, kronisk neglisjert av nettleserleverandører, men brukt på nesten hvert nettsted. Det er derfor ingen overraskelse at det dominerer her, med en fjerdedel av smertepunktene handler om det.
+
+    - key: content.content_features.takeaway.html2025
+      t: |
+          Både den mest likte og mest mislikte funksjoner var sikkerhetrelaterte: **Sanitizer API** trakk de fleste positive meninger, mens **Content-Security Policy** toppet frustrasjonslisten.
+
+          Denne kontrasten fremhever hvordan sikkerhetsmekanismer som reduserer friksjon og integreres rent i eksisterende arbeidsflyter blir velkommen, mens de som pålegger stive retningslinjer, krever nøye konfigurasjon, eller bryter tidligere fungerende kode kan generere groll.
+
+    - key: content.content_pain_points.takeaway.html2025
+      t: |
+          Dataene tegner et veldig klart bilde: På langt nær det mest presserende innholdsmertepunktet er **HTML-rebruk**, både på tvers av sider og innen samme side. Selv om dette allerede er mulig gjennom byggeverktøy og komponentbasede front-end-rammeverk, virker det å være stor etterspørsel etter en plattform-inneboende funksjon.
+
+    - key: interactivity.interactivity_features.takeaway.html2025
+      t: |
+          Det er enorm etterspørsel etter enkle men tilpassbare, deklarative primitiver for vanlige ting, som bevist av den store andelen positive meninger for hver eneste HTML-funksjon i denne kategorien.
+
+    - key: interactivity.interactivity_pain_points.takeaway.html2025
+      t: |
+          Den store andelen nettleserstøttespørsmål nevnt her sender et klart budskap: "vi elsker alle disse nye funksjonene dere har gitt oss – gjør nå at de virker overalt slik at vi faktisk kan bruke dem!".
+
+    - key: performance.performance_features.takeaway.html2025
+      t: |
+          Det er høyt og klart: DX-en av `srcset` og `sizes` kunne bruke forbedring! Begge ender av spekteret handler om det, med `srcset`/`sizes` selv som topper frustrasjonslisten, og `sizes="auto` som den mest likte funksjonen – fordi det lindrer noe av denne smerten.
+
+    - key: performance.performance_pain_points.takeaway.html2025
+      t: |
+          Hele poenget med nettet er å gi folk tilgang til fjernt innhold. Gitt det, virker det litt merkelig at **lasting** av disse dataene så ofte er en ettertanke, med lite progresjon gjort de siste 30 årene annet enn litt penere spinnende animasjoner.
+
+    - key: web_components.web_components_features.takeaway.html2025
+      t: |
+          Igjen ser vi at deklarative løsninger prevaler, med **deklarative egendefinerte elementer** som topper menings diagrammet.
+
+    - key: web_components.web_components_pain_points.takeaway.html2025
+      t: |
+          Vi vet at **utvidelse av innebygde elementer** er en lenge etterspurt funksjon, og disse resultatene validerer det, fordi det er det øverste konkrete smertepunktets tema her (etter de mer abstrakte omkring kompleksitet, avhengighet av JS, og tilgjengelighet).
+
+    - key: web_components.web_components_other_pain_points.takeaway.html2025
+      t: |
+          Sammenlignet med tidligere år er de samme temene fortsatt til stede: høy kognitiv overbelastning, manglende oppgjørelse sammenlignet med rammeverks komponenter, og Shadow DOM som er mer av et problem enn en løsning.
+
+    - key: system_capabilities.system_capabilities_features.takeaway.html2025
+      t: |
+          Åpning og lagring av en fil er en av de mest grunnleggende app-mulighetene, men inntil nylig var det uoppnåelig for webapper – inntil **File System Access API**. Det er derfor ingen overraskelse at det først på diagrammet over positive meninger.
+
+          På den annen side samlet enhets-API-er som **WebUSB**, **Web Bluetooth**, eller **WebNFC** minst interesse, og bekrefter atter en gang at funksjonene som samler mest interesse er de som løser grunnleggende, vanlige problemer.
+
+    - key: system_capabilities.system_capabilities_pain_points.takeaway.html2025
+      t: |
+          Dataene tegner et veldig klart bilde: det øverste smertepunktet her er verken ergonomi eller begrensninger, men **nettleserstøtte**, og mer spesifikt, en spesifikk leverandør som mange utviklere ser som en hindring for netplatforms progresjon.
+
+    # a11y
+
+    - key: accessibility.accessibility_features.takeaway.html2025
+      t: |
+          **Landemerkeelementer** (`<main>`, `<nav>` osv.) er ikke veldig nye eller spennende, men de forblir et grunnlag for webtilgjengelighet.
+
+    - key: accessibility.accessibility_pain_points.takeaway.html2025
+      t: |
+          Selv om det er tekniske hull når det kommer til tilgjengelighet (for eksempel cross-root ARIA), er et gjentakende tema når vi spør om det at hovedsmertepunktene er omkring *menneskene* som er involvert med problemer omkring arbeidsplassprioriteringer, utdanning og kognitiv overbelastning topplisten.
+
+    - key: accessibility.accessibility_techniques.takeaway.html2025
+      t: |
+          Mens ting som alt-tekst eller riktig overskriftshierarki har blitt andre natur for de fleste front-end-utviklere, er nyere verktøy som settet `prefers-` for mediespørsmål ennå ikke virkelig blitt mainstream.
+
+    - key: accessibility.accessibility_disabilities.takeaway.html2025
+      t: |
+          Det er fint å se at utover reg for brukere med synshemninger, tar flere utviklere også hensyn til atypisk fargesyn og mobilitetssvikt sammenlignet med i fjor.
+
+    - key: accessibility.accessibility_screenreaders.takeaway.html2025
+      t: |
+          Igjen vinner lett tilgjengelige verktøy som VoiceOver eller Chrome DevTools over mer spesialiserte alternativer. Selv om mange utviklere fortsatt ikke bruker skjermleseres av noe slag (merk også at 39% av undersøkelsesrespondentene hoppet over spørsmålet helt).
+
+    - key: accessibility.accessibility_tools.takeaway.html2025
+      t: |
+          Nettleserdevtools har sett et enormt hopp i bruk sammenlignet med fjorårets resultater, og de passerer Lighthouse til å bli det ledende tilgjengelighetstestingsverktøyet.
+
+    # usage
+    - key: usage.html_interoperability_features.takeaway.html2025
+      t: |
+          Det er alltid et lite etterslep mellom tilstanden til nettplattformen og faktisk bruk i den virkelige verden, så det burde ikke komme som overraskelse at **Popover API** fortsatt toper rangeringen. Men gjør ingen feil, denne funksjonen har nå offisielt statusen "Nylig tilgjengelig" på Baseline, noe som betyr at bruk på tvers av nettlesere burde være mye mindre problematisk framover.
+
+    - key: usage.html_functionality_features.takeaway.html2025
+      t: |
+          Skjemakontroller og andre interaktive elementer oppfattes igjen som de mest begrensende. Med tilpassbar select av veien, virker det kanskje som datovalkere burde være neste målskive.
+
+    - key: usage.html_missing_elements.takeaway.html2025
+      t: |
+          I år igjen er **datatable** det mest etterspurt nye elementet. Selv om det absolutt ville være fint å ha innebygde filtrerings, sorterings-, søke osv. funksjoner, virker det ikke som noe som vil bli virkelighet når som helst snart.
+
+          På den annen side gjøres det framgang på andre lenge etterlengtede funksjoner som et originalt **switch**-element, som forklarer nedgangen i rangeringen.
+
+    - key: usage.html_styling_issues.takeaway.html2025
+      t: |
+          Det vil være ingen overraskelse at skjemainput topper listen over vanskeliste elementer å style. Heldigvis, [tilpassbar velg elementer](https://developer.chrome.com/blog/a-customizable-select) er under utarbeidelse, selv om [nettleserstøtte](https://web-platform-dx.github.io/web-features-explorer/features/customizable-select/) fortsatt henger etter.
+
+    - key: usage.component_strategies.takeaway.html2025
+      t: |
+          Det er vanskelig å bestride at JavaScript-komponenter har blitt det dominerende paradigmet for å bygge lag på nettet. Og ja, det å håndtere alle disse konkurrerende front-end-rammeverker kan være rotete – men det er et rotete vi kjenner (og kanskje til og med elsker?), et faktum som gjør det tøft for webkomponenter å vinne terreng utover fjerdeplass.
+
+    - key: usage.design_system_strategies.takeaway.html2025
+      t: |
+          Designsystemer har blitt et krav for de fleste store prosjekter, og dette faktum gjenspeiles i populariteten av alle disse ulike tilnæringene.
+
+    - key: usage.html_css_js_balance.takeaway.html2025
+      t: |
+          Som vist i "Component Strategies"-diagrammet ovenfor, er JavaScript det defacto-fartøyet for mye av HTML-koden vi produserer. Noe som forklarer hvorfor vi bruker så mye tid på å skrive det!
+
+    - key: usage.what_do_you_use_html_for.takeaway.html2025
+      t: |
+          Selv om den gjennomsnittlige undersøkelsesrespondenten hovedsakelig jobber med dynamiske webapper, bruker mange av oss også tid på å lage blogger eller andre teksttunge nettsteder, som sender oss tilbake til HTML-røttene som et dokumentorientert språk.
+
+    - key: usage.html_pain_points_freeform.takeaway.html2025
+      t: |
+          Når man ser på webplattformens smertepunkter mer generelt, skiller nettleserstøtte seg ut – spesielt når det kommer til Apple-økosystemet.
+
+          Som et resultat har fellesskapsinitiativer som [#AppleBrowserBan](https://open-web-advocacy.org/apple-browser-ban/) hashtag fått gjennomslag, mens på leverandørsiden beveger [Interop](https://web.dev/blog/interop-2025) nålen i riktig retning hvert år.
+
+    # opinions
+
+    - key: opinions.accessibility_is_valued.takeaway.html2025
+      t: |
+          Gitt at mangel på arbeidsplass-kjøp ofte siteres som en hindring for ordent tilgjengelighetspraksis, er det fint å se at blant undersøkelsesrespondenter i hvert fall virker ting å bli bedre, med begge "enig" stolper som øker sammenlignet med i fjor.
+
+    - key: opinions.validation_is_important.takeaway.html2025
+      t: |
+          Det er lett å glemme HTML-validering når man håndterer kaoset i moderne webutvikling. Men respondenter er enig om at det fortsatt er en viktig del av prosessen.
+
+    - key: opinions.keeping_informed_is_challenging.takeaway.html2025
+      t: |
+          Til tross for flott initiativ som [Baseline](https://web-platform-dx.github.io/web-features/), [holde tritt med webplattformen](https://css-tricks.com/how-to-keep-up-with-new-css-features/) forblir en utfordring. Forhåpentligvis hjelper denne undersøkelsen i det minste litt!
+
+    - key: opinions.browser_interoperability_is_obstacle.takeaway.html2025
+      t: |
+          Det er ikke lett å være en nettleserleverandør i 2025. Utviklere klager over plattformstagnasjon, så introduserer du nye funksjoner og API-er… bare for at utviklere nå skal klage over mangelen på tverrnoettleserstøtte!
+
+          Dette er grunnen til at [Interop](https://web.dev/blog/interop-2025) har blitt en nøkkeldel av prosessen de siste par årene. Det gir nettleserleverandører en sjanse til å koordinere om funksjonkompatibilitet og unngå at hele deres hardt arbeid blir ødelagt av dårlig samoperativitet.
+
+    - key: opinions.browser_interoperability_pace.takeaway.html2025
+      t: |
+          Resultatene av disse samoperativitetsintsatsene gjenspeiles i dette diagrammet, med **75%** av respondentene som er enig om at ting beveger seg i et raskere tempo enn før.
+
+    - key: opinions.web_platform_right_direction.takeaway.html2025
+      t: |
+          På samme måte har **77%** av respondentene en positiv oppfatning av webplattformens overordnede retning.
+
+    ###########################################################################
+    # Conclusion
+    ###########################################################################
+
+    - key: conclusion.html2025.lea_verou.name
+      t: Dr Lea Verou
+    - key: conclusion.html2025.lea_verou.bio
+      t: Foredragsholder, Forfatter, Prisbelønt web architecture-konsulent
+    - key: conclusion.html2025.lea_verou
+      t: >
+          Vi forventer ofte at de mest prangende funksjonene vil vekke størst interesse blant utviklere. Ting som AI-drevne API-er, 3D/XR/AR eller enhets-API-er. Likevel år etter år er det ikke noe fancy som stiger til toppen. Nesten… hverdagslig: Rullegardinmenyer. Kombinasjonsbokser. Popovers. Dialoger. Skjemavalidering. Lasting og lagring av filer. Templating. Sikker visning av brukergenerert innhold. Ikoner.
+
+          ### Å gjøre API-er brukervennlige
+
+          "Men — mange av disse finnes allerede!" kan du innvende. Det stemmer — men når innebygd brukergrensesnitt ikke kan tilpasses eller styles, er det praktisk talt ubrukelig. Utviklere blir tvunget til å bygge det på nytt uansett.
+
+
+          Når den krona faller, forklarer det de fleste resultatene i undersøkelsen. Det forklarer hvorfor **Tilpassbar Select** toppet listene. Hvorfor primitive operasjoner på lavt nivå som popovers og invokers er så godt mottatt. Hvorfor **SVG** og **tegning av HTML på canvas** rangerte langt over AR/VR. Og til og med hvorfor **utvidelse av innebygde elementer** dukket opp som et stort smertepunkt for Web Components.
+
+
+          Tross alt: hvor mange ganger kan du bygge en knapp eller rullegardinmeny på nytt før du mister vettet? Og hvor trygg er du på at du gjorde det riktig?
+
+
+          Som et resultat krever bygging av profesjonelle interaktive brukergrensesnitt fortsatt å sy sammen en rekke tredjepartsløsninger, selv for ting som er rutine i proprietære plattformer.
+
+          ### Etterslep i endringer
+
+          Dette funnet er ikke nytt. I [den første State of HTML](https://2023.stateofhtml.com/) så vi allerede hvor kritisk styling og tilpasning var, spesielt for skjemaer. Årets dypere analyse bekrefter at det ikke har endret seg — faktisk er signalet tydeligere.
+
+
+          Men ting *har* endret seg til det bedre! Funksjoner som ble diskutert i 2023 har nå blitt implementert i de større nettleserne. Andre som var upraktiske dengang—som **Popover API**—er nå universelt støttet.
+
+
+          Og likevel topper Popover fremdeles klager på nettleserstøtte. Hvorfor? Selv om implementeringshastigheten har akselerert, henger den kollektive oppfatningen etter. Det tar nå lengre tid for utviklere å stole på støtte enn det tar nettlesere å levere det!
+
+          ### Virkningen av LLM-er
+
+          Fremveksten av AI-generert kode er en medvirkende faktor. LLM-er er overraskende kunnskapsrike om moderne web platform-funksjoner, og *kunne* ha hjulpet fellesskapet fremover, men er altfor konservative i det de anbefaler. I praksis kan dette til og med *bremse* adopsjonen! Hvordan fikse dette i stor skala forblir et åpent spørsmål. I mellomtiden hjelper eksplisitte instrukser for nettleserstøtte, og hvem vet — hvis nok utviklere gjør dette, kan problemet til og med løse seg selv.
+
+          ### Se fremover
+
+          Ser man fremover, ser fremtiden lys ut. Mange av smertepunktene som er fremhevet blir aktivt arbeidet med, og i noen tilfeller allerede levert. Selv utvidbare innebygde elementer, som tidligere ble ansett som en blindvei, ser potensielt fremskritt gjennom tidligstadiearbeid rundt tilpassede attributter. 
+
+
+          Alle disse primitivene peker i samme retning: en web platform som stadig blir mer fleksibel, mer uttrykksfull og bedre tilpasset hvordan utviklere faktisk bygger brukergrensesnitt.
+
+
+          Framgang på nettet er sjelden dramatisk, men den er kumulativ. Hver ny primitiv reduserer behovet for omgåelser, biblioteker og skjøre hakk. Og når disse grunnprinsippene faller på plass, vil virkningen merkes overalt.
+
+    - key: about.content.html2025
+      t: |
+          State of HTML-undersøkelsen for 2025 ble gjennomført fra 19. juli til 1. september 2025, og samlet inn 6 223 svar. 
+
+          Undersøkelsen ble primært designet av [Lea Verou](https://lea.verou.me/), samt samarbeidende gjennom [en åpen GitHub-tråd](https://github.com/Devographics/surveys/issues/253)
+
+          Undersøkelsesinfrastrukturen drives av [Sacha Greif](https://sachagreif.com/), med hjelp fra et team av åpen kildekode-bidragsytere og konsulenter. 
+
+          Årets logo og t-skjorte ble designet av [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+          ### Mål for undersøkelsen
+
+          Denne undersøkelsen ble laget for å identifisere kommende trender i webutviklingsøkosystemet for å hjelpe utviklere å ta teknologiske valg. 
+
+          Som sådan er undersøkelsen fokusert på å forutsi hva som kommer i løpet av de neste årene, heller enn å analysere hva som er populært nå. Dette er grunnen til at funksjoner eller teknologier som for tiden er mest utbredt ikke alltid er inkludert. 
+
+          Den bør også tas som et **øyeblikksbilde av en spesifikk delmengde av utviklere**, og er ikke ment for å tale for hele økosystemet. 
+
+          Undersøkelsen var åpent tilgjengelig på nett, og respondenter ble ikke filtrert eller valgt ut på noen måte.
+
+          ### Prosjektfinansiering
+
+          Finansiering av dette prosjektet kommer fra en rekke kilder:
+
+          - **T-skjortesalg**. 
+
+          - **Sponsede lenker**: lenkene til anbefalte ressurser nederst på hver side leveres av vår partner [Frontend Masters](https://frontendmasters.com/).
+
+          - **Annen finansiering**: [Google](https://www.google.com/) og [TokyoDev](https://www.tokyodev.com/) finansierte også arbeid på undersøkelsen.
+
+          ### Teknisk oversikt
+
+          Du kan finne en mer dyptgående teknisk oversikt over hvordan undersøkelsene kjøres [her](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).
